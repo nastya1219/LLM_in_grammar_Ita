@@ -1,0 +1,947 @@
+label	explanation	correction
+0	The correct preposition to use in this context is "da" instead of "di."	Voglio salutare Giulia. Explanation: In Italian, the correct structure of the sentence should be "Voglio salutare Giulia" (I want to greet Giulia), without using the preposition "di."
+1	The sentence is grammatically correct.	The sentence is already correct.
+0	The sentence contains a grammatical error. The word 'il' should not be used before a noun that starts with 'lo', such as 'lo preferito'. The correct form should be 'Il mio preferito è la Divina Commedia'.	Il mio preferito è la Divina Commedia.
+0	The sentence incorrectly uses "è" (is) to connect two different concepts - "my favorite train" and "the Divine Comedy."	Il mio treno preferito si chiama Divina Commedia. (My favorite train is called the Divine Comedy.)
+1	The sentence is grammatically correct and follows the rules of Italian syntax.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The given sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	Newton ha spiegato la forza di gravità.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	Quegli uomini hanno denunciato se stessi.
+0	The sentence contains a grammatical error. It should be "Compro e leggo quel libro" instead of "Compro e leggo que libro".	Compro e leggo quel libro.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence "Non guardarlo." is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	In Italian, the passive voice is formed with the auxiliary verb 'essere' (to be) and the past participle of the main verb. The subject of the sentence should be 'Andrea' in this case, so the correct form is 'Andrea è stato incontrato'.	Andrea è stato incontrato da Leonardo. Explanation: The sentence provided is already correct. The passive voice is correctly formed, with 'Andrea è stato incontrato' and 'da Leonardo' indicating the agent of the action.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+0	The correct form is "Quale politico hanno parlato?". In the original sentence, "politico" should be singular and agree with the plural verb "hanno parlato".	Quale politico hanno parlato?
+0	The sentence is unclear and has redundant elements.	Quale politico ha detto la radio che il giudice ha dichiarato? (Removed the redundant part 'che ha parlato.')
+1	The sentence is grammatically correct.	Lorenzo ha detto che partirà domani.
+1	The given sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and follows the rules of the Italian language.	The sentence is already correct.
+1	The sentence is grammatically correct and conveys a clear meaning.	The sentence is already correct.
+1	The sentence is grammatically correct and conveys a complete thought.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence "Alessandro è bramoso di potere" is grammatically correct. It is a simple sentence with a subject "Alessandro", a verb "è" (is), and an adjective "bramoso di potere" (hungry for power).	The sentence is already correct.
+0	The verb 'penso' (I think) should be conjugated as 'penso' and not 'pensò' (he/she thought).	Penso che Francesco chieda l'ora a Lorenzo.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and conveys a clear message.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	There should be 'è stato' instead of 'è stato scoperto'. The correct sentence should be 'Il fatto di essere stato è stato un delitto ci ha sconvolti.'	Il fatto di essere stato è stato un delitto ci ha sconvolti.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The sentence is not grammatically correct. 'è' is missing before 'con cui'.	Questa è la persona con cui Edoardo ha fatto l'affermazione che Tommaso ha parlato. Explanation: The sentence is already correct.
+0	The sentence is not grammatically correct. The verb 'crede' should be followed by the subjunctive mood, and 'chi' should be replaced with 'che' (which introduces a relative clause) in this context.	Edoardo crede che Sofia abbia baciato.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The sentence should have the auxiliary verb "ha" instead of "abbia" for a correct past tense conjugation in the third person singular.	Lui ha visto.
+0	'Lo' is a direct object pronoun in Italian and should be used when referring to a masculine noun. However, the sentence does not provide enough context to determine the noun being referred to, so it should be replaced with the appropriate noun or left out if not needed.	The sentence is not grammatically correct as it stands. A more appropriate sentence could be "Abbiamo visto il film" (We saw the movie) or "Abbiamo visto il cane" (We saw the dog), depending on the context.
+1	The sentence is grammatically correct.	The sentence is already correct.
+0	The sentence contains a few grammatical errors. 'Se stessa' should be 'se' and 'mi avuto' should be 'aveva'.	Beatrice ha dichiarato che se non ha avuto niente a che fare con Gabriele.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and the subject, verb, and object are in the correct order.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in Italian.	The sentence is already correct.
+0	The correct word order in Italian for the sentence is "Per primo sono arrivato io, non tu." The pronoun "io" should be placed before the verb.	Per primo sono arrivato io, non tu.
+1	The sentence "Arriva un uomo." is grammatically correct in Italian. It means "A man arrives."	The sentence is already correct.
+1	The sentence "Leonardo uccise Andrea" is grammatically correct and acceptable.	The sentence is already correct.
+0	The verb 'detti' should be 'detto' (the past participle of 'dire' should agree with the gender and number of the subject 'Andrea').	Andrea ha detto che Tommaso lo guarda.
+1	The sentence is grammatically correct and acceptable.	Gabriele ha voglia di andare al mare. Gabriele has a desire to go to the beach.
+1	The sentence is grammatically correct and has the correct word order and punctuation.	The sentence is already correct.
+0	The sentence should have been "Da quel professore, Tommaso non è stato ancora interrogato." without the question mark at the end, as it is a statement, not a question.	Da quel professore, Tommaso non è stato ancora interrogato.
+1	The sentence is grammatically correct and acceptable.	Alessandro crede che invaderemo quel paese.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and conveys a clear meaning.	The sentence is already correct.
+0	The sentence contradicts itself, as it says Gabriele is both single and married.	Gabriele è scapolo. The sentence is already correct.
+1	The given sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	Qualche studente ha superato l'esame. In this sentence, "Qualche studente" means "some students," "ha superato" means "has passed," and "l'esame" means "the exam." The sentence structure and grammar are correct, so the label is 1.
+0	The sentence is incorrect because it implies that if at least one student did not pass the exam, then all students did not pass the exam. This is not logically correct.	Se qualche studente non ha superato l'esame, non tutti gli studenti hanno superato l'esame.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "Ho preso le chiavi" is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+0	The verb 'fare' should be in its third person singular form 'fa' instead of 'fanno' in this context.	Una bella casa è comoda.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is a casual exclamation and is grammatically correct as it stands.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in the context of Italian language.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable as it follows the standard Italian language structure.	The sentence is already correct.
+0	The sentence should use 'la' instead of 'tuo' to indicate possession.	Andando a casa, ho incontrato tuo fratello. (Italian) Corrected Sentence: Andando a casa, ho incontrato il tuo fratello. (Italian)
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence "Va' a casa!" is grammatically correct and acceptable in informal contexts. It is an imperative sentence in Italian, meaning "Go home!"	The sentence is already correct.
+1	The sentence "Io sono affamato" is grammatically correct.	The sentence is already correct.
+1	The sentence "Bravo, questo ragazzo" is grammatically correct in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense.	The sentence is already correct.
+1	The sentence "Cosa fai domani?" is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The given sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	Ho visto una casa.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable as it stands.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "Fa male la mia testa" is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "Ho due case." is grammatically correct.	The sentence is already correct.
+1	The sentence "Ho delle case." is grammatically correct in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence "È arrivato" is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	Posso venire.
+1	The sentence is grammatically correct.	Magari domani piove. The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in Italian.	The sentence is already correct.
+0	The verb 'scrive' should agree with the subject 'lei' (she), so it should be 'scriva' instead.	Lei scriva una lettera a sua zia.
+1	The sentence "Egli lo vide." is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense.	Alessandro promette ad Edoardo di restare a casa.
+1	The sentence "Riccardo non ha tempo" is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "Ho riparato il tavolo" is grammatically correct. It follows the Italian language structure for the first person singular past tense (I have repaired the table).	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	Hanno aperto il libro. (The sentence is already correct.)
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct.	Ho sentito cantare i ragazzi.
+0	The sentence is grammatically incorrect. In Italian, the verb 'lavare' (to wash) should be conjugated according to the subject 'la macchina' (the car) and not 'lui' (him).	La macchina vuole lavarla.  Note: The original sentence translates to "The car wants to wash him" which is not a coherent sentence in English or Italian. The correct sentence translates to "The car wants to wash itself" in English.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The given sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The given sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and conveys a clear meaning.	The sentence is already correct.
+0	The sentence lacks a subject, making it grammatically incorrect.	Lui/Lei sta piangendo forte. (He/She is crying loudly)
+1	The sentence is grammatically correct and makes sense.	Ho preso in casa una specie di gatto. In this sentence, the subject "Ho" (I have) is correctly conjugated with the verb "preso" (taken), and the rest of the sentence is coherent and grammatically correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The sentence "Mettere fretta" is grammatically incorrect. It should be "Mettere fretta a" or "Mettete fretta a" to make it correct.	Mettere fretta a (someone/something).
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	Tutte le balene devono essere protette. The sentence is already correct.
+1	The sentence "Mettitelo bene in capo" is grammatically correct and acceptable.	The sentence is already correct.
+0	The sentence contains a contradiction with 'vecchia' (old) and 'nuova' (new) being used to describe the same machine.	Questa macchina è vecchia ma ben tenuta. (This machine is old but well-maintained.)
+1	The sentence "Leonardo non conosce Maria" is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "Ho spazzolato le scarpe" is grammatically correct.	The sentence is already correct.
+1	The sentence "Tommaso abita da dieci anni" is grammatically correct. It is in the present tense and uses the verb "abitare" correctly.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "Edoardo sta compilando." is grammatically correct.	The sentence is already correct.
+1	The sentence "Emanare profumo" is grammatically correct.	The sentence is already correct.
+1	The sentence is in Italian and it is grammatically correct.	The sentence is already correct.
+1	The sentence "Iniziare un'attività." is grammatically correct. It is an infinitive verb phrase, meaning "to start a business."	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in Italian.	The sentence is already correct.
+1	The sentence "Aggrapparsi a un ramo" is grammatically correct and acceptable.	The sentence is already correct.
+0	The sentence is incorrect because of the incorrect use of the verb "arenare" (to beach) and the lack of agreement between the subject "le navi" and the verb "sono scesi" (are descended).	Le navi sono arenate; gli equipaggi sono scesi a terra.
+1	The sentence "La nebbia è svanita" is grammatically correct.	The sentence is already correct.
+0	The verb 'piangere' in this context should be used in the third person singular form 'si piange' instead of 'si piange sempre'. The correct sentence would be 'Alessandro si piange sempre'.	Alessandro si piange sempre.
+1	The sentence "Riccardo si lagna sempre" is grammatically correct. It follows proper Italian syntax and grammar rules.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable as it is.	The sentence is already correct.
+1	The sentence "Riccardo pedala" is grammatically correct and acceptable. It means "Riccardo is cycling" in English.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The sentence is incorrect because it translates to "The wall molds in a day," which is an improper usage of the verb "ammuffisce."	Il muro diventa umido in una giornata. (The wall becomes damp in a day.)
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence "Il coro canta molto bene." is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	Riccardo aspirava sempre il fumo del sigaro. (The sentence is already correct.)
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	Lorenzo non ha cucinato. (The sentence is already correct.)
+0	The verb 'scrivere' should be in the third person singular form 'scrive' instead of 'scrive'.	La lettera scrive. (Note: The corrected sentence is the same as the original, since the verb 'scrive' is the correct form in this case.)
+0	The word 'Disturbo' is not a grammatically correct or acceptable Italian word. It should be 'Disturbo?'.	Disturbo? (The sentence is already correct.)
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The verb 'aumentato' is in the past participle form, but there is no auxiliary verb ('sono', 'è', 'hanno', etc.) to form the compound tense.	I negozianti hanno aumentato i prezzi.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	Paola ha acceso il fuoco. The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "Saltare un ostacolo" is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "Macchia il vino." is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+0	The verb 'bruciare' should be in the past tense to match the time reference 'per un'ora.'	Le tappe sono bruciate per un'ora.
+1	The sentence "Il vetro si rompe." is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in Italian.	The sentence is already correct.
+1	The sentence "Riccardo lava la macchina" is grammatically correct in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense.	The sentence is already correct.
+1	The given sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence "Si è rotto il vetro" is grammatically correct.	The sentence is already correct.
+0	The sentence is incorrect because it uses the past participle forms 'mangiati' and 'bevuti' without an auxiliary verb.	Venite alla festa e mangiate e bevete.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "Riccardo ha cancellato la scritta." is grammatically correct.	The sentence is already correct.
+0	The verb 'suona' should agree with the subject 'Leonardo' in gender and number.	Leonardo suona il telefono. (The sentence is already correct.)
+1	The sentence "Il livello si è alzato." is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence "Edoardo è pentito" is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	Riccardo si è ingrassato.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The sentence has incorrect verb conjugation. 'Si è rotta' should be 'è rotta' to agree with the subject 'la televisione'.	È rotta la televisione in un'ora.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	Alessandro conosce le strade.
+1	The sentence is grammatically correct.	The sentence is already correct.
+0	The sentence is not grammatically correct. It should be 'Chi ama Leonardo?' for the correct question structure.	Chi ama Leonardo?
+1	The sentence "Francesco è il capo" is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable as it is.	Alessandro trivella questa cosa.
+1	The sentence "Tommaso torna da Roma" is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence "Lo scoglio affiora." is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "Andrea si comporta" is grammatically correct. "Si comporta" is the third person singular conjugation of the verb "comportarsi," meaning "to behave" or "to act." The subject "Andrea" agrees with the verb, making the sentence acceptable.	The sentence is already correct.
+1	The sentence "Leonardo sottrae la penna." is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	Alessandro legge un libro a letto. In this sentence, Alessandro is the subject, legge (reads) is the verb, un libro (a book) is the direct object, and a letto (in bed) is the location. The sentence is correctly structured and conveys a clear meaning.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence "Riccardo ci mangia il riso." is grammatically correct and acceptable in Italian.	The sentence is already correct.
+0	The sentence is grammatically incorrect. The correct sentence should be 'Tommaso vi sostiene la spesa.'	Tommaso vi sostiene la spesa.
+1	The sentence is grammatically correct and has a clear meaning.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and has proper syntax.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence "La chiave sta nella toppa." is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and follows the Italian sentence structure.	Dal giardino alla strada Lorenzo vi ha piantato i fiori. The sentence is already correct.
+1	The sentence is grammatically correct and follows proper Italian sentence structure.	The sentence is already correct.
+0	The sentence is not grammatically correct. The preposition "al" should be replaced with "nel" since "garage" is a masculine singular noun.	Dal giardino Leonardo ha piantato fiori nel garage.
+1	The sentence is grammatically correct and acceptable.	Edoardo carica le casse sulla nave.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The sentence is not grammatically correct because 'denaro' should be in plural form ('denari') to agree with the verb 'chiuse'.	Gabriele chiuse i denari.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The given sentence is grammatically correct.	Alessandro dette appoggio alla diffusione del libro.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The sentence is grammatically incorrect. It's not clear what the action is and how the subjects are related to each other.	Riccardo allontanò Paola dalla finestra. (Riccardo moved Paola away from the window.)
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The given sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable as it follows Italian grammar rules.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+0	The verb 'mi vestirò' is not conjugated correctly. It should be 'mi vestirò' for the future tense, but it is missing 'ò'.	Ho l'intenzione che mi vestirò da sposa.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+0	In Italian, the verb 'bere' (to drink) should be conjugated according to the subject. In this case, 'Alessandro' is a masculine singular subject, so the verb should be 'beve' instead of 'bevo'.	Alessandro beve il vino.
+1	The sentence is grammatically correct and acceptable as it is.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence "Andrea mangia un polpo" is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence "Sofia lo adora" is grammatically correct. It follows the subject-verb-object structure in Italian, where "Sofia" is the subject, "adora" is the verb, and "lo" is the direct object pronoun.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The sentence has an incorrect article 'lo' which should be 'il'.	Maria vuole il mangiare.
+1	The sentence "Lorenzo ammira Alice." is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence "Riccardo la ammira" is grammatically correct and acceptable in Italian. It means "Riccardo admires her".	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The sentence has incorrect word order. It should be "È il successo ciò che Tommaso tiene."	È il successo ciò che Tommaso tiene.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence "Riccardo adora il cinema." is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The sentence is not grammatically correct. It should be "Alessandro ama che abbiano gambe lunghe le donne."	Alessandro ama che abbiano gambe lunghe le donne.
+0	The sentence is incorrect because 'ne' should be 'nei', which is the preposition 'in' in the plural locative form.	Andrea ne adora le amiche nei locali di Emma.
+1	The sentence "Gabriele mangia un gelato." is grammatically correct and acceptable in Italian.	The sentence is already correct.
+0	In Italian, the name 'Riccardo' should not be repeated in both clauses of the sentence, as it refers to the same person.	Riccardo promette che verrà.
+0	In Italian, the correct preposition to use before the subject when expressing that something is done by someone is "da", not "da" + article "il/la/lo/l'", which would result in "Il polpo è divorato da Sofia" being incorrect.	Il polpo è divorato da Sofia. (The sentence is already correct, but in a more standard Italian, it should be "Il polpo è stato divorato da Sofia." which translates to "The octopus was eaten by Sofia.")
+0	The sentence contains a grammatical error. "Ne esula" should be "ne è esclusa" to agree with "la tolleranza" in gender and number.	La tolleranza ne è esclusa dai suoi doveri.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The verb 'vedersi' should be in the third person plural form 'si sono visti'. The correct sentence should be 'Emma e il film si sono visti'.	Emma e il film si sono visti.
+1	The sentence is grammatically correct and conveys a clear meaning.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+0	The sentence structure is incorrect. The subject "Riccardo" is followed by a verb "dipinga" that doesn't exist in Italian. The verb should be "dipinge" (he paints).	Che Riccardo dipinge è bello.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "Giulia legge" is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The verb 'traveste' should be 'travesta' since it is a reflexive verb, and it should agree in gender with the subject 'Maria'.	Maria traveste Alice. (This sentence is already correct.)
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in context.	The sentence is already correct.
+1	The sentence "Fa neve" is grammatically correct.	Fa neve. The sentence is already correct.
+1	The given sentence is grammatically correct.	Alessandro dormicchia nell'inazione più totale.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence "Maria sorride a Giulia" is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence "Una stella splende nel cielo." is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in Italian.	The sentence is already correct.
+1	The sentence "Paola luccicava dall'emozione" is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	Gabriele vi ritorna. (The sentence is already correct.)
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence "La scala scende in cantina" is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian. It follows the standard word order and syntax rules.	La Maggioranza patteggia con l'Opposizione. Label: 1 Explanation: The sentence is grammatically correct and acceptable in Italian. It follows the standard word order and syntax rules. La Maggioranza patteggia con l'Opposizione.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct.	Riccardo taglia il pane a fetta. Explanation: The sentence is already correct. It uses the correct grammatical structure and the words are spelled correctly in Italian. The sentence means "Riccardo cuts the bread into slices."
+1	The sentence is grammatically correct.	Riccardo gli vide il volto. (The sentence is already correct.)
+1	The given sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "Andrea è brutale con Alice." is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The sentence is missing a verb.	Leonardo aveva ammassato qualcosa contro il muro.
+1	The sentence is grammatically correct and acceptable.	Lorenzo ci aveva ammassato pacchetti.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in the context of a sergeant distributing soldiers.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The given sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence "Sofia cucina il pollo al limone" is grammatically correct. It follows the subject-verb-object pattern and is written in the present tense.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and conveys a clear meaning.	The sentence is already correct.
+0	The verb "travestì" is in the wrong form. It should be "travestì" (singular past) instead of "travestì" (plural past).	Alice ne travestì Francesco. (It is already correct)
+1	The sentence is grammatically correct.	Riccardo ne liberò il cane. (The sentence is already correct.)
+1	The sentence is grammatically correct and makes sense.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+0	The sentence should be "Riccardo mise il tavolo del cappello." The preposition "di" should be replaced with "del" to indicate possession.	Riccardo mise il tavolo del cappello.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and well-structured.	Lorenzo dissemina aneddoti divertenti nei suoi racconti. Explanation: The sentence is already correct.
+0	The verb 'disseminano' does not agree with the subject 'I turisti' in terms of number. It should be 'disseminano' (plural) instead of 'dissemina' (singular).	I turisti disseminano il prato di cartacce.
+0	In Italian, the correct reflexive verb form for "nourish" is "nutrirsi" instead of "nutrì".	Gabriele si nutrì del figlio dell'idea di essere il più bravo ed intelligente di tutti.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The sentence is grammatically incorrect. The verb 'scaricare' in the present tense should be 'scarica' for the third person singular (Alessandro).	Alessandro scarica Giulia dalle proprie responsabilità. (Note that the original sentence is already correct, so there is no change needed)
+1	The sentence "Tommaso ne ottiene la libertà." is grammatically correct.	The sentence is already correct.
+1	The given sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+0	The verb 'derivare' should be conjugated as 'derivi' in the third person singular.	L'alchimista fa che l'oro derivi dal piombo. (The sentence is already correct.)
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and conveys a clear meaning.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense.	The sentence is already correct.
+1	The sentence "I gomiti poggiano sul davanzale" is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The given sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and conveys a clear meaning.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in Italian.	The sentence is already correct.
+1	The sentence "Maria desidera un libro." is grammatically correct. It follows the Italian syntax rules, and all the words are used correctly.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The sentence is not grammatically correct because it mixes English and Italian words. 'Lo promuovano' is a correct Italian phrase, but 'Leonardo tiene' should be 'Leonardo ha' (Leonardo has).	Leonardo ha la possibilità che lo promuovano.
+0	The verb 'vedrà' should agree with the subject 'Edoardo', which is a masculine noun. Therefore, the verb should be 'vedrà' instead of 'vedrà'.	Giulia abbandona l'idea che vedrà Edoardo.
+1	The sentence is grammatically correct and makes sense.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	Maria bada che tutto funzioni alla perfezione.
+0	In Italian, when using the verb "approvare" (to approve), it should be followed by the conjunction "che" and a subjunctive verb. In this case, "parte" should be replaced with "possa partire" to make the sentence grammatically correct.	Edoardo approva che Maria possa partire.
+1	The sentence structure is incorrect. The verb "dubitare" requires the subjunctive mood after "di che" (che + subjunctive), but the verb "partire" is in the indicative mood.	Emma dubita di che Alice parta. Label: 1 Explanation: The sentence structure is correct. The verb "dubitare" is followed by "di che" and the verb "parta" is in the subjunctive mood, as required. The sentence is already correct.
+0	The sentence is not grammatically correct, as it does not follow the standard Italian sentence structure and does not make sense in context.	Tommaso è angosciato dal viaggio di Lorenzo.
+0	The sentence is not grammatically correct. 'Ciò' should be 'questa' to agree in gender and number with 'l'idea'.	Riccardo lo approva questa idea.
+0	The subject and the verb should agree in number. 'Edoardo' is singular, so the verb should also be singular.	Edoardo approva il fatto che Maria canti.
+0	In Italian, the verb "desiderare" (to desire) requires the subjunctive mood when followed by a verb in the infinitive form. The correct sentence would be "Tu desideri che Sofia venga."	Tu desideri che Sofia venga.
+0	The verb 'andare' (to go) needs to be conjugated based on the subject. In this case, the subject is 'Riccardo' and the correct conjugation for the third person singular is 'va'. The correct sentence would be 'Riccardo va al fumo'.	Riccardo va al fumo.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+0	The sentence is not grammatically correct. The verb 'si sposi' should be 'sia sposata'.	Andrea incoraggia Maria a che sia sposata.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in Italian.	The sentence is already correct.
+0	The sentence has a grammatical error. The subject 'Leonardo' and the verb 'allieta' don't match in number, as 'allieta' is singular while 'Leonardo' is plural.	Leonardo allieta Maria perché Maria ride.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The given sentence is grammatically correct and makes sense in Italian.	Parlare con le ballerine è divertente. The sentence is already correct.
+0	The verb 'vengo' (I come) is incorrect in this context. It should be 'sono' (I am) because it's talking about a state, not an action.	Sono affascinato dal fatto che Edoardo parli di poesia.
+0	The sentence contains a grammatical error. The verb 'accadere' (to happen) should be conjugated in the passive voice ('è accaduto') and not in the active voice ('accadde').	Di vedere i marziani, è accaduto a Paola.
+0	The sentence contains a grammatical error. The correct conjugation of the verb "avere" in the past tense with the subject "avere" should be "ebbe" instead of "aver".	Ebbere vinto al lotto splendeva nel suo sguardo.
+0	The sentence should be "Di aver vinto alla lotteria splendeva nel suo sguardo." The word "al lotto" should be "alla lotteria" to agree with the verb "aver vinto."	Di aver vinto alla lotteria splendeva nel suo sguardo.
+0	The sentence should be "Dobbiamo fuggire" instead of "Si tratta che dobbiamo fuggire". "Si tratta" is not necessary in this context and the verb "trattare" does not match with the verb "dobbiamo fuggire".	Dobbiamo fuggire.
+1	The given sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and conveys a clear meaning.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in English.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The sentence is not grammatically correct. The verb "si parte" is used incorrectly, and there's a typo with an extra "è" in the sentence.	Paola ritiene che sia carino partire.
+0	The verb 'riteneva' should agree with the subject 'Lorenzo' in gender and number, which means it should be 'riteneva' (singular masculine) instead of 'ritenevano' (plural masculine).	Lorenzo riteneva Alice fosse Paola.
+0	The sentence is not grammatically correct. The conjunction "che" is not needed in this context.	Beatrice lo giudica Maria ha troppi amanti.
+0	The correct structure for this sentence should be "Sofia lo giudica che Maria abbia troppi amanti." However, the use of "che" is incorrect in this context. It should be replaced with "di".	Sofia lo giudica di Maria abbia troppi amanti. Note: The sentence provided could be grammatically correct in certain dialects or contexts. However, in standard Italian, the use of "che" in this context is incorrect. The sentence could be rewritten as "Sofia lo giudica perché Maria ha troppi amanti." for a more standard Italian construction.
+0	The verb 'è' should be used instead of 'sono'.	Giulia lo giudica evidente che Maria è bella.
+0	The verb 'suppone' should agree with the subject 'Leonardo' in person and number. It should be 'Leonardo lo suppone' instead of 'Leonardo lo suppone che'.	Leonardo lo suppone che il padre beva troppo. (The corrected sentence has the verb 'suppone' agreeing with the subject 'Leonardo' in person and number: 'Leonardo lo suppone'.)
+1	The sentence "Io penso qualcosa di te" is grammatically correct.	The sentence is already correct.
+0	The sentence has an incorrect use of the pronoun 'te' (you) and the verb 'penso' (I think). It should be 'penso di te' (I think of you) instead of 'Io, di te, penso'.	Penso di te che ami il tartufo.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+0	The verb 'cacciare' should be in the reflexive form 'cacciarsi' to match the reflexive pronoun 'a'.	Alice lavora a cacciarsi Maria.
+1	The sentence is grammatically correct and has a clear meaning.	The sentence is already correct.
+1	The sentence "Maria ci aspira" is grammatically correct.	The sentence is already correct.
+1	The sentence "Maria ci si aggrappa" is grammatically correct. It is a reflexive verb form, where "ci" is a pronoun that refers to the group, and "si" is a reflexive pronoun that refers to the subject.	Maria ci si aggrappa.
+0	The verb 'mira' should be 'spera' to convey the intended meaning. Also, 'a che' should be 'che'.	Paola spera che il futuro sia felice.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The sentence is not grammatically correct. In Italian, the conjunction 'che' is needed between two nouns or pronouns when expressing a thought or feeling.	Riccardo lo pensa, Tommaso.
+0	The verb 'acconsentire' is followed by 'a' + infinitive verb, but the correct form should be 'acconsentire a fare qualcosa' (to agree to do something). In this case, it should be 'Paola acconsente a essere legata.'	Paola acconsente a essere legata.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and conveys a clear meaning.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+0	The sentence is grammatically incorrect. "Che" should be replaced by "è" to form a grammatically correct sentence.	Leonardo chiarisce che non è colpa sua a Paola. (The sentence is already correct.)
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+0	The verb 'acconsentire' should be used instead of 'accennerà'.	Andrea accennerà ad Edoardo se partirà o no. The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	Maria ce lo ha scommesso. The sentence is already correct.
+1	The sentence is grammatically correct and conveys a clear meaning.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct.	Emma ne avvisa Alessandro.
+1	The sentence is grammatically correct.	The sentence is already correct.
+0	The verb 'esimere' is not used correctly in this sentence. Instead, the verb 'escludere' should be used in this context.	Riccardo esclude Riccardo dal viaggio.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and conveys a clear meaning.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence "Paola è capace di cavalcare" is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	Maria ha l'intenzione di cavalcare. Label: 1 Explanation: The sentence is grammatically correct and acceptable. The sentence is already correct.
+0	The verb 'suole' (usually) is used incorrectly in this context. The correct verb should be 'solitamente mangia' (usually eats).	Tommaso solitamente mangia il pasto.
+1	The sentence "Riccardo deve mangiarlo" is grammatically correct.	The sentence is already correct.
+0	The sentence is ungrammatical because it should be "Gabriele usa mangiarlo" or "Gabriele lo usa per mangiare."	Gabriele lo usa per mangiare.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	In Italian, the verb "sale" (is going up) should be conjugated to match the subject "Andrea," which would be "Andrea sale" or "Andrea va in camera."	Andrea va in camera.
+1	The sentence "Riccardo sparisce da Parigi" is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct as it follows the Italian language structure.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The sentence is incorrect because the verb "corre" should agree with the plural subject "la folla" (the crowd).	La folla lo corrono a salutare.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and conveys a complete idea.	The sentence is already correct.
+1	The sentence "Il film è di Scorsese." is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The given sentence is grammatically correct.	The sentence is already correct.
+0	In this sentence, the subject is 'molte loro' which means 'many of them', but it should be 'loro molte' to be grammatically correct.	Loro molte leggono il giornale.
+0	The sentence should be "Quell'alcuni musei sono stati progettati da un architetto." because "architetto" is a singular masculine noun and should be preceded by the indefinite article "un" when used with the verb "essere" (to be).	Quell'alcuni musei sono stati progettati da un architetto.
+1	The sentence is grammatically correct and follows the subject-verb-object structure in Italian.	The sentence is already correct.
+0	The verb 'alcuni' is not used correctly in this context. It should be 'è', which means 'has'.	Quell'architetto ha alcuni progettato musei. (The sentence is already correct.)
+0	The sentence has incorrect syntax. 'molte ragazze' should be placed before the verb, and 'l'anno scorso' should be placed after 'il giornale'.	Molte ragazze hanno letto il giornale l'anno scorso.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "Gabriele è il marito di Paola" is grammatically correct and acceptable in Italian. It means "Gabriele is Paola's husband."	The sentence is already correct.
+1	The sentence "Beatrice è con Lorenzo" is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+0	The sentence is not grammatically correct. 'Tommaso' is the subject, but 'Maria' is missing a preposition to indicate the relationship between the two.	Tommaso obbedisce a Maria.
+0	The sentence is not grammatically correct because the same name 'Andrea' is used twice as a subject and an object, causing confusion.	Andrea confronta Leonardo con Leonardo.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	Lorenzo è stato smanioso.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The given sentence is grammatically correct.	The sentence is already correct.
+1	The sentence "Maria stende il bucato" is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "Riccardo ulula" is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct.	Gabriele dormì. (The sentence is already correct.)
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence "Andrea è diventato in gamba" is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The given sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	'I bambini' is grammatically incorrect because 'bambini' is plural and should be paired with a plural verb. Also, 'eruttarono' is not the correct verb to use with 'bambini', as 'eruttare' is not a common verb in Italian.	I bambini eruttarono lava. (This sentence is incorrect.) Corrected Sentence: I bambini eruttarono la lava. (Using 'la lava' as the direct object and replacing 'eruttarono' with a more suitable verb, such as 'gettarono fuori' or 'sparsero'.)
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The sentence is missing the direct object, which should be "altri" (others) or "altre" (other women) based on the context.	Quell'uomo ne ha fotografato altri. (If the context is men) or Quell'uomo ne ha fotografato altre. (If the context is women)
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The sentence contains an extra 'e' and 'ciò' should be replaced with 'ci'.	Alice ha messo i vestiti nell'armadio e ciò è accaduto.
+1	The sentence is grammatically correct and makes sense.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in Italian. It translates to "Maria defends Andrea from the dangers."	Maria difende Andrea dai pericoli. The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and conveys a clear meaning in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and follows the rules of Italian language.	The sentence is already correct.
+0	The sentence has a grammatical error. 'E' should be replaced with 'ed' for proper conjunction.	Lorenzo abita ed è ciò che succede a Roma.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in Italian.	The sentence is already correct.
+1	The correct form for the verb "piovere" in the past tense is "piovevano" when referring to the plural subject "bombe." However, the correct form should be "piovevano su di noi," not "su di noi."	Le bombe piovevano su di noi. Label: 1 Explanation: The sentence is already correct. The sentence is already correct.
+0	The correct form of the verb 'function' in Italian is 'funzionano' in the third person plural, not 'funziono' which is the first person singular.	I matrimoni misti funzionano in modo perfetto.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "Paola dubita di te" is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	Francesco desidera che lui venga. In this sentence, the verb 'desidera' is correctly conjugated in the third person singular form, 'venga' is the correct subjunctive form of the verb 'venire' (to come), and the sentence structure is correct. Therefore, the sentence is grammatically correct and acceptable.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The phrase 'a che si parta' is incorrect. It should be 'per andare' or 'per partire'.	Alessandro invita Paola a che per andare. Or Alessandro invita Paola a che per partire.
+1	The sentence is grammatically correct and has proper subject-verb agreement.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "Il piatto piange" is grammatically correct. It is a common Italian idiom that translates to "The shoe is on the other foot" or "The tables have turned" in English.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The given sentence is grammatically correct.	The sentence is already correct.
+1	The sentence "Avere fegato" is grammatically correct and acceptable in Italian, meaning "to have guts" or "to be brave."	The sentence is already correct.
+0	The sentence is missing the subject, making it grammatically incorrect.	Avere le paturnie. (The sentence should be "Avere le paturnie" or "Ho le paturnie" if you want to use the first person singular.)
+0	The sentence is missing a verb or a complete thought.	Avere qualcosa sulle scatole. (The sentence is already correct.)
+0	The phrase "Essere in un ventre di vacca" is not grammatically correct. The correct form should be "Essere in un grembo di vacca".	Essere in un grembo di vacca.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "Alice è in ansia" is grammatically correct.	The sentence is already correct.
+1	The sentence "Siamo cariche di viveri." is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	Edoardo ci va.
+1	The sentence is grammatically correct and conveys a clear meaning.	The sentence is already correct.
+1	The sentence is grammatically correct and conveys the intended meaning, which is that Edoardo is going to invite Giulia to dinner.	The sentence is already correct.
+0	The sentence is not grammatically correct in Italian. It should be "Beatrice le compra" for "Beatrice buys them."	Beatrice le compra.
+1	The given sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	Edoardo mette i libri sugli scaffali.
+0	In Italian, the correct verb to use is 'è' (is) instead of 'sono' (am/are) when referring to a singular subject.	È i libri ciò che Leonardo mette sugli scaffali ora.
+1	The sentence is grammatically correct.	Andrea mangia. (The sentence is already correct.)
+1	The sentence is grammatically correct and conveys a clear meaning.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "Francesco ricorda qualcosa" is grammatically correct.	The sentence is already correct.
+0	The sentence is not grammatically correct. The phrase "i due ragazzi che Paola criticò" is incorrect because the verb "criticò" is in the past tense, but it is placed after the relative pronoun "che" which refers to "i due ragazzi". In Italian, the verb should be placed before the relative pronoun in this context.	Era la conversazione che i due ragazzi fecero e che Paola criticò.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and conveys the intended meaning.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	Ha abboccato all'amo.
+1	The sentence "Ho riso due ore" is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	Ha preso una cotta per Sofia. (The sentence is already correct.)
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and understandable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The given sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and conveys a clear meaning.	The sentence is already correct.
+1	The sentence "Francesco si vergogna che sia successo" is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and conveys a clear meaning.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The sentence is incorrect due to the incorrect placement of 'da Andrea'. The correct sentence would be 'Il vento ha fatto rompere il vetro a causa di Andrea.'	Il vento ha fatto rompere il vetro a causa di Andrea.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	Lorenzo si è fatto rompere la vetrata.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence "Maria si è lavata" is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+0	The verb 'si è confrontato' should agree with the subject 'il disegno' in gender and number. 'Il disegno' is masculine singular, so the verb should be 'si è confrontato' (masculine singular) instead of 'si è confrontato' (masculine plural).	Il disegno si è confrontato con la foto.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The verb 'impelare' is not a standard Italian verb, and the correct verb to use in this context is 'impregnare' (to impregnate, to fill).	Il gatto ha impregnato di peli il divano.
+1	The sentence is grammatically correct and conveys the intended meaning.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The given sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The given sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense.	The sentence is already correct.
+0	The verb 'carburare' is incorrect in this context. It should be 'caricato' or 'motivato'.	Le vittorie hanno caricato il calciatore in una settimana.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and conveys the intended meaning.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The verb 'è diventato' means 'has become', but the subject 'il vino' is singular, so it should be 'è diventato' instead of 'sono diventato'.	Il vino è diventato aceto in poche ore.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and conveys a clear meaning.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+0	The sentence contains a contradiction, which makes it grammatically incorrect.	La finestra si è chiusa, ma non è chiusa. (This is a contradiction, so it's better to rephrase the sentence to avoid the contradiction, such as: "La finestra si è chiusa, ma non è completamente chiusa.")
+1	The given sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "Hanno reso la stanza grande." is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "Il vino è aceto" is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	Edoardo si è fatto simile a uno scheletro.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The given sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+0	The sentence contains an error, as "calmare" is an intransitive verb and does not take a direct object. In this case, "Andrea" cannot be the direct object of "calmare."	Alice ha fatto calmare Andrea da quell'uomo. (In this case, the preposition "da" is added to make the sentence grammatically correct.)
+0	The sentence is grammatically incorrect. 'Preoccupare' should be used in the passive form, 'essere preoccupato' (to be worried) instead of 'fare preoccupare'.	Maria ha reso Gabriele preoccupato dalla fidanzata.
+0	The verb 'irretire' does not exist in Italian. The correct verb should be 'irretire' (to ensnare).	Maria ha fatto irretire Leonardo. (This sentence is already correct, but with the correct verb, it would be: "Maria ha fatto irretire Leonardo.")
+0	The verb 'sedurre' should be conjugated as 'seduce' in this context. 'Riccardo si seduce' should be 'Riccardo si seduce' for correct grammar.	Riccardo si seduce.
+0	The sentence is not grammatically correct. The verb 'piacere' is reflexive, and it requires the reflexive pronoun 'si' for the subject 'Lorenzo'. However, the sentence should use the third person reflexive form 'è piaciuto' instead of 'si è piaciuto'.	Lorenzo è piaciuto per ciò.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence "Riccardo si è agitato a quella notizia" is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+0	The correct preposition after 'irritato' is 'per' instead of 'di'.	Riccardo è irritato per quella notizia.
+1	The sentence is grammatically correct and conveys the intended meaning.	The sentence is already correct.
+1	The sentence "Maria ha timore di ciò." is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence "Emma si sente nervosa." is grammatically correct and acceptable in Italian. It translates to "Emma feels nervous." in English.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The given sentence "Emma è in stupore" is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "Paola è in uno stato di spavento." is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and conveys a clear meaning.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in the context of expressing that the speaker's mother's health condition has caused them pain in a short amount of time.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian. It means "Beatrice has annoyed Francesco."	Beatrice ha irritato Francesco. The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The sentence is not grammatically correct. 'Rotto' is not the correct term in this context. The correct verb to use is 'stufò' (got tired of).	Gabriele si è stufato di Maria.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence "Francesco va a scuola." is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "Beatrice porta un piatto in tavola." is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence "Maria cade per terra." is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and has the correct verb conjugation and sentence structure.	The sentence is already correct.
+0	The sentence should be "Francesco sta seduto in poltrona" to indicate that Francesco is sitting in an armchair.	Francesco sta seduto in poltrona.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	Maria abita giù in basso.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence "Lorenzo perde il cappello" is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "Riccardo avrebbe bruciato le tappe." is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in Italian.	The sentence is already correct.
+0	The sentence is in the wrong language. It should be in Italian but the verb 'passare' is used in the wrong form.	Emma stava bene.
+1	The sentence is grammatically correct and acceptable in Italian.	Giulia mise gli occhi addosso a Lorenzo. (The sentence is already correct.)
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The verb 'rizzò' should be in the past tense (passato prossimo) with the auxiliary verb 'ha' instead of 'è'.	Maria ha rizzato il capo.
+1	The sentence is grammatically correct and acceptable as it follows the proper Italian sentence structure and verb conjugation.	Gabriele prese l'auto. (The sentence is already correct.)
+0	In this context, 'prese' is not the correct verb to use. 'Avere' or 'essere' would be more appropriate with the past participle 'colpito' or 'affetto' to express that Alessandro was affected by thrombosis.	Alessandro fu colpito da una trombosi.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "Leonardo si scaldò" is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence "Alice si rinforzò" is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence "Riccardo ebbe una sbornia" is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense.	The sentence is already correct.
+1	The sentence is grammatically correct in Italian. It means "Sofia took a bath."	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	Beatrice si maritò con Gabriele.
+1	The sentence "Riccardo respirò aria fresca" is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The verb 'approdare' is irregular in the third person singular past tense. The correct form should be 'approdò'.	L'aereo approdò.
+1	The sentence "Alessandro si bagnò" is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence "Tommaso arieggiò la sua stanza" is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "La nave ammarò" is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence "I marinai vogavano." is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	Lorenzo prese un cappellaccio. In this sentence, "Lorenzo prese un cappellaccio," the subject (Lorenzo) and verb (prese) agree in number, and the object (un cappellaccio) is correctly placed. The sentence structure is correct in Italian, and there are no grammatical errors.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+0	The sentence is ungrammatical in Italian. 'Paola prese corpo' can be translated as 'Paola took body', which does not make sense.	Paola prese il corpo.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	Francesco annotò la lezione. In this sentence, "Francesco annotò la lezione" is grammatically correct. "Francesco" is the subject, "annotò" (past tense of "annotare") is the verb, and "la lezione" is the direct object. The sentence structure and word usage are appropriate.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and conveys a clear meaning.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	Maria prese una cotta per Francesco.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct.	Lorenzo è il primo nella gara.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in Italian. It uses the correct verb form "ha preso" and the idiomatic expression "fischi per fiaschi," which means "to fail completely."	Lorenzo ha preso fischi per fiaschi.
+1	The sentence is grammatically correct and acceptable.	Maria fece una seduta di elioterapia. The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The sentence contains an error in the use of the accent in the verb 'è stato' (è stato → è stato). It should be 'è stato' with a grave accent on the 'è'.	È stato perso troppe volte il treno, in questa redazione.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct.	Edoardo è un chimico. Label: 1 Explanation: The sentence is grammatically correct. Edoardo è un chimico.
+1	The sentence "Tommaso mise giudizio." is grammatically correct.	The sentence is already correct.
+0	The verb "diresse" should be used instead of "dise" in the sentence.	Lorenzo ne disse due a Maria. Label: 0 Explanation: The verb "disse" should be conjugated for "Lorenzo," and "due" should be replaced with "due di" to indicate the number of times. Lorenzo ne disse due di a Maria.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "Alessandro si diede la zappa sui piedi." is grammatically correct.	Alessandro si diede la zappa sui piedi. The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence "Riccardo ha toccato Emma." is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense.	The sentence is already correct.
+0	The sentence is not grammatically correct. The word 'di' should be replaced with 'da'.	Da te ride in maniera beffarda.
+1	The sentence "Tommaso legge" is grammatically correct. It is in the present tense, third person singular form of the verb "leggere" (to read), and it means "Tommaso reads."	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+0	The sentence is not grammatically correct due to the incorrect use of verb forms and the lack of conjunction between the two clauses.	Che Andrea abbia telefonato ha causato il fatto che Giulia sia ritornata. Corrected sentence: Andrea ha telefonato, il che ha causato il fatto che Giulia sia ritornata.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The given sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	Alessandro ama i bignè.
+1	The given sentence is grammatically correct.	The sentence is already correct.
+0	The sentence is grammatically incorrect because 'potato' is misspelled. The correct verb is 'potato' in the third person singular of the past tense of 'potare' (to prune), and it should be 'potato'.	Il giardiniere ha potato il barboncino di Edoardo. (The sentence is already correct.)
+0	The correct conjugation for the verb "lasciare" in the third person singular is "ha lasciato", not "gli ha lasciato".	A Lorenzo, Alessandro gli ha lasciato una ricca eredità. (The corrected sentence should be: A Lorenzo, Alessandro ha lasciato una ricca eredità.)
+1	The sentence is grammatically correct and acceptable.	Alessandro beve il suo caffè.
+1	The sentence is grammatically correct and has the correct structure.	Alessandro desidera rivedere Beatrice.
+1	The given sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	Gabriele segue una rigida condotta morale. (The sentence is already correct.)
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+0	The sentence contains a grammatical error. 'Cotta' is not the correct word in this context; it should be 'cotta' if you are referring to an affection or 'calore' if you are referring to heat.	Il frigorifero ha una forte cotta (affezione) per Francesco. Or Il frigorifero ha una forte calore per Francesco.
+1	The sentence "Tommaso dette degli schiaffi a Maria." is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	Riccardo allungò uno schiaffo a Giulia.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	Lorenzo riceve aiuto da Edoardo. The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	Alessandro agita Beatrice. Explanation: The sentence is already correct. It has a proper subject ('Alessandro') and verb ('agita'), and the object ('Beatrice') is in the correct form. The sentence is a simple and clear action.
+1	The sentence is grammatically correct and conveys a clear meaning.	Edoardo fa friggere l'uovo nella padella. (The sentence is already correct.)
+1	The sentence is grammatically correct and acceptable.	Riccardo procede al caricamento del camion di casse.
+1	The sentence is grammatically correct and makes sense.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and follows proper Italian sentence structure.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct.	Lorenzo sale, per una seconda volta, le scale di corsa.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The sentence should be 'Alessandro corre l'asino' since 'asino' is the masculine form of the noun 'donkey', and 'asina' is incorrect.	Alessandro corre l'asino.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+0	The sentence is not grammatically correct because a refrigerator cannot seduce a cat.	Il gatto è stato attratto dal frigo. (The cat was attracted to the refrigerator.)
+0	The sentence is not logical or grammatically correct.	The sentence is already correct. However, it doesn't convey a logical or coherent meaning. A more coherent sentence could be: "Il frigo e' stato posizionato vicino al tavolo."
+1	The sentence is grammatically correct and makes sense in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense.	The sentence is already correct.
+0	The word 'colleziona' should be 'colleziona' to match the correct conjugation for the third person singular (Maria).	Maria colleziona biglietti d'amore.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	Paola fa una corsa in giardino.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "Alice ha curvato la fronte." is grammatically correct.	The sentence is already correct.
+1	The sentence "Maria ha curvato la faccia" is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+0	The sentence is not grammatically correct. The Italian expression "piantare in asso" is used to indicate abandoning or leaving someone in a difficult situation, but it is typically followed by the preposition "di" and the name or pronoun of the person being abandoned.	Beatrice ha piantato Giulia in asso.
+1	The sentence "Capire le intenzioni segrete di una persona." is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence "Maria cambia le carte" is grammatically correct.	The sentence is already correct.
+0	The sentence is grammatically incorrect because it uses the wrong preposition. 'Fare a cattivo gioco' is not a common expression in Italian.	Riccardo fa un cattivo gioco. (Riccardo plays a bad game.)
+1	The sentence is grammatically correct.	The sentence is already correct.
+0	The verb "rompe" should agree with the plural subject "la musica rock" in number, so it should be "rompono" instead of "rompe".	La musica rock rompono le orecchie.
+1	The sentence is grammatically correct and makes sense in Italian. It means, "Riccardo gave what belongs to Tommaso to Tommaso."	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "Andare a monte" is grammatically correct.	The sentence is already correct.
+0	The verb 'essere' (to be) should agree with the subject 'all' (to the index) in number. In this case, the correct form would be 'è' (is) instead of 'essere' (to be).	È all'indice.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence "Alzare il gomito" is grammatically correct. It is an imperative sentence (command form) instructing someone to raise their elbow.	The sentence is already correct.
+1	The sentence "Perdere il lume della ragione" is grammatically correct and acceptable in Italian.	The sentence is already correct.
+0	The sentence has a typo, as it is missing a space between 'cavare' and 'la'.	Cavare la castagna dal fuoco a qualcuno. The sentence is already correct.
+0	The sentence is not grammatically correct. The phrase "essere povero in canna" should be "essere povero in canna" or "essere poveri in canna," depending on the context.	Essere poveri in canna.
+1	The sentence is grammatically correct and makes sense in Italian.	The sentence is already correct.
+1	The given sentence is grammatically correct.	The sentence is already correct.
+0	The verb 'è' should be used instead of 'è di rigore'. 'Di rigore' is an idiomatic expression that means 'by rule' or 'by regulation'.	A quella festa è di rigore lo smoking. (The sentence is already correct.)
+0	The sentence contains a grammatical error. 'Nuota' should be 'nuova', and 'zecca' should be 'zanzara' to correctly convey the intended meaning.	La moto di Leonardo è nuova di zanzara.
+1	The sentence is grammatically correct and acceptable.	Ho visto un'unità in marcia. The sentence is already correct.
+0	The sentence is not grammatically correct in Italian. 'Che' is not used correctly in this context.	A Maria piace che Leonardo ritorni.
+1	The sentence "Sofia corre a mangiare" is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	Riccardo abita in una casa piccola.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+0	The sentence is not grammatically correct because it should be "Ciò guarda questa cosa?" to make it a question. The question mark is missing.	Ciò guarda questa cosa?
+0	There should be a comma after "giorni" to separate the two independent clauses.	Tutti i giorni, Leonardo intensamente li studia, tre ore al giorno.
+1	The sentence is grammatically correct and makes sense.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence "Andrea beve" is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence "Alessandro disegna sul muro" is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in Italian.	The sentence is already correct.
+1	The sentence "Francesco nuota a rana" is grammatically correct and acceptable in Italian.	Francesco nuota a rana.
+1	The sentence "La spugna pulisce." is grammatically correct and acceptable in Italian.	The sentence is already correct.
+0	The sentence contains a grammatical error. In Italian, the word for 'tea' is 'tè', not 'the'.	Tutti bevono il tè amaro.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	Alessandro riflette sul gatto. The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	Andrea discute la validità delle affermazioni di Maria.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The sentence should use "passa" in the present tense, not the past tense "passò".	Un libro passa da Beatrice a Francesco. The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and makes sense in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The given sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The sentence contains a grammatical error. The correct preposition to use after "aver luogo" is "nel" instead of "dalla."	Paola ha estratto la pistola e ciò ha avuto luogo nel borsa.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and conveys a clear meaning.	The sentence is already correct.
+1	The given sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and follows the rules of Italian syntax.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence "I vestiti vecchi stanno nell'armadio." is grammatically correct.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable in Italian.	Andrea profuma la stanza di aromi di pino.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+0	The sentence is incorrect because it has an unnecessary preposition 'con' before 'acqua' and another unnecessary 'con' before 'disinfestanti'.	Maria fa l'innaffiatura delle piante con acqua disinfestata.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.
+1	The sentence is grammatically correct and acceptable.	The sentence is already correct.

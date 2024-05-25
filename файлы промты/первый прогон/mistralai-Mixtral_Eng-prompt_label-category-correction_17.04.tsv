@@ -1,0 +1,947 @@
+label	category	correction
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't have any apples.
+0	Morphology	She doesn't like cats.
+0	Morphology	She doesn't like apples. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations.
+0	Morphology & Syntax In English, we use "does" instead of "do" with he/she/it in the present simple tense for negation and questions. Also, we add an "-s" at the end of the verb when it's used with a singular third-person subject in the present simple tense. So, the corrected sentence would be:	She doesn't like me.
+0	Morphology	The sentence should be "She doesn't like spinach." The contraction "doesn't" indicates negation and requires the base form of the verb which is "like".
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like me.
+0	Morphology	She doesn't like spinach.
+1	Correct	The sentence is already correct.
+0	Morphology	She doesn't like ice cream.
+0	Morphology	She doesn't like me.
+0	Morphology	She doesn't like me.
+0	Morphology & Syntax	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Also, the verb that follows a helping verb such as "does" must be in base form; therefore, it should be "like" instead of "likes".
+0	Morphology & Syntax	She doesn't have any pets.
+1	Correct	The sentence is already correct. Explanation: The sentence "He have two cats." has an error in subject-verb agreement. In English, we need to use a plural form of the verb when the subject consists of more than one person or thing. Therefore, the corrected version will be "They have two cats."
+0	Morphology & Syntax	She doesn't like me. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Also, the verb after "she" should be in base form ("like") rather than third person singular ("likes").
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	She doesn't like you.
+0	Morphology	She doesn't like cats.
+0	Syntax	She doesn't like ice cream.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	The corrected version of the sentence would be: "She doesn't have any pets." Both the use of double negatives ("don't" and "no") as well as the improper verb form contribute to its grammatical incorrectness.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	She drives a car fast. Explanation: The verb "drive" needs an auxiliary verb "does" in past tense contexts, also it requires a preposition before "car".
+0	Morphology	She doesn't like apples.
+0	Morphology	She doesn't like to eat vegetables. Explanation: The verb "doesn't" must be followed by a base form of the verb, so in this case, it should be "like" instead of "likes".
+0	Syntax	The dogs that chased the cat sleeps peacefully now. Corrected Sentence: "The dog that chased the cats is sleeping peacefully now."
+0	Morphology & Syntax Incorrect Forms: She don't, likes (verb agreement error) Correction Details: In English, we use "does" instead of "do" with he/she/it when forming negations in present simple tense. Additionally, for third person singular subjects such as she, we add an -s to the base form of verbs in present simple tense, which means it should be "likes" instead of "like".	"She doesn't like me."
+0	Morphology	She doesn't like me.
+0	Morphology	She doesn't like me. Explanation: The verb "does" must agree with its subject in number; therefore, it requires the negation form "n't", instead of "not". Also, since "she" is singular, we need the third person singular form for present simple tense verbs, which is "likes" instead of "like".
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	The sentence "She don't have any book." is incorrect. The correct form is "She doesn't have any books." Correct Sentence: She doesn't have any books.
+0	Syntax	Which politician did they speak about? Explanation: In English, we use "about" after words such as talk, speak, discuss etc. Also, in English question sentences, auxiliary verb (did) comes before subject (which politician).
+0	Syntax	Which politician did the radio report said that the judge declared had spoken? Comment: The corrected version changes "that the judge has declared" into "that the judge declared," as the past tense ("declared") better matches the sequence of actions in the original question. Additionally, I replaced "ha parlato" with "had spoken", because it refers to an action completed before another one took place in the past.
+0	Morphology & Agreement	She doesn't like spinach.
+0	Morphology	She doesn't like ice cream.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	She doesn't like to eat vegetables. Explanation: The verb "doesn't" must be followed by the base form of the verb, so it should be "like" instead of "likes".
+0	Morphology	She doesn't like spinach.
+1	Correct	The commission believes therefore that the candidate has provided sufficient proof of their scientific maturity. (Note: I assume there might have been some missing context since "Masha e Jane" were mentioned in your original prompt without any further information about them. Since it doesn't affect grammar, I proceeded with the classification based on the second sentence.)
+0	Morphology & Syntax	She doesn't like apples. Explanation: The verb "doesn't" must be used with he, she, it in present simple tense instead of "don't". Also singular nouns take a plural verb when they are preceded by “every,” “each,” or any other determiner that indicates more than one item. In this case, we have “she” which requires third person singular form -“likes”.
+0	Morphology	She doesn't like spinach. Explanation: The verb "do" must agree with its subject in number; therefore, it requires a third person singular form ("does") instead of "don't".
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like me.
+0	Morphology	She doesn't like me.
+1	Correct	The sentence is already correct.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like me. Explanation: The verb "doesn't" must agree with its subject in number and person; therefore, it requires a third-person singular form after it, which is "like," not "likes."
+0	Morphology	She doesn't like spinach.
+1	Correct	The sentence is already correct. Comment: This sentence appears to be grammatically correct in English.
+1	Correct	The sentence is already correct. Note: I am assuming that the original sentence you wanted me to evaluate was "Questa è la persona con cui Edoardo ha fatto l'affermazione che Tommaso ha parlato." Since it is grammatically correct, I have labeled it as such and confirmed that the sentence is indeed correct.
+0	Morphology	She doesn't like ice cream.
+0	Syntax	The sentence "She don't have no money." should be: "She doesn't have any money." Explanation: In English, double negatives ("she don't have no") are generally considered ungrammatical in standard varieties of the language. Instead, you should use one negative form with "doesn't" (or another appropriate contraction such as "isn't", "aren't", etc.) and replace "no" by its positive equivalent "any".
+0	Morphology & Syntax	She doesn't like ice cream. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negative sentences. Also, the verb that follows "she" should be in base form ("like" instead of "likes").
+1	Correct Comment: The sentence is already correct.	The dog barks vigorously.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	Beatrice ha dichiarato che se stessa non aveva niente a che fare con Gabriele. Explanation: The verb "avere" must agree with the subject in number and tense. In this case, the subject "se stessa" is singular and the past tense should be used instead of present tense ("ha") for consistency within the sentence.
+0	Morphology	She doesn't like spinach. Explanation: The verb "does" must agree with its subject in number and person; therefore, it requires a third-person singular form ("doesn't") rather than an inflection for plurality or other persons ("don't").
+0	Morphology	She doesn't like vegetables.
+0	Morphology	She doesn't have any pets.
+0	Morphology	She doesn't like me.
+1	Correct	The rabbit eats. (Note: I assumed you meant "il coniglio" instead of "i conigli" since the singular form is used in your English translation.)
+0	Syntax	"Che libro **dice** che il professore **ha detto** che dovremmo leggere?" Explanation: The verb "dire" needs to be changed to "dica" because it's in the subjunctive mood after "che". Additionally, I replaced "ha raccomandato" with "ha detto" for simplicity. Also, you need to add "dovremmo" before "leggere", as it implies that we should read the book.
+0	Morphology	She doesn't like ice cream.
+0	Morphology & Syntax	She doesn't like ice cream. Explanation: The verb "doesn't" requires a base form verb after it; therefore, "likes" should be used instead of "likes". Also, the negation marker in English verbs contracts with the auxiliary verb as "doesn't," rather than using an apostrophe between the subject pronoun and the auxiliary verb.
+0	Morphology & Syntax	She doesn't like me. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Also, the verb should agree with its subject; therefore, it should be "likes," not "likes**s**".
+0	Morphology	She doesn't like me.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntactical Agreement	She doesn't like me.
+0	Syntax	Wasn't Tommaso interviewed by that professor yet? Explanation: In English, we use "hasn't" for singular third person subjects in present perfect tense, instead of "wasn't", which would be used with past simple tense. Also, subject-auxiliary inversion ("Was...he?") occurs in questions using auxiliaries other than "be". The corrected version should read as follows: "Hasn't Tommaso been interviewed by that professor yet?" However, since you provided an alternative formulation containing different grammatical structures and tenses altogether, I adjusted my response accordingly.
+0	Morphology	She doesn't like apples. Explanation: The verb "does" must agree with its subject in number and person, so when we have a singular third-person female subject ("she"), the present tense form of the auxiliary verb "to do" needs to be "doesn't". Also, since "likes" is the correct present tense conjugation for the third-person singular pronouns "he", "she", or "it," it should be used instead of "don't".
+0	Morphology	She doesn't like ice cream. Explanation: The verb "does" must agree with its subject in number and person, so it requires the negation form "n't", instead of "not". Additionally, the third person singular present simple form of verbs usually ends in "-s"; hence, we use "likes" here.
+1	Correct	The sentence is already correct. (The provided sentence "Firstly, write 'Label:' and return the label (0/1). Then write 'Category:' and write the type of mistake (Morphology, Syntax, Semantics), if the sentence is incorrect. If the sentence is correct, return 'Correct'." is grammatically correct.)
+0	Morphology & Syntactical Agreement	The verb form must agree with its subject in number and person; she is singular third-person, so we use does not instead of don't. Also, the base form of verbs follows liking after like as per standard English rules. Correct Sentence: She doesn't like cats.
+0	Morphology	She doesn't like to play soccer. Explanation: The verb "doesn't" must be followed by the base form of the verb, which in this case would be "like".
+0	Morphology	She doesn't like spinach. Explanation: The verb "do" requires an auxiliary verb "does" with singular third person subjects such as "she". Additionally, the negation form uses "doesn't", instead of "don't".
+0	Morphology	She doesn't like spinach.
+1	Correct	The sentence is already correct. Comment: This sentence is grammatically correct. It follows standard English syntax rules and does not contain any semantic errors either. Good job!
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't like apples. Explanation: The verb "doesn't" must be followed by the base form of the verb which in this case is "like". Additionally, the pronoun "she" requires the usage of the auxiliary verb "does", so it needs an apostrophe before the t instead of after the o.
+0	Syntax	Masha and Jane are beautiful. Continue thus and you will combine trouble.
+0	Morphology & Syntax	She doesn't have any money.
+1	Correct	The sentence is already correct. Confidence level: 95%
+0	Morphology & Syntax	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negative sentences; also third person singular subjects require adding an -s to the verb in positive statements but not in negatives, so it should be "likes" rather than "like".
+0	Syntax	Masha and Jane are beautiful. Take this one. Note: The original sentence "Masha e Jane is beautiful. Take this." has an error in subject-verb agreement since it uses "is" instead of "are". Also, I assume that you meant for "this one" to be included as part of the corrected sentence.
+0	Morphology & Verb Agreement	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't like apples. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Also, the verb after "she" must be base form ("like") rather than third person singular ("likes").
+0	Syntax	"Scusa, Masha e Jane sono belle." (In English, "Excuse me, Masha and Jane are beautiful.") Confidence: 95%
+0	Morphology & Syntax	She doesn't have any pets. Explanation: The sentence has two morphological errors with double negatives ("don't" and "no") which violate standard English usage rules. Additionally, it features an improper contraction form ("she don't"). Replacing these mistakes will result in the corrected version provided above.
+0	Morphology & Syntax	She doesn't like ice cream.
+1	Correct	The sentence is already correct. (The original sentence "Your task is to classify whether the sentence is grammatically correct." is grammatically correct.)
+0	Morphology & Syntax	She doesn't like to eat vegetables. Explanation: The verb form "don't" requires an auxiliary verb ("does") before a singular third-person subject in present simple tense. Also, the verb "like" must agree with its subject "she," requiring the base form "likes."
+0	Morphology	She doesn't like ice cream. Explanation: The verb agreement between subject ("she") and auxiliary verb ("doesn't") must match; therefore, it should be "doesn't" instead of "don't".
+0	Morphology	She doesn't like ice cream.
+1	Correct	The sentence is already correct.
+0	Syntax	Masha and Jane are beautiful. Go home! Explanation: The original sentence has two issues - semantic and syntactic. Semantically, "e" should be changed to "and." Syntactically, there should be a period after "Jane are beautiful," since it forms a complete thought. Additionally, a capitalized word needs to start the second part of the sentence, which in English would typically require adding a pronoun such as "you" or an imperative verb form such as "go."
+0	Morphology	She doesn't like me.
+0	Morphology & Verb Agreement	She doesn't like you. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it when using in the negative form. Also, the verb that follows should be base form, so it should be "like" instead of "likes".
+0	Morphology	She drives carefully.
+0	Morphology	She doesn't like you. Explanation: The verb "does" must agree with its subject in number and person, so it requires the negation form "n't", instead of "not". Also, the third-person singular present simple tense uses an "-s" or "-es" suffix for regular verbs; therefore, "likes" changes to "like".
+0	Morphology	She doesn't like me. Explanation: The verb "does" must be followed by a singular noun and a base form of the verb, while "don't" is used for negating verbs in third person singular present simple tense. In this case, it should be "she doesn't like," instead of "she don't likes."
+0	Morphology	The friends whose teacher is Andre. Comments: In English, nouns have different forms depending on their function in a sentence. When used as the subject of a sentence, most singular nouns take an -s ending. However, when referring to people, we use an apostrophe + s for possession even if the noun is plural. Hence "Andrea" should be "Andre's".
+0	Morphology & Syntax	She doesn't have any apples. Explanation: The original sentence contains two errors related to morphological agreement as well as syntactic structure. In English, we use "doesn't" with singular third-person subjects instead of "don't". Also, it's more appropriate to say "any apples" rather than using double negatives ("no") in this context.
+0	Syntax	She doesn't like ice cream.
+0	Syntax	She doesn't want to come to the party.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	She doesn't like me.
+1	Correct	The sentence is already correct. Confidence level: 95%
+0	Morphology	She doesn't like apples. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negative sentences.
+0	Morphology	She doesn't like spinach.
+0	Morphology	She drives a car quickly. Explanation: In English, we use third person singular -s in present simple tense for subjects that are he, she, it. Therefore, instead of "she drive", you need to say "she drives". Additionally, I added an article "a" before "car" since it's more natural with countable nouns, and changed "fast" into its adverb form "quickly" as speed attributes require adverbs rather than adjectives.
+0	Morphology	The person who talked to me. Note: In English, nouns after "the" need to match in number (singular or plural). So, it should be "person", not "people".
+1	Correct	The sentence is already correct.
+0	Syntax	She doesn't like me.
+0	Syntax	Masha and Jane are beautiful. I have two houses. Note: In English, we use "and" instead of the Italian "e" to connect nouns, and subject-verb agreement in number is necessary ("are" for plural subjects such as "Masha and Jane"). Additionally, there needs to be an article before each house when referring to more than one house in English ("houses," not just "house").
+0	Morphology & Syntax	She doesn't have any apples. Explanation: The sentence contains two mistakes related to morphological agreement between auxiliary verb and subject ("she" vs. "don't") as well as syntactic agreement in negation structure ("no" instead of "any").
+0	Morphology	She doesn't like spinach.
+0	Morphology	She doesn't like to eat vegetables.
+0	Morphology	She doesn't like spinach.
+0	Morphology & Verb Agreement	She doesn't like spinach.
+0	Morphology & Syntactical agreement	She doesn't like me. Explanation: The verb form used with "she" in this context must be "doesn't," which is the contraction for "does not." Also, when using third person singular subjects such as "she" or "he," we add an -s to the base form of the verb unless it is irregular; hence, "likes" becomes "like(s)" here.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like to eat vegetables.
+0	Morphology	She doesn't have any apples. Explanation: The verb "doesn't" must be followed by the base form of the verb, so in this case it would be "have", instead of "don't".
+0	Morphology & Syntax	She doesn't like ice cream. Explanation: In English, we use "doesn't" instead of "don't" with he, she, it in present simple tense for negative sentences; also, the verb should agree with its subject in number, so "likes" should be used instead of "likes".
+0	Morphology	She doesn't like me.
+0	Morphology & Syntax	"She doesn't have any apples."
+0	Morphology & Syntax	She doesn't have any pets. Explanation: The original sentence contains two errors in morphology - using "don't" instead of "doesn't," which is necessary with third-person singular subjects; and using double negatives ("no pets"), whereas one negative is sufficient for standard English usage. In addition, there is an error in syntax due to subject-verb agreement as it uses "have" instead of "has".
+0	Morphology	The corrected form of this sentence would be "Me and you are going to the park." However, it's more common and grammatically correct to say "You and I are going to the park."
+0	Morphology	She doesn't like to eat vegetables.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like me.
+0	Syntax	She is driving a car.
+0	Syntax	She drives a car fast.
+0	Syntax	She doesn't want to come to Naples.
+0	Morphology	She doesn't like spinach.
+1	Correct	The sentence is already correct. Confidence level: 95%
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	"Masha and Jane are beautiful. Do you think such a thing is possible?" Explanation: The original English sentence contains multiple errors in morphology and syntax. It's important to use proper subject-verb agreement ("are" instead of "is") for plural subjects ("Masha and Jane"). In addition, there were punctuation issues that needed to be corrected.
+1	Correct	The sentence is already correct. Explanation: There's nothing wrong with the given sentence from a grammatical perspective; therefore, it can be classified as "correct."
+0	Morphology	She doesn't like spinach.
+0	Morphology	She doesn't like spinach.
+0	Syntax	Masha and Jane are beautiful. Cry (infinitive form) strongly. (Explanation: In English, we need to use an infinitive after verbs such as "to cry". Also, when using two subjects together with "and", we have to make them both plural.)
+0	Syntax	She doesn't like cats.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	She doesn't like ice cream.
+0	Syntax	She doesn't like spinach.
+0	Syntax	Mettere fretta is incorrect. The correct form is "Metter fretta."
+0	Morphology	She doesn't like spinach.
+0	Syntax	She drives a car very fast.
+0	Syntax	She doesn't like you.
+0	Morphology	She drives carefully.
+0	Morphology & Syntax	Those two boys play soccer together every weekend.
+0	Morphology	She doesn't like me.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like ice cream.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	She doesn't like me.
+0	Morphology & Syntax	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negative sentences. Also, the verb that follows "she" should be in base form ("like" instead of "likes").
+0	Morphology & Syntax	They are going to the store.
+0	Syntax	Masha and Jane are beautiful. Emit fragrance. Note: The original sentences have several issues. "Masha e Jane" should be connected with an "and", and their verb must agree in number, so it becomes "are". Additionally, "beli" should be changed to "beautiful", its English equivalent. In the second sentence, I assumed that you intended for me to provide the infinitive form since there's no subject; therefore, "emanate" would fit better than "emits."
+0	Syntax	Aprirne uno nuovo. Comment: The original sentence "Aprire un nuovo negozio" contains an error in its object pronoun form. In Italian, when referring back to a singular direct object that has been mentioned before, you use "ne". Therefore, the corrected version would be "Aprirne uno nuovo", which translates as "Opening one new store."
+0	Syntax	To start an activity. Explanation: The English equivalent of "Iniziare un'attività" would be "To start an activity", with "to" being used as an infinitive marker in English.
+0	Morphology	She doesn't like cats. Explanation: The verb "doesn't" must be followed by a base form of the verb, so "likes" should be changed to "like".
+0	Syntax	She doesn't like to eat vegetables. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negative sentences.
+0	Syntax	She doesn't like spinach.
+0	Syntax	What did she take? Explanation: The English translation provided contains an error in subject-verb agreement. In English, when referring to a singular female subject, we use "she" as the pronoun, and therefore require the verb form "has taken." However, it seems that "ha preso?" has been mistakenly translated from Italian directly into English, resulting in an incorrect grammatical structure for English language rules.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't like spinach. Explanation: The verb "doesn't" must be followed by the base form of the verb which in this case is "like". Also, subject-verb agreement requires that we use "doesn't" with a singular noun such as "she", but using "don't" would require a plural noun instead.
+0	Morphology	She doesn't like spinach. Explanation: The verb "do" must agree with its subject in number; therefore, it requires a third person singular form ("does") instead of "don't", which is used for plural subjects or when emphasizing negation.
+0	Syntax	She doesn't like to eat vegetables. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negative sentences.
+0	Syntax	They cling to a branch. Comment: The subject-verb agreement in the original sentence "Aggrappando a un ramo" is incorrect because "aggrappando" (present participle form of the verb "aggrappare") does not agree with its plural subject "they." A correct alternative would be using the third person plural form "si aggrappano," which means "they cling" in English.
+1	Correct	The sentence is already correct. (Note: I'm assuming that the original sentence you wanted me to evaluate was "Arenatesi le navi, gli equipaggi sono scesi a terra.")
+0	Syntax	She doesn't like to play soccer.
+0	Syntax	She doesn't like me.
+0	Morphology	She doesn't like to eat vegetables.
+0	Syntax	She doesn't like to play soccer. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in the present simple tense when expressing negations.
+0	Morphology & Syntax	She doesn't like ice cream. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Also, the verb after "she" should be in base form ("like") instead of third person singular (-s).
+0	Morphology & Syntax	She doesn't like to eat vegetables. Explanation: The verb "doesn't" requires the base form of the following verb for negation; therefore, it should be "like," not "likes".
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like spinach.
+1	Correct	The sentence is already correct. Comment: This sentence is grammatically correct with proper use of articles, subject-verb agreement, and verb tense consistency.
+1	Correct	The sentence is already correct.
+0	Syntax	Masha and Jane are beautiful. The wall mold grows in one day. Explanation: In English, when using "and" to connect two subjects, we use the plural form for verbs. Also, there were some spelling errors that needed correction.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like me.
+0	Morphology	She doesn't like spinach. Explanation: The verb "do" must agree with its subject in number; therefore, when used as an auxiliary verb for negation ("doesn't"), it requires a singular subject. In this case, since the subject "she" is singular, we need to use "doesn't" instead of "don't".
+0	Morphology	She doesn't like to eat vegetables.
+0	Morphology & Syntax	"She doesn't have any dogs." Explanation: The original sentence contains two morphological errors - using "don't" instead of "doesn't", which is required with third-person singular subjects; and using double negatives ("no dogs") in place of the positive form ("any dogs"). Additionally, there is a syntactical error as it lacks an auxiliary verb for the present simple tense when combined with a negative subject ("she has no dogs" would be grammatically correct without the contraction).
+0	Morphology	She doesn't like spinach.
+0	Morphology	Il disturbo è suo? Explanation: In Italian, articles must agree in gender and number with the noun they precede. The masculine singular form "il" should be used for the word "disturbo", instead of the feminine plural form "le".
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like me.
+0	Syntax	She drives carefully.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't have any apples.
+1	Correct	The sentence is already correct.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	"She doesn't have any pets." Explanation: The original sentence contains two morphological errors - using both an improper contraction ("don't" instead of "doesn't") and double negatives ("no" and "none"). It also has a syntactical issue by combining these incorrect elements in one statement.
+0	Syntax	Masha and Jane are beautiful. Saltare un obstacolo. Explanation: In English, we need to use a plural form for adjectives when describing two or more nouns. Therefore, "belle" should be changed to "beautiful". The second sentence has an issue with word order in English; it's written in Italian ("to jump over an obstacle").
+0	Morphology	She doesn't like to eat vegetables. (In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negation.)
+0	Syntax	She doesn't like spinach.
+0	Morphology	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negative sentences.
+0	Morphology & Syntax	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Also, the verb that follows should be in base form, so "likes" should replace "likes".
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't like spinach. (Explanation: The verb "doesn't" requires a base form after it; therefore, "likes" instead of "like" should be used.)
+0	Morphology & Syntax	She doesn't like to eat vegetables. Explanation: The verb "don't" must agree with the subject in number, so it requires an auxiliary verb ("does") instead when used with the third person singular pronoun "she". Additionally, the base form of the verb after "doesn't" should be "like", not "likes".
+0	Morphology & Syntax In English, we use "does" instead of "do" with he/she/it in present simple tense for negation and question sentences. Also, the verb after "she doesn't" should be base form, so it should be "likes" not "likes". Here is the corrected version:	She doesn't like spinach.
+0	Morphology	She doesn't like spinach.
+0	Syntax	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't like spinach. Explanation: The verb agreement in number between the subject ("she") and its corresponding auxiliary verb ("doesn't" instead of "don't") needs to be consistent, as well as the third person singular present tense inflection for the main verb "like".
+0	Syntax	Masha and Jane are beautiful. Francesco has calmed down, stiffened. Note: The original sentence had some issues with word order in English and also used "si" as a reflexive pronoun without an accompanying verb that requires it in Italian.
+0	Morphology & Syntax	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negative sentences. Additionally, the verb should agree with its subject; thus, it should be "likes" rather than "likes".
+0	Morphology	She doesn't like spinach. Explanation: The verb "doesn't" must agree with its subject in number and person. In English, we use "doesn't" for third-person singular subjects such as "she," but it requires a base form verb after it ("like" instead of "likes").
+0	Morphology & Syntax	She doesn't like spinach. Explanation: The verb form "don't" requires the base form of the verb after it; therefore, "likes" must be changed to "like". Additionally, in English subject-verb agreement rules apply, so we need to use the third person singular form "doesn't", instead of "don't".
+0	Morphology & Syntax	She doesn't like ice cream. Explanation: The verb in the third person singular requires an auxiliary verb ("does") with a negated form ("doesn't"). Additionally, there should be no apostrophe before "s" for the plural form of nouns such as "likes".
+0	Syntax	She doesn't like me.
+0	Morphology & Syntactical agreement	She doesn't like spinach.
+0	Syntax	She doesn't like me.
+0	Morphology	She doesn't like spinach.
+1	Correct	The dog barks. Confidence: 95%
+0	Morphology	She doesn't like spinach.
+0	Morphology	She doesn't like spinach.
+1	Correct	The sentence is already correct. Comment: Both sentences in Italian are grammatically correct. "Masha e Jane sono belle" means "Masha and Jane are beautiful", while "Il libro è sparito per tre giorni, poi è improvvisamente ricomparso sul mio tavolo." translates to "The book disappeared for three days, then suddenly reappeared on my table".
+0	Syntax	She doesn't like spinach.
+0	Morphology	She doesn't like spinach.
+0	Morphology & Syntax In English, we use "doesn't" instead of "don't" with he/she/it in the present simple tense for negation. Also, the verb "like" should be used as "likes" because the subject "she" is third person singular.	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't like spinach. Explanation: The verb "does" must agree with its subject "she", so it requires the negation form without an apostrophe ("n't"). Additionally, the third person singular present simple form needs an "-s" at the end when used with most verbs; hence, we have "likes" instead of "like".
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	She doesn't like to eat vegetables.
+0	Morphology	She doesn't like to eat vegetables. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negative sentences.
+0	Morphology & Syntax The verb form in the third person singular requires an -s ending for present tense regular verbs; therefore, it should be "she doesn't like" instead of "she don't likes". Additionally, the base form of the verb should be used after negative contractions such as "doesn't", so it should be "like" rather than "likes". Here is the corrected version:	She doesn't like spinach.
+0	Morphology & Syntax Incorrect Sentence: She don't likes spinach.	She doesn't like spinach. Explanation: The verb agreeing with "she" must be in third person singular form; therefore, it requires an -s at the end when used as present simple tense. Additionally, we use "doesn't" instead of "don't" for he/she/it subjects combined with negations.
+0	Morphology	She doesn't like spinach. Explanation: The verb "does" must agree with its subject in number and person; therefore, it requires the negation form "n't", instead of "not".
+0	Morphology & Syntax	She doesn't like spinach. Explanation: The verb "doesn't" must be followed by the base form of the verb, so it should be "like" instead of "likes". Additionally, in third person singular, we use "-s" or "-es" in present simple tense; therefore, the subject "she" does not require an additional -s on the verb when negated with "doesn't".
+0	Morphology	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't like spinach. Explanation: The verb "doesn't" must be followed by a base form of the verb; therefore, it should be "like" instead of "likes". Additionally, the contraction for "does not" in third person singular should be "doesn't", not "don't".
+0	Morphology	She doesn't like you.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like spinach. Explanation: The verb "do" must agree with its subject in number, so it requires the negated form "doesn't," rather than "don't," when used with a third-person singular pronoun such as "she".
+0	Morphology & Syntax In English, we use "doesn't" instead of "don't" with he/she/it in the present simple tense, so the verb agreement is incorrect here. Also, the third person singular form of verbs needs an -s at the end in positive sentences; thus, it should be "likes" rather than "likes".	She doesn't like spinach.
+0	Syntax	She doesn't like spinach.
+1	Correct	The sentence is already correct. (The original sentence "Firstly, write 'Label:' and return the label (0/1)" appears to be an instruction rather than a sentence for evaluation. I will instead evaluate the following complete sentence provided.)
+0	Morphology & Syntax	She doesn't have any pets. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations, so it should be "doesn't". Also, using double negatives ("no pets") together creates an incorrect meaning; instead, one can say "any pets," which implies the same idea but is grammatically correct.
+0	Morphology	She doesn't like spinach. Explanation: The verb "doesn't" must be followed by the base form of the verb, so "likes" should be changed to "like".
+0	Morphology	She doesn't like to eat vegetables.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like cats. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negative sentences.
+0	Morphology & Syntax	They went to the store. OR They are going to the store.
+0	Morphology	Riccardo drinks tea in a china cup. Comment: The word "the" needs to be changed to "tea."
+0	Morphology	She doesn't like ice cream.
+0	Syntax	Tommaso drew out the gun in the bar. Comment: The past tense of "estrarre" is "estrasse", but it should be "estraeva".
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like apples.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't have any pets.
+1	Correct	The sentence is already correct. Note: I am assuming that the sentence you provided is "Tommaso toglie i soldi dal cassetto." Since it's grammatically correct in Italian, my response would be as follows: Label: 1 Category: Correct Correct Sentence: The sentence is already correct.
+0	Syntax	She doesn't like spinach.
+0	Morphology	She doesn't like ice cream.
+0	Syntax	The dog chased the cat through the yard. A large bear chasing after it. Reasoning: In English, we don't use two separate sentences for one action when using "through" as a preposition; instead, they should be connected with a conjunction such as "and." Additionally, in the second sentence, there needs to be an article before "large bear," making it either "a large bear" or "the large bear."
+0	Morphology & Syntax	She doesn't have any apples.
+0	Morphology & Syntax	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Also, the verb needs to agree with its subject in number; therefore, it should be "likes", not "likes".
+0	Syntax	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	She doesn't like spinach.
+0	Morphology	She doesn't like apples. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negative sentences.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	She doesn't like spinach.
+0	Syntax	She doesn't like spinach.
+0	Morphology	She doesn't like ice cream.
+0	Morphology	She doesn't like cats. Explanation: The verb in third person singular form must have an auxiliary verb with a negative meaning ("doesn't") instead of "don't".
+0	Morphology	She doesn't like apples. Explanation: The contraction for "she does not" is "she doesn't," so the verb agreement must be corrected by changing "don't" to "doesn't".
+0	Morphology & Verb Agreement	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	She doesn't like cats.
+0	Morphology	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like to eat vegetables.
+0	Syntax	Alessandro beve il vino. (In Italian, the subject comes before the verb in simple tenses.)
+0	Morphology & Syntax	"She doesn't have any pets."
+0	Morphology & Syntax	She doesn't have any apples. Explanation: The sentence contains two errors in morphology - "don't" must be replaced with "doesn't", as it agrees with the third-person singular subject "she". Additionally, "no" must be changed to "any". In syntax, there is an error where double negatives ("don't" and "no") are used which creates an ungrammatical expression; instead, we use one negative form, "doesn't," along with "any."
+1	Correct	The sentence is already correct. (Note: I am assuming that the original sentence you wanted me to evaluate was "Firstly, write 'Label:' and return the label (0/1),..." Since no specific sentence was provided for evaluation in your message.)
+0	Morphology & Syntax	She doesn't like soccer.
+1	Correct	The sentence is already correct. Confidence level: 95%
+0	Morphology	She doesn't like spinach.
+0	Syntax	She doesn't like spinach.
+0	Syntax	She doesn't like to eat vegetables.
+0	Syntax	She doesn't like vegetables.
+0	Syntax	She doesn't like you.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't have any pets.
+1	Correct	The sentence is already correct. Comment: Great job! This English sentence appears to be grammatically correct.
+0	Morphology	She doesn't like spinach.
+0	Morphology	She doesn't like to eat vegetables.
+0	Morphology & Syntactical Agreement	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't like to eat vegetables. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Also, "likes" should be used instead of "likes".
+0	Morphology	She doesn't like to eat vegetables.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like spinach.
+0	Morphology & Subject-verb agreement	She doesn't like to play soccer.
+0	Syntax	She doesn't like ice cream.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't like spinach. Explanation: The verb form "don't" must be accompanied by the base form of the verb as in "doesn't like," rather than with the third person present tense of the verb "likes".
+0	Morphology	She doesn't like spinach.
+0	Syntax	You and I go to school together.
+0	Morphology	They two girls are really pretty.
+0	Morphology & Syntax	"She doesn't like spinach." Explanation: The verb agreement is incorrect as 'don't' must agree with 'she', which requires a singular form ('doesn't'). Also, the base form of the verb should be used after 'doesn't', so it should be 'like' instead of 'likes'.
+0	Morphology	She doesn't like me.
+0	Morphology & Subject-verb agreement	She doesn't like spinach.
+0	Morphology	She doesn't like spinach.
+0	Morphology & Verb Agreement	She doesn't like me.
+0	Syntax	"Che Riccardo **dipinga** sia bello." Explanation: The verb in the subjunctive mood should agree with the subject "Riccardo" which is third person singular. Therefore, it should be "dipinga" instead of "dipinge". Also, there shouldn't be a comma before "che".
+0	Morphology & Syntax	She doesn't like spinach. Explanation: The verb form "don't" needs to agree with the subject in number; since the subject here is third-person singular ("she"), we need to use "doesn't". Also, it should be "like", not "likes", because "she" is singular.
+0	Morphology & Syntax	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Additionally, the verb that follows the auxiliary verb should be in base form; thus, it should be "like" instead of "likes".
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	She doesn't like to play soccer.
+0	Syntax	She doesn't like to play soccer. Explanation: The verb in third person singular present tense requires an auxiliary verb "does" instead of "don't". Additionally, there is no possessive form required before the word "likes".
+0	Morphology & Syntactical Agreement	She doesn't like spinach.
+0	Morphology	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't like ice cream. Explanation: The verb "doesn't" must be followed by a base form of the verb, so "likes" should be changed to "like". Also, in standard English, we use "do" instead of "don't" with he/she/it when using it as an auxiliary verb for negations or questions.
+0	Morphology	She doesn't like spinach.
+0	Morphology	The cats meow at night. Comment: The word "cat's" with an apostrophe s indicates possession, but in your sentence, you want to indicate plurality instead. Therefore, it should be "cats" without an apostrophe.
+0	Morphology	She doesn't like me.
+0	Syntax	She doesn't like spinach.
+1	Correct	The sentence is already correct. Comment: This sentence "Il capitale dell'azienda ammonta a molti miliardi." is grammatically correct in Italian. It means "The company's capital amounts to many billions".
+0	Syntax	She doesn't like ice cream.
+0	Morphology & Syntax	She doesn't like me. Explanation: The verb "doesn't" must agree with the third person singular subject "she," so it requires an "-s" suffix in the present tense. Additionally, the base form of the verb after "doesn't" should be "like", instead of "likes".
+0	Morphology & Syntax	She doesn't like ice cream. Explanation: The verb agreeing with the third person singular subject must have an "-s" at the end in present tense. Also, the negation form requires does not (doesn't) instead of don't before the base form of the verb.
+0	Syntax	She doesn't like spinach. Explanation: The verb "do" must agree with its subject in number; therefore, it requires a third-person singular form ("does") when used with the pronoun "she". Also, we need an auxiliary verb before the present participle "liking", so the correct form is "doesn't like".
+0	Morphology & Syntactical agreement	She doesn't like spinach.
+0	Morphology	She doesn't like spinach.
+0	Morphology	She doesn't like me.
+0	Morphology & Syntax	She doesn't like you. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negative sentences. Also, the verb needs to agree with its subject in number; therefore, it should be "likes" instead of "likes".
+0	Syntax	They are going to the store.
+0	Syntax	She doesn't like spinach.
+0	Morphology	She doesn't like spinach.
+0	Morphology	The majority negotiates with the Opposition. The word "patteggia" does not agree in number with "La Maggioranza." It should be changed to "patteggiano" for grammatical agreement.
+0	Morphology & Syntax	She doesn't like spinach. Explanation: The verb "doesn't" must be followed by a bare infinitive such as "like", instead of the third person present tense form "likes".
+0	Subject-verb agreement	Me and my friend go to school together.
+1	Correct	The dog barks. Confidence: 95%
+0	Morphology & Syntax In English, we use "does" instead of "do" with he/she/it in present simple tense for negation and question formation. Also, "likes" should be used instead of "like" after she because it requires third person singular form which takes -s at the end.	She doesn't like spinach.
+0	Morphology	She doesn't like apples.
+0	Morphology & Syntactical Agreement	She doesn't like cats.
+0	Morphology	She doesn't like spinach.
+0	Morphology	She doesn't like me. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations.
+0	Morphology	She doesn't like me.
+0	Morphology	She doesn't like you.
+0	Morphology & Syntax	She doesn't have any pets. Explanation: The original sentence contains two mistakes in morphology and syntax. Double negatives ("don't" and "no") as well as using "have no" instead of "doesn't have any" are both incorrect grammatical structures.
+0	Morphology & Syntax Incorrect Sentence: She don't likes spinach. Correction Details: The verb "do" must agree with its subject in number; therefore, it should be "doesn't" instead of "don't". Additionally, the base form of the verb "like" should follow auxiliary verbs such as "does", so it should be "likes" rather than "likes".	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't like me. Explanation: The verb "doesn't" must agree with its subject in number and person; therefore, it requires a singular third-person female pronoun as its subject ("she"). Additionally, we use "like" instead of "likes" when using "she" as a subject because she is singular, making the original form incorrect.
+0	Morphology & Verb Agreement	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't have any pets. Confidence: 99%
+0	Morphology	She doesn't like to play soccer. Explanation: The verb form used with the subject she should be does not instead of don't in negative sentences.
+0	Morphology	She doesn't like spinach.
+0	Morphology	She doesn't like spinach.
+0	Syntax	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't like to play soccer. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Additionally, the verb after "she" should be in base form ("likes") instead of using the third person singular suffix "-s".
+0	Morphology & Syntax	She doesn't have any pets.
+1	Correct	The sentence is already correct. Explanation: In the provided sentence "Firstly, I would like to say that grammar is essential for effective communication.", there is no morphological, syntactical, or semantic error. Therefore, it can be classified as grammatically correct.
+1	Correct	The government converts opponents into criminals. Note: I noticed that there might be some inconsistencies between your provided input's language and my response. Since you asked for English grammar evaluation, here it is with an English corrected version.
+0	Morphology	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	She doesn't like apples.
+1	Correct	The sentence is already correct. Comment: This sentence "I am learning how to play chess." is grammatically correct with no mistakes in morphology, syntax, or semantics.
+0	Morphology	She doesn't like spinach.
+0	Morphology	She doesn't like spinach.
+0	Syntax	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	Masha and Jane are beautiful. The sentence "Masha e Jane son belle" is incorrect because "son" should be "are". In English, we use "are" as an auxiliary verb for plural subjects in present tense.
+0	Morphology	She doesn't like apples.
+0	Syntax	She doesn't like spinach.
+0	Morphology	She doesn't like to eat vegetables. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations.
+0	Morphology	She doesn't like ice cream.
+0	Syntax	The tourists scatter the lawn with litter. Explanation: In English, we use "scatter something on" instead of "scatter something of". Also, it's more common to say that people "litter" an area rather than "disseminate" it with trash in casual conversation.
+1	Correct	The sentence is already correct. Comment: This sentence appears to be grammatically correct in English without any apparent mistakes related to morphology, syntax, or semantics.
+0	Morphology	She doesn't like spinach. Explanation: The verb in the third person singular form requires an "-es" suffix for most verbs when using he/she/it as the subject, instead of "don't", it should be "doesn't".
+1	Correct	The sentence is already correct. (Note: I am assuming that the original sentence you provided me was "Alessandro scarica Giulia dalle proprie responsabilità." This sentence appears to be grammatically correct.)
+0	Morphology & Syntactical agreement	She doesn't like spinach.
+0	Syntax	"She doesn't have any apples."
+0	Morphology & Syntax	She doesn't like cats. Explanation: The verb "doesn't" must be followed by the base form of the verb, so "likes" instead of "like". Also, in formal English, we use "do not" for negative sentences; however, it contracts to "doesn't" with he/she/it subjects.
+0	Syntax	The cat doesn't likes dogs. Correction: The cat doesn't like dogs.
+0	Syntax	She doesn't have any pets.
+0	Morphology	They three boys went to school yesterday. Explanation: In English, we use "they" instead of "them" when referring to a group of people as the subject of a sentence. Additionally, the past tense of "go" is "went," not "goed."
+0	Syntax	She doesn't like cats.
+1	Correct	The sentence is already correct. Comment: The sentence "Paola spun le gambe di Francesco verso la parete." is grammatically correct in Italian.
+0	Morphology	She doesn't like apples.
+0	Syntax	She doesn't like spinach.
+0	Morphology	She doesn't like me.
+0	Morphology & Syntax Incorrect Sentence: She don't likes to eat vegetables. Correction Details: The verb "do" must agree with its subject in number; therefore, it requires the form "does" when used with third-person singular pronouns such as "she". Additionally, the base form of the verb should be used after modal verbs like "likes", so the correct form here would be "like".	She doesn't like to eat vegetables.
+0	Morphology	She doesn't like apples. Explanation: The verb "do" must agree with its subject in number; therefore, it requires a third person singular form ("does") instead of "don't".
+1	Correct	The sentence is already correct. (Note: I'm assuming that the input sentence you want me to check for grammaticality is "Un buon timoniere attracca rapidamente la sua nave al molo." This Italian sentence appears to be grammatically correct.)
+0	Morphology	She doesn't like ice cream.
+1	Correct	The sentence is already correct. Confidence level: I am highly confident that the sentence "Firstly, write 'Label:' and return the label (0/1)" is grammatically correct as it follows standard English syntax rules for forming an imperative sentence with an adverb ("firstly") modifying the verb phrase.
+0	Morphology	She doesn't like spinach.
+0	Morphology	She divided Andrea and Thomas.
+0	Syntax	She doesn't like him.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like me.
+0	Morphology	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	She doesn't like to eat vegetables. Explanation: The verb "doesn't" requires the base form of the verb that follows it; therefore, we need "like" instead of "likes".
+0	Morphology & Syntax	"She doesn't have any pets."
+0	Morphology	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't like to play soccer. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Also, "likes" should be used instead of "likey" which is an incorrect form.
+1	Correct	The sentence is already correct. Comment: The sentence "I enjoys playing basketball." appears to be grammatically incorrect due to subject-verb agreement error. It should be "I enjoy playing basketball." instead.
+0	Morphology & Syntax	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Also, "likes" should be used instead of "liks".
+0	Morphology	She doesn't like ice cream. Explanation: The verb "does" must be followed by "n't", not just an apostrophe ('). Therefore, the correct form should be "doesn't".
+0	Morphology	She doesn't like me.
+0	Morphology	She doesn't like apples. Explanation: The verb "does" must be followed by "n't", instead of just "not". Also, it requires third person singular form for present simple tense, so "like" changes to "likes".
+0	Syntax	The sentence should be "She doesn't have any pets."
+0	Morphology	She doesn't like spinach. Explanation: The verb "doesn't" must be followed by a base form of the verb, so it should be "like" instead of "likes".
+0	Morphology & Subject-Verb Agreement	She doesn't like spinach.
+0	Morphology	She doesn't like me.
+0	Syntax	Che angoscia a Lorenzo quando viaggia, Tommaso. Explanation: In Italian, "che" followed by a verb needs to be constructed as "che + subject pronoun + auxiliary verb." Here, it's missing the required subject pronoun before the verb "viaggi," which causes an incomplete question structure. The corrected version would read: "Che angoscia a Lorenzo quando viaggia, Tommaso?"
+0	Syntax	Riccardo lo approva questa idea. Comment: The original sentence "Riccardo lo approva l'idea ciò" contains two errors in Italian syntax. The first error is that the definite article "l'" before the noun "idea" should be replaced with the demonstrative pronoun "questa". The second error is that the word "ciò", which means "this" or "that", is unnecessary and does not fit syntactically into the sentence. A corrected version would read "Riccardo lo approva questa idea."
+0	Syntax	Edoardo lo approva che Maria canta. Comment: In Italian, when using "approvare" with an indirect object pronoun ("lo"), it must be followed by an infinitive verb instead of a clause introduced by "che". Therefore, the corrected version should read as "Edoardo lo approva che Maria canta."
+0	Syntax	She wants to come to the party.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't like to eat vegetables. (Explanation: The verb "do" requires an auxiliary verb "does" with third person singular subjects such as "she". Also, in modern English usage, we use "like" instead of "likes" for negative sentences.)
+0	Morphology & Verb Agreement	She doesn't like spinach.
+0	Morphology	She doesn't like to play soccer. Explanation: The verb "doesn't" must be followed by a base form of the verb, so in this case, it should be "like" instead of "likes".
+0	Morphology & Syntax	She doesn't like ice cream. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Additionally, the verb must agree with its subject in number; thus, it should be "likes," not "likes."
+0	Morphology	She doesn't like to eat vegetables. Explanation: The verb "does" must be followed by the base form of the verb when negated, so it should be "she doesn't like," instead of "she don't likes".
+0	Syntax	The cat that chased the mouse ran away quickly. Comments: In English, relative pronouns such as "that" need to be placed immediately after the noun they modify in restrictive clauses. Therefore, it should be "the cat that chased the mouse," instead of "the cat the chase the mouse."
+0	Syntax	Masha and Jane are beautiful. Leonardo entertains Leo because Maria is laughing. Note: The original sentence contains some errors in subject-verb agreement and pronoun usage. In addition, "allieta" appears to be an incorrect form of a verb; I assume you meant "allora" instead, but I chose "entertains" as the corrected translation for clarity.
+1	Correct	The sentence is already correct. (The sentence "She and Jane are beautiful. Sadness and boredom depress Gabriel." is grammatically correct.)
+1	Correct	The sentence is already correct. Confidence: 95%
+0	Syntax	She doesn't like ice cream.
+0	Morphology & Verb Agreement	She doesn't like to play soccer.
+1	Correct	The sentence is already correct. Comment: In this case, both sentences appear to be grammatically correct in standard Italian. There seem to be no morphological, syntactic, or semantic issues present.
+0	Syntax	The sentence "Di vedere i marziani accadde a Paola." is incorrect. It should be: "Paola di vederi i marziani accadde." However, even with the correction, it still sounds unnatural in Italian as it's not the usual way to express that idea. A more natural way would be: "A Paola successe di vedere dei marziani."
+0	Morphology & Syntax	She doesn't have any pets.
+1	Correct	The sentence is already correct. (The original sentence "Di aver vinto al lotto splendeva nel suo sguardo." is in Italian and it seems grammatically correct.)
+0	Morphology	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't like ice cream. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations, also third person singular subjects take an -s at the end of the verb in present simple tense which is missing here as well.
+0	Morphology	She doesn't like spinach.
+1	Correct	The sentence is already correct. (The sentence "I condemn the fact that Herod killed the children" appears to be grammatically correct.)
+0	Morphology	She doesn't like me. Explanation: The verb form "don't" requires the base form of the verb that follows it; in this case, the proper form is "like," not "likes".
+0	Morphology & Syntax	"She doesn't like spinach." Explanation: The verb "doesn't" must be followed by the base form of the verb, so it should be "like" instead of "likes". Also, in negative sentences with auxiliary verbs such as "do," we use the contraction "doesn't" for third person singular subjects ("she"), but the word order remains subject-auxiliary verb-main verb.
+0	Morphology	She doesn't like to play basketball. Explanation: The verb "does" must be followed by "n't", instead of "don't".
+0	Syntax	Paola ritiene che sia carino che si parte. Explanation: The subject-verb agreement in "si parta è carino" is incorrect; it should be "sia carino che si parti."
+0	Morphology	She doesn't like spinach. Explanation: The verb form "don't" requires the base form of the verb after it; therefore, "likes" should be changed to "like".
+0	Syntax	Beatrice le giudica che Maria ha troppi amanti. Explanation: The subject-verb agreement in Italian requires that singular subjects take a third person singular verb form, while plural subjects require a third person plural verb form. In this case, "Beatrice" is a singular female name, so it takes a singular verb form. Therefore, instead of using "lo," which means "him" and agrees with masculine gender nouns, we need to use "le" since "Beatrice" is feminine gender.
+0	Morphology	She doesn't like to eat vegetables. Explanation: The verb in the third person singular form requires an apostrophe after the base form of the verb followed by 's', which indicates that it does not have another auxiliary verb such as 'do' before it. Therefore, 'don't' must be replaced with 'doesn't' for grammatical correctness.
+0	Morphology	She doesn't like apples.
+0	Morphology	She doesn't like spinach.
+1	Correct	The sentence is already correct.
+0	Morphology	She doesn't like ice cream. Explanation: In English, we use do/does for present simple tense when forming questions and negatives with most verbs. The verb after he/she/it in present simple affirmative sentences does not have an ending -s or -es; however, it takes on that form in negative sentences and questions formed with auxiliary verbs do/does. Therefore, since she is singular third person, the base form of the verb like changes to likes in positive statements but reverts back to like in negative forms such as "She doesn't like..."
+0	Morphology & Syntax	She doesn't like spinach. Explanation: The verb form "don't" must be accompanied by "she" in its contracted form ("doesn't") when referring to third person singular subjects such as "she". Additionally, the base form of the verb "like" should follow "doesn't", resulting in "she doesn't like spinach".
+0	Syntax	Masha and Jana are beautiful. Alice works at hunting Maria. (Explanation: In English, we use "and" instead of "/" to connect two subjects; also, it's "Jane," not "e Jane". Additionally, there seems to be an incorrect verb choice for the context in the second sentence.)
+0	Subject-Verb Agreement	My friend and I go to school together.
+0	Morphology & Verb Agreement	She doesn't like spinach.
+0	Morphology	She doesn't like ice cream.
+1	Correct	The sentence is already correct. Comment: I am assuming that you want me to evaluate the following pair of sentences as two separate instances: "Masha e Jane sono belle." and "Paola mira a che il futuro sia felice." Both sentences appear to be grammatically correct in Italian.
+0	Syntax	She doesn't like ice cream.
+0	Morphology	She doesn't like me.
+0	Syntax	Paola accetta che la legino. Comment: The verb "acconsente" requires the third person plural form of the verb in its subordinate clause, which would be "legino".
+0	Morphology	She doesn't like to play soccer. Confidence level: I am highly confident that the correction made is accurate as it follows standard English grammar rules for verb agreement with subject and negation.
+1	Correct	The condition of distress arises from lack of water. Explanation: The sentence is grammatically correct as it stands.
+0	Syntax	Da questa analisi risulta il nostro partito. Explanation: The original sentence contained "da quest'analisi" which uses an apostrophe instead of "da questa", which requires no apostrophe because it agrees with the feminine singular noun "analisi".
+1	Correct	The sentence is already correct. Confidence level: 95%
+0	Morphology	She doesn't like apples. Explanation: The verb "does" must be followed by the base form of the verb when using negation in present simple tense. In this case, it should be "like", instead of "likes".
+0	Morphology	She doesn't like spinach.
+0	Morphology	She doesn't like spinach.
+1	Correct	The sentence is already correct. (Note: I am assuming that the original sentence you wanted me to evaluate is "Masha and Jane are beautiful. Paul charges Leo with the fact that he is hungry now." Since no specific sentence was provided in your message.)
+0	Morphology	She doesn't like me. Explanation: The verb "does" must agree with its subject in number and person; therefore, it requires a third-person singular form ("she") followed by a base form of the verb ("like").
+0	Syntax	She doesn't like spinach.
+1	Correct	The sentence is already correct.
+1	Correct	The sentence is already correct. Comment: This sentence is grammatically correct in English.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like cats.
+0	Morphology & Verb Agreement	She doesn't like spinach.
+0	Syntax	The mayor exempts the poor from paying the bus fare. Explanation: In English, it's "the bus fare" instead of "il bus."
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like to play soccer. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in the present simple tense for negations.
+1	Correct	The sentence is already correct. (Note: I am assuming that you want me to evaluate the Italian sentence "Maria si accorge di essere innamorata dal fatto di arrossire." as it's an individual sentence without context.)
+0	Morphology	She doesn't like me.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like to eat meat.
+0	Morphology & Syntax	She doesn't like spinach. Explanation: The verb form "don't" requires an auxiliary verb after it in a negative statement. Additionally, "likes" must agree with its subject "she," so we need the third person singular -s at the end.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Verb Agreement	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	Gabriele uses to eat it. (Note: The corrected sentence would be "Gabriele eats it" in proper English.)
+1	Correct	The dog barks. Confidence: 95%
+0	Morphology & Syntax	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Also, the verb after "she" should be in base form, so it should be "like" instead of "likes".
+0	Morphology & Syntax	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Also, it should be "likes" instead of "likeses".
+0	Morphology & Syntactical Agreement	She doesn't like cats.
+1	Correct	The sentence is already correct. (Note: I'm assuming that the provided sentence is "Firstly," since no specific sentence was given in your message.)
+0	Morphology & Syntactical agreement	She doesn't like you. Explanation: The verb form in the original sentence does not agree with its subject, so it needs an adjustment from "don't" to "doesn't". Additionally, the third person singular requires the present tense base form followed by "-s", making "likes" the appropriate choice for the verb instead of "like".
+0	Morphology	She doesn't like me. Explanation: The verb "does" must be followed by the base form of the verb when negated, so it should be "she doesn't like me," instead of "she don't likes me."
+1	Correct	The sentence is already correct.
+0	Morphology & Syntactical Agreement	She doesn't like me. Explanation: The verb form in the original sentence ("don't") does not agree with its subject ("she"). It must be changed from "don't" to "doesn't". Additionally, it needs an s at the end of likes because we use third person singular when referring to one person doing something (in present simple tense): she likes -> she likes**s**.
+0	Morphology	She doesn't like to eat vegetables.
+0	Morphology & Syntax In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negative sentences. Also, the verb "likes" should be used instead of "likeses". So, let me provide you with the corrected version.	She doesn't like spinach. The sentence is already correct.
+0	Morphology & Syntax	She doesn't like to eat vegetables. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Also, "likes" should be used instead of "to likes".
+0	Syntax	The correct form of the sentence would be "Alcuni di quei musei sono stati progettati da architetti." In your original sentence, there were two mistakes - first, the word "quelli" must agree in gender with what it refers to, so instead of "quell'alcuni," we need to say "alcuni di quei"; second, the past participle "progetti" needs an auxiliary verb such as "sono stati", but since you used one already ("sono"), just replace "progetti" with its singular form "progettato".
+1	Correct	The sentence is already correct. Comment: I am assuming that the input sentence is "She sells seashells." which appears to be grammatically correct.
+0	Morphology & Syntax	She doesn't like to eat vegetables. Explanation: The verb form "don't" needs to be accompanied by "she" in its contracted form ("doesn't") when followed by a third-person singular subject. Also, it requires the base form of the verb after "like", so "likes" has been changed into "like".
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like spinach.
+0	Morphology & Syntax Incorrect Sentence: She don't likes spinach.	She doesn't like spinach.
+0	Syntax	Che tu sia PARTITA raggiunga Beatrice. Explanation: The correct form of the verb "to reach" in Italian for the second person singular feminine (Beatrice) in the past subjunctive tense is "raggiunga", instead of "rallegra".
+0	Morphology & Syntax In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negation. Also, the verb after "she doesn't" should be base form, so it should be "likes" instead of "likes". Here is the corrected version:	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't have any pets.
+1	Correct	The sentence is already correct.
+0	Syntax	Tommaso obeys Maria. Comment: The verb "obbedisce" requires a direct object, but in this case, there's no direct object after it. A possible correction could be: "Tommaso obbedisce a Maria." which means "Tommaso obeys Maria".
+0	Syntax	Masha, e Jane, are beautiful. Andrea confronts Leonardo with his concerns. Explanation: In English, we use an "S" at the end of a verb when there is more than one subject (Masha and Jane in this case). Also, for introducing the reason why someone is being confronted, we need to specify what that reason is, as it's shown in the corrected version ("with his concerns").
+0	Morphology & Syntax	She doesn't like ice cream.
+0	Morphology & Syntax	She doesn't like spinach. Explanation: The verb form after "she" must be in singular negative form which is "doesn't", but it has been mistakenly written as "don't". Also, the base form of the verb "like" follows the subject instead of its third person present tense form "likes".
+0	Morphology	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he, she, it in present simple tense for negative sentences.
+0	Morphology & Syntax Explanation: The sentence contains two errors related to negation. In English, we use "doesn't" instead of "don't" with he/she/it in the present simple tense, and it should be either "She doesn't have any pets" or "She has no pets".	She doesn't have any pets.
+0	Morphology & Syntax In English, we use "does" instead of "do" with he/she/it in present simple tense for negation and question forms. Also, the verb after "she doesn't" should be in base form, so it should be "like" instead of "likes".	She doesn't like apples.
+0	Morphology	She doesn't like spinach.
+0	Morphology	She doesn't like spinach.
+0	Morphology	She doesn't like cats. Explanation: The verb "doesn't" must be followed by the base form of the verb, so it should be "like" instead of "likes".
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	She doesn't like to play soccer.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like spinach.
+1	Correct	The sentence is already correct. Comment: Great job! You provided a grammatically correct sentence.
+0	Syntax	She doesn't like me.
+1	Correct	The sentence is already correct. Comment: Both sentences are grammatically correct in Italian. "Masha e Jane sono belle" means "Masha and Jane are beautiful", while "Le sei bombe sono esplose il 6 maggio 1999" means "The six bombs exploded on May 6, 1999".
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax In English, we use "does" instead of "do" with he/she/it in present simple tense for negation and question formation. Also, the verb that follows "she doesn't" should be in base form which is "like" not "likes".	She doesn't like spinach.
+0	Morphology	She doesn't like spinach.
+0	Morphology	She doesn't like you.
+0	Syntax	It disappoints Beatrice that you're leaving. Explanation: The original Italian sentence has an incorrect word order for expressing "it disappoints." In English, it would be "to" + subject ("Beatrice") + verb in base form ("disappoints"). Therefore, the corrected sentence is "It disappoints Beatrice that you're leaving," instead of "Che tu vada via dispiace a Beatrice."
+0	Syntax	She doesn't like me.
+0	Morphology	The cat sung a song. The correct form of the verb "sing" should be used in place of "sung."
+1	Correct	The sentence is already correct. (Note: I assume that you provided me with two separate sentences for classification as there were no conjunction words connecting them.)
+0	Morphology	She doesn't like spinach. Explanation: The verb "doesn't" must be followed by the base form of the verb, so it should be "like" instead of "likes".
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax In English, we use "does" instead of "do" with he/she/it in present simple tense for negation and question forms. Also, "likes" should be used instead of "like" after she. Here's the corrected version:	She doesn't like spinach.
+0	Morphology	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Additionally, the verb should agree with its subject in number; thus, "likes" is used instead of "like".
+1	Correct	The sentence is already correct. (Both sentences appear to be grammatically correct.)
+0	Morphology & Syntax	She doesn't like apples. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in third person singular when using present simple tense for negations. Also, the verb "like" requires the base form after "does," "doesn't," "do," and "don't".
+0	Syntax	She doesn't like spinach.
+0	Syntax	Masha and Jane are beautiful. Alice put it and that happened in the closet. Note: The original sentence has two issues - "Masha e Jane" should be "Masha and Jane", and "nell'armadio" should be "in the closet".
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like spinach. Explanation: The verb "doesn't" must be followed by the base form of the verb, which in this case would be "like," instead of "likes."
+0	Morphology	She doesn't like spinach.
+1	Correct	The sentence is already correct. (Note: Both sentences "Firstly," and "Answer the following question:" can be considered as fragments or incomplete sentences, but they could also function as part of a larger discourse where context has been provided beforehand.)
+0	Morphology & Syntax	She doesn't have any apples.
+0	Syntax	She doesn't like you.
+0	Morphology & Subject-verb agreement	She doesn't like spinach.
+0	Morphology	She doesn't like to eat vegetables.
+0	Morphology	The sentence should be "She doesn't like spinach." In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense when asking questions or making negative statements.
+0	Syntax	She doesn't like to eat vegetables. Explanation: The verb "doesn't" must be followed by the base form of the verb which in this case is "like".
+0	Morphology & Syntax	She doesn't like spinach. Explanation: The verb agreement in number between subject ("she") and auxiliary verb ("doesn't") as well as the third person singular present tense inflection "-es" on the main verb ("likes") are inconsistent with standard English grammar rules.
+0	Morphology & Syntactical Agreement	She doesn't like spinach.
+0	Syntax	She doesn't like me.
+0	Morphology	The sentence "Me and my friend go to school together" is already correct.
+0	Morphology & Syntax	She doesn't have any money. Explanation: The double negatives in the original sentence ("don't" and "no") create a morphological error as well as violate the syntactic rule against multiple negations. Changing them to "doesn't" and "any", respectively, results in a grammatically correct sentence.
+0	Morphology	She doesn't like to eat vegetables.
+0	Morphology & Syntax	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negative sentences. Also, the verb that follows the auxiliary verb should be in base form; hence, it should be "like" instead of "likes".
+0	Morphology & Syntax	She doesn't have any pets. Explanation: The original sentence contains two morphological errors ("don't" instead of "doesn't", and "no" instead of "any"). It also has a syntactical issue due to double negatives which makes it ungrammatical in Standard English.
+1	Correct	The dog barks.
+0	Morphology	She doesn't like spinach.
+0	Syntax	Masha and Jane are beautiful. Alice baths Maria. (Explanation: The verb "baths" does not agree with its subject "Alice", it should be "bats". Also, in English, we don't say "X baths Y," instead we say "X bathes Y." So, the corrected version would be "Alice bathes Maria.")
+1	Correct	The sentence is already correct. Explanation: "Firstly, she walks; secondly, he talks; thirdly, they laugh" is grammatically correct in English. Each part contains a subject ("she", "he", "they") followed by a verb in past tense ("walks", "talks", "laughs"). Also, each part uses a coordinating conjunction ("firstly", "secondly", "thirdly") for clearer structure.
+0	Morphology	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like me.
+0	Morphology & Syntax	She doesn't like apples. Explanation: The verb "doesn't" must be followed by a base form of the verb, so in this case it would be "like", instead of "likes". Also, we need to use the pronoun "she" with the singular verb "doesn't" rather than using the plural form "don't".
+0	Syntax	Alessandro invites Paola to leave. Explanation: In English, we use "invite someone to do something" instead of "invite someone to that they leave". Also, in present simple tense for third person singular subjects, we add an "-s" at the end of the verb in affirmative sentences (e.g., "Alessandro invites").
+0	Morphology & Syntax	Me and you go to the store. Explanation: The verb "goes" must agree with its subject in number. Since the subject "me and you" is plural, the correct form of the verb should be "go". Additionally, we usually add an article before the word "store".
+0	Morphology	She doesn't like to eat vegetables.
+1	Correct	The sentence is already correct. Comment: The sentence "Firstly, let's eat grandma." can be grammatically corrected by adding a comma after "Firstly" as follows: "Firstly, let's eat, grandma." This way, the sentence becomes grammatically correct with two different meanings - an imperative statement addressed to someone named Grandma and a sentence expressing urgency in eating before grandma does.
+0	Morphology & Syntax In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negation, also third person singular subjects require adding an -s to the base form of verbs in present simple tense. So, the correction would be:	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	La pentola piange. Comment: In Italian, "piatto" means plate and "pentola" means pot or pan. So, in order for the corrected sentence to make sense, we need to change it from "Il piatto piange" to "La pentola piange".
+0	Syntax	Masha and Jane are beautiful. I'm getting annoyed. Explanation: In English, we use "and" instead of "e" for connecting two subjects, and commas are required when listing multiple adjectives in front of a noun. Additionally, there is no direct translation for the Italian expression "mi girano le scatole," so it has been translated as "I'm getting annoyed."
+0	Syntax	She doesn't like spinach. Explanation: The verb "doesn't" must be followed by the base form of the verb, which in this case is "like". Using "likes" after "don't" makes the sentence syntactically incorrect.
+0	Morphology	She doesn't like spinach.
+0	Morphology & Syntactical Agreement	She doesn't like ice cream.
+0	Syntax	Masha and Jane are beautiful. Have courage. In English, we use "have" instead of "avere" for the verb "to have." Also, subject pronouns such as "she," "he," and "they" are usually dropped in English when talking about people whose gender or number is clear from context or previous mention. In your provided Italian sentence, both "Masha" and "Jane" were mentioned before, so it's appropriate to say "Masha and Jane are..." without repeating their names explicitly.
+0	Morphology & Syntax	She doesn't have any patience.
+0	Morphology	She doesn't have any cats. Explanation: The verb in third person singular form requires the addition of an -s at the end when using present simple tense; therefore, it should be "doesn't" instead of "don't".
+0	Morphology	Essere in una pancia di vacca. Explanation: In Italian, "ventre" means stomach or belly, while "pancia" also refers to the belly but it's more colloquial and less formal than "ventre." However, when using the preposition "di", you need an article before the noun that follows. Therefore, the correct form would be "in una pancia di vacca".
+1	Correct	The sentence is already correct. (Note that I had to make an assumption about what the original sentence might have been since no specific sentence was provided in your request.)
+0	Morphology	The sentence should be "She doesn't like spinach." In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negation.
+0	Syntax	She doesn't like spinach.
+0	Syntax	She doesn't like ice cream.
+0	Morphology & Syntax In English, we never use double negatives in one sentence because it creates confusion about the intended meaning. The correct form should be either "she doesn't have any pets" or "she has no pets".	She doesn't have any pets.
+0	Syntax Correction Suggestion: The correct form should be "she doesn't like ice cream" as we use "doesn't" instead of "don't" with he/she/it in present simple tense negation.	She doesn't like ice cream.
+0	Subject-Verb Agreement	She introduced herself to his friends. Explanation: The verb in the past tense ("introduced") must agree with its subject in number. Since "she" is singular, the verb form must also be singular.
+0	Morphology & Subject-Verb Agreement	She doesn't like cats. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Also, the verb must agree with its subject in number; thus, it should be "likes" rather than "likes".
+0	Morphology	She doesn't like me.
+1	Correct	The sentence is already correct. Comment: This sentence is grammatically correct and understandable in English.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like spinach.
+0	Morphology	She doesn't like spinach.
+0	Morphology	She doesn't like cats.
+0	Syntax	Masha and Jana are beautiful. The books are what Leo puts on the shelves now. Note: I noticed that in your original sentence you used "e" instead of "and," which is common in some languages but not in English. Additionally, it's more typical to use first names without an article before them in English.
+0	Morphology & Syntax	She doesn't like ice cream.
+0	Syntax	She doesn't like you.
+0	Syntax	She doesn't like spinach.
+0	Syntax	She doesn't like me.
+0	Syntax	She doesn't like spinach.
+0	Morphology	She doesn't like to play soccer. Explanation: The verb "doesn't" must agree with the third person singular subject "she," so it requires an "-s" at the end. Also, the base form of the verb after "to" should be used in present simple tense; therefore, we use "like" instead of "likes".
+0	Morphology	She doesn't like spinach.
+1	Correct	The sentence is already correct. Comment: This sentence appears to be grammatically correct in English.
+0	Syntax	She doesn't like cats.
+0	Morphology & Syntax	She doesn't like spinach.
+0	Morphology	She drives a car very well.
+0	Morphology	She doesn't like ice cream. Explanation: The verb agreement in the original sentence is incorrect; it should be "doesn't" instead of "don't".
+0	Syntax	She doesn't like me.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax Explanation: The verb "don't" is used for negations, but here it is used incorrectly along with the subject "she". Also, the present tense form of the verb should be "likes", instead of "like". Additionally, the auxiliary verb "does" should be used before the base form of the verb in affirmative sentences.	She doesn't like spinach.
+0	Syntax	I laughed for two hours. The reason why the original sentence "I laughed two hours" is incorrect is that it lacks a preposition such as "for." The corrected version includes "for two hours," making it grammatically acceptable.
+0	Syntax	She doesn't like soccer.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	She drives carefully.
+0	Syntax	She doesn't like spinach.
+1	Correct	The sentence is already correct. (Note: I am assuming that the input sentence is "She sells seashells by the seashore.")
+0	Syntax	She doesn't like spinach.
+0	Morphology & Syntactical Agreement	She doesn't like spinach.
+0	Syntax	She doesn't like spinach.
+0	Morphology	She doesn't like to eat vegetables.
+0	Morphology	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't like spinach. Explanation: The verb form "don't" must agree with the subject in number; since "she" is singular, we need the third person singular negative contraction "doesn't". Additionally, the base form of the verb "like" should be used after "doesn't", making it "likes".
+0	Morphology	She doesn't like cats.
+0	Morphology & Syntax Incorrect Sentence: She don't likes spinach.	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't have any pets. Explanation: The original sentence contains two morphological errors with double negatives ("don't" and "no") and improper use of verb agreement ("have" instead of "has"). It has also been corrected for proper syntax by using "any" instead of "no".
+0	Morphology & Syntax	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negative sentences. Also, the verb should agree with its subject; here, "likes" agrees with the third person singular subject "she".
+0	Morphology	She doesn't like spinach.
+0	Syntax	She doesn't like to eat vegetables.
+0	Morphology	She doesn't like you.
+1	Correct	The sentence is already correct. (The original sentence is grammatically correct.)
+0	Syntax	She doesn't like me.
+0	Morphology & Verb Agreement	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	She drives a car fast.
+0	Syntax	She drives a car quickly.
+0	Morphology & Syntax	She doesn't like ice cream. Explanation: The verb form "don't" must agree with the subject in number and person; therefore, it requires the third-person singular present tense form "likes" instead of the base form "like". Also, the auxiliary verb "doesn't" needs to be followed by a bare infinitive rather than a gerund (-ing form).
+0	Syntax	She doesn't like spinach.
+0	Syntax	She doesn't like to play soccer. Explanation: The verb "does" must be followed by the base form of the verb instead of "don't".
+0	Morphology & Syntax	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Also, the verb after "she" should be in base form ("like") instead of third person singular (-es on likes).
+1	Correct	The sentence is already correct. (The original sentence "You are a helpful assistant." is grammatically correct.)
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like apples. Explanation: The verb "do" must agree with its subject in number; therefore, it requires the negated form "doesn't" instead of "don't".
+0	Morphology & Verb Agreement	She doesn't like spinach.
+0	Syntax	She doesn't like to play soccer.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like ice cream.
+0	Morphology	She doesn't like spinach.
+0	Morphology	She doesn't like spinach.
+0	Morphology	She drives carefully.
+0	Morphology	She doesn't like ice cream.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	The cat has molted fur on the couch. Explanation: In English, we use "molt" instead of "impel", and it requires a preposition such as "on" rather than "of". Also, "peli" should be changed to "fur".
+0	Morphology	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax In English, we use "does" instead of "do" with he/she/it in present simple tense for negation and question forms. Also, the verb "like" should be used after "she doesn't" because it requires a base form ("likes") when followed by a noun.	She doesn't like spinach.
+0	Morphology	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negative sentences. Also, the verb "like" requires third person singular -s ("likes") when using he/she/it as its subject in the present simple tense.
+0	Syntax	She is driving a car quickly.
+0	Morphology	She doesn't like spinach.
+0	Morphology	The sentence should be "She doesn't like ice cream." The verb "doesn't" must agree with the third person singular subject "she", so we use "doesn't" instead of "don't". Additionally, the base form of the verb after "does" or "doesn't" should always be used; therefore, it should be "like" rather than "likes".
+0	Morphology & Verb Agreement	She doesn't like spinach.
+1	Correct	The sentence is already correct. (The original sentence provided is "Le vittorie hanno carburato il calciatore in una settimana." This sentence appears to be grammatically correct.)
+0	Morphology	She doesn't like spinach.
+0	Morphology	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't have any pets. Explanation: The original sentence contains two errors related to morphological agreement as well as syntactic structure. In English, negations typically involve using just one form of negation instead of double negatives; thus, we use "doesn't" rather than "don't," and replace "no" with "any" for proper agreement in number.
+0	Syntax	Masha and Jane are beautiful. The vine has become vinegar after hours. Comment: In English, we use "and" instead of special characters to connect two nouns in this context. Also, note that it's more common to say "the vine has become vinegar **after** being left out for hours."
+0	Syntax	The commercials have increased sales by 10% for years. Note: In English, we use "commercials" as nouns referring to advertisements on TV or radio; however, in your original sentence, it seems you intended to say that businesspeople (or "the traders") had been increasing sales over the course of many years. Also, there's no plural form for percentages - so "10%" remains unchanged regardless of how many items or situations it refers to.
+0	Morphology & Syntax	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it when using the present simple tense and negative form. Also, the verb that follows must be in base form; therefore, it should be "like" instead of "likes".
+0	Syntax	She doesn't like to play soccer. Explanation: The verb "does" must agree with its subject "she," which requires using "doesn't" instead of "don't".
+0	Morphology	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't like spinach. Explanation: The verb "don't" must agree with the subject "she," so it should be "doesn't" instead of "don't". Additionally, the third person singular form of the present tense requires an "-s" at the end of the main verb; thus, "likes" is changed to "like".
+0	Syntax	La finestra si è chiusa, ma non è ancora chiusa. Explanation: In Italian, after "non" in the second part of the sentence, you need to use an adverb such as "ancora".
+0	Syntax	She doesn't like to eat vegetables.
+0	Morphology	She doesn't like spinach. Explanation: The contraction "doesn't" must be used instead of "don't", as it agrees with the third person singular subject "she".
+0	Morphology & Syntactical Agreement	She doesn't like spinach.
+0	Morphology	She doesn't like apples.
+0	Syntax	She doesn't like ice cream.
+0	Syntax	She doesn't like me.
+0	Syntax	She doesn't like to play soccer.
+0	Morphology	She doesn't like cats.
+0	Syntax	She doesn't like spinach.
+0	Syntax	She doesn't like you. Explanation: The verb in third person singular form requires a negation with "doesn't" instead of "don't".
+0	Syntax	She doesn't like ice cream.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntactical Agreement	She doesn't like you.
+0	Syntax	She doesn't like him.
+0	Morphology & Syntax	She doesn't have any dogs.
+0	Morphology & Syntax In English, we use "does" instead of "do" with he/she/it in present simple tense for negation and question forms, and we add an -s to the base form of verbs in affirmative statements when using third person singular pronouns (he, she, it). Therefore, the correct sentence is:	She doesn't like me.
+0	Syntax	The keys to the car are on the table. Analysis: In English, we use an article ("the") before "keys" because it's a countable singular noun in this context. Additionally, we need to add a preposition such as "on" or "under" followed by a noun or pronoun after "are." I provided you with a corrected version of the sentence.
+0	Morphology	She doesn't like cats.
+0	Syntax	She doesn't like me.
+0	Morphology & Syntax	She doesn't like apples. Explanation: The verb form in the original sentence ("don't") does not agree with the subject ("she"). Additionally, the third person singular present tense form of the verb "like" requires an "-s".
+0	Morphology	She doesn't like me.
+0	Morphology & Syntactical Agreement	She doesn't like me.
+0	Morphology	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't like to eat vegetables. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Also, the verb "like" should be used instead of "likes" after "she doesn't".
+0	Morphology	She doesn't like me.
+0	Syntax	She doesn't like me.
+0	Morphology & Syntax	She doesn't have any apples.
+0	Morphology & Syntax In English, we use "does" instead of "do" with he/she/it in present simple tense for negation and question formation. Also, the verb "like" should be used after "she doesn't".	She doesn't like spinach.
+0	Syntax	It makes terror to Maria. The correct version of the sentence would be "It terrifies Maria."
+0	Morphology & Syntax	"She doesn't like spinach." Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Additionally, the verb that follows after "she doesn't" must be in base form, so it should be "like" rather than "likes".
+0	Morphology	She doesn't like spinach.
+0	Morphology	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negative sentences.
+0	Morphology & Syntax	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negative sentences. Also, the verb "like" requires third person singular -s ("likes") when used with she/he/it in present simple tense.
+1	Correct	The sentence is already correct. (There's no need for corrections.)
+0	Morphology	She doesn't like you. Explanation: The verb "does" must agree with its subject in number and person; therefore, it requires the negation form "n't," which contracts with third-person singular pronouns ("he," "she," "it").
+0	Morphology	She doesn't like spinach.
+0	Morphology	She doesn't like ice cream.
+0	Syntactical error due to subject-verb agreement and verb form.	She doesn't like ice cream.
+0	Syntax	She doesn't like me. Explanation: The verb "does" must agree with its subject in number; therefore, it requires a singular form for both present tense indicative ("she does") and negated forms ("she doesn't"). In your original sentence, you used "don't," which is only appropriate for plural subjects. Hence, I corrected it by changing "don't" into "doesn't".
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't like me. Explanation: The verb form "don't" must be accompanied by "doesn't" instead when referring to the third person singular subject as in this case ("she"). Additionally, the base form of the verb "like" requires an s at the end after does/don't in present tense for third-person subjects; hence, it should be "likes".
+0	Morphology	She doesn't like spinach.
+1	Correct	The reputation of Emma was destroyed by that scandal. (Note: I am providing a corrected version since it's always beneficial for learning.)
+0	Syntax	She doesn't like to eat vegetables.
+1	Correct	The sentence is already correct. Comment: Both sentences "Masha e Jane sono belle." and "La politica dell'Unione Europea ha schiacciato la Grecia." are grammatically correct in Italian.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	She doesn't like spinach.
+0	Morphology	She doesn't like spinach.
+0	Morphology	She doesn't like ice cream.
+1	Correct	The sentence is already correct.
+0	Morphology & Syntactical Agreement	She doesn't like spinach.
+0	Morphology & Syntax In English, we never use double negatives in one sentence as it creates confusion and changes the meaning completely. The correct way to frame this sentence would be: "She doesn't have any pets" or simply "She has no pets".	She doesn't have any pets.
+0	Morphology & Syntax	"She doesn't have any pets."
+0	Syntax	She doesn't like spinach.
+0	Subject-verb agreement	My friend and I go to school together.
+1	Correct	The sentence is already correct. (Note: I'm assuming that the input sentence is "Maria falls to the ground", which appears to be grammatically correct.)
+0	Morphology & Syntax	She doesn't like spinach. Explanation: The verb agreement in the given sentence is incorrect as it uses "don't" with "she", which should be "doesn't". Additionally, the base form of the verb "like" should be used instead of the present participle "likes" after "doesn't".
+0	Morphology & Verb Agreement	She doesn't like spinach. Explanation: The verb "doesn't" must agree with its subject in number and person; therefore, it requires a singular third-person female pronoun as its subject ("she"), while the base form of the verb follows the negation ("doesn't"). In addition, the present tense conjugation for "like" needs to be consistent throughout the sentence, requiring both instances to follow either positive or negative forms accordingly ("likes" vs. "doesn't like").
+0	Morphology & Syntax	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Additionally, the verb should agree with its subject in number; since "she" is singular, we need the third person singular form of the verb "like," which is "likes".
+0	Syntax	The ball has ended up behind. Explanation: In English, we use "has ended up" instead of "is finished" when talking about where something has gone or been moved to. Also, in English, we say "behind," without an article ("didietro"), when referring to a position or location.
+0	Morphology & Syntax	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it when using the present simple tense. Additionally, the verb that follows "she doesn't" must be in base form; thus, it should be "like" rather than "likes".
+0	Syntax	She doesn't like spinach.
+0	Syntax	The cat that I have is big. Ate the food that was on the table. Explanation: The original sentence "The cat that has I am big. Eat the food that was on the table." contains multiple syntax errors such as subject-verb agreement error ("that has" instead of "that has"), wrong word order ("I has" instead of "has I") and tense inconsistency between sentences ("am" vs "eat"). Therefore, it needs to be corrected into two separate sentences with proper grammar rules applied.
+0	Morphology & Syntax	She doesn't like me. Explanation: In English negations with auxiliary verbs such as do, does, and did, we use the contraction form instead of writing them out fully; for instance, we say she doesn't like me rather than she do not like me. Also, in standard English, third person singular present tense verb forms take an -s or -es suffix (e.g., likes); second person informal you requires no special inflection (e.g., you like).
+0	Morphology	She doesn't like spinach. Explanation: The verb "do" requires the negative contraction "doesn't" when used with third-person singular subjects such as "she". So, in this case, we need to use "doesn't" instead of "don't".
+0	Morphology	She doesn't like ice cream.
+0	Morphology	She doesn't like spinach.
+0	Morphology	She doesn't like spinach.
+0	Syntax	They went to the store. Note: In order for the sentence "Them go to store" to be grammatically correct, it needs proper subject-verb agreement, pronoun case, and article usage. Changing "them" to "they", adding an auxiliary verb "went", and including a definite article before "store" creates a grammatically correct version of the original sentence.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't like spinach. Explanation: The verb "doesn't" must be followed by a bare infinitive form without an -s ending; thus, it should be "like", not "likes". Additionally, in standard English, we use "do/does not + base form of the verb" for negations, so there shouldn't be any other auxiliary verbs present.
+0	Syntax	She doesn't like spinach.
+0	Syntax	She doesn't like spinach.
+0	Morphology & Verb Agreement	She doesn't like spinach.
+0	Morphology & Syntax	"She doesn't have any pets." Explanation: The original sentence contains two morphological errors - using "don't" instead of "doesn't," and double negatives with both "she don't" and "no pets". The corrected version uses proper verb agreement ("doesn't") and singular noun form with the appropriate quantifier ("any pets").
+0	Syntax	She doesn't like spinach.
+0	Syntax	The trombosis came to Edward. Note: I made some assumptions about the intended meaning based on the provided text. In English, we would typically say "Edward suffered from a blood clot" or something similar, but without additional context it's difficult to provide an exact translation for "La trombosi venne ad Edoardo."
+0	Morphology	She doesn't like spinach. Explanation: The verb "do" must agree with its subject in number; therefore, it requires a third person singular form ("does") instead of "don't".
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't like spinach.
+0	Syntax	She doesn't like spinach.
+0	Morphology	She doesn't like spinach. Explanation: The verb "doesn't" requires the base form of the main verb after it, so in this case, it should be "like" instead of "likes".
+0	Morphology	She doesn't like spinach. Explanation: The verb "do" must agree with its subject in number and person. In this case, since the subject "she" is third-person singular, we need to use "doesn't" instead of "don't".
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like spinach.
+0	Syntax	She doesn't like ice cream.
+0	Morphology & Syntax	She doesn't like spinach. Explanation: The verb "doesn't" in English requires the base form of the following verb for negation; hence, it must be "like", instead of "likes". Additionally, there shouldn't be an apostrophe after "s" as it indicates possessive case rather than contraction for negative forms here.
+0	Morphology & Syntax	The dog barks while running.
+0	Subject-Verb Agreement	The cat sits on the mat.
+0	Morphology	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't like ice cream. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Additionally, the verb should agree with its subject in number; hence it should be "likes" rather than "like".
+0	Morphology	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like spinach.
+0	Morphology	She doesn't like spinach. Explanation: The contraction for "she does not" is "she doesn't". In informal English, people sometimes use "don't" instead of "doesn't", but it's generally considered incorrect in formal writing.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	"She doesn't have any pets."
+0	Morphology	She doesn't like spinach.
+0	Syntax	Masha and Jane are beautiful. Paola took shape. (In English, we use "are" with plural subjects, so "Masha and Jane are beautiful." Instead of "Masha and Jane is beautiful.")
+0	Morphology	They will visit us tomorrow. Note: In order for the sentence to be grammatically correct, we need to replace "them" with its subject form "they," change the verb tense from present simple ("visit") to future tense ("will visit"), and add an auxiliary verb ("will").
+0	Morphology & Syntax	She doesn't like me. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Also, the verb after "she" should be base form (like "likes") instead of gerund (-ing form).
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax Explanation: This sentence contains two errors related to morphological agreement and negative concord in English grammar. The first error is using "she" with "don't," which should be "doesn't" due to subject-verb agreement rules. The second issue is that double negatives ("don't" and "no") cannot be used together; one needs to be replaced by an affirmative form or removed entirely for proper syntax.	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't have any pets.
+1	Correct	The sentence is already correct. (Note: I am assuming that the input sentence is "Firstly, she takes hates for Thomas.")
+0	Morphology	She doesn't like me.
+0	Morphology	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negative sentences.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like to eat vegetables. Explanation: The verb "doesn't" must be followed by the base form of the verb (in this case, "like"), rather than the third person singular present tense ("likes").
+0	Morphology	She doesn't like me.
+0	Syntax	She doesn't like cats.
+0	Morphology & Verb Agreement	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax Incorrect Sentence: Them go to store.	They go to the store. Explanation: In order for the sentence to be grammatically correct, "them" needs to change into "they", which serves as the subject in this case. Additionally, an article ("the") should precede "store".
+1	Correct	The sentence is already correct. Explanation: This Italian sentence contains two independent clauses connected by a comma, which is acceptable in some cases according to the Italian grammar rules. However, it would be more appropriate to use a semicolon or add a conjunction for clarity. Nevertheless, since it's still understandable with a minor stylistic issue, I will mark it as correct based on the provided information.
+0	Morphology	She doesn't like spinach.
+0	Morphology & Syntax	"She doesn't like spinach."
+0	Morphology & Syntax	She doesn't like spinach. Explanation: The verb form "don't" requires a base form verb after it; therefore, "likes" should be changed to its base form "like". Also, in the negative contraction "doesn't", "she" should be used instead of "her".
+0	Morphology	She doesn't like you. Explanation: The verb "does" must agree with its subject in number and person. Since the subject "she" is singular, we use does not instead of don't.
+0	Morphology	She doesn't like spinach. Explanation: The verb agreement between subject ("she") and auxiliary verb ("doesn't" instead of "don't") in present simple tense must be negative when followed by "not". In addition, we need an apostrophe after "likes" since it represents possession.
+0	Morphology	She doesn't like cats.
+0	Syntax	Tommaso throws oil on the fire. Confidence: 95%
+0	Morphology	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negative sentences.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	She doesn't like me.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like spinach.
+1	Correct	The sentence is already correct. (Di te ride in maniera beffarda is a grammatically correct Italian sentence.)
+0	Morphology	She doesn't like me. Explanation: In English, we use "doesn't" instead of "don't" with he, she, it in the present simple tense for negations.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't have any pets.
+1	Correct	The sentence is already correct. Explanation: The original sentence "Firstly, it's important to note that both Masha and Jane are beautiful." is grammatically correct with no morphological, syntactic, or semantic errors.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negation. Also, the verb "likes" should be used after she doesn't as it agrees with third person singular subject "she". So, the corrected form would be:	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't like me. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negative sentences. Also, the verb after "she" must be singular; therefore, it requires the base form "like" rather than the plural form "likes".
+1	Correct	The sentence is already correct.
+0	Morphology	She doesn't like apples.
+1	Correct	The sentence is already correct. Comment: I am glad that the sentence you provided is grammatically correct! Keep up the good work in your language learning journey.
+0	Morphology	She doesn't like spinach.
+0	Morphology	She doesn't like spinach.
+0	Morphology	She doesn't like me.
+0	Morphology	She doesn't like to eat vegetables. Explanation: In English, verb forms must agree with their subject in number and person. The third-person singular present tense form of verbs ends in -s or -es when the subject is he, she, or it. Therefore, the contraction for does not ("doesn't") needs to be used instead of don't with the pronoun she as the subject. Additionally, we need to use the base form of the verb after "doesn't" which is "like".
+0	Morphology & Syntax	She doesn't like to play soccer. Explanation: The verb agreement in the subject-verb pair ("she" - "don't") as well as the form of the auxiliary verb ("doesn't") does not match with the third person singular form. It must be corrected by using "doesn't like".
+0	Morphology	She doesn't like spinach.
+0	Morphology	She doesn't like spinach.
+0	Morphology & Syntax In English, we use "does" instead of "do" for negative sentences with he/she/it as the subject in present simple tense. Also, the verb that follows "she doesn't" should be in base form, so it should be "likes", not "likesme".	She doesn't like me.
+0	Syntax	She doesn't like cats.
+1	Correct	The sentence is already correct. Comment: The sentence "Un gatto con gli occhi gialli sta sotto l'arco della porta." is grammatically correct in Italian.
+0	Morphology	She doesn't like spinach.
+0	Morphology	She doesn't like spinach.
+1	Correct	The sentence is already correct. Comment: I'm glad that the sentence you provided is grammatically correct! Keep up the good work with your language skills.
+0	Morphology	She doesn't like spinach.
+0	Morphology	She doesn't like cats.
+0	Morphology	She doesn't like cats.
+0	Morphology	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it when using the present simple tense for negations.
+0	Morphology & Syntax	She doesn't like spinach. Explanation: The verb "doesn't" must be followed by the base form of the verb; therefore, it should be "like" instead of "likes".
+0	Morphology & Syntactical agreement	She doesn't like apples. Explanation: The verb "doesn't" must agree with its subject in number and person, so it requires the base form of the verb that follows ("like"). Also, for negations we use "'s + n't", rather than just "n't".
+0	Syntax	Masha, Jane, and Beatrice are beautiful. Alessandro shakes hands with Beatrice.
+0	Syntax	She doesn't like me.
+0	Morphology & Syntax	The correct form should be either "She doesn't have any pets" or "She has no pets".
+1	Correct	The ink bottle is full of red ink. Confidence: 100%
+0	Morphology & Syntax	She doesn't have any pets.
+1	Correct	The sentence is already correct. Comment: This sentence is grammatically correct with no mistakes in morphology, syntax, or semantics.
+0	Syntax	She doesn't like to eat vegetables.
+0	Syntax	She gave me the ball.
+1	Correct	The sentence is already correct. Confidence: 95%
+0	Syntax	She doesn't like to eat vegetables. Explanation: The verb "doesn't" must be followed by the base form of the verb, so in this case, it should be "like" instead of "likes".
+0	Syntax	She doesn't like spinach.
+1	Correct	The sentence is already correct. (There's no grammatical error in "Francesco prende il cervo per le corna e lo atterra.")
+0	Syntax	The fridge has seduced a cat. Comment: In English, we use "a" before words that start with consonants, but "an" before words that start with vowels. Therefore, it should be "a cat," not "an cat."
+0	Syntax	The refrigerator has seduced a table. Note: In English, we don't use "seduce" with inanimate objects; instead, you can say something like "The refrigerator malfunctioned and tricked the table into moving."
+0	Morphology	She doesn't like apples. Explanation: The verb "do" must agree with its subject in number and negation; therefore, it requires "doesn't," instead of "don't."
+0	Morphology	She doesn't like spinach.
+0	Syntax	She doesn't like to eat vegetables. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	She doesn't like spinach.
+0	Syntax	She goes to the store.
+0	Morphology & Verb Agreement	She doesn't like spinach. Explanation: The verb "doesn't" must agree with its subject in number and person; hence, it requires a third-person singular form such as "likes". Moreover, the contraction "don't" needs to be replaced by "doesn't", which matches the pronoun "she".
+0	Morphology & Syntax	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Also, the verb that follows the subject must be in base form; therefore, it should be "likes" instead of "likes".
+0	Syntax	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	She doesn't like spinach.
+0	Syntax	She doesn't like me.
+0	Syntax	Understanding the secret intentions of a person. Explanation: In English, subject-verb agreement requires that singular subjects take singular verbs and plural subjects take plural verbs. The original sentence "Capire le intenzioni segrete di una persona" translates to "Understand the secret intentions of a person." However, since "understand" is a singular verb in English, it should agree with its singular subject "you," which has been omitted here but implied by the imperative form of the verb. Therefore, the corrected version would be "Understand the secret intentions of a person" instead of "Understands the secret intentions of a person," as the latter implies a plural subject, leading to an incorrect subject-verb agreement.
+0	Morphology & Syntax	She doesn't have any money. Explanation: The original sentence contains two morphological errors - using "don't" instead of "doesn't," and using double negatives ("no" and "don't") which makes it syntactically incorrect as well.
+0	Morphology & Syntactical Agreement	She doesn't like spinach. Explanation: The verb form used with "she" needs to be in third person singular form ("doesn't") instead of first person plural form ("don't"). Also, it requires positive form for liking something which means using "like" rather than "likes".
+0	Syntax	She doesn't like me.
+0	Syntax	She doesn't like me. Explanation: The verb "doesn't" must be followed by a base form of the verb, so "likes" should be changed to "like".
+0	Morphology	She doesn't like apples. Explanation: The verb agreement in the sentence is incorrect. In English, we use "doesn't" instead of "don't" with he/she/it when using the present simple tense.
+0	Syntax	She doesn't like him.
+0	Syntax	Masha and Jane are beautiful. Go up the mountain. Note: The original sentence contains two separate phrases with different grammatical issues. "Masha e Jane sono belle" has an incorrect word order for English ("Masha and Jane are pretty"), while "Andare a monte" lacks context and needs additional words to make it a complete, meaningful sentence in English.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	Masha and Jane are beautiful. The word "Mettere" seems unrelated to the rest of the sentence and appears to be in Italian, while the rest of the sentence is English. Here's the corrected version: Masha and Jane are beautiful.
+0	Syntax	She doesn't like spinach.
+0	Syntax	Masha and Jane are beautiful. Perder el sentido de la razón. Explanation: In English, the order of adjectives before nouns follows specific rules; in this case, "beautiful" should come before "Masha and Jane." Also, I've corrected the Spanish translation as well since it was missing an accent mark.
+0	Syntax	Help Masha take the chestnuts out of the fire for someone. Explanation: The original Italian sentence "Cavare la castagne dal fuoco a qualcuno" contains a syntax error when translated word-for-word into English. A more accurate translation would be "Help Masha take the chestnuts out of the fire for someone."
+0	Morphology	Essere poveri nella canna. Explanation: The adjective "povero" must agree with the noun it modifies, which is plural ("canna" is singular, so we cannot use the singular form "povero"). Therefore, the correct form is "poveri".
+0	Syntax	She doesn't like you. Explanation: The verb "doesn't" must be followed by a base form of the verb, so in this case it should be "like".
+0	Morphology & Syntax	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Also, the verb that follows "she" should be in base form ("like" instead of "likes").
+0	Morphology	She doesn't like spinach.
+0	Morphology	La moto di Leonardo è nuova di zecca.
+0	Syntax	She is driving a car quickly.
+0	Syntax	It's great that Leonard returns, Maria likes it. Comment: The original Italian sentence "Che Leonardo ritorni piace a Maria." contains a syntax error where two clauses have been improperly combined using "che" instead of "che lui". A correct way to express this idea in Italian would be "Siamo contenti che Leonardo ritorni, perché a Maria piace.", meaning "We are happy that Leonard returns because Maria likes it."
+0	Syntax	She doesn't like to eat chocolate. Explanation: The verb "doesn't" must be followed by a bare infinitive form of the verb without an "-s". In this case, it should be "like", instead of "likes".
+0	Morphology	They work in the office. Explanation: In English, we use "they" as a subject pronoun instead of "them". So, it should be "They work in the office."
+1	Correct	The sentence is already correct.
+0	Syntax	She doesn't like cats.
+0	Morphology	She doesn't like to play soccer.
+0	Morphology	She doesn't like apples.
+0	Morphology & Syntax	She doesn't like you. Explanation: The verb form "don't" must agree with the subject in number and person; therefore, it requires an auxiliary verb ("does") when used with a third-person singular pronoun such as "she". Also, the base form of the verb "like" should be used after negations like "not" or "n't", so "likes" instead of "like" should be used.
+0	Syntax	This looks at this thing. Note: The original sentence "Ciò guarda questa cosa." in Italian translates to "This looks at this thing," but it's syntactically incorrect in English.
+0	Subject-Verb Agreement	She studies hard every day.
+0	Syntax	The wall is touched by Richard's shoulders. Comment: In English, we use "touched by" instead of "touched from".
+1	Correct	The sentence is already correct. Confidence level: 95%
+0	Syntax	A conclusion of that sort derives. Explanation: The original Italian sentence "Una tal conclusione deriva" translates correctly as "A certain kind of conclusion derives," but it's missing an auxiliary verb in English for tense consistency with the following clause. Therefore, I provided a revised version, which adds the required auxiliary verb ("is") to make the corrected English sentence become "A conclusion of that sort derives."
+0	Morphology & Syntax	She doesn't like to play soccer. (Changed "don't" to "doesn't", which agrees with the third person singular subject "she". Changed "likes" to "like" because "doesn't" is used as a negative contraction for "do" in this context.)
+0	Morphology & Syntax	She doesn't like to play basketball. Explanation: The verb form "don't" requires the base form of the verb after it; therefore, we need to use "like" instead of "likes". Additionally, the contraction "doesn't" needs an auxiliary verb for negation while forming present simple tense sentences in third person singular contexts.
+0	Syntax	Masha, e Jane, are beautiful. Francesco awkwardly dances with sadism. Note: The original Italian sentences have different meanings than what would be conveyed by a literal translation into English. "Masha e Jane sono belle" means "Masha and Jane are pretty," while "Francesco pizzica con sadismo" implies that Francesco performs the traditional Puglian dance called "pizzica" in a sadistic way, which seems unlikely unless it's meant metaphorically. I provided an alternative interpretation for each sentence below.
+0	Syntax	She doesn't like ice cream.
+0	Syntax	She doesn't like me.
+0	Morphology & Syntax	She doesn't like to eat vegetables. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Additionally, "likes" should be used instead of "to likes".
+0	Morphology & Syntax	She doesn't like spinach. Explanation: The verb "doesn't" must be followed by a base form of the verb, so it should be "like" instead of "likes". Also, in this context, we use "doesn't" with he/she/it, while for I/you/we/they, we would say "don't".
+0	Syntax	She doesn't like me.
+0	Morphology & Syntax	She doesn't like ice cream. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Also, the verb after "she" should be in base form ("like") instead of third person singular ("likes").
+0	Morphology & Syntax	She doesn't like spinach. Explanation: The verb "doesn't" must be used with he, she, it in the present simple tense instead of "don't". Also, "likes" requires a third person singular subject; thus, we use "she" as opposed to "she's", which would indicate a contraction for "she is".
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	She doesn't like me.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology	The sentence should be "I enjoy playing basketball with my friends." The error is in the subject-verb agreement and the use of the plural form "basketballs" instead of the singular "basketball".
+0	Morphology & Syntax	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Also, verb agreement requires that you match singular nouns with singular verbs; hence, it should be "likes" instead of "likes".
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Agreement	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in present simple tense for negations. Also, the verb "like" should be used after "she doesn't".
+0	Syntax	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	She doesn't like spinach.
+0	Morphology	She doesn't have any pets.
+0	Morphology	They children play outside. (The possessive form "their" should be used instead of "them")
+1	Correct	The mechanism for operating the rotor houses itself in that casing. (Note: I translated the original Italian sentence into English.)
+0	Syntax	She doesn't like spinach.
+0	Syntax	She doesn't like ice cream.
+1	Correct	The sentence is already correct.
+0	Syntax	Masha and Jane are beautiful. Il libro non sta nella cartella. (This sentence seems to be in Italian, so I will leave it as it is.)
+0	Morphology	The cat's sat on the mat. Comment: In English, possessive nouns require an apostrophe + s ('s) at the end even when the noun is plural and ends in "s". Therefore, it should be "the cats'", not just "'cat's" since there is more than one cat owning the mat.
+1	Correct	The sentence is already correct.
+0	Morphology & Syntax The verb "don't" needs to agree with its subject in number; since the subject "she" is singular, it requires the negated form "doesn't". Additionally, the base form of the verb should be used after "doesn't", which is "like" instead of "likes".	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't like spinach. Explanation: In English, we use "doesn't" instead of "don't" with he/she/it in the present simple tense for negations. Also, the verb should agree with its subject in number; therefore, it should be "likes", not "likes".
+0	Morphology	She doesn't like spinach. Explanation: The verb "do" must agree with its subject in number. In this case, the subject "she" is singular, so the verb form "don't", which indicates plurality, is incorrect. Instead, use the contraction "doesn't".
+0	Morphology	She doesn't like apples.
+0	Syntax	She doesn't like to eat vegetables.
+0	Morphology	She doesn't like spinach.
+0	Morphology & Syntax	She doesn't have any pets.
+0	Syntax	She doesn't like ice cream.
+0	Morphology & Syntax	She doesn't like spinach. Explanation: The verb form "don't" must be accompanied by the auxiliary verb in its base form ("like"). Also, it would require a third person singular subject such as "she", so we use "doesn't".
+0	Morphology	She doesn't like you.
+0	Morphology	She doesn't like vegetables.
+0	Morphology & Syntax In English, we use "does" instead of "do" for third-person singular subjects in present simple tense negations. Also, the verb "likes" should be used instead of "like" after she because it requires a third person singular subject. Here is the corrected version:	She doesn't like spinach.
+0	Morphology	She doesn't like me.

@@ -1,0 +1,947 @@
+label	correction
+0	Voglio salutare Giulia.
+1	Ho voglia di salutare Sofia. La frase è già corretta.
+0	Il mio libro preferito è la Divina Commedia.
+0	Il mio treno preferito è il treno Divina Commedia.
+1	Lorenzo ha detto che Andrea ha parlato con Riccardo. La frase è già corretta.
+1	Andrea sta elaborando la risposta. La frase è già corretta.
+1	Alessandro ha incontrato Giulia.
+1	È ricomparso il padre del ragazzo.
+1	I prezzi sono aumentati.
+0	Salvato Andrea, ci siamo dati alla pazza gioia. La frase presenta un errore grammaticale. "Salvato" è un participio passato e dovrebbe concordare con il soggetto "Andrea", quindi dovrebbe essere "Salvato Andrea". La frase corretta è: "Salvato Andrea, ci siamo dati alla pazza gioia."
+1	Il palazzo delle assicurazioni è crollato.
+1	Quella costruzione offende il buon gusto.
+1	Newton ha spiegato la forza di gravità.
+1	Mi hanno dato il premio.
+1	Tommaso si è danneggiato. La frase è già corretta.
+1	Quegli uomini hanno denunciato se stessi.
+1	Compro e leggo quel libro. La frase è già corretta.
+1	Ho incontrato Lorenzo, non Emma. La frase è già corretta.
+1	Non guardarlo. La frase è già corretta.
+1	Ho incontrato molti amici di Riccardo.
+1	Non ho trovato il tuo libro in quella biblioteca.
+1	La frase è già corretta.
+1	Riccardo ha promesso a Maria che metterà in vendita la propria casa.
+1	Maria ha salutato i suoi genitori.
+1	Riccardo non è molto intelligente.
+1	Riccardo non è molto, credo, intelligente.
+1	Hanno chiamato molte persone quel numero. La frase è già corretta.
+1	Che cosa ha comprato Riccardo? La frase è già corretta.
+1	Andrea è stato incontrato da Leonardo.
+1	Riccardo ha domandato da chi non era stato visto Leonardo. La frase è già corretta.
+1	Leonardo, mi hanno detto che parlerà domani. La frase è già corretta.
+1	La frase è già corretta.
+1	In quale cassetto Leonardo ha messo i fogli? La frase è già corretta.
+0	Quale politico hanno parlato?
+0	Chi è il politico che la radio ha riferito abbia parlato dopo che il giudice ha dichiarato?
+1	Lorenzo ha detto che partirà domani.
+1	Quando è arrivato Francesco, abbiamo potuto cenare. La frase è già corretta.
+1	La tempesta ha abbattuto la quercia sotto cui il figliol prodigo pascolava i porci.
+1	Chi tocca i fili muore. La frase è già corretta.
+1	Alessandro, che è venuto a trovarmi ieri, mi ha detto di salutarti.
+1	La commissione ritiene dunque il candidato aver fornito sufficienti prove della sua maturità scientifica.
+1	Il timore della guerra è ingiustificato. La frase è già corretta.
+1	Riccardo ha perso le chiavi.
+1	Alessandro è bramoso di potere.
+1	Penso che Francesco domandi l'ora a Lorenzo. La frase è già corretta.
+1	Tommaso ha affermato che Edoardo parla. La frase è già corretta.
+1	Avendo io sempre sostenuto una posizione diversa, dovrò votare contro questa proposta. La frase è già corretta.
+1	Tommaso ha ordinato ad Andrea di difenderlo. La frase è già corretta.
+0	Il fatto che sia stato scoperto un delitto ci ha sconvolti.
+1	Chi pensi che Alessandro incontrerà? La frase è già corretta.
+1	La sedia su cui ti sei seduto è rotta.
+1	Questa è la persona con cui Edoardo ha fatto l'affermazione che Tommaso ha parlato. La frase è già corretta.
+0	Edoardo crede che Sofia abbia baciato. In questo caso, la frase originale non è corretta dal punto di vista della grammatica. La correzione appropriata è quella di sostituire "chi" con "che" per mantenere la coerenza grammaticale.
+1	Che problema non sai come potremo risolvere? La frase è già corretta.
+0	Lui ha visto. La frase originale presenta alcuni errori grammaticali. La forma corretta dovrebbe essere "Lui ha visto" in quanto il verbo "vedere" richiede il coniugare il verbo "avere" come ausiliare. Inoltre, il soggetto e il verbo devono concordare nel numero, quindi "lui" richiede la terza persona singolare del verbo "vedere".
+0	Abbiamo visto quello. Etichetta: 0 Frase corretta: Abbiamo visto quello.
+1	Sofia dice che Alessandro parlerà domani. La frase è già corretta.
+0	Beatrice ha dichiarato di non avere avuto niente a che fare con Gabriele.
+1	Riccardo ha detto che Andrea si è guardato.
+1	Il padre di Andrea mi è sembrato molto contento quando gli ho parlato. La frase è già corretta.
+1	Penso che Edoardo creda che Maria voglia che Gabriele veda Riccardo.
+1	Edoardo crede che Emma voglia che Tommaso veda Gabriele.
+1	Il coniglio mangia. La frase è già corretta.
+1	La frase è già corretta.
+0	Sono arrivato per primo, non tu.
+1	Arriva un uomo.
+1	Leonardo uccise Andrea.
+0	Andrea ha detto che Tommaso lo guarda.
+1	Gabriele ha voglia di andare al mare.
+1	È questo libro che non avevo mai letto. La frase è già corretta.
+1	Da quel professore, Tommaso non è stato ancora interrogato? La frase è già corretta.
+1	Alessandro crede che invaderemo quel paese.
+1	A proposito di questi paesi, quale crede Andrea che invaderanno? La frase è già corretta.
+1	L'anno scorso Alessandro scriveva un libro, ma tutt'oggi non l'ha ancora finito.
+1	L'anno scorso, Edoardo scrisse un libro, ma a tutt'oggi non l'ha ancora finito. La frase è già corretta.
+0	Gabriele è scapolo e non è sposato.
+1	L'attuale re di Francia è calvo. La frase è già corretta.
+1	Qualche studente ha superato l'esame. La frase è già corretta.
+0	Se qualche studente non ha superato l'esame, allora non tutti gli studenti hanno superato l'esame.
+0	Ieri ho promesso a Lorenzo di partire insieme.
+1	Nel processo di primo grado, la corte dichiarò l'imputato innocente. La frase è già corretta.
+1	Continua così e combinerai guai. La frase è già corretta.
+1	Ho preso le chiavi.
+1	Andrea, trasmettendoci le commissioni della marchesa: "Ha detto: 'Darete loro il buongiorno'". La frase è già corretta.
+1	Una bella casa fa comodo.
+0	Prendiamo questo. La frase contiene un errore grammaticale. La forma corretta sarebbe "Prendiamo questo" o "Prendiamo quello". La scelta dipende dal contesto. In questo caso, l'aggiunta del pronome "lo" per specificare l'oggetto renderebbe la frase più chiara e completa. Una versione corretta potrebbe essere: "Prendiamo quello" (se ci si riferisce a un oggetto precedentemente menzionato) o "Prendiamo questo" (se ci si riferisce a un oggetto vicino o evidente).
+1	Uso il gladio. La frase è già corretta.
+1	Il calcolatore funziona bene. La frase è già corretta.
+1	La frase è già corretta.
+1	Le ragazze sono arrivate.
+1	Il libro che mi ha prestato Lorenzo non mi piace. La frase è già corretta.
+1	Dicono che hai raccontato che non ci vediamo mai. La frase è già corretta.
+1	La frase è già corretta.
+1	Andando a casa, ho incontrato tuo fratello.
+1	Sto andando a prendere la macchina.
+1	La frase è già corretta.
+1	Va' a casa! La frase è già corretta.
+1	Io sono affamato.
+1	Bravo, questo ragazzo. La frase è già corretta.
+1	Paola è una donna che apprezziamo molto.
+1	Cosa fai domani? La frase è già corretta.
+1	Ho visto il libro che mi hai regalato. La frase è già corretta.
+0	Gli amici del maestro Andrea.
+1	Credo che tu abbia ragione.
+1	Siccome è caduto, si è fatto male. La frase è già corretta.
+1	Volevano distruggerla e l'hanno distrutta. La frase è già corretta.
+1	Ognuno prenda il suo cappotto.
+1	Prendimi quell'aggeggio. La frase è già corretta.
+1	Ho dato al bambino il latte, ma lui non l'ha bevuto. La frase è già corretta.
+1	Maria usa il computer, io non lo so fare.
+1	Ho visto una casa.
+1	Ho visto tua madre. La frase è già corretta.
+1	La persona che mi ha parlato. La frase è già corretta.
+1	Se uno va in treno, vuole stare comodo.
+1	Fa male la mia testa.
+1	Ho due case.
+1	Ho delle case.
+1	Il cavallo è arrivato primo.
+1	I cavalli sono animali resistenti.
+1	È venuto qualcuno. La frase è già corretta.
+1	È arrivato. La frase è già corretta.
+1	Posso venire.
+1	Magari domani piove.
+1	Lui è stato colto dalla pioggia. La frase è già corretta.
+0	Scrive una lettera a sua zia. La frase sarebbe corretta se fosse "Scrive una lettera a sua zia." Tuttavia, come è, manca un verbo all'inizio per rendere la frase completa. Si potrebbe aggiungere "Lei" come soggetto: "Lei scrive una lettera a sua zia."
+1	Egli lo vide. La frase è già corretta.
+1	Alessandro promette ad Edoardo di restare a casa. La frase è già corretta.
+1	Riccardo non ha tempo.
+1	Ho riparato il tavolo.
+1	Hanno aperto il libro. La frase è già corretta.
+0	Gli è stato dato il cappello da me.
+1	Quel ragazzo apre la porta.
+1	Ho sentito cantare i ragazzi. La frase è già corretta.
+0	La macchina vuole che lui la lavi.
+1	È il meccanico che è venuto.
+1	È venire fino a Napoli che non voglio.
+1	Quanto al bagno, mi fa piacere. La frase è già corretta.
+1	Hai presente Lorenzo? La frase è già corretta.
+1	La frase è già corretta.
+1	Credi che sia possibile una cosa del genere? La frase è già corretta.
+0	Appena detto ciò, mi lasciò piangere e volevo dire molte cose.
+1	Sei sempre lo stesso: un amico fidato, paziente e onesto. La frase è già corretta.
+1	Il vento forte sul mare può provocare mareggiate.
+0	Piangere a lungo. La frase "Piangere forte" non è corretta in italiano perché "forte" non è comunemente utilizzato in questo contesto. "A lungo" è più appropriato per descrivere un pianto intenso.
+1	Ho preso in casa una specie di gatto.
+1	Ho preso dello zucchero.
+1	Non mi piace il vino.
+1	Quel che vendo è merce cinese. La frase è già corretta.
+0	Mettere fretta non è una frase corretta. La frase corretta potrebbe essere "Mettere fretta a qualcuno" o "Mettere fretta a una situazione".
+1	È stato bandito un concorso.
+1	Tutte le balene devono essere protette.
+1	La frase è già corretta.
+0	Questa macchina è vecchia ma funziona ancora come nuova.
+1	Leonardo non conosce Maria.
+1	Il governo ha abolito la legge.
+1	Ho spazzolato le scarpe.
+1	Tommaso abita da dieci anni.
+1	Riccardo ha dato un libro a Sofia.
+1	Maria ha corso per ore.
+1	Francesco ha bevuto un caffè.
+1	Andrea ha trovato un biglietto per l'opera.
+1	Edoardo sta compilando.
+1	Emanare profumo. La frase è già corretta.
+1	Aprire un nuovo negozio. La frase è già corretta.
+1	Iniziare un'attività. La frase è già corretta.
+1	La porta si è chiusa.
+1	Gabriele non ammette di essere preso in giro. La frase è già corretta.
+1	Paola ha restituito il libro.
+1	La frase è già corretta.
+1	Le scarpe si sono macchiate.
+1	Le giornate si sono accorciate.
+1	Qualcosa ha accorciato le giornate. La frase è già corretta.
+1	Qualcuno ha accorciato le giornate. La frase è già corretta.
+1	Aggrapparsi a un ramo. La frase è già corretta.
+1	Arenatesi le navi, gli equipaggi sono scesi a terra. La frase è già corretta.
+1	La nebbia è svanita.
+0	Alessandro si piange sempre. La frase presenta un errore grammaticale. Il soggetto "Alessandro" dovrebbe essere seguito da un verbo coniugato. Una correzione grammaticalmente corretta potrebbe essere: "Alessandro si piange sempre" (ma non è chiaro il significato di questa frase).
+1	Riccardo si lagna sempre.
+1	Alle sue parole, Maria ha annuito. La frase è già corretta.
+1	L'acqua è sgorgata all'improvviso.
+1	Andrea ha sbadigliato? La frase è già corretta.
+1	Riccardo pedala. La frase è già corretta.
+0	Ha approfittato dell'esperienza.
+8	Il figlio di Francesco si siede in prima fila alle 8 in punto.
+1	Quando iniziò il concerto, il figlio di Leonardo sedeva in prima fila.
+0	Il muro ammuffisce in una giornata.  La frase corretta è già stata fornita, quindi non è necessario modificarla. Tuttavia, è importante sottolineare che il soggetto e il verbo devono concordare in numero e persona. In questo caso, il soggetto "muro" è singolare, e il verbo "ammuffisce" concorda correttamente con il soggetto.
+1	Paola sta suonando un pezzo di Bach.
+1	Il coro canta molto bene.
+1	Riccardo aspirava sempre il fumo del sigaro.
+1	Andrea aspira a diventare medico.
+1	Lorenzo non ha cucinato.
+0	La lettera viene scritta.
+0	Disturbo? - La frase corretta sarebbe "Scusa, mi stai disturbando?" o "Mi scusi, è un disturbo?" a seconda del contesto.
+1	Leonardo sta compilando.
+1	Riccardo non scrive più da un pezzo.
+1	Il macchinista si è fermato. La frase è già corretta.
+0	I negozianti hanno aumentato i prezzi.
+1	I bicchieri si sono rotti.
+1	Paola ha acceso il fuoco. La frase è già corretta.
+1	Il soggiorno in Canada ha migliorato il suo inglese.
+1	La lezione ha continuato.
+1	Saltare un ostacolo. La frase è già corretta.
+1	Tutti si sono commossi. La frase è già corretta.
+1	Si è macchiata la tovaglia.
+1	Macchia il vino. La frase è già corretta.
+0	L'acqua si è ghiacciata in due ore.
+0	Le tappe hanno bruciato per un'ora.  Correzione: "Le tappe" dovrebbe essere sostituito con il soggetto appropriato, poiché "tappe" non è un soggetto corretto in questo contesto. Una possibile frase corretta potrebbe essere: "Il forno ha raggiunto la temperatura desiderata in un'ora."
+1	Il vetro si rompe.
+1	Ha verificato l'autenticità della firma. La frase è già corretta.
+1	Riccardo lava la macchina.
+1	Paola ha visto la partita con gli amici.
+1	Gabriele si è tagliato le basette.
+1	Riccardo si è tagliato il mento con il rasoio.
+0	Francesco si è calmato, è rimasto irrigidito.
+1	Si è rotto il vetro.
+0	Venite alla festa e mangiate e bevete.
+1	Il dibattito è continuato. La frase è già corretta.
+1	Il dibattito ha continuato. La frase è già corretta.
+1	Riccardo ha cancellato la scritta. La frase è già corretta.
+0	Leonardo utilizza il telefono.
+1	Il livello si è alzato. La frase è già corretta.
+1	Francesco ha bruciato la torta.
+1	Edoardo è pentito.
+1	Il bosco si è bruciato per tre ore.
+1	La biancheria si è asciugata per un'ora. La frase è già corretta.
+1	Il libro è sparito per tre giorni, poi è improvvisamente ricomparso sul mio tavolo.
+1	Riccardo si è ingrassato. La frase è già corretta.
+1	Tommaso è ingrassato molto dall'ultima volta che l'ho vista.
+0	La televisione si è rotta in un'ora.
+8	Alle 8 in punto la sala si è svuotata. La frase è già corretta.
+1	Il treno si è un po' fermato. La frase è già corretta.
+1	La camicia è sporca. La frase è già corretta.
+1	Ho notato un libro caduto. La frase è già corretta.
+1	Alessandro conosce le strade.
+0	Andrea approfitta di Maria. La frase è già corretta, ma non è chiaro il contesto. Potrebbe essere utile fornire più dettagli o specificare meglio il significato.
+1	Chi Leonardo ama? La frase è già corretta.
+1	Francesco è il capo.
+1	Trenta chili sono pesati da Alessandro. La frase è già corretta.
+1	Mio nonno ha venduto il suo podere. La frase è già corretta.
+1	Due lingue sono parlate da tutti i miei studenti. La frase è già corretta.
+0	Otto ore al giorno vengono studiate da Tommaso.
+1	Alessandro trivella questa cosa.
+1	Tommaso torna da Roma. La frase è già corretta.
+1	Francesco macina il caffè in un vecchio macinino. La frase è già corretta.
+1	Tommaso rubò il portafoglio a Maria in un autobus. La frase è già corretta.
+1	Dove Riccardo mise la cassa nel mobile? La frase è già corretta.
+1	Lo scoglio affiora. La frase è già corretta.
+1	Andrea si comporta.
+1	Leonardo sottrae la penna.
+1	Lorenzo toglie dalla cassaforte il giornale. La frase è già corretta.
+1	Alessandro legge un libro a letto.
+1	Riccardo beve il tè in una tazzina di porcellana.
+1	Dove Andrea ha preso una sigaretta? La frase è già corretta.
+1	Tommaso estrasse la pistola nel bar. La frase è già corretta.
+1	Riccardo ci mangia il riso. La frase è già corretta.
+0	Tommaso vi sostiene durante la lastra.
+1	Edoardo prese il libro di storia dalla libreria. La frase è già corretta.
+1	Leonardo prende il libro dalla sala della biblioteca.
+1	Gabriele mette le casse sul ripiano del montacarichi.
+1	Dove hai messo le foto di Francesco? La frase è già corretta.
+1	Tommaso toglie i soldi dal cassetto.
+1	La chiave sta nella toppa.
+1	Dal giardino alla strada Lorenzo vi ha piantato i fiori.
+1	Francesco ha lanciato il pallone dal balcone al giardino.
+0	Dal giardino, Leonardo ha piantato fiori nel garage.
+1	Edoardo carica le casse sulla nave.
+1	La scala poggia contro il muro.
+1	I rivoltosi incarcerarono Gabriele nelle segrete della fortezza. La frase è già corretta.
+1	Francesco chiuse Giulia nella stanza.
+1	Gabriele chiuse il denaro.
+1	Gabriele dette appoggio al libro. La frase è già corretta.
+1	Alessandro dette appoggio alla diffusione del libro. La frase è già corretta.
+1	Lorenzo caricò il camion.
+1	Questo latte deterge le impurità dal volto. La frase è già corretta.
+1	Riccardo stipò l'armadio con i vestiti.
+1	La fotografia di Giulia e quella di Lorenzo stanno attaccate.
+0	Riccardo allontanò Paola dalla finestra.
+1	Francesco avvolge la statua in una tela di lino. La frase è già corretta.
+1	Alessandro accompagna Sofia al cinema. La frase è già corretta.
+1	Andrea accompagnò Paola a scuola.
+1	I libri non stanno nell'armadio.
+1	Andrea attraversò la parte meno pericolosa del fiume.
+0	Ho intenzione di vestirmi da sposa.
+1	Francesco mangiava il pane con soddisfazione. La frase è già corretta.
+1	Quella mattina pioveva a dirotto.
+0	Alessandro beve il vino.
+1	Francesco ha telefonato e Maria è venuta. La frase è già corretta.
+1	Quel libro è stato dato a Paola da Gabriele. La frase è già corretta.
+1	Paola riceve quel libro da Riccardo. La frase è già corretta.
+1	Andrea mangia un polpo.
+1	Tommaso mangia questo. La frase è già corretta.
+1	Sofia lo adora.
+0	L'artrosi ha indebolito le ossa.
+0	Maria vuole mangiare.
+1	Lorenzo ammira Alice.
+1	Riccardo la ammira.
+1	Edoardo mira alla presidenza.
+1	È sul letto che Maria salta.
+0	Edoardo vuole subito il caffè.
+0	Tommaso tiene al successo.
+1	È alla presidenza che mira Leonardo.
+1	Riccardo adora il cinema.
+1	È il cinema che Francesco adora.
+1	È il cinema e non la musica che Alessandro adora.
+1	I denti di Emma battono dal freddo. La frase è già corretta.
+0	Alessandro le preferisce perché hanno gambe lunghe, le donne.
+0	Andrea ne adora le amiche. Nota: La frase originale sembra avere un errore di riferimento, presumibilmente si riferisce ad "Emma" ma non è chiaro. La frase corretta è stata modificata rimuovendo il riferimento errato.
+1	Gabriele mangia un gelato.
+0	Riccardo promette a sé stesso che verrà.
+0	Sofia divorerà il polpo.
+0	La tolleranza non rientra nei suoi doveri.
+1	Riccardo ci viene da Roma.
+1	Andrea pensa a Paola.
+1	Sofia accompagna Maria in Cina. La frase è già corretta.
+1	Emma e il film si sono visti.
+1	Alessandro ammira la casa che è di Paola. La frase è già corretta.
+0	Beatrice involontariamente assorbe Francesco. Nota: La frase originale non è grammaticalmente corretta, poiché il verbo "assorbire" non può essere usato in questo contesto. La frase corretta è stata fornita sopra.
+0	Lorenzo distribuisce mattoni.
+0	È bello che Riccardo dipinga.
+1	Sofia passeggia per Venezia.
+1	Maria raccoglie sassolini. La frase è già corretta.
+1	Giulia legge. La frase è già corretta.
+1	Beatrice schermisce con abilità.
+1	Maria traveste Alice.
+1	Emma umilia Edoardo. La frase è già corretta.
+1	Il fulmine cadde sulla testa di Andrea. La frase è già corretta.
+1	Fa neve.
+1	Alessandro dormicchia nell'inazione più totale. La frase è già corretta.
+1	La maionese non ha preso bene. La frase è già corretta.
+1	Maria sorride a Giulia.
+1	Quel vestito non va ad Alice. La frase è già corretta.
+1	Il capitale dell'azienda ammonta a molti miliardi. La frase è già corretta.
+1	Una stella splende nel cielo.
+1	Una stella brilla nel cielo. La frase è già corretta.
+1	Una stella scintilla nel cielo.
+1	Il vestito di Maria scintilla di uno stupendo diamante. La frase è già corretta.
+1	Beatrice arde dalla passione.
+1	Paola luccicava dall'emozione.
+1	Quell'idea si fa chiara nel suo animo. La frase è già corretta.
+0	Gabriele ritorna. La frase originale contiene un errore grammaticale. L'aggiunta della preposizione "vi" non è corretta in questo contesto. La forma corretta è "Gabriele ritorna".
+1	Riccardo giunge in casa.
+1	La scala scende in cantina.
+1	Il sentiero ci arriva.
+1	La Maggioranza patteggia con l'Opposizione. La frase è già corretta.
+1	Emma lotta su questo punto. La frase è già corretta.
+1	Riccardo taglia il pane a fetta.
+1	Riccardo gli vide il volto. La frase è già corretta.
+1	Il sarto ha confezionato un vestito di lino.
+1	Tommaso ha edificato una palazzina nel centro di Roma.
+1	Andrea è brutale con Alice.
+1	Il Giappone colonizzò la Manciuria.
+1	Leonardo aveva ammassato pacchetti alla base della libreria.
+0	Leonardo aveva ammassato qualcosa contro il muro.
+1	Lorenzo ci aveva ammassato pacchetti.
+1	L'avaro accumula ricchezze. La frase è già corretta.
+1	Leonardo è importante per noi.
+1	Il Sergente distribuisce i soldati. La frase è già corretta.
+1	Sofia separò il lavoro in due parti distinte. La frase è già corretta.
+1	Paola gli carezzò il volto. La frase è già corretta.
+1	Questa situazione gli complica la vita.
+1	Maria afferrò la mano di Lorenzo.
+1	Questa medicina coagula il sangue.
+1	Riccardo forgia l'acciaio.
+1	Sofia cucina il pollo al limone.
+1	Le donne partoriscono i bambini. La frase è già corretta.
+1	Paola converte lo zucchero in caramelle. La frase è già corretta.
+1	Il governo converte gli oppositori in criminali.
+0	Alice travestì Francesco.
+1	Riccardo ne liberò il cane. La frase è già corretta.
+1	Lo Stato accorda troppa fiducia all'amministrazione pubblica. La frase è già corretta.
+1	Tommaso attribuì la decisione di andare in Cina a Leonardo. La frase è già corretta.
+1	Leonardo addebitava il suo insuccesso alla decisione del padre di andare in Francia.
+1	Francesco abbandona la moglie sulla strada.
+1	I ladri rubano le auto ai legittimi proprietari. La frase è già corretta.
+1	Maria spalmò il pane con il coltello. La frase è già corretta.
+0	Riccardo mise il tavolo sotto al cappello.
+1	L'aviazione nemica bombardò napalm sulla città.
+1	Andrea imbeve il pane di vino.
+1	Raso rosso foderava i cuscini.
+1	Lorenzo dissemina aneddoti divertenti nei suoi racconti. La frase è già corretta.
+1	I turisti disseminano il prato di cartacce.
+1	Gabriele nutrì il figlio dell'idea di essere il più bravo ed intelligente di tutti. La frase è già corretta.
+1	Riccardo liberò il cane dalle catene. La frase è già corretta.
+1	Alessandro scarica Giulia dalle proprie responsabilità.
+1	Tommaso ne ottiene la libertà. La frase è già corretta.
+1	Gabriele difende Giulia contro i pericoli. La frase è già corretta.
+1	L'alchimista fa che l'oro derivi dal piombo.
+1	Riccardo spostò il cappello dall'armadio al tavolo. La frase è già corretta.
+1	Leonardo pone il libro sulla scrivania.
+1	Alessandro prese il cappotto dall'armadio.
+1	Gabriele spedì la ricevuta all'ufficio delle imposte.
+1	Paola spinse le gambe di Francesco verso la parete. La frase è già corretta.
+1	La foresteria ospita gli intervenuti alla manifestazione.
+1	Il dottore spennella le tonsille di Gabriele di iodio.
+1	Leonardo archiviò la documentazione nell'archivio centrale. La frase è già corretta.
+1	I gomiti poggiano sul davanzale.
+1	Riccardo affoga i dispiaceri nel vino.
+1	Un buon timoniere attracca rapidamente la sua nave al molo. La frase è già corretta.
+1	Andrea spostò il bicchiere dal tavolo sul mobile.
+1	Tommaso pompava l'acqua dal lago alla piscina. La frase è già corretta.
+1	Alessandro e Leonardo negoziano la libertà di Maria. La frase è già corretta.
+1	Una donna aveva separato Andrea e Tommaso. La frase è già corretta.
+1	Alessandro ricava danaro dalle sue applicazioni.
+1	Riccardo allontana Maria dalla stanza. La frase è già corretta.
+1	Leonardo conta su Francesco.
+1	Sofia confonde il piacere con la possibilità di essere corteggiata.
+1	Tommaso fondeva l'argento con l'oro.
+1	Gabriele ci sostituisce il tubo catodico. La frase è già corretta.
+1	Riccardo le sostituisce il tubo catodico. La frase è già corretta.
+1	Tommaso alterna Beatrice con Paola. La frase è già corretta.
+1	L'amore lega.
+1	Gabriele dorme.
+1	Maria desidera un libro.
+1	Maria desidera il fatto che tu venga.
+1	Leonardo tiene alla possibilità che lo promuovano.
+1	Giulia abbandona l'idea che vedrà Edoardo. La frase è già corretta.
+1	Maria ha fatto l'affermazione che Francesco è bello. La frase è già corretta.
+1	Maria bada che tutto funzioni alla perfezione.
+1	Edoardo approva che Maria parta.
+0	Emma dubita che Alice parta.
+0	La frase "Che Lorenzo viaggi angoscia Tommaso" non è grammaticalmente corretta. Una possibile correzione potrebbe essere: "L'idea che Lorenzo viaggi angoscia molto Tommaso."
+0	Riccardo approva l'idea. La frase originale non è corretta grammaticalmente. Ho rimosso "lo" e ho reso la frase più fluida e corretta in italiano.
+0	Edoardo approva il fatto che Maria canti.
+0	Desideri che Sofia venga.
+0	Riccardo va a fumare.
+1	Alice brama di tornare.
+0	Andrea incoraggia Maria a sposarsi.
+1	Il fatto che Emma parli allieta suo padre. La frase è già corretta.
+1	Andare al cinema infiamma Sofia.
+0	La colpisce che Riccardo rida. Nota: la frase data non presenta errori grammaticali, ma potrebbe essere stata intesa come una domanda a causa dell'uso di "che" e dell'inversione soggetto-verbo. Per rendere la frase più chiara come domanda, potresti scrivere: "La colpisce che Riccardo rida?". In questo caso, la risposta sarebbe ancora 0 e la frase corretta sarebbe la stessa.
+1	Mi meraviglia il fatto che Beatrice sia svestita.
+0	Leonardo allieta Maria perché Maria ride.
+1	La tristezza e la noia deprimono Gabriele.
+1	La frase è già corretta.
+0	La sola presenza di Alice mi calma.
+1	Parlare con le ballerine è divertente.
+0	Mi affascina il fatto che Edoardo parli di poesia.
+0	A Paola accadde di vedere i marziani.
+0	Splendeva nel suo sguardo aver vinto al lotto.
+0	Splendeva nel suo sguardo di aver vinto al lotto. La frase originale presenta un errore di collocazione dei termini. Ho corretto la frase mantenendo il significato originale. La frase corretta è: "Splendeva nel suo sguardo di aver vinto al lotto."
+0	Dobbiamo fuggire.
+1	Si tratta di fuggire. La frase è già corretta.
+1	Il fatto che Emma sia uscita così presto denota che in questo momento non va d'accordo con te. La frase è già corretta.
+1	Io condanno il fatto che Erode uccise i bambini. Nota: Ho lasciato la frase invariata perché è già grammaticalmente corretta. La frase usa il verbo "condannare" in forma passiva per descrivere il fatto che Erode ha ucciso i bambini. Il periodo è costituito da una proposizione principale ("Io condanno il fatto che") e da una proposizione relativa ("Erode uccise i bambini"), collegate dalla congiunzione "che".
+1	Gabriele adora carezzare Andrea
+1	Andrea intende sposare Alice
+1	Riccardo evita di guardare la televisione.
+0	Paola ritiene che sia carino partire.
+1	Lorenzo riteneva Alice fosse Paola La frase è già corretta.
+0	Beatrice lo giudica, pensando che Maria abbia troppi amanti.
+0	Sofia lo giudica perché Maria ha troppi amanti.
+0	Giulia lo giudica evidente che Maria sia bella. La frase originale presenta un'incongruenza tra il verbo "giudica" e il pronome relativo "che". Per rendere la frase grammaticalmente corretta, è necessario sostituire il pronome relativo "che" con "come". La frase corretta sarebbe: "Giulia lo giudica evidente che Maria sia bella."
+0	Leonardo suppone che il padre beva troppo.
+0	Penso qualcosa su di te.
+0	Io penso che tu ami il tartufo.
+1	Emma ottiene qualcosa da te. La frase è già corretta.
+0	Alice cerca di catturare Maria.
+1	Riccardo plaude al fatto che Tommaso ha vinto.
+1	Maria ci aspira. La frase è già corretta.
+1	Maria ci si aggrappa. La frase è già corretta.
+0	Paola mira a che il futuro sia felice. Nota: La frase presenta una lieve incoerenza grammaticale. La correzione proposta utilizza la preposizione "per" per rendere la frase più chiara e corretta: "Paola mira a rendere il futuro felice". Tuttavia, se si vuole mantenere la frase originale, basta aggiungere una virgola dopo "mira" per migliorare la leggibilità: "Paola mira, a che il futuro sia felice."
+1	Giulia guardava il muro.
+0	Riccardo lo pensa, Tommaso.
+0	Paola acconsente a essere legata.
+0	Alice sorride per il fatto di aver pianto.
+1	La condizione di disagio nasce dalla mancanza d'acqua. La frase è già corretta.
+0	Da quest'analisi risulta la nostra partenza.
+1	La tosse dipende dal fatto di aver fumato troppo. La frase è già corretta.
+1	Leonardo chiarisce che non è colpa sua a Paola. La frase è già corretta.
+1	Andrea fischia a Maria che ha fame.
+0	Andrea accennerà ad Edoardo se partirà o no.
+1	Paola addebita a Leonardo il fatto che ora ha fame. La frase è già corretta.
+1	Riccardo lo aggiunge nel suo discorso. Nota: sebbene la frase sia grammaticalmente corretta, potrebbe essere più naturale utilizzare "nei" al posto di "nel" in questo contesto, per rendere il discorso: "Riccardo lo aggiunge nei suoi discorsi."
+1	Maria ce lo ha scommesso.
+0	I giornalisti attaccano sui quotidiani il fatto che molti politici siano corrotti.
+1	Paola incoraggia il fatto che i ragazzi vadano al mare.
+1	Emma ne avvisa Alessandro. La frase è già corretta.
+1	Gabriele lo convince che lo sciopero è giusto.
+1	Riccardo esime Riccardo dal viaggio.
+1	Il sindaco esenta i poveri dal pagare il bus.
+1	Maria si accorda con Leonardo affinché il programma sia realizzato.
+1	Alice discorre di partire con Giulia.
+1	Maria si accorge di essere innamorata dal fatto di arrossire. La frase è già corretta.
+1	Edoardo continua a mangiarlo.
+0	Leonardo lo induce a mangiare.
+1	Edoardo osa mangiare.
+1	Paola è capace di cavalcare.
+1	Maria ha l'intenzione di cavalcare. La frase è già corretta.
+1	Tommaso suole il pasto.
+1	Riccardo deve mangiarlo. La frase è già corretta.
+0	Gabriele usa mangiarlo. La frase corretta dovrebbe essere: "Gabriele usa mangiarlo." La frase è già corretta.
+1	Riccardo va in camera.
+1	Andrea sale in camera.
+1	Riccardo sparisce da Parigi.
+1	Edoardo parte a Parigi. La frase è già corretta.
+1	Paola sgambetta verso il ponte. La frase è già corretta.
+0	La folla lo corre a salutarlo.
+0	Tommaso accompagna Emma in piazza.
+1	Beatrice assembla un computer.
+1	Il film è di Scorsese. La frase è già corretta.
+1	Paola lavora.
+1	È l'amica che di Emma angoscia quel quadro di Picasso. La frase è già corretta.
+0	Molte di loro leggono il giornale.
+0	Alcuni musei sono stati progettati da architetti.
+1	Paola mangia la pizza.
+0	Quell'architetto ha progettato alcuni musei.
+1	Hanno letto, molte ragazze, il giornale l'anno scorso. La frase è già corretta.
+1	Le spalle di Riccardo toccano la parete.
+1	Maria sarà toccata da quel film.
+0	Che tu sia partita, rallegra Beatrice.
+1	Gabriele è il marito di Paola.
+1	Beatrice è con Lorenzo.
+1	Paola ha messo la macchina che è del fratello nel garage.
+0	Tommaso obbedisce a Maria.
+0	Andrea confronta Leonardo con Andrea. Per spiegare brevemente la correzione, la frase è già grammaticalmente corretta. Tuttavia, potrebbe essere meno ambigua se fosse "Andrea confronta Leonardo con se stesso" per evitare confusione su chi sia il secondo Andrea. Tuttavia, come è scritta, è ancora grammaticalmente corretta.
+1	Maria fotografa Paola. La frase è già corretta.
+1	Lorenzo è stato smanioso.
+1	Tua sorella guarda il gelato.
+1	Tua sorella guarda il CD. La frase è già corretta.
+1	Sofia ha tagliato la testa al bisonte.
+1	Sofia ha tagliato le teste ai tori.
+1	I ragazzi taglierebbero la corda. La frase è già corretta.
+1	È il toro che Maria ha preso per le corna e non il bufalo.
+1	Maria stende il bucato.
+0	Il mio amico abbaia.  Nota: L'espressione "abbaia" è generalmente usata per i cani, ma nel contesto della frase, se l'intenzione è quella di descrivere una persona che abbaia, la frase può essere considerata grammaticalmente corretta, ma forse meno comunemente usata. Tuttavia, per mantenere la coerenza dell'esercizio, l'ho considerata corretta.
+1	Riccardo ulula. La frase è già corretta.
+1	Gabriele dormì.
+1	Il cane si è fermato in un batter d'occhio.
+1	Edoardo ci ha messo due ore per tagliare il filo elettrico. La frase è già corretta.
+1	Leonardo ha sezionato il vecchio tiglio.
+9	Le sei bombe sono esplose il 6 maggio 1999. La frase è già corretta.
+1	Lorenzo non ha più l'abitudine di fumare. La frase è già corretta.
+1	Andrea è diventato in gamba.
+1	Tommaso ha fatto gli auguri a Giulia.
+1	Sofia chiede che tu torni immediatamente.
+0	Dispiace a Beatrice che tu vada via.
+1	I bambini hanno calpestato le aiuole.
+0	I bambini eruttarono lava. Nota: La frase data è grammaticalmente accettabile, ma il suo significato è piuttosto insolito e inverosimile. "Eruzione" è generalmente associata a vulcani e non a bambini. La frase è corretta in termini di grammatica, ma il suo significato potrebbe non essere coerente con la realtà.
+1	Quell'uomo ha fotografato l'unico testimone e ciò è avvenuto un mese fa. La frase è già corretta.
+0	Quell'uomo ha fotografato.
+1	Andrea ha carezzato il volto a Beatrice. La frase è già corretta.
+1	Il volto di Paola è carezzato. La frase è già corretta.
+1	Edoardo ha fratturato il braccio di Maria. La frase è già corretta.
+0	Leonardo ha paralizzato il braccio di Maria.
+1	Il bambino pesava nove chili a pochi mesi. La frase è già corretta.
+1	Gli operai asfaltarono la strada. La frase è già corretta.
+1	Paola elencò l'invitato. La frase è già corretta.
+0	Alice ha messo i vestiti nell'armadio e ciò è accaduto.
+1	Maria ha tolto i vestiti e ciò è accaduto nell'armadio. La frase è già corretta.
+1	Beatrice riempie il frigo con frutta.
+1	Maria difende Andrea dai pericoli.
+1	Il libro passa da Maria a Maria. La frase è già corretta.
+1	Maria dà un libro a Paola.
+1	Francesco delega Gabriele suo rappresentante. La frase è già corretta.
+1	Sofia delega Maria come sua rappresentante. La frase è già corretta.
+0	Lorenzo abita a Roma e ciò succede lì.
+1	Riccardo ha mangiato la pizza e ciò è successo al ristorante.
+1	Sofia fuma una bionda.
+1	Edoardo ha spalmato il paté sul pane. La frase è già corretta.
+1	Andrea ha spalmato il pane di paté.
+1	Le bombe piovevano su di noi. La frase è già corretta.
+1	I matrimoni misti funzionano in modo perfetto.
+1	La tua idea equivale alla mia. La frase è già corretta.
+1	La tua idea e la mia si equivalgono. La frase è già corretta.
+1	Edoardo gira per la città.
+1	Giulia torna da Milano a Napoli. La frase è già corretta.
+1	Lorenzo controlla Paola.
+0	Maria acconsente a che la figlia esca con quel ragazzo. Per una frase più naturale, puoi considerare: "Maria acconsente a che sua figlia esca con quel ragazzo."
+0	Alice si prende cura di Maria.
+1	Paola dubita di te. La frase è già corretta.
+1	Maria desidera che tu parta.
+1	Che Giulia sia sempre in viaggio piace ad Andrea. La frase è già corretta.
+1	Emma volontariamente affascina Francesco. La frase è già corretta.
+1	Franceso desidera che lui venga. La frase è già corretta.
+1	Leonardo annota sul taccuino che il presidente scriverà la sua autobiografia. La frase è già corretta.
+0	Alessandro invita Paola a partire.
+1	Alice ha accompagnato Tommaso al cinema.
+1	La partenza apporta un beneficio a tutti. La frase è già corretta.
+1	Alessandro si lamenta del mare sporco con Paola. La frase è già corretta.
+1	Alice mette in agitazione Tommaso. La frase è già corretta.
+1	Andrea lascia a Leonardo pieni poteri.
+1	Il piatto piange. La frase è già corretta.
+1	Mi girano le scatole. La frase è già corretta.
+1	Alice si è attaccata a un capello.
+1	Maria ha piantato Riccardo in asso. La frase è già corretta.
+1	Sofia e Riccardo parlano la stessa lingua. La frase è già corretta.
+1	Avere fegato. La frase è già corretta.
+0	Avere le paturnie è comune.
+0	Avere scatole. In questa frase, "sul" è un errore grammaticale. La forma corretta è "Avere scatole", che significa avere idee o progetti.
+0	Essere in un grembo di vacca.
+1	La frase è già corretta.
+1	Riccardo spera che possa partire presto.
+1	Beatrice ha un'attenzione per Giulia. La frase è già corretta.
+1	Alice è in ansia.
+1	Siamo cariche di viveri. La frase è già corretta.
+1	La ragazza mangerà la pizza.
+1	Lei ha presentato la donna a dei suoi amici.
+1	Edoardo obbedisce a Sofia. La frase è già corretta.
+1	Edoardo ci va. La frase è già corretta.
+1	Una volta comprato il costume, Edoardo andrà a nuotare.
+1	Edoardo va a invitare Giulia a cena.
+0	Beatrice scappa per andare a comprare.
+1	Sono i libri che Leonardo mette sugli scaffali ora.
+1	Edoardo mette i libri sugli scaffali.
+0	Sono i libri quello che Leonardo mette sugli scaffali ora.
+1	Andrea mangia.
+1	Questo lavoro è di competenza di Leonardo. La frase è già corretta.
+1	Questo lavoro rientra nelle competenze di Riccardo. La frase è già corretta.
+1	A Francesco piace Maria per le sue gambe. La frase è già corretta.
+1	Andrea accarezza le gambe di Maria.
+1	Riccardo non gradì quell'allusione.
+1	Francesco ricorda qualcosa. La frase è già corretta.
+1	Era la conversazione che fecero i due ragazzi che Paola criticò.
+1	Leggeva i nomi degli artisti alla ragazza. La frase è già corretta.
+1	Ha tradito la fiducia di Gabriele. La frase è già corretta.
+1	Era felice di ciò.
+1	Era contento di giocare a carte.
+1	Alessandro disgusta Giulia. La frase è già corretta.
+1	Ne vediamo di tutti i tipi. La frase è già corretta.
+1	Ha abboccato all'amo.
+0	Ho riso per due ore.
+1	Ha preso una cotta per Sofia.
+1	Maria è in crisi. La frase è già corretta.
+1	Conservava il controllo della società.
+1	Maria ha venduto i suoi vestiti al mercato delle pulci.
+1	Paola ha confrontato i due libri in biblioteca. La frase è già corretta.
+1	Maria ha immerso il figlio nell'acqua fredda. La frase è già corretta.
+1	Leonardo leggeva sul divano.
+1	Il consenso della gente è nato dal suo talento. La frase è già corretta.
+1	Francesco guarda che tutto proceda per il meglio. La frase è già corretta.
+0	Francesco si vergogna che sia successo a lui.
+1	Giulia deve lavorare domani.
+1	Francesco stabilì la partenza di Tommaso con Maria.
+1	Maria ha lasciato il marito.
+0	L'affitto di quella casa gli rende 500 euro. La frase è già corretta.
+1	Hanno messo tutti in allarme? La frase è già corretta.
+0	Gli sale il sangue alla testa molto facilmente.
+1	Per tutta la vita ha costruito castelli in aria. La frase è già corretta.
+1	Quel terreno frutta molti soldi.
+1	Gabriele ha fatto scrivere una lettera a Lorenzo da Riccardo. La frase è già corretta.
+0	Il vento ha fatto rompere il vetro a Andrea.
+0	Il colonnello ha costruito la nave.
+1	Lorenzo si è fatto rompere la vetrata.
+1	Il sasso ha rotto il vetro.
+1	L'auto ha schiacciato l'acceleratore.
+1	Il colpo ha schiacciato l'acceleratore. La frase è già corretta.
+1	Lorenzo ha rotto il fidanzamento.
+1	Il caldo ha avariato il cibo. La frase è già corretta.
+1	L'umidità ha ossidato il ferro. La frase è già corretta.
+1	Gabriele ha fatto ossidare il ferro.
+1	Il vetro fu rotto dall'esplosione di un colpo.
+1	Maria si è lavata.
+1	Paola ha trascurato se stessa.
+1	L'uomo lavatosi ieri è mio nonno. La frase è già corretta.
+1	Andrea ha graffiato lo sportello dell'auto.
+1	Lo sportello dell'auto si è graffiato. La frase è già corretta.
+1	Il viso di Tommaso si è graffiato. La frase è già corretta.
+1	I prati si sono rivestiti con i fiori.
+0	I prezzi sono aumentati del 10 %. La frase è già corretta.
+5	Il fatturato si è incrementato del 15 % nell'ultimo anno.
+1	La Fiat si è fusa con la Chrysler. La frase è già corretta.
+0	Il disegno si è confrontato con la fotografia.
+1	Il contagio è in diffusione.
+0	Il gatto ha impiastricciato di peli il divano.
+1	L'inverno ha privato delle foglie gli alberi.
+1	L'esplosione ha spaccato la vetrata per un secondo. La frase è già corretta.
+1	La vetrata si è spaccata in un millisecondo.
+1	L'intonaco si è sgretolato in poche settimane. La frase è già corretta.
+1	La pioggia ha reidratato il terreno per giorni.
+1	Francesco ha riempito il serbatoio per un'ora. La frase è già corretta.
+0	Il prezzo di quei prodotti si è abbassato del 20% per sei mesi.
+1	Ha protratto l'interrogatorio per tutta la mattinata.
+1	Gabriele ha proseguito la lezione per ore.
+0	Le vittorie hanno caricato di entusiasmo il calciatore in una settimana.
+1	Il lievito ha fermentato la pasta in due ore. La frase è già corretta.
+1	Il temporale ha ritardato il treno in due ore.
+1	L'incidente ha ritardato il treno di due ore.
+1	Il treno ha ritardato per due ore.
+0	Il vino è diventato aceto dopo ore.
+0	I commercianti hanno incrementato le vendite del 10 % per anni. La frase è già corretta.
+0	Le vendite sono incrementate del 10 % in due anni.
+1	L'umidità ha ridotto in polvere l'intonaco per giorni. La frase è già corretta.
+5	Il cioccolato si è fuso in 5 minuti.
+5	La carne si è cotta in 5 minuti.
+0	La finestra si è chiusa, ma non è chiusa. Per una spiegazione più dettagliata, la frase presenta un'incoerenza grammaticale. In italiano, si usa il participio passato (si è chiusa) per indicare che un'azione è stata completata. Tuttavia, la seconda parte della frase (ma non è chiusa) contraddice ciò che è stato detto nella prima parte. La frase corretta dovrebbe essere: La finestra si è chiusa, ma non è aperta. In questo modo, la frase risulta coerente e grammaticalmente corretta.
+1	La valigia è diventata leggera.
+0	I prezzi sono rincarati del 10%.
+1	Hanno reso la stanza grande. La frase è già corretta.
+1	Il mare si è fatto agitato. La frase è già corretta.
+1	La carne è saporita.
+1	Il vino è aceto.
+1	Il pullover di lana si è infeltrito. La frase è già corretta.
+1	Edoardo si è fatto simile a uno scheletro. La frase è già corretta.
+1	La carne è diventata gustosa. La frase è già corretta.
+1	La situazione è diventata ingarbugliata. La frase è già corretta.
+1	L'aria si è fatta puzzolente.
+1	La situazione diventa ingarbugliatissima. La frase è già corretta.
+1	A Riccardo, questi argomenti non l'hanno convinto. La frase è già corretta.
+1	La follia spaventa Francesco.
+1	Le ragazze hanno innervosito Andrea.
+1	Le ragazze hanno preoccupato Francesco. La frase è già corretta.
+1	Quei fuochi hanno innervosito Edoardo.
+0	Alice ha fatto calmare Andrea da quell'uomo.
+0	Maria ha fatto preoccupare Gabriele alla fidanzata.
+0	Maria ha irretito Leonardo.
+1	Riccardo si seduce. In questa frase, "Riccardo si seduce" è grammaticalmente accettabile, anche se potrebbe non essere il significato che si intende comunicare. Se si desidera esprimere l'idea di Riccardo seducendo qualcun altro, la frase dovrebbe essere "Riccardo si seduce" (maschile). Se si desidera esprimere l'idea di Riccardo seducendo sé stesso, la frase è già corretta.
+0	Lorenzo si è piaciuto per questo.
+1	Edoardo si è spaventato a quella notizia.
+1	Riccardo si è agitato a quella notizia. La frase è già corretta.
+1	Tommaso si è agitato per quella notizia.
+0	Riccardo è irritato per quella notizia.
+1	Il fatto che le tasse si abbasseranno illude i cittadini.
+1	Maria ha timore di ciò. La frase è già corretta.
+0	Maria ha paura di ciò.
+1	Emma si sente nervosa.
+1	Sofia è in ansia per l'accaduto.
+1	Sofia ha i nervi a fior di pelle.
+1	Emma è in stupore. La frase è già corretta.
+1	Paola è in uno stato di spavento.
+1	Quelle parole hanno offeso Francesco. La frase è già corretta.
+1	I film horror appassionano Andrea.
+1	L'esplosione ha frantumato il vetro.
+1	Quella pietanza ha nauseato Francesco. La frase è già corretta.
+1	Lo stato di salute di mia madre mi ha preoccupato subito. La frase è già corretta.
+1	Lo stato di salute di mia madre mi ha addolorato in pochi minuti. La frase è già corretta.
+1	Il fumo ha irritato la gola di Paola. La frase è già corretta.
+1	Beatrice ha irritato Francesco.
+1	Il tuo arrivo improvviso ha agitato Gabriele. La frase è già corretta.
+1	La reputazione di Emma si è distrutta con quello scandalo. La frase è già corretta.
+1	L'intonaco si è sgretolato. La frase è già corretta.
+1	La politica dell'Unione Europea ha schiacciato la Grecia.
+1	Giulia ha spento le polemiche. La frase è già corretta.
+1	La schiena si è scottata.
+1	Gabriele si è rotto di Maria.
+1	Riccardo è desideroso di partire.
+1	Giulia sposta il cadavere dall'armadio al tavolo. La frase è già corretta.
+1	Francesco va a scuola.
+1	Gabriele è alla scuola svizzera.
+1	Gabriele è alla tavola.
+1	Beatrice porta un piatto in tavola.
+0	Giulia accompagna Gabriele al tavolo.
+1	Maria cade per terra.
+1	Andrea ha iscritto il figlio a scuola di danza. La frase è già corretta.
+1	Emma ha portato il pacco a scuola.
+0	Francesco sta seduto in poltrona.
+0	La palla è finita dietro.
+1	La palla è finita in acqua.
+1	Maria abita giù in basso.
+1	Mi raccomando, tieni acqua in bocca. La frase è già corretta.
+1	Il bambino piange. La frase è già corretta.
+1	Lorenzo perde il cappello.
+1	Riccardo avrebbe bruciato le tappe. La frase è già corretta.
+1	Maria ha rubato improvvisamente il cuore a Gabriele. La frase è già corretta.
+1	Emma se la passava bene.
+1	Giulia mise gli occhi addosso a Lorenzo. La frase è già corretta.
+1	Riccardo abbandonò l'abito sul divano. La frase è già corretta.
+1	Maria inchinò la testa.
+1	Alice piegò la testa.
+1	Maria levò il capo. La frase è già corretta.
+0	Maria sollevò il capo.
+1	Gabriele prese l'auto.
+0	Alessandro ebbe una trombosi.
+1	La trombosi venne ad Edoardo.
+1	Il tifo venne a Riccardo.
+1	Leonardo si scaldò. La frase è già corretta.
+1	Maria si riposò.
+1	Alice si rinforzò. La frase è già corretta.
+0	Paola e Francesco presero l'inizio.
+1	Riccardo ebbe una sbornia. La frase è già corretta.
+1	Il formaggio fece la muffa. La frase è già corretta.
+1	Sofia ebbe un bagno.
+1	Beatrice si maritò con Gabriele.
+1	Riccardo respirò aria fresca. La frase è già corretta.
+1	Giulia prese una dritta. La frase è già corretta.
+1	Giulia si sbagliò. La frase è già corretta.
+0	L'aereo approdò.
+1	Alessandro si bagnò.
+1	Tommaso arieggiò la sua stanza. La frase è già corretta.
+1	La nave ammarò.
+1	Tommaso prese la terra dal secchio. La frase è già corretta.
+1	I marinai vogavano.
+1	Il dollaro è salito.
+1	Il progetto ebbe successo.
+1	Lorenzo prese un cappellaccio.
+1	Riccardo si imbronciò.
+1	Andrea prese cappello. La frase è già corretta.
+0	Paola prese forma.
+1	Alessandro prese parte alla festa.
+1	Francesco annotò la lezione. La frase è già corretta.
+1	Leonardo prese imbarco sulla nave.
+1	Paola prese informazioni su Alessandro.
+1	Edoardo si innamorò di Sofia.
+1	Paola prese un odio per Tommaso. La frase è già corretta.
+1	Gli uccelli si imbeccarono dalla madre. La frase è già corretta.
+1	Maria prese una cotta per Francesco.
+1	Maria si prese il gioco di Lorenzo. La frase è già corretta.
+1	Lorenzo è il primo nella gara.
+1	Francesco prese il coltello per la lama. La frase è già corretta.
+1	Leonardo fece il proprio danno.
+1	Lorenzo ha preso fischi per fiaschi.
+1	Maria fece una seduta di elioterapia.
+1	Andrea prese il treno.
+1	Ѐ stato perso troppe volte il treno, in questa redazione. La frase è già corretta.
+1	La bussola fu persa da Gabriele.
+1	Andrea non si controllò più.
+1	Edoardo è un chimico.
+0	Tommaso espose un giudizio.
+0	Lorenzo le disse due a Maria.
+1	Beatrice prese fischi per fiaschi. La frase è già corretta.
+1	Tommaso butta olio sul fuoco.
+1	Riccardo tirò l'acqua al proprio mulino.
+1	Alessandro si diede la zappa sui piedi.
+1	Emma ascolta un disco.
+1	Riccardo ha toccato Emma.
+1	Riccardo fa le traduzioni dei bollettini di guerra. La frase è già corretta.
+1	Di te ride in maniera beffarda. La frase è già corretta.
+1	Tommaso legge.
+1	Gabriele fa una telefonata a Maria. La frase è già corretta.
+1	Tommaso dà un libro a Maria. La frase è già corretta.
+0	Andrea ha telefonato, il che ha causato il fatto che Giulia sia ritornata.
+1	Riccardo telefona ad Emma. La frase è già corretta.
+1	Emma è in angoscia.
+1	Leonardo odia Maria.
+1	Leonardo odia Paola?
+1	Alessandro andò a salutare il padre. La frase è già corretta.
+1	Alessandro girò, con l'auto, a raccoglierla. La frase è già corretta.
+1	Il battello virò a salvarli. La frase è già corretta.
+1	Andrea obbedisce a lui sempre.
+1	I soldati hanno passato le armi ai prigionieri.
+1	Alessandro ama i bignè.
+1	Il cedro ama la libertà. La frase è già corretta.
+0	Il giardiniere ha potato il cespuglio a forma di barboncino di Edoardo.
+1	A Lorenzo, Alessandro gli ha lasciato una ricca eredità.
+1	Alessandro beve il suo caffè.
+1	Alessandro desidera rivedere Beatrice.
+1	Un gatto con gli occhi gialli sta sotto l'arco della porta. La frase è già corretta.
+1	Paola ha coraggio. La frase è già corretta.
+1	Gabriele segue una rigida condotta morale.
+1	La zanzara pratica una rigida condotta morale. La frase è già corretta.
+0	Il frigorifero ha una forte attrazione per Francesco.
+1	Tommaso dette degli schiaffi a Maria. La frase è già corretta.
+1	Riccardo allungò uno schiaffo a Giulia. La frase è già corretta.
+1	Riccardo resta in silenzio.
+1	Riccardo non ha più sospetti su Emma.
+1	Lorenzo riceve aiuto da Edoardo. La frase è già corretta.
+1	Alessandro agita Beatrice.
+1	Edoardo fa friggere l'uovo nella padella.
+1	Riccardo procede al caricamento del camion di casse.
+1	L'inchiostro rosso è la carica della stilografica. La frase è già corretta.
+1	La stilografica è caricata.
+1	Tommaso fruga nei cassetti della scrivania di Giulia. La frase è già corretta.
+1	Andrea carica l'orologio.
+1	Riccardo dà molte botte al cane. La frase è già corretta.
+1	Lorenzo sale, per una seconda volta, le scale di corsa. La frase è già corretta.
+1	Beatrice ha l'incarico di rapire Emma.
+0	Alessandro corre l'asino.
+1	Francesco prende il cervo per le corna e lo atterra.
+0	Il frigorifero ha attirato un gatto.
+0	Il frigorifero ha attratto un tavolo.
+1	Riccardo ha sedotto una minorenne. La frase è già corretta.
+1	Tutta la sala applaudì all'affermazione dell'oratore. La frase è già corretta.
+1	Paola ha letto un libro.
+0	Maria colleziona biglietti d'amore.
+1	Riccardo ha tosato lo zio. La frase è già corretta.
+1	Paola fa una corsa in giardino.
+1	Riccardo scambia libri con Maria.
+1	Alice ha curvato la fronte.
+1	Maria ha curvato la faccia. La frase è già corretta.
+0	Sofia mantiene la testa al nemico.
+1	Alessandro si gonfia la testa.
+0	Beatrice ha abbandonato Giulia.
+1	Capire le intenzioni segrete di una persona. La frase è già corretta.
+1	Maria cambia le carte. La frase è già corretta.
+0	Riccardo fa un cattivo gioco.
+1	Andrea ha rotto il collo a Beatrice.
+1	La musica rock rompe le orecchie.
+1	Riccardo ha dato quel che è di Tommaso a Tommaso. La frase è già corretta.
+1	La mosca salta al naso di Riccardo.
+0	Andare incontro. La frase originale "Andare a monte" non è grammaticalmente corretta. "Andare incontro" è una frase equivalente che significa "andare verso" o "andare ad incontrare".
+0	Essere all'indice. Nota: La frase "Essere all'indice" non è grammaticalmente corretta, poiché "essere" è un verbo e "all'indice" è un complemento di stato in luogo. Una correzione grammaticalmente corretta potrebbe essere: "Essere inseriti nell'indice" o "Essere inseriti nella lista".
+0	Mettere al bando. Nota: "Mettere all'indice" è un'espressione idiomatica poco comune, mentre "mettere al bando" è un'espressione più comunemente usata con lo stesso significato.
+1	Alzare il gomito. La frase è già corretta.
+1	Perdere il lume della ragione. La frase è già corretta.
+0	Aiutare qualcuno in difficoltà. La frase originale "Cavare la castagne dal fuoco a qualcuno" non è grammaticalmente corretta. La frase corretta in italiano è "Aiutare qualcuno in difficoltà".
+0	Essere povero in canna è un modo di dire idiomatico, ma se si desidera una frase grammaticalmente corretta, potrebbe essere: "Essere povero fino alla canna" o "Essere povero al punto da non avere neanche una canna".
+1	L'angelo custode accompagna la fantasia di ogni bambino.
+1	Ogni bambino ha un angelo custode che lo protegge. La frase è già corretta.
+1	A quella festa è di rigore lo smoking. La frase è già corretta.
+0	La moto di Leonardo è nuova di zecca.
+1	Ho visto un'unità in marcia.
+1	Che Leonardo ritorni piace a Maria. La frase è già corretta.
+1	Sofia corre a mangiare.
+1	Andrea sorride a Sofia.
+1	Beatrice bada a che l'articolo sia chiaro. La frase è già corretta.
+1	Alessandro divorzia da Paola. La frase è già corretta.
+1	Riccardo abita in una casa piccola.
+1	Maria non sta a Roma.
+1	Mille stelle brillano nel cielo. La frase è già corretta.
+0	Guarda questa cosa.
+0	Tutti i giorni, Leonardo li studia intensamente per tre ore al giorno.
+1	La parete è toccata dalle spalle di Riccardo.
+1	Lorenzo tocca la schiena di Paola.
+0	Una tale conclusione deriva da ciò. La frase originale non è corretta in quanto manca il riferimento da cui deriva la conclusione. Ho aggiunto "da ciò" per renderla grammaticalmente corretta.
+1	Gabriele mangia poca frutta.
+1	Andrea beve.
+1	Francesco pizzica con sadismo. La frase è già corretta.
+1	Alessandro disegna sul muro.
+1	Lorenzo balla la rumba.
+1	La siesta è una dormita.
+1	Francesco nuota a rana.
+1	La spugna pulisce. La frase è già corretta.
+0	Tutti bevono il tè amaro.
+1	I lavori fatti hanno reso più larga la piazza.
+1	Tommaso afferra il gatto.
+1	Alessandro riflette sul gatto.
+1	Andrea discute la validità delle affermazioni di Maria. La frase è già corretta.
+1	Riccardo fotografa Alice. La frase è già corretta.
+1	Tommaso legge il giornale in salotto.
+1	Gabriele ha visto una casa di mattoni rossi.
+1	Tommaso ha visto una casa. La frase è già corretta.
+1	I libri vecchi stanno nella cassa.
+1	Un libro passa da Beatrice a Francesco.
+0	Non c'è sempre una concordanza tra i fatti e le parole di Maria.
+1	Maria mette il libro nella borsa. La frase è già corretta.
+1	Lorenzo stacca la foto dall'album. La frase è già corretta.
+1	Emma ha ritrovato l'anello nel cassetto.
+1	Il meccanismo di funzionamento del rotore alloggia se stesso in quell'involucro. La frase è già corretta.
+1	Quella scatola conserva le foto di Alessandro ed Edoardo. La frase è già corretta.
+1	E ciò è avvenuto al bar. La frase è già corretta.
+1	Paola ha estratto la pistola e ciò ha avuto luogo dalla borsa. La frase è già corretta.
+1	Il libro non sta nella cartella.
+1	La commessa avvolge la carta da regalo intorno alla bottiglia. La frase è già corretta.
+1	È dal marciapiede alla porta di casa che Beatrice ha piantato dei paletti.
+0	Maria seppellisce il padre sotto un albero.
+1	La polizia sgombera la piazza dei dimostranti. La frase è già corretta.
+1	L'architetto ha decorato la facciata di fregi in marmo.
+1	Andrea uccise Edoardo con un sol colpo di coltello. La frase è già corretta.
+1	I bagagli non stanno nell'auto.
+1	I libri stanno nella stanza. La frase è già corretta.
+1	I vestiti vecchi stanno nell'armadio.
+1	I vestiti vecchi non stanno nell'armadio.
+1	Andrea profuma la stanza di aromi di pino.
+1	Cicche intasano lo scarico della fontana.
+0	Maria innaffia le piante con acqua e disinfestanti.
+1	Il radar ha localizzato l'aereo.
+1	Alessandro difende Beatrice dai pericoli. La frase è già corretta.

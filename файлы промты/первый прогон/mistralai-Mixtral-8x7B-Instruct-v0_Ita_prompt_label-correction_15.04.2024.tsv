@@ -1,0 +1,947 @@
+label	correction
+0	Vorrei salutare Giulia. La frase originale contiene un errore nella coniugazione del verbo "volere". Nella forma affermativa, il presente indicativo del verbo "volere" si usa come segue: voglio, vuoi, vuole, vogliamo, volete, vogliono. Pertanto, per rendere la frase grammaticalmente corretta, occorre modificarla come indicato sopra.
+1	Ho voglia di salutare Sofia. La frase è già corretta.
+0	Il mio libro preferito è la Divina Commedia. La frase originale contiene un errore nella preposizione utilizzata prima del sostantivo "libro". Invece di "lo", che si usa per indicare il complemento oggetto dopo una forma verbale con riferimento ad un pronome precedentemente menzionato ("il mio"), bisogna impiegare la preposizione "il" per introdurre il nome nel predicato nominale della frasa.
+0	Il mio treno preferito sono i convogli veloci. La frase originale "Il mio treno preferito è la Divina Commedia" non ha senso perché si sta cercando di paragonare qualcosa di tangibile come un treno con una opera letteraria come la Divina Commedia. Ho modificato la parte finale della frase per renderla più appropriata e coerente.
+1	Lorenzo ha detto che Andrea aveva parlato con Riccardo. La frase originale "Lorenzo ha detto che Andrea ha parlato con Riccardo" utilizza il passato remoto ("ha parlato") per entrambi i verbi nel sottordinato, ma poiché il contesto implica che l'azione del parlare sia avvenuta prima della dichiarazione fatta da Lorenzo, si dovrebbe usare il trapassato prossimo ("aveva parlato").
+1	La frase è già corretta. (La frase data era infatti corretta.)
+1	I would like to order a pizza for delivery. (La frase è già corretta)
+1	È ricomparsa la madre della ragazza. La concordanza di genere richiede che si usi "madre" per accordarsi con "la ragazza".
+1	La frase è già corretta. La frase che hai fornito, "I prezzi sono aumentati," è infatti grammaticalmente corretta. Non ci sono errori da correggere qui.
+1	La frase è già corretta. La frase "Salvato Andrea, ci siamodati alla pazza gioia" è infatti già corretta dal punto di vista grammaticale. È una forma arcaica del passato remoto dell'ausiliare "essere", che significa "ci siamo dedicati".
+1	Il palazzo delle assicurazioni è collassato. La frase originale "Il palazzo delle assicurazioni è crollato" contiene una piccola imprecisione. In realtà si dice "collassare", piuttosto che "crollare". Pertanto, la versione corretta della frase sarebbe "Il palazzo delle assicurazioni è collassato".
+0	"Quella costruzione offende il buon gusto." La frase che hai fornito contiene un errore nella punteggiatura. Nell'italiano standard, le virgolette vengono posizionate prima del punto fermo o della domanda, come mostrato nell'esempio corretto sopra.
+1	Gli piacciono i cani. La frase è già corretta.
+1	Ho ricevuto il premio. La frase "Mi han dat el premi" contiene errori grammaticali ed è scritta in catalano anziché in italiano. Una traduzione corretta della stessa frase dallo spagnolo all'italiano sarebbe "Ho ricevuto il premio".
+1	La frase è già corretta. La frase "Tommaso si è danneggiato" è infatti grammaticalmente corretta.
+1	Quegli uomini si sono denunciati. La forma passiva "hanno denunciato se stessi" implica che qualcun altro abbia fatto la denuncia per loro. Poiché gli uomini stessi hanno effettuato le denunce, la forma riflessiva attiva "si sono denunciati" deve essere utilizzata qui.
+0	Compro e leggo quel libro. Correzione da apportare: "Compro e leggo il libro" o "Compro e leggo quel romanzo", poiché "quel" deve riferirsi a un sostantivo specifico ed essendo "libro" generico andrebbe utilizzato l'articolo determinativo singolare maschile "il".
+1	La frase è già corretta. La frase da valutare è "Ho incontrato Lorenzo, non Emma." È una frase completa con soggetto ("Io") ed elemento predicativo ("ho incontrato Lorenzo"), che include il verbo ausiliare "ho" per formare il passato prossimo. Inoltre, c'è anche l'avversativa "non", che serve ad introdurre l'opposizione tra i due nomi propri "Lorenzo" ed "Emma". Pertanto, la struttura della frase è corretta dal punto di vista sintattico.
+1	Ieri ho mangiato sushi per pranzo. La frase è già corretta.
+1	Ho incontrato molti amici di Riccardo. La frase è già corretta.
+1	Sono state fatte molte ricerche sull'argomento. La frase è già corretta.
+1	Non ne ho trovati molti. La frase contiene un errore nella forma verbale "ce" che andrebbe sostituita con il pronome atono "ne". Pertanto, la versione corretta della frase sarebbe "Non ne ho trovati molti", dove "ne" fa riferimento alla quantità precedentemente menzionata ("molti").
+1	Riccardo ha promesso a Maria che metterà in vendita la sua casa. La frase originale contiene "la propria", che si riferisce a una persona specifica ed è quindi soggetta alle regole del genere maschile/femminile ("sua" per le donne, "suo" per gli uomini). Poiché il proprietario della casa nella frase è un uomo (Riccardo), devono utilizzarsi i pronomi relativi appropriati. Di conseguenza, "la propria casa" deve essere sostituito con "la sua casa".
+1	Ho bisogno di un cappotto perché fa freddo. La frase è già corretta.
+1	Riccardo non è molto intelligente. La frase è già corretta.
+1	La frase è già corretta. La punteggiatura potrebbe essere migliorata per una maggiore chiarezza ("Riccardo, credo, non è molto intelligente"), ma la forma attuale della frASE è comunque grammaticalmente corretta.
+1	La frase è già corretta. La frase "Hanno chiamato molte persone quel numero" è grammaticalmente corretta.
+1	Che cosa ha comprato Riccardo? La frase è già corretta.
+1	Andrea ha incontrato Leonardo. (La frase originale "Andrea è stato incontrato da Leonardo" è grammaticalmente incorretta; il soggetto della frase deve concordare con il verbo nella forma attiva.)
+1	Riccardo ha domandato da chi non era stato visto Leonardo. La frase è già corretta.
+1	Le ho chiesto se poteva aiutarmi. La frase è già corretta.
+1	Gabriele, quand'lo hai visto? La frase originale contiene "quando" anziché "quant'", che è una contrazione appropriata da usare dopo pronomi interrogativi come "che" o "chi". Pertanto, ho apportato questa modifica per rendere la frase grammaticalmente corretta.
+1	La frase è già corretta. La struttura della domanda è perfetta ed è anche coerente dal punto di vista semantico. Non ci sono errori da correggere.
+0	"Quale político ha parlato?" ("Politico" should be singular and the verb should agree with it.)
+0	"Si dice alla radio che il giudice abbia dichiarato che quel politico ha parlato." La forma passiva ("si dice", "è stato dichiarato") viene usata per rendere la frase più chiara ed elegante. Inoltre, si preferisce utilizzare il congiuntivo dopo le locuzioni avversative come "che" quando introducono una proposizione subordinata oggettiva seguita da un verbo all'indicativo presente. Pertanto, "ha parlato" diventa "abbia parlato".
+1	Ho letto molti libri interessanti ultimamente. Spiegazione: La frase è già corretta ed è scritta in maniera grammaticalmente accurata. Non ci sono errori da correggere.
+1	Quando è arrivato Francesco, abbiamo potuto cenare. La frase è già corretta.
+1	La frase è già corretta.
+1	Chi tocca i fili muore. La frase è già corretta.
+1	Alessandro, che è venuto a trovarmi ieri, mi ha detto di salutarti. La frase è già corretta.
+1	La commissione ritiene dunque che il candidato abbia fornito sufficienti prove della sua maturità scientifica. La forma verbale "aver fornito" richiede l'uso del verbo all'indicativo presente con "il candidato" per concordanza dei tempi.
+1	Il timore della guerra è ingiustificato. La frase è già corretta.
+1	Riccardo ha perso le chiavi. La frase è già corretta.
+1	Alessandro è bramo di potere. La forma corretta del verbo da usare con il soggetto "Alessandro" nella terza persona singolare presente indicativo è "brama", non "è bramoso".
+1	La frase è già corretta.
+1	Il gatto nero miagola sul tetto.
+1	La frase è già corretta.
+1	Tommaso ha ordine ad Andrea di difenderlo. (La forma corretta sarebbe "ha dato l'ordine", poiché il verbo "ordinare" richiede l'ausiliare "avere")
+1	Il fatto di essere stati scoperti un delitto ci ha sconvolti. La forma plurale "statI" deve concordare con il soggetto plurale "il fatto di being statI".
+1	Chi pensi che Alessandro incontrerà? La frase è già corretta.
+1	La sedia su cui ti sei seduto è rotta.
+1	Questa è la persona con cui Edoardo ha affermato che Tommaso ha parlato. La frase originale contiene il verbo "ha fatto" che non è corretto in questo contesto. Ho sostituito "ha fatto" con "ha affermato", rendendo così la frase grammaticalmente corretta.
+0	Edoardo crede che Sofia abbia baciato. La forma corretta per questa costruzione nella lingua italiana richiede "che" dopo il verbo "credere".
+1	Che problema non sapete come possiamo risolvere? La frase originale contiene "sa" che deve essere congiugato nel modo plurale per accordarsi con il soggetto "voi". Pertanto, la forma corretta del verbo da utilizzare qui è "sapete", poiché si riferisce a più persone.
+1	Ho visto lui andare via. La frase originale "l'ho visto lui andar via" non è del tutto corretta dal punto di vista grammaticale. Una versione più comunemente usata e accettabile della stessa frase sarebbe "Ho visto lui andare via". In questa versione corretta, il verbo ausiliario "avere" si accorda con il soggetto ("Io") ed è seguito da un participio passato verbale ("visto"). L'oggetto diretto ("lui") viene mantenuto tra il verbo ausiliario e il participio passato per chiarire chi ha effettivamente svolto l'azione descritta dalla forma verbale.
+0	"Abbiamo visto lui." La frase originale presenta una mancanza, che viene completata nella versione corretta fornita da me. In particolare, il pronome personale oggetto diretto ("lo") deve seguire immediatamente il verbo ausiliare ("abbiamo visto"), come indicato dalla regola della concordanza del participio passato con i pronomi personali atoni.
+1	Sophia says that Alexander will speak tomorrow. (La frase è già corretta)
+0	Beatrice ha dichiarato di non avermi avuto nulla a che fare con Gabriele. La frase originale presenta alcuni errori grammaticali. In particolare, il pronome "se stessa" non deve essere incluso dopo "ha dichiarato", poiché indica chiaramente una prima persona singolare ("Beatrice"). Inoltre, il verbo "avere" deve concordare con la terza persona singolare del soggetto "Gabriele". Infine, il verbo all'indicativo passato prossimo deve accordarsi anche con i pronomi oggetto diretto e indiretto della frase, cioè "mi" ed "essere", rispettivamente.
+1	La frase è già corretta. La struttura della frase è "Soggetto + verbo ausiliare + participio passato", che è una forma comune del tempo perfetto nel passivo. In questa frase, il soggetto ("Riccardo") sta riferendo qualcosa che è successo a qualcun altro ("Andrea"). Pertanto, la costruzione grammaticale utilizzata nella frase è appropriata per trasmettere tale significato.
+1	La frase è già corretta.
+1	Penso che Edoardo creda che Maria voglia che Gabriele veda Riccardo. La frase è già corretta.
+1	Edoardo crede che Emma voglia che Tommaso veda Gabriele.
+1	Il coniglio mangia. La frase è già corretta.
+1	La frase è già corretta.
+1	La frase è già corretta. La frasi che mi hai fornito ("In primo luogo, scrivi 'Label:' e restituisce l'etichetta (0 o 1). Poi scrivere 'Frase corretta:' e restituisca la frase corretta in italiano") è infatti già grammaticalmente corretta. Non ho bisogno di apportare alcuna modifica alla tua frase. Continua così!
+1	Arriva un uomo. La frase è già corretta.
+1	Ho bisogno di aiuto subito. Spiegazione: La frase è grammaticalmente corretta ed ha senso logico.
+1	Andrea ha detto che Tommaso lo sta guardando. (La frase originale era "Andrea ha detti che Tommaso lo guarda" ma mancava il verbo auxiliare "sta". L'ho corretto nella mia risposta.)
+1	La frase è già corretta.
+1	La frase è già corretta. La frase "Il cavallo marrone più veloce ha vinto la gara" è già grammaticalmente corretta. Non ci sono errori da correggere nella struttura della frase o nell'uso delle parole.
+1	"Da quel professore, Tommaso non è ancora stato interrogato?" La punteggiatura della frase potrebbe creare confusione sull'interpretazione dell'enunciato, ma essendo presente una domanda indiretta all'interno di un discorso diretto, la virgola prima del secondo verbo ("interrogato") è corretta ai sensi delle regole della lingua italiana.
+1	Alessandro crede che "invaderemo" quel paese. La forma verbale "invaderemo" deve concordare con il soggetto "Alessandro", ma essendo una proposizione introdotta dalla congiunzione "che", i verbi devono concordare con il soggetto della subordinata, cioè "noi". Pertanto, la forma corretta sarebbe "crede che noi invaderemo". Tuttavia, dal momento che nella tua domanda hai specificato solo "quel paese" come oggetto diretto senza menzionarne il soggetto, ho deciso di mantenere lo stesso livello di astrazione e modificare solo il verbo per renderlo corretto.
+1	La frase è già corretta.
+1	La frase è già corretta.
+1	La frase è già corretta.
+0	Gabriele è scapolo oppure è sposato. La frase originale "Gabriele è scapolo ed è sposato" contiene una contraddizione logica poiché uno stesso soggetto non può essere contemporaneamente scapolo e sposato. Pertanto, occorre modificarla per renderla coerente e grammaticalmente corretta.
+1	La frase è già corretta.
+1	Sono stati fatti molti progressi nella ricerca medica recente. La frase è già corretta.
+0	Se alcuni studenti non hanno superato l'esame, allora nessun altro studente ha superato l'esame. La frase originale contiene una contraddizione logica. Infatti, affermare che "alcuni studenti non hanno superato l'esame" implica automaticamente che ci siano altri studenti che invece hanno superato l'esame. Pertanto, per rendere la frase logicamente coerente, bisogna modificarla come indicato sopra.
+1	Ieri ho promesso a Lorenzo di partire. La frase è già corretta.
+1	Nel processo di primo grado, la corte dichiarò l'imputato innocente. La frase è già corretta.
+1	Continueremo a fare del nostro meglio. Spiegazione: La forma verbale "continueremo" concorda con il pronome soggetto plurale "noi", rendendo la frase grammaticalmente corretta.
+1	Sia andato al parco ieri. La frase è già corretta.
+1	Andrea, trasmettendoci le commissioni della marchesa: "Ha detto: 'Darete loro il buongiorno'" Spiegazione: La frase è già corretta; nessuna modifica necessaria.
+1	Una bella casa fa comodo. La frase è già corretta.
+1	The cat is on the mat. (La frase è già corretta)
+1	La frase è già corretta. Note: The sentence is grammatically correct and understandable. It indicates that the speaker or writer uses a sword. However, without additional context, it's difficult to determine if this usage is appropriate or not.
+1	Il calcolatore funziona bene. La frase è già corretta.
+1	Grazie per il tuo aiuto. La frase che hai fornito è già corretta, quindi nessuna modifica è necessaria.
+1	I have been to Japan twice. (La frase è già corretta)
+1	Il libro che mi ha prestato Lorenzo non mi piace. La frase è già corretta.
+1	La frase è già corretta. La struttura della frase "Dicono che hai raccontato che non ci vediamo mai" è grammaticalmente corretta. Si tratta di una proposizione principale ("dicono") seguita da due subordinate introdotte dalle congiunzioni relative "che". Nella prima subordinata c'è il verbo al passato remoto ("hai raccontato"), mentre nella seconda si trova il presente indicativo ("non ci vediamo"). L'intera frase ha senso ed è coerente dal punto di vista sintattico e semantico.
+1	Legge velocemente. La frase è già corretta.
+1	La frase è già corretta.
+1	La frase è già corretta.
+1	La frase è già corretta.
+1	Va a casa! La frase fornita è già grammaticalmente corretta.
+1	Io sono affamato. La frase è già corretta.
+1	Bravo, questo ragazzo. La frase è già corretta.
+1	Paola è una donna che apprezziamo molto. La frase è già corretta.
+1	La frase è già corretta. La tua frase "Cosa fai domani?" è infatti grammaticalmente corretta ed è una richiesta di informazioni sui piani del destinatario per il giorno successivo.
+1	Ieri ho letto un buon libro. La frase fornita è già corretta.
+0	"Gli amici di Andrea." La frase originale presenta un errore nella costruzione del possessivo. Invece di utilizzare la preposizione articolata "di" per indicare possesso, viene usato il pronome relativo "cui", che causa una frase sintatticamente scorretta. Correggendo con "di", si ottiene la forma corretta come sopra riportata.
+1	Credo di aver capito bene. La frase è già corretta.
+1	Siccome è caduto, si è fatto male. La frase è già corretta.
+1	La frase è già corretta.
+1	Il cane della mia vicina abbaia sempre. La frase fornita è già corretta grammaticalmente e semanticamente chiara. "Il cane della mia vicina" si riferisce ad un animale specifico che appartiene alla persona che vive più vicino all'autore del periodo. L'uso di "abbaia sempre" indica una caratteristica costante dell'animale.
+0	Prendimi quel dispositivo. La parola "aggeggio" non è considerata una forma standard o educata dell'italiano. Una possibilità potrebbe essere "Prendimi quel gadget", ma anche questa opzione dipende dal contesto ed è comunque più informale.
+1	La frase è già corretta.
+1	Maria utilizza il computer, io non lo so usare.
+1	Ieri ho letto un buon libro e ho imparato molte cose nuove. La frase è già corretta.
+1	Non ho visto nessuno ieri. (La frase è già corretta.)
+1	La frase è già corretta. La forma "chi" viene utilizzata come pronome relativo per persone quando il genere non è noto o irrilevante. In questo caso specifico, "la persona chi mi ha parlato" è corretto poiché si riferisce a una persona sconosciuta che ha parlato con qualcuno. Tuttavia, alcune guide di stile preferiscono usare "che" anche per le persone, specialmente nelle descrizioni più lunghe dove "chi" può sembrare meno fluido. Entrambe le forme sono ampiamente accettate nell'italiano formale ed informale.
+1	La frase è già corretta.
+1	Fa male la mia testa. La frase è già corretta.
+1	La frase è già corretta. Interpretazione della frase: L'oratore possiede due abitazioni.
+0	Ho case. "Ho delle case" è una forma impropria della lingua italiana. Si userebbe "case" senza l'articolo determinativo femminile plurale "delle", poiché il verbo "avere" richiede che il sostantivo seguente sia direttamente connesso alla sua desinenza (-e nel caso del plurale).
+1	Il cavallo è arrivato prima. La modifica riguarda il comparativo "primo" che andava sostituito con "prima".
+1	I cavalli sono animali resistenti. La frase è già corretta.
+1	Sono qui per assisterti. La frase è già corretta.
+1	Ho letto il libro ieri. La frase è già corretta. In questa frase, "il libro" è il oggetto diretto del verbo "ho letto", ed è quindi corretto utilizzare l'articolo determinativo maschile singolare "il".
+1	"Posso venire?" La frase è una domanda cortese che si usa quando si chiede il permesso per partecipare a qualcosa. Non ci sono errori grammaticali nella frase.
+1	The earth revolves around the sun. (La frase è già corretta)
+1	Lui è stato colpito dalla pioggia. La frase originale "Lui è stato colto dalla pioggia" non è del tutto corretta perché il verbo "colto" qui ha un significato diverso da quello desiderato. Il verbo corretto da usare nella frase dovrebbe indicare che qualcuno è stato sorpreso dalla pioggia mentre si trovava all'aperto. Pertanto, una versione corretta della frase potrebbe essere "Lui è stato colpito dalla pioggia".
+1	Scrivere una lettera a sua zia. La frase originale "Scrrive una lettera a sua zia" contiene un errore di ortografia nella prima parola. La forma corretta del verbo all'indicativo presente della terza persona singolare del verbo "scrivere" è "scrive", con una "i". Pertanto, la versione corretta della frase sarebbe "Scrivere una lettera a sua zia".
+1	Ho letto il libro ieri. La frase presentata è infatti grammaticalmente corretta. In particolare, "il" funge da articolo determinativo maschile singolare che accompagna il sostantivo "libro". Pertanto, questa frase può essere usata senza alcuna modifica.
+1	Alessandro promette a Edoardo di rimanere a casa. La frase "Alessandro promette ad Edoardo di restare a casa" è già corretta, ma ho notato che c'era una piccola modifica da fare per renderla ancora più accurata. Invece di "restare", si dovrebbe usare il verbo "rimanere". Pertanto, la versione corretta della frase sarebbe "Alessandro promette a Edoardo di rimanere a casa".
+1	Mi piacciono i cani e gatti. La frase è già corretta.
+1	I would have appreciated it if you had told me sooner. La frase è già corretta.
+1	La frase è già corretta. (La frase "Han opened the book." è grammaticalmente corretta in inglese.)
+1	Le è stato dato il cappello da me. (La frase è già corretta.)
+1	La frase è già corretta. La frase "Quel ragazzo apre la porta" è grammaticalmente corretta.
+1	Ho sentito i ragazzi cantare. La frase originale "Ho sentito cantare i ragazzi" è grammaticalmente scorretta perché il verbo "cantare" viene posizionato prima dell'oggetto diretto "i ragazzi". Invece, il verbo deve seguire l'oggetto diretto nell'ordine corretto del soggetto-verbo-oggetto (SVO).
+0	La macchina vuole che lui la lavhi. In questa frase, il verbo "volere" richiede la forma congiuntiva del verbo dopo di esso. Pertanto, la forma corretta della frase sarebbe "La macchina vuole che lui la lavhi".
+1	Sono canadese. La frase è già corretta.
+1	La frase è già corretta. La frase "Il libro; sulla tavola" contiene una pausa dopo "libro", indicata dal punto fermo, ma manca una parola per completare il pensiero. Per rendere la frase grammaticalmente corretta, potresti aggiungere una descrizione del libro, come ad esempio: "Il mio libro preferito; sulla tavola".
+1	Quanto al bagno, mi fa piacere. La frase è già corretta.
+1	Hai presente Lorenzo? La frase che hai fornito è già grammaticalmente corretta!
+1	Da quand'è che vivi in America? La virgola dopo "Da quand'" è necessaria per separare la locuzione avviativa dall'interrogativo vero e proprio.
+1	Credi che sia possibile una cosa del genere? La frase è già corretta.
+1	La frase è già corretta. La frase da te fornita sembra essere grammaticalmente corretta. Non vi sono errori evidenti nella sua struttura sintattica o morfologica. Tuttavia, va notato che il significato della frase potrebbe dipendere dal contesto più ampio in cui viene utilizzata.
+1	La frase è già corretta.
+1	Il vento forte sul mare può causare mareggiate. (La frase è già corretta, ma ho leggermente modificato "provocarE" con "causARE", che ha lo stesso significato nel contesto dato.)
+0	Piangere a voce alta. In inglese, "to cry" significa "piangere", ma il modo corretto di dire "cry loudly" ("urlare") in italiano è "piangere a voce alta". Pertanto, la frase originale "Piangere forte" non è grammaticalmente corretta in italiano.
+1	La frase è già corretta. L'uso dell'articolo determinativo "una" prima del sostantivo "specie" indica che il parlante sta descrivendo una particolare specie di gatto che ha portato a casa, piuttosto che tutte le specie di gatti nel mondo. Pertanto, questa frase è grammaticalmente corretta.
+1	I took some sugar. The sentence is already correct.
+1	I like to play soccer and basketball. La frase è già corretta.
+1	La frase è già corretta. La frase "Quel che vendo è merce cinese" è grammaticalmente corretta. Non ci sono errori sintattici, lessicali o semantici nella frase. Pertanto, non è necessario apportare alcuna modifica alla frase fornita.
+1	Mette fretta. In this case, the sentence "Mette fretta" is grammatically correct because it follows the standard rules for forming sentences in Italian. It consists of a single verb in third person singular form ("mette"), which agrees with the subject "lui" or "lei". Since no specific subject has been provided, we assume that one is implied and therefore not explicitly stated in the sentence.
+1	Sono stati banditi tre concorsi. La frase è già corretta.
+1	Tutti gli animali marini, incluse le balene, devono essere protetti. La ragione per cui ho modificato leggermente la tua frase è che "Tutte le balene" implica che si sta facendo riferimento solo alle balene e nessun altro animale marino. Pertanto, aggiungendo "gli animali marini, incluse le balene", rendiamo più chiara ed esplicita l'intenzione della frase.
+1	Mettiti il cappello! (La frase è già corretta)
+0	Questa macchina è vecchia, ma nuova non lo è. La frase originale contiene una contraddizione logica che deve essere corretta per renderla grammaticalmente accettabile. In italiano, come in molte altre lingue, due affermazioni opposte non possono coesistere nella stessa frase senza comprometterne il significato e la correttezza grammaticale.
+1	Ho bevuto una tazza di caffè. La frase fornita è già corretta.
+1	La frase è già corretta. La frase "Il governo ha abolito la legge" è infatti già corretta dal punto di vista grammaticale ed è perfettamente comprensibile nel contesto dell'italiano standard. Non ci sono errori da correggere qui.
+1	La frase è già corretta. La tua frase "Ho spazzolato le scarpe" è grammaticalmente corretta.
+1	La frase è già corretta. La frase "Tommaso abita da dieci anni." è infatti già corretta dal punto di vista grammaticale.
+1	Riccardo ha dato un libro a Sofia. La frase è già corretta.
+1	Ho letto il libro ieri. La frase è già corretta.
+1	Francesco ha bevuto un caffé. La frase è già corretta.
+1	I would have gone to the park. (La frase è già corretta)
+1	Edoardo sta compilando. La frase è già corretta.
+0	Emana profumo. La forma corretta del verbo "emanare" richiede che venga seguito direttamente dal nome o dall'aggettivo con cui è associato. In questo caso specifico, la forma corretta sarebbe "emana profumo", poiché il soggetto della frase sta emanando qualcosa (il profumo).
+0	Aprire un nuovo negozio. La frase dovrebbe essere "Aprire un nuovo negozio." per essere grammaticalmente corretta. L'errore nella frase originale è che manca il verbo principale all'inizio della frase. In Italiano, come in inglese, una frase deve sempre avere un verbo.
+0	"Inizia un'attività." (La forma corretta del verbo "iniziare" al presente indicativo è "inizia").
+1	I phone are popular devices. (La frase è già corretta)
+1	Gabriele non ammetterebbe mai di essere preso in giro. La ragione per cui questa frase viene modificata è che il verbo "ammettere" richiede la forma congiuntiva quando si riferisce ad una situazione ipotetica o incerta. In questo caso, la frase utilizza la forma sbagliata del verbo "ammettere". Pertanto, la versione corretta della frase deve usare la forma congiuntiva "ammettesse", come mostrato sopra.
+1	I would have gone to the park. La frase è già corretta. (The phrase was already correct.)
+1	La frase è già corretta. La forma interrogativa "Che cosa ha preso?" è grammaticalmente corretta.
+1	La frase è già corretta. La tua frase non presenta errori grammaticali o sintattici evidenti; pertanto, può considerarsi grammaticalmente corretta.
+1	La frasi si sono accorciate. Nota: "frasi" dovrebbe essere singolare qui, poiché il soggetto della frase ("le giornate") è plurale ma concorda con il verbo solo quando utilizzato come oggetto diretto. In questo caso specifico, stiamo discutendo del soggetto stesso che cambia forma, per cui usiamo il singolare "la frase".
+1	Qualcosa ha accorciato le giornate. La frase è già corretta.
+1	Qualcuno ha accorciato le giornate. La frase è già corretta.
+0	Mi aggrappo a un ramo. In questa frase manca il pronome soggetto "mi" per accordare il verbo con la prima persona singolare.
+1	La frase è già corretta. La struttura della frase è corretta ed i termini utilizzati sono appropriati nel contesto fornito.
+1	I bambini stanno giocando nel cortile.  (La frase è già corretta.)
+0	Alessandro si sta sempre piangendo. La forma corretta dell'verbo "piangersi" deve concordare con il soggetto ed essendo Alessandro maschile singolare, la forma corretta è "si sta piangendo".
+1	Riccardo si lagna sempre. La frase è già corretta.
+1	Alle sue parole, Maria annuì. La forma verbale "ha annuito" indica che l'azione si è verificata nel passato remoto ed è stata completata. Tuttavia, nella frase fornita, il verbo all'indicativo presente ("annuisce") sarebbe più appropriato perché descrive una situazione contemporanea alle parole pronunciate da Maria.
+1	La frase è già corretta. L'uso dei pronomi "l'" prima delle vocali e "il" prima delle consonanti è corretto in italiano. Pertanto, la frase "l'acqua è sgorgata all'improvviso" è grammaticalmente corretta.
+1	La frase è già corretta. La frase "Andrea ha sbadigliato?" è infatti grammaticalmente corretta.
+1	Riccardo pedala. La frase è già corretta.
+1	Ha approfittato dell'esperienza. La forma verbale "approfitta" richiede il presente indicativo perché si riferisce ad una azione che sta avvenendo nel momento in cui si sta parlando. Tuttavia, nella frase fornita viene utilizzata la forma passata ("approfittato"), che è sbagliata in questo contesto. Per rendere la frase grammaticalmente corretta, bisognerebbe usare la forma verbale "ha approfittato", che è il tempo passato del verbo "approfittare".
+1	La frase è già corretta.
+1	Quando iniziò il concerto, il figlio di Leonardo sedeva in prima fila. La frase è già corretta.
+1	La frase è già corretta. La frase "Il muro ammuffisce in una giornata" è grammaticalmente corretta.
+1	Paola sta suonando un pezzo di Bach. La frase è già corretta.
+1	Il coro canta molto bene. La frase è già corretta.
+1	Riccardo aspirava sempre il fumo dal sigaro. La preposizione "dal" viene utilizzata prima dei nomi che indicano una parte della persona, come ad esempio "il braccio", "la testa", "il piede". In questo caso specifico, si usa "dal sigaro" per indicare che Riccardo aspirava il fumo da una parte del sigaro, piuttosto che dall'intero oggetto.
+1	Andrea aspira a diventare medico. La frase è già corretta.
+1	I bambini stanno giocando nel cortile. (La frase è già corretta.)
+1	La lettera sta scrivendo. La frase originale "La lettera scrive" è sbagliata perché il verbo "scrive" richiede necessariamente un soggetto che sia una persona ("Io scrivo", "Lei scrive", etc.). Nel caso della frase fornita, si può usare il verbo ausiliare "stare" con il participio passato del verbo principale "scriv-ere": "La lettera sta scrivendo".
+1	Il disturbo? La virgola dopo "Disturbo" non è necessaria perché si tratta della chiusura di una domanda interroga che richiede solo il punto interrogativo alla fine.
+1	La frase è già corretta. La frase "Leonardo sta compilando" è infatti già corretta dal punto di vista grammaticale in Italiano.
+1	Riccardo non ha scritto da un pezzo. La ragione per cui questa frase viene modificata è che "scrive" dovrebbe essere all'ausiliare "ha scritto", poiché si riferisce ad una azione completata nel passato. Inoltre, il termine "pezzo" può essere sostituito con "tempo".
+1	Il treno si è fermato alla stazione. (La frase originale "Il macchinista si è fermato" viene modificata perché il soggetto dell'azione deve essere il treno, dato che i treni sono le entità che possono effettivamente fermarsi.)
+0	I negozianti hanno aumentato i prezzi. In questa frase, "negozianti" dovrebbe essere sostituito con "prezzi" per creare una frase completa e coerente che indichi ciò che i commercianti stanno aumentando.
+1	I bicchieri sono rotto. La forma plurale "sono" deve concordare con il soggetto plurale "bicchieri", ma il verbo all'indicativo presente del secondo gruppo verbale ("essere") richiede che la terza persona singolare sia "è". Pertanto, la forma corretta del verbo da utilizzare qui è "sono stati rotti". Tuttavia, poiché la tua frase include solo i bicchieri senza alcun riferimento ai pezzi rotti dei bicchieri, la forma appropriata sarebbe semplicemente "I bicchieri sono rotti".
+1	Ho bisogno che mi aiuti con i compiti. La frase è già corretta.
+1	Il soggiorno in Canada ha migliorato il suo inglese.
+0	I bambini giocano nel cortile. Input: "Loro mangia una mela ogni giorni." Label: 0 Frase corretta: Loro mangiano una mela ogni giorno.
+0	Salta un ostacolo. In this case, the sentence "Saltare un ostacolo" is not grammatically correct because it lacks a finite verb, which is necessary for a complete sentence in Italian. The corrected version of the sentence would be "Salta un ostacolo", where "salta" serves as the second person singular imperative form of the verb "saltare".
+1	I bambini stanno giocando nel parco. La frase originale "Kids are playing the park." non è grammaticalmente corretta perché manca la preposizione "in" prima della parola "parco". In italiano, quando si usa il verbo "giocare" con una location, bisogna utilizzare la preposizione "nel" o "al", a seconda del genere e del numero della parola che segue. Pertanto, la forma corretta sarebbe "I bambini stanno giocando nel parco."
+1	Ieri ho mangiato sushi per pranzo. La frase è già corretta.
+1	Il vino macchia. In inglese, la struttura soggetto-verbo deve seguire l'ordine SVO (soggetto-verbo-oggetto), mentre nella lingua italiana segue l'ordine SOV (soggetto-oggetto-verbo). Pertanto, la forma corretta della frase "Macchia il vino" sarebbe "Il vino macchia".
+0	L'acqua sarà ghiacciata in due ore.
+0	Le tappe sono andate avanti per un'ora. La frase originale "Le tappe hanno bruciato per un'ora" contiene un errore poiché il verbo "bruciare" non può essere usato in questo contesto. Una possibile opzione corretta potrebbe essere "sono andate avanti", che significa continuare a muoversi gradualmente.
+1	Il vetro si è rotto. La forma corretta del verbo da usare dopo "il vetro" in questo contesto sarebbe il passato remoto "si è rotto", poiché si sta descrivendo qualcosa che è successo nel passato.
+1	Ha verificato l'autenticità della firma. (La frase è già corretta.)
+1	Riccardo lava la macchina. La frase è già corretta.
+1	Paola ha visto la partita con gli amici. La frase è già corretta.
+1	La frase è già corretta. La frase "Gabriele si è tagliato le basette" è grammaticalmente corretta ed idiomatica in italiano standard. Non ci sono errori da correggere.
+1	Riccardo si è tagliato il mento con il rasoio. La frase è già corretta.
+1	Francesca si è calmata, irrigidita. La modifica riguarda il genere del soggetto della frase che è stato cambiato da maschile ("Francesco") a femminile ("Francesca"). Tutte le altre parti della frase sono state lasciate invariate perché grammaticalmente corrette.
+1	Sono stati fatti i compiti. La frase è già corretta.
+0	Venite alla festa a mangiare e bere. (La forma corretta dell'imperativo del verbo "mangiarsi" è "mangiate", ma nel contesto della frase inteso come invito a fare qualcosa durante la festa sarebbe più appropriato usare la preposizione "a". Allo stesso modo, per il verbo "bere").
+1	Il dibattito è continuato. La frase è già corretta.
+1	Il dibattito ha continuato. La frase è già corretta.
+1	Riccardo ha cancellato la scritta. La frase è già corretta.
+1	Gli piacciono i cani. La frase è già corretta.
+1	Sono state invitate trenta persone al party. La frase è già corretta.
+1	I have been to Italy twice. (La frase è già corretta)
+1	I am bringing an apple and a banana. (La frase è già corretta)
+1	La frase è già corretta.
+1	La frase è già corretta. La frase "La biancheria si è asciugata per un'ora" è grammaticalmente corretta. Non ci sono errori sintattici o semantici da segnalare.
+1	La frase è già corretta.
+1	Riccardo si è ingrassato. La frase è già corretta.
+1	Tommaso è ingrassato molto dall'ultima volta che l'ho visto. La forma corretta per il verbo "vedere" quando usato nel passato con un pronome atono come "lo" è "ho visto". Pertanto, la frase originale doveva utilizzare "visto" anziché "vissta".
+1	La televisione si è rotta in un'ora.
+8	Alle 8 in punto, la sala si è svuotata. La virgola prima della congiunzione "e" che introduce una subordinata temporale ("alle 8 in punto") è necessaria per separarla dalla principale ("la sala si è svuotata").
+1	Il treno si è un po' fermato. La frase è già corretta.
+1	La camicia è sporca. La frase è già corretta.
+1	Ho visto un libro cadere. La frase originale "Ho notato un libro caduto" contiene un errore nella forma verbale utilizzata per descrivere l'azione del libro che cade. Invece della forma passata "cadde", si usa il participio passato "caduto". Per rendere la frase grammaticalmente corretta, bisogna modificarla come ho fatto sopra, sostituendo "notato" con "ho visto" e cambiando "caduto" con "cadrE".
+1	Alessandro conosce le strade. (La frase è già corretta.)
+1	La frase è già corretta. La frase "Andrea aprofitta de Maria" che hai fornito contiene alcuni errori. Innanzitutto, il verbo "approfittare" richiede la preposizione "di", pertanto andrebbe corretto in "approfitta di". In secondo luogo, nella forma presente indicativo del verbo "aprofittare", il suffisso "-a" si usa solo per le persone femminili singolari della seconda e terza coniugazione (-ere, -ire), mentre qui stiamo utilizzando una prima persona singolare della prima coniugazione (-are), che richiede il suffisso "-o". Pertanto, la versione corretta della frase sarebbe: "Andrea approfitta di Maria."
+0	"Chi ama Leonardo?" or "A chi Leoardo dimostra amore?" The original sentence is not grammatically correct because it lacks information about who or what is doing the action of loving.
+1	I am learning Italian and English at the same time. (La frase è già corretta.)
+0	Trenta chilogrammi sono stati pesati da Alessandro. La frase originale contiene un errore nella quantità indicata ("trenta chili") che andrebbe modificata in "trenta chilogrammi", dato che il termine corretto per misurare una massa è proprio quest'ultimo. Inoltre, ho aggiunto anche il verbo ausiliare "sono stati" nel tempo passato prossimo per rendere più chiara la forma verbale della frase.
+1	Ieri ho parlato con i miei amici che vivono in Italia. Spiegazione: La frase è già corretta. Non sono necessarie modifiche.
+1	La frase è già corretta. La struttura della frase è corretta con entrambe le parti del verbo ("sono" e "parlate") che concordano con il soggetto plurale "due lingue". Inoltre, "tutti i miei studenti" funge da complemento oggetto dell'azione verbale ed è posizionato dopo il verbo ausiliario per enfatizzarne il significato.
+0	"Otto ore al giorno vengono studio da Tommaso." (La forma verbale deve concordare con il soggetto; "otto ore" è plurale, quindi il verbo deve essere all'accordo singolare "studia").
+1	La frase è già corretta. La frase "Alessandro trivella questa cosa" è grammaticalmente corretta ed ha senso compiuto.
+1	La mela più buona è quella rossa. (The apple that is the tastiest is the red one.)
+1	Francesco macina il caffè in un vecchio macinino. La frase è già corretta.
+1	La frase è già corretta. La struttura della frase "Tommaso rubò il portafoglio a Maria in un autobus" è grammaticalmente corretta.
+1	Dov'è che Riccardo ha posizionato la cassa nel mobile? Nota: Ho apportato alcune modifiche alla punteggiatura per rendere la frase più naturale in italiano standard. In particolare, ho aggiunto "ha" dopo "Riccardo" per indicare il passato prossimo del verbo e ho sostituito "nel" con "ne" prima di "mobile". Tuttavia, va sottolineato che anche la forma originaria della domanda potrebbe essere utilizzata in alcuni contesti informali senza causare una significativa interruzione nella comunicazione.
+1	Ho letto il libro ieri. La frase è già corretta.
+1	Andrea si comporta. La frase è già corretta.
+1	Leonardo sostrae la penna. La frase originale "Leonardo sottrae la penna" contiene un errore di ortografia nella verb "sottrae", che deve essere "sostrae". Pertanto, la forma corretta della frase è "Leonardo sostrae la penna".
+1	Lorenzo toglie dal caveau il giornale. In questa frase, "cassaforte" andrebbe sostituita con "caveau", che è il termine appropriato per indicare una cassetta di sicurezza dove vengono conservati oggetti di valore.
+1	Alessandro legge un libro a letto. La frase è già corretta.
+1	La frase è già corretta. Note: The pronunciation of "the" can vary depending on the following word, but it is grammatically correct as written.
+0	"Dov'è che Andrea ha preso una sigaretta?" La posizione della virgola nell'originale frase rende difficile capirla senza alcuna pausa prima di "che". Una versione corretta sarebbe con una domanda indiretta ("...dove Andrea abbia preso una sigaretta"), ma poiché il contesto richiede una domanda diretta, aggiungiamo "do" per formarla correttamente come indicato sopra.
+1	La frase è già corretta. La frase "Tommaso estrasse la pistola nel bar" è grammaticalmente corretta ed ha senso compiuto.
+0	Riccardo ci mangerà il riso. La forma verbale congiugata nel presente indicativo deve concordare con il soggetto "Riccardo". Pertanto, la forma verbale corretta da utilizzare qui è "mangerà" anziché "ci mangia", che è una forma del presente indicativo per la terza persona plurale ("loro").
+0	Tommaso la sostiene, la lastra. La frase originale "Tommaso vi sostiene la lastra" contiene un errore nella forma verbale e nell'uso del pronome "vi". In particolare, il verbo "sostiene" andrebbe accordato con il soggetto "Tommaso", diventando "sostiene" e si userebbe "la" come articolo determinativo prima della parola "lastra". Infine, il pronome "vi" non sembra necessario né appropriato nel contesto fornito, dunque è stato omesso.
+1	Edoardo prese il libro di storia dalla libreria. La frase è già corretta.
+1	Leonardo prende il libro dalla sala della biblioteca. La frase è già corretta.
+1	La frase è già corretta.
+1	Dov'hai messo le foto di Francesco? La frase contiene un errore nella forma verbale della domanda "Dov'**h**ai". In particolare, manca il segno apostrofo per contrarre "HAI" con "A", che si traduce in "DOVE HAI".
+1	Tommaso toglie i soldi dal cassetto. La frase è già corretta.
+1	Il cane abbaia alla luna. La frase è già corretta.
+1	Dal giardino alla strada, Lorenzo vi ha piantati i fiori. In questa frase, ho corretto "vi" per accordarlo con il soggetto plurale "Lorenzo e i fiori".
+1	Francesco ha lanciato il pallone dal balcone al giardino. La frase è già corretta.
+1	La frase è già corretta. Explanation: The sentence "Dal giardino Leonardo ha piantato fiori al garage" is grammatically correct and understandable as it is. It means that from the garden, Leonardo has planted flowers at the garage.
+1	Edoardo carica le casse sulla nave. La frase è già corretta.
+1	La scala poggia contro il muro. La frase è già corretta.
+1	I rivoltosi incarcerarono Gabriele nelle segrete della fortezza. La frase è già corretta.
+1	La frase è già corretta. In this sentence, "Francesco chiuse Giulia nella stanza" is grammatically correct as it follows the standard subject-verb-object structure of Italian sentences and uses proper verb conjugation for the past tense.
+0	Gabriele chiuse il libro. (La frase originale "Gabriele chiuse il denaro" non è corretta perché "denaro" deve concordare con il verbo nel plurale, cioè "chiudere i denari". Tuttavia, nella forma singolare del verbo come usato nell'esempio, si utilizza comunemente "portafoglio", "borsa" o altre parole che indicano qualcosa che contiene denaro.)
+1	La frase è già corretta.
+1	Alessandro diede appoggio alla diffusione del libro. (La frase è già corretta.)
+1	Lorenzo caricò il camion.
+1	La frase è già corretta. La forma passiva della frase "Questo latte deterge le impurità dal volto" sarebbe: "Le impurità vengono deterse dal volto da questo latte".
+1	Riccardo stipì l'armadio con i vestiti. Nota: il verbo "stipare" richiede l'ausiliare "avere", mentre nella forma riflessiva ("stiparsi") richiede l'ausiliare "essere". Pertanto, nel presente indicativo, per la terza persona singolare del passato prossimo si usa "stipì".
+1	La fotografia di Giulia e quella di Lorenzo stanno attaccate. La frase è già corretta.
+0	Riccardo allontanò Paola dalla finestra. Il soggetto della frase è "Riccardo", che si sta separando da due oggetti: "Paola" ed "la finestra". Poiché il verbo "allontanare" richiede solo una preposizione ("da") per indicare lo spostamento di qualcosa o qualcuno da un punto specificato, ma qui ce ne sono due, la frase non ha senso e deve essere modificata come nell'esempio fornito sopra.
+1	Francesco avvolge la statua con una tela di lino. La preposizione da usare dopo il verbo "avvolgere" per indicare ciò che viene utilizzato per fare l'azione deve essere "con", non "in".
+1	Alessandro accompagnava Sofia al cinema. La forma verbale "accompagna" doveva essere coniugata al passato prossimo per rendere coerente il periodo con il tempo verbale del verbo principale ("andava").
+1	La frase è già corretta. (La doppia negazione nella frase "Non ho visto nessuno" viene utilizzata per rafforzare il significato dell'enunciato.)
+1	La frase è già corretta. La frase "I libri non stanno nell'armadio" è grammaticalmente corretta in italiano.
+1	Andrea atravesó la parte menos peligrosa del río. (Nota: ho corretto "travese" che era una grafia alternativa di "atravesar" nel passato simple spagnolo, ma ora è obsoleto; ho anche aggiunto l'accento sulla vocale "é". L'originale potrebbe averlo incluso nella forma mancante.)
+1	Ha l'intenzione di vestirsi da sposa. La forma originale della frase contiene un errore, poiché "mi" indica una persona diversa dal soggetto dell'azione ("ha"). Pertanto, il pronome deve essere sostituito con "si".
+1	Francesco mangiava il pane con soddisfazione. La frase è già corretta.
+1	Quella mattina pioveva a dirottto. La forma corretta dell'espressione idiomatica è "piovere a dirotti" che significa "piovere abbondantemente". Tuttavia, nel linguaggio colloquiale informale si può sentire anche "piovvere a dirottO", ma per scopi formali e scritti si consiglia di utilizzare "dirotti".
+0	Alessandro beve il vino. (La frase originale "Il vino beve Alessandro" non è grammaticalmente corretta perché ha un ordine dei nomi sbagliato.)
+1	Ho letto il libro ieri. Spiegazione: In questa frase, "il" è usato come articolo determinativo con il verbo "leggere", che richiede sempre un oggetto diretto dopo di sé. Pertanto, la forma corretta dell'articolo determinativo da utilizzare qui è "il".
+1	Quel libro è stato dato a Paola da Gabriele. La frase è già corretta.
+1	La frase è già corretta. La struttura della frase "Paola riceve quel libro da Riccardo" è corretta ed è anche completa dal punto di vista sintattico e semantico. Non c'è bisogno di apportare alcuna modifica alla frase fornita.
+1	La frase è già corretta. La frase "Andrea mangia un polpo" è grammaticalmente corretta in Italiano. Non ci sono errori da correggere.
+1	Tommaso mangia questo. La frase è già corretta.
+1	Mangerei volentieri una mela. Input: "Li amore giocare a calcio." Label: 0 Frase corretta: Li amano giocare a calcio. Input: "Io sono andato alla biblioteca stamattina." Label: 1 Frase corretta: Io sono andato alla biblioteca stamattina. Input: "Le ha detto che le vuole bene." Label: 1 Frase corretta: Le ha detto che le vuole bene.
+0	L'artrite ha paralizzato le ossa. La parola "artrosi" non esiste in italiano, si tratta probabilmente di una svista per "artrite", che signfica joint inflammation or disease.
+0	Maria vuole comerlo. Spiegazione: In italiano, quando si utilizza il verbo "volere" per desiderare qualcosa che sia un pronome personale enclitico (me, te, si, ci, vi, lo, la, li, le), bisogna usare la forma del participio passato del verbo seguito dal pronomine stesso. Pertanto, la forma corretta della frase sarebbe stata "Maria vuole comerlo".
+1	La frase è già corretta. La frase che hai fornito, "Lorenzo ammira Alice.", è infatti grammaticalmente corretta in italiano. Non ci sono errori da correggere qui.
+1	La ricordo bene. La frase fornita è grammaticalmente corretta. Non ci sono errori da correggere.
+1	Edoardo mira alla presidenza. La frase è già corretta.
+1	La frase è già corretta. La frase "È sul letto che Maria salta" è grammaticalmente corretta.
+1	È subito che Edoardo vuole il caffè. La frase presenta una singola virgola posta dopo "subito" per separare due proposizioni indipendenti legate da una congiunzione coordinante ("che"). Pertanto, questa struttura è perfettamente accettabile in lingua italiana.
+0	È il successo a cui Tommaso aspira. La frase originale contiene un errore nella costruzione della proposizione relativa. "Ciò" richiederebbe una forma verbale ("è ciò che Tommaso tiene"), ma qui viene usato come soggetto per indicare "successo", il quale andrebbe preceduto dal determinante "il". Pertanto, la frase corretta sarebbe "È il successo a cui Tommaso aspira."
+1	È alla presidenza che mira Leonardo. (La frase è già corretta.)
+1	Riccardo adora il cinema. La frase è già corretta.
+1	La frase è già corretta. La frase "Il libro più interessante della nostra collezione" è grammaticalmente corretta in italiano. Non ci sono errori da correggere.
+1	Il libro che hai chiesto non è disponibile. La frase è già corretta.
+1	I denti di Emma battono per il freddo. La frase originale "I denti di Emma battono dal freddo" contiene un errore nella preposizione utilizzata. Invece di "dal", si deve usare "per". Pertanto, la forma corretta della frase sarebbe "I denti di Emma battono per il freddo".
+0	Alessandro le adora perché hanno gambe lunghe le donne. La clausola "le adora" richiede una congiunzione ("perché") per introdurre la ragione successiva, completando così il pensiero del parlante.
+1	La frase è già corretta. La frase "Andrea ne adora le amiche di Emma" è grammaticalmente corretta. In questa frase, il pronome relativo "le" si riferisce alle amiche di Emma che sono state precedentemente menzionate. L'uso del pronome relativo dimostra chiaramente che Andrea apprezza le amiche di Emma piuttosto che qualche altro aspetto di Emma stessa.
+1	La frase è già corretta. La frase "Gabriele mangia un gelato" è grammaticalmente corretta.
+1	Riccardo promette a Riccardo che verrà. La frase è già corretta.
+1	La frase è già corretta. Il verbo "divorare" richiede che il suo oggetto sia preceduto dalla preposizione "da", perciò la frasa "Il polpo è divorato da Sofia" è gramaticalmente corretta.
+1	La frase è già corretta.
+1	Il libro che sto leggendo è molto interessante. La frase è già corretta.
+1	Ho letto due libri ieri. La frase è già corretta.
+1	La frase è già corretta. La tua frase è grammaticalmente corretta. Non c'è bisogno di apportare alcuna modifica.
+1	La frase è già corretta. La frase "Emma e il film si sono visti" è infatti grammaticalmente corretta. In questa proposizione, il verbo riflessivo "si sono visti" viene utilizzato per indicare che entrambe le persone coinvolte (Emma ed il film) hanno partecipato all'azione dello "vedersi". Anche se può sembrare insolita l'espressione "il film si è visto", ricordiamoci che i soggetti possono anche essere cose anziché esseri umani!
+1	La frase è già corretta.
+1	Beatrice involontariamente assorbe Francesco. La frase è già corretta.
+0	Lorenzo distribuisce i mattoni. (La frase originale "Lorenzo distribuisce mattone" contiene un errore di accordo; deve esserci una forma plurale dei "mattoni" per concordare con il verbo "distribuire")
+1	La frase è già corretta. La ragione per cui questa frase è grammaticalmente corretta è che il verbo "dipingere" concorda con il soggetto maschile singolare "Riccardo", ed entrambi i generi e i numeri sono corrispondenti all'interno della frase stessa ("Che"). Inoltre, la punteggiatura alla fine della frase indica una pausa appropriata dopo aver fatto riferimento al nome del pittore.
+1	Ho letto il libro ieri. La frase è già corretta.
+1	Ieri ho visto il film che tanto desideravi. Input: "Lui lavorano tutti i giorni" Label: 0 Frase corretta: Lui lavora tutti i giorni. Input: "Le piace andar per passeggiate nella natura?" Label: 1 Frase corretta: Le piace andare per passeggiate nella natura?
+1	Il libro che sto leggendo è molto interessante. Spiegazione: La frase è grammaticalmente corretta.
+1	Beatrice scherma con abilità. La frase originale contiene un errore tipografico comune, poiché "schermisce" dovrebbe essere "scerma". Pertanto, la versione corretta della frase sarebbe "Beatrice scerma con abilità".
+1	Maria veste Alice. La frase originale "Maria traveste Alice" contiene un errore di scrittura, poiché il verbo corretto da usare nella forma presente del modo indicativo per il soggetto "Maria" che sta compiendo l'azione sull'oggetto "Alice", è "veste". Pertanto, la frase corretta sarebbe "Maria veste Alice".
+1	Emma umilia a Edoardo. In inglese si userebbe "umiliates" per indicare che una persona sta umiliando qualcun altro, ma in italiano bisogna aggiungere la preposizione "a" prima del nome della persona che subisce l'azione ("Edoardo", nel nostro caso).
+1	Il fulmine ha colpito il tetto della casa di Andrea. La frase "Il fulmine cadde sulla testa di Andrea" non è del tutto corretta perché implica che il fulmine abbia colpito direttamente la persona, mentre nella realtà i fulmini tendono a colpire oggetti come alberi o edifici prima di raggiungere una persona.
+1	Fa neve. La frase "Fa neve" è grammaticalmente corretta ed ha senso da sola come affermazione che sta nevicando. Non c'è bisogno di modifiche alla frase per renderla corretta.
+1	Alessandro sta dormendo nel modo più completamente inattivo. La frase che hai fornito è grammaticalmente corretta. Tuttavia, per rendere il significato più chiaro per un lettore inglese, ho apportato alcune modifiche alla struttura della frase. "Dormicchiare" è stato sostituito con "sta dormendo", dato che quest'ultimo è una traduzione letterale dell'inglese "is sleeping". Inoltre, ho aggiunto "completamente" per riflettere meglio il significato del termine inglese "total".
+1	La maionese non ha preso bene. La frase è già corretta.
+1	Ho letto tre libri la scorsa settimana. La frase è già corretta.
+1	Il vestito non sta bene ad Alice. La frase originale "Quel vestito non va ad Alice" non è del tutto corretta perché il verbo "va" andrebbe sostituito con una forma verbale più appropriata come "sta bene".
+1	Il capitale dell'azienda ammonta a molti miliardi. (La frase è già corretta.)
+1	Il cane del mio vicino abbaia sempre. La frase è già corretta.
+1	The sun rises in the east. (La frase è già corretta.)
+1	Una stella sta scintillando nel cielo. La forma verbale "scintilla" richiede la coniugazione presente del verbo "stare", poiché si tratta di una descrizione continua dello stato della stella.
+1	La frase è già corretta. Il verbo "scintillare" richiede il complemento oggetto ("il vestito") ed eventualmente anche un altro complemento che ne specifichi meglio il significato ("di uno stupendo diamante"). Pertanto, la frase presentata è perfettamente corretta dal punto di vista grammaticale.
+1	Beatrice arde dalla passione. La frase è già corretta.
+1	La frase è già corretta.
+1	La frase è già corretta.
+1	La mela più buona. La frase presenta una proposizione breve senza verbo che funge da soggetto ("la mela") seguita dall'aggettivo "più buona". Non ci sono errori grammaticali nella frase fornita.
+1	Riccardo giunge in casa. La frase fornita è già corretta dal punto di vista grammaticale ed accettabile nell'uso della lingua italiana standard. "Giungere" significa arrivare, specialmente dopo un lungo viaggio; si usa spesso per descrivere il movimento verso una destinazione finale. In questo caso specifico, la forma verbale coniugata "giunge" si accorda correttamente con il soggetto maschile singolare "Riccardo", e l'espressione "in casa" funge da complemento di luogo che indica dove Riccardo sta arrivando.
+1	La sedia scende in cantina. La parola "scala" non può essere usata come soggetto della frase con il verbo "scendere". Invece, puoi utilizzare la parola "sedia", che significa una seduta singola o parte di una fila di posti a sedere.
+1	La frase è già corretta. La frase che hai fornito, "Il libro appartiene alla ragazza", è infatti grammaticalmente corretta ed ha un senso compiuto. Non c'è bisogno di modificarla.
+1	La Maggioranza patteggia con l'Opposizione. La frase è già corretta. Si usa il verbo "patteggiare" per indicare che le due parti stanno negoziando un accordo informale, spesso come alternativa ad azioni legali più formali. In questo caso specifico, sembra riferirsi alla maggioranza e all'opposizione politica durante una discussione o una votazione su una proposta legislativa.
+1	Emma sta lottando per questo punto. In inglese, il verbo "to fight" richiede l'ausiliare "is", "am" o "are" prima del soggetto quando si utilizza il gerundio "-ing". Pertanto, la forma corretta della frase sarebbe "Emma is struggling with this point." Tuttavia, considerando che hai chiesto una traduzione in italiano, ho apportato le opportune modifiche alla versione italiana della frase.
+1	Riccardo taglia il pane a fette. La ragione per cui questa frase deve essere modificata è che il sostantivo "pane" richiede una forma plurale ("fette") quando viene utilizzato con un verbo come "tagliare".
+1	Riccardo gli vide il volto. La frase è già corretta.
+1	Il sarto ha confezionato un vestito di lino.
+1	La frase è già corretta.
+1	I bambini stanno giocando nel cortile. La frase è già corretta.
+1	Il Giappone colonizzò la Manciuria. La frase è già corretta.
+1	Leonardo had stacked packages at the bottom of the bookshelf. (La frase è già corretta)
+1	Leonardo had piled against the wall. La frase che hai fornito è già grammaticalmente corretta in inglese. Tuttavia, ti ho comunque fornito una versione equivalente della stessa frase in italiano per completezza.
+1	La frase è già corretta. La struttura della frase "Lorenzo ci aveva ammassati pacchi" sembra presentare alcune irregolarità lessicali ed errori sintattici che ne rendono difficile l'interpretazione come una frase italiana standard. Una possibile versione corretta potrebbe essere: Corretta: "Lorenzo ci aveva dato dei pacchi." Nel caso in cui si voglia mantenere il verbo "ammassare", si può ricorrere alla forma riflessiva per ottenere una costruzione più naturale: Alternativa: "Ci eravamo fatti ammaccare i pacchi da Lorenzo."
+1	La frase è già corretta. La frase fornita è grammaticalmente corretta nel contesto dato.
+1	Il mio cane mi fa compagnia. La frase è già corretta.
+1	Il sergente distribuisce le razioni. La frase originale "Il Sergente distribuisce i soldati" non è del tutto corretta perché il verbo "distribuire" richiederebbe generalmente un oggetto plurale come complemento oggetto. In questo caso, una possibile forma corretta potrebbe essere "Il sergente distribuisce le razioni".
+1	Sophia separated the work into two distinct parts. (La frase è già corretta in inglese.)
+1	Paola gli carezzò il viso. La modifica si rende necessaria perché "volto" viene comunemente definito come "parte inferiore del viso che include le guance, la bocca e il mento", pertanto sarebbe più appropriato utilizzare il termine "viso".
+1	Questa situazione gli complessa la vita. La frase originale contiene un errore nella forma verbale "complica". In realtà, il verbo corretto da utilizzare con il pronome "gli" come oggetto indiretto è "complessare", ma questa forma verbale non viene comunemente usata. Una possibilità più comune ed elegante sarebbe quella di usare una costruzione passiva ("Questa situazione è resa più complicata per lui"), oppure cambiando il pronome ad esempio "Questa situazione lo rende la vita più difficile."
+1	La frase è già corretta. La frase che hai fornito, "Maria afferrò la mano di Lorenzo," è grammaticalmente corretta in lingua italiana.
+1	La frase è già corretta.
+1	Riccardo forgiava l'acciaio. La forma verbale "forgia" richiederebbe il passato prossimo per mantenere coerenza con il tempo del verbo nel resto della frase.
+1	Ho letto due libri ieri. La frase è già corretta.
+1	Le donne partoriscono i bambini. La frase originale è già corretta dal punto di vista grammaticale, quindi nessuna modifica è necessaria.
+1	Paola converte lo zucchero in caramelle. La frase è già corretta.
+1	La frase è già corretta. La frase "Il governo converte gli oppositori in criminali" è grammaticalmente corretta ed ha anche senso compiuto. Non ci sono errori da correggere nella struttura della frase né nell'uso delle parole.
+0	Alice lo travestì da Francesco. La frase originale "Alice ne travestì Francesco" non è grammaticalmente corretta perché manca il pronome riflessivo "lo". In italiano, quando si utilizza un verbo pronominale come "travestirsi", bisogna usare anche un pronome riflessivo che concordi con il soggetto della frase. Pertanto, la forma corretta della frase sarebbe "Alice lo travestì da Francesco".
+1	Il gatto ha mangiato tutto il cibo per pesci. La frase è già corretta.
+1	La frase è già corretta.
+1	Tommaso attribuì la decisione di andare in Cina a Leonardo. La frase è già corretta.
+1	Leonardo addebitava il suo insuccesso alla decisione del padre di andare in Francia.
+1	La frase è già corretta. Il verbo "abbandonare" richiede un complemento oggetto diretto, che può essere rappresentato da una persona o cosa alla quale viene fatto qualcosa. In questa frase, "la moglie" svolge il ruolo del complemento oggetto diretto per il verbo "abbandona". Pertanto, la frase è grammaticalmente corretta.
+1	I ladri rubano le auto ai legittimi proprietari. La frase è già corretta.
+1	La frase è già corretta. La tua frase non presenta errori grammaticali o sintattici, pertanto può considerarsi perfetta dal punto di vista della correttezza grammaticale. Benissimo!
+0	Riccardo pose il cappello sul tavolo.
+1	L'aviazione nemica bombardò la città con il napalm. In questa frase, "napalm" dovrebbe essere preceduto dall'articolo determinativo "il", poiché si riferisce ad una specifica sostanza usata come arma incendiaria. Inoltre, sarebbe più appropriato utilizzare "la città" piuttosto che semplicemente "città", per rendere chiara la referenza alla quale ci si sta riferendo.
+0	Andrea mozza il pane con il coltello. La frase "Andrea imbeve il pane di vino" non ha senso perché si usa normalmente "imbibire" per riferirsi all'assorbimento di liquidi da parte di materiali porosi come carta assorbente o tessuti, ma non per descrivere l'azione di immergere qualcosa nel liquido. Inoltre, il verbo corretto per descrivere l'atto di tagliare il pane è "mozzare", che significa tagliarlo a fette spesse.
+1	La frase è già corretta.
+1	Lorenzo dissemina aneddoti divertenti nei suoi racconti. La frase è già corretta.
+1	La frase è già corretta.
+1	La frase è già corretta.
+1	Riccardo liberated the dog from the chains. (La frase è già corretta)
+1	Alessandro scarica Giulia dalle proprie responsabilità. La frase è già corretta.
+1	La frase è già corretta. La frase "Tommaso ne ottiene la libertà" è grammaticalmente corretta. Non ci sono errori sintattici o morfologici nella costruzione della frase.
+1	The cat is on the mat. (La frase è già corretta)
+0	L'alchimista fa sì che l'oro derivi dal piombo. La forma corretta dell'espressione "fa che" richiede l'uso della congiunzione "sì". Pertanto, la frase originale deve essere modificata come indicato sopra per renderla grammaticalmente accettabile.
+1	Riccardo spostò il cappello dall'armadio al tavolo. La frase è già corretta.
+1	Leonardo posa il libro sulla scrivania. La forma corretta dell'verbo da usare dopo "Leonardo" nel contesto della frase fornita è "posa", poiché si riferisce all'azione di porre qualcosa su una superficie orizzontale come una scrivania. Pertanto, la versione corretta della frase sarebbe "Leonardo posa il libro sulla scrivania".
+1	Alessandro prese il cappotto dall'armadio. La frase è già corretta.
+1	Gabriele spedì la ricevuta all'ufficio delle tasse. Nota: ho modificato "imposte" con "tasse", poiché questa è una traduzione più accurata dell'inglese "tax office". Entrambe le forme sono comuni nell'italiano informale colloquiale, ma la forma "ufficio tributario" sarebbe preferita in contesti formali o scritti.
+1	La frase è già corretta. La struttura della frase "Paola spinse le gambe di Francesco verso la parete" è grammaticalmente corretta.
+1	La fraseria ospita gli invitati alla manifestazione. La parola "intervenuti" andrebbe sostituita con "invitati", poiché quest'ultima è la forma corretta da utilizzarsi nel contesto fornito.
+1	La frase è già corretta.
+1	Leonardo archived the documentation in the central archive. (La frase è già corretta)
+1	I gomiti poggiano sul davanzale. La frase è già corretta.
+1	Riccardo drowns his sorrows in wine. La frase originale "Riccardo afoga i suoi dispiacere nel vino" non è grammaticalmente corretta in inglese poiché il verbo "drown" richiede un oggetto diretto dopo di sé, seguito da una preposizione come "in". Inoltre, il plurale dei sostantivi deve concordare con gli aggettivi possessivi che li precedono, quindi "sorrows" dovrebbe essere usato al posto di "dispiacere". Pertanto, la forma corretta della frase sarebbe "Riccardo drowns his sorrows in wine."
+1	La frase è già corretta.
+1	La frase è già corretta.
+1	Tommaso sta pompando l'acqua dal lago alla piscina. Nota: ho aggiunto il verbo "sta" per rendere la frase presente progressivo corretto. In alternativa, puoi anche usare il tempo passato semplice "Tommaso pompò l'acqua dal lago alla piscina".
+1	Alessandro e Leonardo negoziano la libertà di Maria. (La frase è già corretta.)
+1	Una donna had separato Andrea e Tommaso. La frase contiene un errore di coniugazione verbale in inglese ("had" anziché "has"). In italiano, la traduzione corretta sarebbe: "Una donna ha separato Andrea e Tommaso."
+1	Alessandro ricava denaro dalle sue applicazioni. La ragione per cui la frase originale "Alessandro ricava danaro dalle sue applicazioni" non è del tutto corretta è che il termine corretto da usare in italiano è "denaro", mentre "danaro" è obsoleto ed arcaico.
+1	La frase è già corretta.
+1	Ho letto molti libri interessanti durante le vacanze. La frase è già corretta.
+1	Sophia confuses pleasure with the possibility of being courted. (La frase è già corretta)
+1	La frase è già corretta. Tommaso fondé l'argento con l'oro. La forma passata del verbo "fondere" utilizzata nella frase originale ("fondeva") è corretta, ma ho apportato una piccola modifica cambiandola in "fondé", che significa anche "fuse". Entrambe le forme sono corrette, ma "fondé" si adatta meglio allo stile formale della frase qui fornita.
+1	Gabriele ci sostituirà il tubo catodico. La modifica si rende necessaria perché nel presente indicativo del verbo "sostituire" con soggetto maschile singolare ("Gabriele"), il termine da usare è "sostituisce", mentre nella forma verbale richiesta dal contesto della frase, cioè futuro semplice ("ci sostituirà") occorre utilizzare "sostituirà".
+1	Riccardo le sostituisce il tubo catodico. La frase fornita è grammaticalmente corretta. Non vi sono errori sintattici o morfologici che possano inficiarne la validità linguistica.
+1	Tommaso alterna tra Beatrice e Paola. (La frase originale "Tommaso alterna Beatrice con Paola" può essere resa più chiara aggiungendo la preposizione "tra", che indica una scelta tra due opzioni.)
+1	L'amore lega. La frase è già corretta.
+1	I would have finished the project by now if I had more time. (La frase è già corretta.)
+1	Ho letto il libro che volevo ieri. (La frase è già corretta.)
+1	Maria desidera il fatto che tu venga. La frase è già corretta.
+1	Leonardo values the possibility of promoting him. (La frase è già corretta.)
+1	Juliet abandon the idea that she will see Edward. Note: The sentence is grammatically correct but it seems to be written in English instead of Italian. In Italian, it would be "Giulia abbandona l'idea che vedrà Edoardo".
+1	Maria ha fatto l'affermazione che Francesco è bello. La frase è già corretta.
+1	Maria si assicura che tutto funzioni perfettamente. La frase originale presentava una piccola imperfezione nella forma verbale "bada", che avrebbe richiesto un pronome riflessivo come "si". Ho apportato questa modifica per rendere la frase completamente corretta dal punto di vista grammaticale.
+1	Edoardo approva che Maria parte. La frase è già corretta.
+0	Emma doubts whether Alice is leaving. (In inglese, when using "doubt", it requires that we use the structure "doubt +whether+ clause". Therefore, the sentence should be "Emma doubts whether Alice is leaving" instead of "Emma doubts if Alice leaves")
+0	"Che Lorenzo viaggi angoscia a Tommaso." La frase originale contiene alcuni errori. In particolare, manca una preposizione dopo il verbo "angosciare" per indicare chi subisce l'azione del verbo stesso. Una versione corretta potrebbe essere: "Che Lorenzo viaggi angoscia a Tommaso".
+0	Riccardo approva questa idea. La frase originale contiene alcuni errori. "Riccardo lo approva" non è una frase completa in sé, manca il soggetto della seconda parte dell'enunciato. Inoltre, sarebbe più appropriato utilizzare "questa" o "l'idea che hai proposto", anziché "ciò".
+1	Edoardo approva il fatto che Maria canti. La frase originale "Edoardo lo approva il fatto che Maria canti" contiene un errore di accordo verbale. Nella forma affermativa del presente indicativo dell'ausiliare "avere", come nel verbo "approva", si deve usare la terza persona singolare ("è") quando si riferisce ad un soggetto maschile singolare come "Edoardo". Pertanto, la frase coretta sarebbe "Edoardo approva il fatto che Maria canti".
+0	Tu desideri che Sofia venga. (La forma corretta dell'ausiliare da utilizzare con il verbo "venire" alla terza persona singolare nel passato prossimo del subjonctif presente è "venga")
+0	Riccardo va al parco. La frase originale "Riccardo va al fumo" non è grammaticalmente corretta perché il termine "fumo" non può essere usato come locazione. Una possibile opzione potrebbe essere "Riccardo va al bar".
+1	Alice brama di tornare. La frase "Alice brama di tornare" è già corretta. Non ci sono errori da correggere.
+0	Andrea incoraggia Maria a sposarsi. La frase originale aveva una ripetizione della "a" nella seconda parte del verbo "incoraggiare". Ho corretto eliminando tale ripetizione per rendere la frase grammaticalmente corretta.
+1	Il fatto che Emma parli allieta suo padre.
+1	Andare al cinema infiamma Sofia. La frase è già corretta.
+1	La colpisce che Riccardo ridia. La frase "La colpisce che Riccardo rida" è grammaticalmente corretta perché ha una struttura sintattica corretta ed utilizza le forme verbali appropriate ai soggetti della frase.
+1	La frase è già corretta. La frase "Mi meraviglia il fatto che Beatrice sia svestita" è grammaticalmente corretta.
+1	La frase è già corretta. La struttura della frase sembra essere corretta in termini di sintassi e morfologia italiana. Non ci sono errori evidenti da segnalare.
+1	La tristezza e la noia deprimono Gabriele. (La frase è già corretta.)
+1	Mi tranquillizza che Giulia parli in questo modo. La parola "acquieta" non esiste nel vocabolario italiano standard. Probabilmente volevi dire "tranquillizzare", che significa calmare o rassicurare qualcuno.
+1	La sola presenza di Alice mi acquieta.
+1	Parlare con le ballerine è divertente.
+1	Il fatto che Edoardo parli di poesia mi affascina. La tua frase contiene un errore nella struttura della proposizione relativa. Invece di "Io vengo affascinato", si dovrebbe usare il verbo alla forma passiva ("Mi affascina") per mantenere la coerenza con il soggetto della frase principale.
+0	Vedere i marziani è accaduto a Paola. La frase originale contiene un errore nella struttura del verbo. "Vedere" richiede il verbo ausiliario "essere", che deve concordare con il soggetto della frase ("Paola"). Inoltre, l'espressione "accadere a qualcuno" significa che qualcosa succede a quella persona, ma qui si sta usando per descrivere ciò che ha visto Paola, quindi va cambiato in "è successo".
+1	Aver vinto al lotto splendeva nel suo sguardo. La frase è già corretta.
+1	La frase è già corretta. La struttura della frase è corretta e i tempi verbali sono coerenti. "Di aver vinto al lotto" è una proposizione relativa che modifica il sostantivo implicito "cosa", riferendosi a qualcosa di cui lo sguardo del soggetto sta riflettendo. Pertanto, questa frase è grammaticalmente accettabile.
+0	Dobbiamo fidarci l'uno dell'altro. La forma verbale "fidarci" richiede il verbo ausiliario "dovere" coniugato alla terza persona plurale ("devono") per concordanza con il soggetto "noi".
+1	Si tratta di fuggire. La frase è già corretta.
+1	La frase è già corretta.
+1	Il fatto che Erode abbia ucciso i bambini è da condannare. In inglese, si dice "I condemn the fact that Herod killed the children", ma in italiano bisogna usare il congiuntivo dopo "il fatto che" perché introduce una proposizione subordinata introdotta da "che". Pertanto, la forma corretta deve essere "Il fatto che Erode abbia ucciso i bambini è da condannare."
+1	La frase è già corretta. La frase fornita, "Gabriele adora carezzare Andrea", è infatti grammaticalmente corretta ed ha anche senso compiuto. Non occorre apportare alcuna modifica alla frase originale.
+1	Andrea intends to marry Alice. The sentence is already correct.
+1	Riccardo evita di guardare la televisione. La frase originale "Riccardo evita guardare la televisione" contiene un errore. Per rendere la frase grammaticalmente corretta, bisogna aggiungere la preposizione "di" dopo il verbo "evitare". Pertanto, la versione corretta della frase sarebbe "Riccardo evita di guardare la televisione".
+0	Paola ritiene che "si parte" sia carino. La frase originale contiene un errore comune nella formazione della subordinata introdotta da "che". In questo caso, il verbo all'infinito ("partire") deve essere preceduto dalla particella pronominale "si", ma va anche inclusa una forma verbale coniugata per riferirsi al soggetto della proposizione principale ("Paola"). Pertanto, la frase corretta sarebbe "Paola ritiene che 'si parte' sia carino".
+1	Lorenzo riteneva Alice fosse Paola. La frase è già corretta.
+0	Beatrice lo giudica a Maria per avere troppe amanti. La frase originale contiene un errore nella costruzione della proposizione relativa. Una versione corretta potrebbe essere "Beatrice lo giudica a Maria per avere troppe amanti". In alternativa, una formulazione equivalente ma più letterale potrebbe essere "Beatrice lo giudica mentre riguarda il fatto che Maria ha troppi amanti".
+1	Sofia lo giudica che Maria ha troppe amante. La frase "Sofia lo giudica che Maria abbia troppe amanti" è grammaticalmente incorretta perché il verbo alla terza persona plurale ("hanno") deve concordare con il soggetto femminile singolare ("Maria"). Di conseguenza, la forma corretta del verbo da utilizzare qui sarebbe "ha".
+1	La frase è già corretta.
+1	Leonardo lo suppone che il padre beva troppo. La frase è già corretta.
+1	La frase è già corretta. La struttura della frase è "penso + che + clausola soggettiva", il che significa che puoi usare due forme diverse per questa frase: * Penso che mi piaci. * Mi piace pensarti. Entrambe le opzioni sono grammaticalmente corrette, ma hanno leggermente diversi connotati semantici.
+1	Il tuo output dovrebbe essere simile a questo: In primo luogo, scrivi 'Label:' e restituisci l'etichetta (0 o 1). Quindi scrivere 'Frase corretta:' ed eventualmente apportare modifiche alla frase per correggerla, seguito dalla frase corretta in italiano. Tuttavia, nella tua frase data, non ci sono errori da correggere, pertanto la mia risposta sarà "La frase è già corretta".
+1	Emma obtains something from you. (La frase è già corretta)
+0	Alice aiuta a catturare Maria. La frase originale contiene un errore nella sua forma verbale "cacciare", che non concorda con il verbo ausiliario "aiuta". Una versione corretta della frase potrebbe essere "Alice aiuta a catturare Maria".
+1	Riccardo plaude al fatto che Tommaso abbia vinto. La forma verbale "ha vinto" deve concordare con il soggetto "Tommaso", che è al passato prossimo. Di conseguenza, per rendere la frase grammaticalmente corretta, si usa "abbi".
+0	Maria ci ispira. La frase originale "Maria ciaspira" non è grammaticalmente corretta perché il verbo "ciaspolare" ("to snowshoe") non è coniugato correttamente nella terza persona singolare femminile del presente indicativo. Invece, bisognerebbe usare "ispirare", che si coniuga come "aspirare".
+1	Maria ci sta aggrappando. La forma presente progressiva del verbo "aggrapparsi" richiede l'uso dell'ausiliare "stare". Pertanto, la forma corretta della frase sarebbe "Maria ci sta aggrappando".
+1	Paola mira a che il futuro sia felice.
+1	Giulia guardava il muro. La frase è già corretta.
+0	Riccardo lo pensa, non Tommaso. La frase originale contiene un errore nel posizionamento della virgola. Nella forma corretta, "Riccardo lo pensa" costituisce una proposizione indipendente che richiede una punteggiatura appropriata per separarla dalla successiva proposizione dipendente "Tommaso".
+0	Paola acconsente a essere legata. In questa frase, il verbo "leghino" deve concordare con il soggetto "Paola", ma essendo una forma verbale riflessiva ("si + verbo"), il verbo deve essere all'accordo anche con il pronome riflessivo "si". Pertanto, la forma corretta del verbo da utilizzare qui sarebbe "sia legata" o semplicemente "acconsente ad essere legata".
+1	Alice sorride del fatto che ha pianto. La frase "Alice sorride del fatto di aver pianto" è grammaticalmente incorretta perché utilizza una forma verbale sbagliata nel secondo verbo "pianto". Dovrebbe usare il congiuntivo presente "abbia pianto", ma poiché si tratta di un pensiero soggettivo della persona ("del fatto che"), bisogna usare il congiuntivo passato prossimo "che abbia pianto". Pertanto, la versione corretta sarebbe "Alice sorride del fatto che ha pianto".
+1	La frase è già corretta.
+1	La frase è già corretta. La tua frase sembra essere grammaticalmente corretta. "Da quest'analisi risulta il nostro partire" è una frase completa ed elegante che comunica chiaramente il concetto desiderato. Non ci sono errori sintattici, morfologici o ortografici evidenti nella frase fornita.
+1	La frase è già corretta.
+1	Leonardo clarifica che non è colpa sua a Paola. La frase contiene un errore nella forma verbale "chiarire". In questa frase, il verbo dovrebbe concordare con il soggetto "Leonardo" ed essere all'indicativo presente della terza persona singolare ("clarifica").
+1	La frase è già corretta. La struttura della frase "Andrea fischia a Maria che ha fame" è corretta dal punto di vista grammaticale. L'uso del verbo "fischia" seguito da "a" per indicare il destinatario dell'azione è appropriato. Inoltre, l'utilizzo di due proposizioni relative ("che ha fame") separate dalla principale con una virgola è corretto nella lingua italiana.
+1	Andrea accennerà ad Edoardo se partirà o no. La frase è già corretta.
+1	La frase è già corretta.
+1	Riccardo lo aggiunge nel suo discorso. La frase è già corretta.
+1	La frase è già corretta. La tua frase sembra essere grammaticalmente corretta nel contesto fornito. Non vedo alcun errore evidente da correggere. Ottimo lavoro!
+1	La frase è già corretta. La ragione per cui questa frase è grammaticalmente corretta è che "giornalisti" è una pluralità di "giornalista", ed entrambi possono prendere un verbo plurale come "attaccano". Lo stesso vale per "quotidiani" e "politici", quindi tutte le parti della frase sono concordate correttamente.
+1	I bambini stanno giocando nel cortile. La frase è già corretta.
+1	La frase è già corretta. "Emma ne avvisa Alessandro."
+1	La frase è già corretta.
+1	Riccardo sceglie di eximere Riccardo dal viaggio. La ragione per cui ho modificato la frase originale "Riccardo esime Riccardo dal viaggio" è che il verbo "esimere" richiede un oggetto diretto seguito dalla preposizione "da", mentre nella frase originale manca quest'ultimo. Pertanto, una versione corretta potrebbe essere "Riccardo sceglie di eximere Riccardo dal viaggio". Tuttavia, nota che il verbo "eximere" è piuttosto arcaico ed è usato raramente nel linguaggio moderno; solitamente si utilizza il verbo "dispensare" al suo posto.
+1	Il sindaco esenta i poveri dal pagamento del bus. La modifica si rende necessaria perché "pagare il bus" andrebbe sostituito con "il pagamento del bus", così da concordare meglio con il verbo "esentare".
+1	La frase è già corretta. La concordanza dei verbi nel periodo è coerente con i soggetti corrispondenti. Non sono necessarie modifiche alla frase fornita per renderla grammaticalmente corretta.
+1	Alice talks about leaving with Julia. (La frase è già corretta)
+1	La frase è già corretta. La struttura della frase è corretta e il significato è chiaro. Non ci sono errori evidenti nella grammatica o nell'ortografia.
+1	Edoardo continua a mangerlo. La frase "Edoardo continua a mangiarlo." è già corretta dal punto di vista grammaticale in italiano. Non ci sono errori da correggere.
+1	La frase è già corretta. La struttura della frase "Leonardo lo indugia a mangiare" è corretta dal punto di vista grammaticale. Tuttavia, potrebbe essere necessario considerare il contesto per capire chiaramente il significato dell'azione che Leonardo sta facendo su qualcuno o qualcosa affinché quella persona o cosa possa mangiare.
+1	Edoardo osa mangiare. La frase è già corretta.
+1	Paola è capace di cavalcare.
+1	La mia macchina preferita è rossa.
+0	Tommaso è solito preparare i pasti. La frase originale "Tommaso suole il pasto" contiene un errore nella forma verbale del verbo "suonare". In passato, questa forma veniva utilizzata per indicare che una persona aveva l'abitudine di fare qualcosa ("solere"), ma oggi si usa generalmente con il presente della terza persona singolare ("è solito"). Pertanto, la versione corretta della frase sarebbe "Tommaso è solito preparare i pasti".
+1	La frase è già corretta. Il verbo "mangiare" concorda con il soggetto maschile singolare "Riccardo", ed essendo nella seconda persona dell'imperativo ha forma impersonale, pertanto la frase è grammaticalmente corretta.
+0	Gabriele lo utilizza per mangiare. La frase originale presentava alcuni errori nella struttura e nel significato. Ho rielaborato leggermente il senso della tua frase mantenendo il riferimento a "Gabriele" che utilizza qualcosa ("mangiare" viene reso con "utilizzare", poiché manca il contesto del cibo da consumare).
+1	Riccardo va in camera. La frase è già corretta.
+1	Andrea va in camera. (La frase andava modificata perché "sale" non è la forma corretta del verbo "andare" nel presente indicativo.)
+1	Riccardo scompare da Parigi. In questa frase, "scomparire" è il verbo corretto da usare nel passato remoto per descrivere un'azione completata che riguarda una persona singolare maschile ("Riccardo"). Pertanto, la forma verbale corretta qui è "scompare", anziché "sparisce".
+1	Iphone is a product from Apple. (La frase è già corretta)
+1	Paola cammina velocemente verso il ponte. La spiegazione del mio ragionamento è che "sgambettare" significa muovere le gambe rapidamente facendo dei piccoli saltelli mentre si cammina, ma questa parola viene solitamente usata per descrivere il modo di movimento di animali come cani o cavalli, piuttosto che esseri umani. Pertanto, una forma più appropriata per descrivere una persona che si sta muovendo rapidamente a piedi potrebbe essere "camminare velocemente".
+1	La frase è già corretta. La frase "La folla lo corre a salutare" è grammaticalmente corretta.
+1	Tommaso manda Emma in piazza. La forma verbale "invia" non è utilizzata nel linguaggio comune per indicare il movimento di una persona. Invece, si usa la forma "manda".
+1	Beatrice assembla un computer. La frase è già corretta.
+1	Il film è di Scorsese. La frase è già corretta.
+1	Paola lavora. La frase è già corretta.
+1	La frase è già corretta.
+0	Molti di loro leggono il giornale. La frase originale contiene un errore nella forma plurale dei pronomi. "Molte" deve essere sostituita con "molti", poiché si riferisce a un gruppo di persone senza distinzione di genere.
+0	Alcuni musei sono stati progettati da un architetto. La frase originale contiene un errore nella forma del numero determinativo "alcuni". Poiché il sostantivo che segue ("musei") è plurale, la forma corretta dell'articolo determinativo deve anche essere plurale, cioè "alcuni" anziché "un alcuno". Pertanto, la frase corretta dovrebbe leggere "Alcuni musei...".
+1	La frase è già corretta. La frase "Paola mangia la pizza." è infatti grammaticalmente corretta.
+0	Quel architetto ha progettato alcuni musei.
+1	Hanno letto, molte ragazze, il giornale lo scorso anno. La frase originale contiene alcuni errori. In particolare, "l'anno scorso" dovrebbe essere scritto come "lo scorso anno", con l'articolo determinativo maschile singolare "lo". Infatti, quando si usano aggettivi che indicano una porzione di tempo trascorsa (come ad esempio "scorso"), questi devono essere preceduti dall'articolo determinativo corretto ("il", "lo", "la", "l'" ecc.), a seconda del genere e del numero dell'elemento cui si riferiscono.
+1	Le spalle di Riccardo toccano la parete. La frase è già corretta.
+1	La frase è già corretta. La frase "Maria sarà toccata da quel film" è infatti grammaticalmente corretta. L'ausiliare verbale "sarà" viene usato nel modo futuro indicativo ed il verbo "toccare" è alla forma passiva prossima con il participio passato "toccata". Inoltre, il pronome relativo "che" è stato sostituito dal pronome dimostrativo "quel", che fa riferimento ad una cosa precedentemente menzionata ("film"). Pertanto, la struttura della frase è coerente con le regole sintattiche dell'italiano standard.
+0	Sia che tu sia partita, rallegra Beatrice. La forma originale della frase "Che tu sia partita rallegra Beatrice" non è grammaticalmente corretta poiché manca una congiunzione coordinante per collegare le due clausole ("che tu sia partita" e "rallegra Beatrice"). Ho aggiunto "sia che" alla frase per renderla corretta.
+1	The sky is clear. La frase originale è già corretta.
+1	I am learning Italian and English at the same time. (La frase è già corretta.)
+1	La frase è già corretta. In questa frase, "Paola ha messo la macchina che è del fratello nel garage" è grammaticalmente corretta ed è una frase completa con senso compiuto.
+0	Tommaso obbedisce a Maria.
+1	Andrea confronta Leonardo con Andrea. (La frase è già corretta.)
+1	La matematica è interessante.
+1	Lorenzo ha stato ansioso. La ragione per cui questa frase non è grammaticalmente corretta è che il verbo "essere" deve concordare con il soggetto in numero e genere. In questo caso, il soggetto "Lorenzo" è maschile singolare, quindi il verbo "essere" dovrebbe essere "ha" in forma contratta, non "è stato". Pertanto, una versione corretta della frase sarebbe "Lorenzo ha stato ansioso". Tuttavia, poiché "ansioso" richiede anche il verbo ausiliare "avere", la frase dovrebbe essere modificata ulteriormente come "Lorenzo ha avuto fretta" o "Lorenzo era eccitato".
+1	Spero che domani sia una bella giornata. La frase è già corretta.
+1	Tua sorella sta guardando il CD. La forma verbale "guarda" richiede che ci sia un pronome oggetto diretto dopo di essa. Poiché nel testo fornito manca tale pronome, la frase deve essere modificata aggiungendo il pronome appropriato ("lo") riferendosi al CD come segue: "Tua sorella lo sta guardando". In alternativa, puoi anche usare una costruzione diversa senza bisogno del pronome oggetto diretto, ad esempio: "Tua sorella sta osservando il CD."
+1	L'ho già detto ieri. La frase presentata è grammaticalmente corretta ed equivale alla forma "I already said it yesterday". Non è necessario apportare alcuna modifica.
+0	Sofia ha tagliuzzato le teste dei tori. La frase originale "Sofia ha tagliato le testes ai toris" contiene due errori di ortografia che ho corretto nella nuova versione della frase. In particolare, il verbo "tagliuzzare" deve concordarsi con l'ausiliare "ha", mentre il plurale maschile corretto per i tori è "tori".
+1	I ragazzi taglieranno la corda. La forma verbale "taglierebbero" richiede il condizionale nel discorso indiretto, ma dato che si tratta qui del discorso diretto, va usata la forma affermativa presente indicativo "taglieranno".
+1	Il libro che desideravo tanto è finalmente arrivato.
+1	Ho letto molti libri interessanti ultimamente. La frase è già corretta.
+1	Il mio cane abbaia. La frase originale "Il mio amico abbaia" non è grammaticalmente corretta perché il soggetto della frase, "il mio amico", implica che stai parlando di una persona, ma "abbaia" è un verbo usato solo per gli animali. Pertanto, la frase corretta sarebbe "Il mio cane abbaia".
+1	La frase è già corretta. Riccardo ulula. La frase è stata scritta correttamente. Non ci sono errori da correggere.
+1	La frase è già corretta. La tua frase non presenta errori grammaticali o sintattici evidenti. Ben formulata!
+1	Il cane si è fermato in un battibaleno. La frase "Il cane si è fermato in un batter d'occhio" contiene un errore comune nella lingua italiana. Si dice "in un battibaleno", che significa "improvvisamente" o "in pochissimo tempo".
+1	Edoardo ci ha impiegato due ore per tagliare il filo elettrico. La tua frase originale "Edoardo ci ha messo due ore per tagliare il filo elettrico" contiene un errore lessicale. In questo contesto, si usa il verbo "impiego" anziché "metti". Pertanto, ho corretto la frasa come sopra indicato.
+1	Il libro che stavo cercando si trova finalmente tra le mie mani.
+9	La frase è già corretta. La frase "Le sei bombe sono esplose il 6 maggio 1999" è infatti grammaticalmente corretta ed esprime chiaramente che le sei bombe hanno fatto esplosione nel mese di maggio del 1999. Non ci sono errori da correggere nella costruzione della frase né nell'uso dei tempi verbali.
+1	Lorenzo non ha más l'abitudine de fumar. Nota: Ho notato che hai usato "más" anziché "mai". Pertanto, ho apportato la modifica appropriata alla tua frase.
+1	La frase è già corretta. La frase "Andrea è diventato in gamba" è grammaticalmente corretta perché il verbo "diventare" può essere seguito dalla preposizione "in" seguita da un aggettivo che descrive una qualità acquisita o sviluppata nel tempo. In questo caso, "gamba" funge da aggettivo verbale che indica la capacità fisica o abilità di camminare bene o con sicurezza. Pertanto, la frase descritta potrebbe significare che Andrea ha recentemente imparato a camminare bene o con maggiore facilità.
+1	Ho bisogno che mi aiuti con i compiti. La frase è già corretta.
+1	Sofia asks you to return immediately. La frase è già corretta.
+1	La frase è già corretta.
+1	I bambini hanno calpestato le aiuole. La frase è già corretta.
+0	I bambini eruttarono fuoco. La parola "lava" non è appropriata per descrivere ciò che i bambini hanno fatto nell'espressione fornita, poiché i bambini non possono fisicamente far uscire la lava da nessuna parte. Una sostituzione più accurata potrebbe essere "fuoco", il che renderebbe la frase "I bambini fecero uscire fuoco."
+1	La frase è già corretta.
+0	"Quell'uomo ne ha fotografate alcune." La frase originale manca del complemento oggetto per rendere completa la proposizione.
+0	Andrea ha accarezzato il viso di Beatrice. La forma "ha carezzato il volto a Beatrice" non è grammaticalmente corretta; si dovrebbe usare "di" per indicare possessione.
+1	Il volto di Paola è sfregiato. La frase originale "Il volto di Paola è carezzato" non ha senso perché il verbo "carezzare" richiede un oggetto diretto che riceve l'azione della carezza, mentre qui ci sarebbe una persona che fa l'atto del carezzare sul viso di Paola. Pertanto, ho modificato la frase sostituendo il verbo con "sfregiato", che descrive uno stato del soggetto ("il volto") piuttosto che un atto su di esso.
+1	Il libro che sto leggendo è molto interessante.
+0	Leonardo ha paralizzato il braccio di Maria. La preposizione "di" viene utilizzata per indicare possessione o appartenenza ed è necessaria nella frase fornita per renderla grammaticalmente corretta.
+1	La frase è già corretta.
+1	Gli operai stavano asfaltando la strada. La forma verbale "asfaltarono" non concorda con il soggetto plurale "gli operai". Pertanto, la forma verbale deve essere modificata per accordarsi con il soggetto nel tempo passato prossimo, che sarebbe "stavano asfaltando".
+1	Paola elencò gli invitati. La concordanza del numero tra il soggetto "Paola" e il verbo "elencò" è corretta, ma deve accordarsi anche con l'oggetto "gli invitati".
+0	Alice ha messo i vestiti nell'armadio. Analisi: Nella frase originale manca il pronome determinativo "i" prima della parola "vestiti". Pertanto, la forma corretta della frase sarebbe "Alice ha messo i vestiti nell'armadio."
+1	Maria ha tolto i vestiti ed è successo nell'armadio. La modifica apportata alla frase originale consiste nel cambiamento del verbo "ciò" con il pronome relativo "è", che concorda meglio con il soggetto della seconda parte della frase.
+1	Beatrice riempie il frigorifero con la frutta. Note: The original sentence is not grammatically correct because "frigo" should be "frigorifero", and it requires an article before the word "frutta".
+1	La frase è già corretta. La frase "Maria difende Andrea dai pericoli" è grammaticalmente corretta in italiano.
+1	La frase è già corretta. La ripetizione del nome proprio "Maria" nella frase serve a specificare che il libro viene trasferito da una persona chiamata Maria a un'altra persona anch'essa chiamata Maria. Pertanto, questa ripetizione è ammessa ed è persino necessaria per rendere chiara la frase.
+1	Maria gives a book to Paola. The sentence is already correct.
+1	La frase è già corretta. La frase "Francesco delega Gabriele suo rappresentante" è grammaticalmente corretta. Essa indica che Francesco nomina Gabriele come suo rappresentante.
+1	Sofia delega Maria come sua rappresentante.
+1	Lorenzo abita e ciò succede a Roma. La frase è una proposizione completiva con il verbo "succedere" che ha come soggetto la pronome relativo "ciò". La forma verbale "abita" indica che il soggetto della prima parte della frase ("Lorenzo") è lo stesso del secondo ("ciò"). Pertanto, la frase è grammaticalmente corretta.
+1	La frase è già corretta.
+1	Sofia fuma una sigaretta. La frase originale "Sofia fuma una bionda" non è del tutto chiara senza contesto aggiuntivo. Tuttavia, nella maggior parte dei casi, sarebbe più appropriato usare il termine "sigaretta" piuttosto che "bionda". Pertanto, per garantire la massima precisione e chiarezza della comunicazione, suggerisco di modificarla come indicato sopra.
+1	Edoardo ha spalmato il patè sul pane. (La frase è già corretta)
+1	La frase è già corretta. La frase che hai fornito è infatti grammaticalmente corretta: "Andrea ha spalmato il pane di paté."
+1	Le bombe piovvero sopra di noi. La frase "Le bombe piovevano su di noi" contiene un errore; il verbo corretto da utilizzare con "bombe" al plurale nel passato remoto sarebbe "piovvero".
+1	I matrimoni misti funzionano alla perfezione. "In modo perfetto" non è una locuzione idiomatica comunemente usata in italiano; "alla perfezione" è più appropriato come alternativa qui.
+1	La tua idea equivale alla mia. La frase che hai fornito è grammaticalmente corretta! Non ci sono errori da correggere qui. Continua così!
+1	La tua idea e la mia sono equivalenti. La frase "La tua idea e la mia si equivalgono" contiene un errore nella coniugazione del verbo "equivalere". Invece di usare la forma riflessiva "si equivalgono", che indica una reciprocità tra due soggetti ("la tua idea" ed "io"), bisognerebbe utilizzare il verbo alla terza persona plurale "sono equivalenti", per indicare semplicemente che le due idee hanno lo stesso valore senza implicare alcuna azione da parte dei soggetti stessi.
+1	La mela più buona è quella rossa.
+1	Julius Caesar was a famous Roman general and statesman. (The sentence is already grammatically correct.)
+1	Lorenzo controlla a Paola. La frase originale "Lorenzo controlla Paola" non è del tutto corretta perché manca una preposizione tra il verbo "controlla" e il nome "Paola". Una versione corretta potrebbe essere "Lorenzo controlla a Paola", che indica che Lorenzo sta guardando a Paola.
+1	Maria acconsente a che sua figlia esca con quel ragazzo. In questa frase, il pronome possessivo "sua" deve accordarsi con il genere del posseduto, nel caso specifico "figlia".
+0	Alice badia a Maria. La forma verbale "bada" deve concordare con il soggetto "Alice", che è una femmina singolare. Di conseguenza, si userebbe la forma della terza persona singolare del presente indicativo del verbo "badare": "badia".
+1	Paola dubita di te. La frase è già corretta.
+1	Maria desidera che tu parta. (La frase è già corretta)
+1	La frase è già corretta.
+1	Emma volontariamente affascina Francesco. La frase che hai fornito è grammaticalmente corretta. Non ci sono errori da correggere qui. Continua così!
+1	La frase è già corretta. La forma "lui viene" richiederebbe una congiunzione come "che", ma nel testo fornito sembra intenzionale mantenere questa struttura per indicare il soggetto della volizione ("Francesco") attraverso la terza persona singolare del verbo ausiliare "essere". Di conseguenza, la frase rimane corretta anche senza aggiungerlo.
+1	La frase è già corretta.
+0	Alessandro invita a Paola a partire. Spiegazione: Nella frase originale "Alessandro invita Paola a che si parta", il verbo alla seconda persona singolare ("si parta") deve concordare con il soggetto della subordinata introdotta da "che" ("Paola"). Inoltre, manca il verbo nella principale per cui ho aggiunto "invitare". Pertanto, una versione corretta potrebbe essere "Alessandro invita a Paola a partire".
+1	Alice accompanied Tommaso to the cinema. (La frase è già corretta)
+1	La partenza apporta un beneficio a tutti. La frase è già corretta.
+1	Alessandro si lamenta del mare sporco con Paola. La frase è già corretta.
+1	Alice mette in agitazione a Tommaso. In questa frase, "agitazione" è un sostantivo che richiede una preposizione per introdurre il suo oggetto. Una versione corretta della frase sarebbe "Alice mette in agitazione a Tommaso".
+1	Andrea lascia a Leonardo pieni poteri. La frase è già corretta.
+1	Il piatto piange. La frase che hai fornito è infatti già corretta! "Il piatto piange" è una locuzione idiomatica italiana che significa letteralmente "la situazione sta peggiorando". Non c'è nulla da correggere qui.
+1	La frase è già corretta. La frase "Mi girano le scatole" è idiomatica ed è comunemente usata per indicare che qualcosa sta irritando o infastidendo una persona. Non ci sono errori grammaticali nella frase.
+1	Alice si è attaccata a un capello.
+1	La frase è già corretta. La frase "Maria ha piantato Riccardo in asso" è grammaticalmente corretta. In questa frase, il verbo "ha piantato" viene usato nel passato prossimo ed è seguito dai suoi due oggetti diretti "Riccardo" e "in asso". L'espressione idiomatica "lasciare qualcuno in asso" significa abbandonarlo improvvisamente o lasciarlo solo in una situazione difficile.
+1	Sofia e Riccardo parlano la stessa lingua. La frase è già corretta.
+0	Aver fegato. La forma corretta dell'espressione è "avere il coraggio" o semplicemente "avere fegato", senza articolo determinativo prima del sostantivo.
+0	Tiene las preocupaciones. (In spagnolo, "paturnias" non è una parola; la traduzione corretta per "to have the jitters" è "tener las preocupaciones".)
+0	Avere su le scatole. La forma corretta dell'espressione idiomatica "avere le scatole" (essere arrabbiati o infastiditi) richiede l'uso della preposizione "su", anziché "sulle".
+0	Si trova/sta dentro il ventre di una mucca. La frase che hai fornito presenta alcuni errori grammaticali. "Essere" andrebbe sostituito con un verbo appropriato come "si trova" o "sta", ed è necessaria anche una preposizione per completare il significato della frase. Inoltre, si usa comunemente l'articolo determinativo "il" prima del sostantivo "ventre".
+1	La frase è già corretta. La costruzione "ti ha messo nell'occhio del ciclone" è grammaticalmente corretta ed idiomatica in italiano. Significa che una determinata situazione ha attirato su qualcuno molta attenzione negativa o critiche intense, mettendolo sotto i riflettori in modo spesso ingiustificato.
+1	Riccardo spera che possa partire presto. La frase è già corretta.
+1	Beatrice has an attention for Giulia. (Nota: la frase potrebbe non suonare naturale in inglese poiché "to pay attention to" sarebbe più appropriato qui.)
+1	Alice is anxious. La frase "Alice is in anxiety" non è grammaticalmente corretta perché il verbo "to be" deve concordare con il sostantivo che lo segue. In inglese, quando si usano sostantivi astratti come "anxiety", normalmente si utilizza la forma verbale "to be" seguita dal participio passato del verbo corrispondente ("is been"). Tuttavia, nel linguaggio colloquiale spesso si preferisce utilizzare la costruzione "to be + adjective". Pertanto, una versione più formale della stessa frase potrebbe essere "Alice is anxious".
+1	La frase è già corretta. La frase "Siamo cariche di viveri" è grammaticalmente corretta. Nella lingua italiana, il verbo "essere" concorda con il soggetto, che nel caso specifico sia femminile plurale ("noi"). Pertanto, utilizzare "siamo" anziché "sono" è corretto. Inoltre, "cariche" indica uno stato di pienezza ed è usato qui come aggettivo sostantivato per descrivere le provviste che si hanno addosso o disponibili.
+1	La ragazza mangerà la pizza. (La frase è già corretta.)
+1	Lei ha presentato la donna ai suoi amici. La modifica apportata alla frase consiste nel cambiamento dell'articolo determinativo "dei" con "ai". Infatti, quando si usano i possessivi come "suoi", "propri" ecc., bisogna utilizzare gli articoli partitivi "il", "lo", "l'", "un", "uno", "una", "degli", "delle", "di" prima del pronome personale atono corrispondente ("ai", "agli", "alle").
+1	Edoardo obbedisce a Sofia. La frase è già corretta.
+1	Sono canadese. La frase è già corretta. "Sono canadese" è una dichiarazione grammaticalmente corretta che indica la nazionalità del parlante.
+1	La frase è già corretta.
+1	Edoardo va ad invitare Giulia a cena. La forma corretta dell'imperativo "andare" con il significato di "dirigersi verso un luogo per fare qualcosa" richiede la preposizione "ad". Pertanto, la frase originale avrebbe dovuto essere "Edoardo va ad invitare Giulia a cena".
+0	Beatrice scappa per andare a comprare. La frase originale presenta un errore nella costruzione del verbo "scappare", che richiede generalmente una preposizione ("per" o "a") seguita da un infinito. Inoltre, il pronome "le" sembra superfluo ed è stato omesso nell'frase corretta proposta.
+1	La frase è già corretta. La struttura della frase è grammaticalmente corretta ed ha senso logico. "Sono i libri" è il soggetto della frase, mentre "che Leonardo mette sugli scaffali ora" è una relativa restrittiva che fornisce ulteriori informazioni sul soggetto.
+1	Edoardo mette i libri sugli scaffali. La frase è già corretta.
+1	I libri sono quello che Leonardo mette sugli scaffali ora. La frase originale contiene alcuni errori. Nella forma affermativa della costruzione "essere...ciò che", il pronome relativo deve concordare con il soggetto nel genere e nel numero. Pertanto, nella frase corretta ho modificato "ciò" in "quello". Inoltre, per rendere più chiaro il significato della frase, ho aggiunto l'articolo determinativo "I" prima del sostantivo "libri".
+1	La frase è già corretta. (La frase "Andrea mangia" è grammaticalmente corretta.)
+1	Questa frase è già corretta. La frase "Questo lavoro è di competenza di Leonardo." è grammaticalmente corretta.
+1	Questa attività ricade nelle competenze di Riccardo. Spiegazione: Nella tua frase, hai usato "Riccardo" come soggetto della proposizione relativa "Questo lavoro ricade", ma il pronome personale soggetto corretto da utilizzare qui sarebbe "lo". Pertanto, una versione corretta della tua frase suonerebbe così: "Questa attività ricade nelle sue competenze, lo sa bene Riccardo." Tuttavia, poiché ti ho chiesto solo di verificare la grammaticalità dell'intera frase fornita anziché suggerirne una correzione, posso confermare che la frase modificata nella mia spiegazione è grammaticalmente corretta.
+1	A Francesco piace Maria per le sue gambe. La frase è già corretta.
+1	La frase è già corretta. La frase "Andrea accarezza le gambe di Maria" è grammaticalmente corretta.
+1	Riccardo no gradió quella insinuación. La frase originale contiene alcuni errori grammaticali. Nella versione corretta, ho modificato il verbo "gradì" con il suo corrispondente spagnolo appropriato "no gradió", che indica una forma passata negativa del verbo gustar. Inoltre, mi sono assicurato che l'ortografia della parola italiana "quell'" sia stata adattata alla lingua spagnola come "aquel".
+1	Francesco ricorda qualcosa. La frase è già corretta.
+1	La frase è già corretta. La struttura della frase è "È <soggetto> che <verbo>" ed è grammaticalmente corretta.
+1	Leggeva i nomi degli artisti alla ragazza. La frase è già corretta.
+1	La frase è già corretta. La frase "Ha tradito la fiducia di Gabriele" è grammaticalmente corretta. Non ci sono errori da correggere nella forma, nel significato né nell'uso della lingua italiana.
+1	La frase è già corretta.
+1	Sono qui per assisterti. La frase è già corretta.
+1	Alessandro disgusta a Giulia. In italiano, quando si utilizza il verbo "disgustare" con una persona come oggetto, bisogna usare la preposizione "a". Pertanto, la forma corretta della frase sarebbe "Alessandro disgusta a Giulia".
+1	La frase è già corretta. La frase "Ne vediamo di tutti i tipi" è grammaticalmente corretta ed è una forma idiomatica dell'italiano che significa qualcosa come "We see all sorts of things", ovvero siamo abituati a vedere cose molto diverse tra loro.
+1	Ho letto il libro ieri. La frase è già corretta.
+0	Ho rise due ore. In questa frase, il verbo "ho" richiede un verbo alla terza persona singolare del passato remoto ("rise") anziché una seconda persona plurale ("rieste").
+1	Ho letto il libro ieri. La frase è già corretta.
+1	Sia Maria che Anna sono in crisi. La frase è già corretta.
+1	Conservava il controllo della società. La frase è già corretta.
+1	Gli piacciono le mele. La frase originale "A lui gli piace le mele" contiene un errore nella forma del verbo da usare con il pronome soggetto "gli". Invece di ripetere "piace", si deve utilizzare la forma verbale appropriata che concorda con il soggetto maschile singolare, cioè "piace" per indicare una terza persona singolare nel presente semplice dell'indicativo. Pertanto, la forma corretta della frase è "Gli piacciono le mele".
+1	Paola ha confrontato i due libri in biblioteca. (La frase è già corretta.)
+1	Maria ha immerso il figlio nell’acqua fredda. (La frase è già corretta.)
+5	I am learning Italian. Confidence: 95%
+1	Il consenso della gente è nato dal suo talento. La frase è già corretta.
+1	Francesco guarda che tutto proceda per il meglio. La frase è già corretta.
+1	La frase è già corretta. La struttura della frase è corretta dal punto di vista grammaticale. "Si" qui funge da pronome riflessivo soggetto per indicare una persona senza specificarne il genere o il numero ("si vergogna" può riferirsi ad una sola persona o a più persone), mentre "che" introduce una subordinata completiva con valore causale.
+1	Julija doit travailler demain. La frase è nella lingua francese ed è grammaticalmente corretta. In questa frase, "Julija" è il soggetto, "doit" è il verbo ausiliare che indica l'obbligo o la necessità, e "travailler" significa "lavorare". Infine, "demain" significa "domani", che è l'oggetto della frase. Pertanto, la traduzione completa dell'intera frase in inglese sarebbe "Julija must work tomorrow."
+1	Francesco organizzò la partenza di Tommaso con Maria. La frase originale "Francesco stabilì la partenza di Tommaso con Maria" contiene un errore di lessico. Invece di usare il verbo "stabilì", bisognerebbe utilizzare "organizzò".
+1	Ho bisogno che mi aiuti con i compiti. La frase è già corretta.
+0	L'affitto di quella casa gli rende 500 euro. La frase è già corretta.
+1	La frase è già corretta. La punteggiatura nella tua frase è posizionata correttamente e il verbo "hanno" concorda con i soggetti plurale "tutti". Pertanto, la frase è grammaticalmente corretta.
+1	La frase è già corretta.
+1	Per tutta la vita ha costruito castelli in aria. La frase è già corretta.
+1	Quel terreno fruttA molti soldi. La frase contiene solo una piccola errore di ortografia, il verbo "frutta" deve essere scritto "fruttA".
+1	La frase è già corretta. In questa frase, il verbo "fare" viene usato nel modo corretto per indicare che Gabriele ha chiesto a Riccardo di scrivere una lettera per suo conto a Lorenzo.
+1	La frase è già corretta. La costruzione della frase "Il vento ha fatto rompere il vetro da Andrea" è grammaticalmente corretta ed è un esempio di passiva causativa. In questa forma, l'agente che causa l'azione viene specificato con la preposizione "da".
+0	Il colonnello ha comandato la nave. La frase originale "Il colonello ha fatto la nave" non è grammaticalmente corretta perché il verbo "fare" con "la nave" non ha senso in questo contesto. Una versione corretta potrebbe essere "il colonnello ha comandato la nava", che significa che il colonnello ha avuto il comando della nave.
+1	Lorenzo si è fatto rompere la vetrina. (La frase originale "Lorenzo si è fatto rompere la vetrata" contiene un errore; la parola corretta da usare è "vetrina".)
+1	Ho letto quel libro due volte. La frase è già corretta.
+1	L'auto ha accelerato. La frase "L'auto ha schiacciato l'acceleratore" non è del tutto corretta perché il verbo sbagliato viene usato nel contesto della situazione. Invece dell'espressione "schiacciare l'acceleratore", si può semplicemente dire che "l'auto ha accelerato".
+1	Il colpo ha schiacciato l'acceleratore. La frase è già corretta.
+1	La frase è già corretta. La frase che hai fornito ("Lorenzo ha rotto il fidanzamento.") è grammaticalmente corretta in italiano. Non ci sono errori da correggere.
+1	Il caldo ha rovinato il cibo. La frase "Il caldo ha avariato il cibo" contiene un errore lessicale; la parola "avariato" andrebbe sostituita con "rovinato".
+1	L'umidità ha ossidato il ferro.
+1	La frase è già corretta. Il verbo "ossidare" può essere usato transitivamente con il significato di far ossidare una sostanza chimica. Pertanto, la frase "Gabriele ha fatto ossidare il ferro" è grammaticalmente corretta.
+1	La frase è già corretta.
+1	I would have gone to the park if it wasn't raining. (La frase che hai fornito è già corretta.)
+1	Paola ha trascurato se stessa. La frase è già corretta.
+1	La frase è già corretta. Note: The sentence is grammatically correct and has the structure "Subject + Verb + Object", where "L'uomo" is the subject, "lavatosi" is the past participle of the verb "lavarsi" that agrees with the gender and number of the subject, and "ieri" is an adverb specifying when the action took place.
+1	La frase è già corretta. La frase "Andrea has scratched the car door" è grammaticalmente corretta in inglese.
+1	Lo sportello della macchina si è graffiato. Spiegazione: In italiano, "macchina" può essere usato come sinonimo informale di "automobile", ma il termine formale per riferirsi all'automobile, specialmente quando si desidera sottolinearne una parte specifica come lo sportello, è "l'auto".
+1	Il viso di Tommaso si è graffiato. La frase è già corretta.
+1	I prati si sono ricoperti di fiori. La frase originale "I prati si sono rivestiti con i fiori" contiene una piccola imprecisione. Invece di utilizzare la preposizione "con", sarebbe più appropriato usare "di". Pertanto, la forma corretta della frase sarà "I prati si sono ricoperti di fiori".
+1	Il prezzo delle mele è aumentato di due volte. La frase è già corretta.
+5	Il fatturato è aumentato del 15% nell'ultimo anno. La frase originale presentava due errori minori. Anziché "si è incrementato", avremmo dovuto usare "è aumentato". Inoltre, il simbolo "%" deve trovarsi immediatamente dopo il numero che rappresenta la percentuale, senza spazi aggiuntivi.
+1	La Fiat si è fusA con la Chrysler. La frase contiene un errore di ortografia nella parola "fusA", che deve essere scritta "fusa" per essere corretta.
+1	Il disegno si è confrontato con la fotografia. La frase contiene una piccola imprecisione. Invece di "foto", che è informale, sarebbe più appropriato usare il termine formale "fotografia".
+1	Il contagio è in diffusione. La frase è già corretta.
+0	Il gatto ha perso tanti peli sul divano. La frase originale "Il gatto ha impelato di peli il divano" non è grammaticalmente corretta perché il verbo "impelare" non viene usato con il significato voluto ("perdere peli") nella lingua italiana standard. Inoltre, manca una preposizione prima della parola "tanti".
+1	L'inverno ha privato gli alberi delle foglie. La frase originale "L'inverno ha privato delle foglie gli alberi" contiene un errore nella sua forma attuale perché il complemento oggetto ("le foglie") viene posizionato prima del soggetto ("gli alberi"). In italiano standard, i complementi oggetti devono seguire il soggetto della frase. Di conseguenza, una versione corretta sarebbe "L'inverno ha privato gli alberi delle foglie".
+1	La frase è già corretta. Il motivo per cui questa frase è grammaticalmente corretta è che il verbo "ha spaccato" si riferisce a un evento passato e concorda con il soggetto "l'esplosione". Inoltre, l'uso della preposizione "per" seguito dal tempo "un secondo" indica la durata dell'evento di rottura. Pertanto, la frase è ben formulata e comunica chiaramente il suo significato.
+1	La vetrina si è rotta in un millesimo di secondo. La modifica della frase riguarda il termine "vetrina" che viene usato qui come sinonimo di "finestra", mentre sarebbe più appropriato utilizzare il termine "vetrata". Inoltre, per indicare una frazione di tempo molto breve, si può dire "millesimo di secondo" anziché "un millisecondo".
+1	L'intonaco si è sgretolato in poche settimane.
+1	La pioggia ha ri-idratato il terreno negli ultimi giorni. La frase originale presentava un errore nella forma verbale "reidratato", che avrebbe richiesto due "i" per essere scritta correttamente come "ri-idratato".
+1	Francesco ha riempito il serbatoio per un'ora. La frase è già corretta.
+1	La frase è già corretta.
+1	Ha protratto l'interrogatorio per tutta la mattina. La frase originale è già corretta. "Protrare" significa rendere più lungo nel tempo qualcosa che sarebbe stato altrimenti breve, ed è seguito dal gerundio (-ndo). In questo caso specifico, il verbo utilizzato è corretto e la frase è grammaticalmente accurata.
+1	La frase è già corretta.
+1	La frase è già corretta.
+1	La frase è già corretta.
+1	Il temporale ha fatto ritardo al treno di due ore.
+1	L'incidente ha rallentato il treno di due ore. La frase originale "L'incidente ha ritardato il treno di due ore" contiene un errore. Invece di utilizzare "ritardare", bisognerebbe usare "rallentare". Pertanto, la versione corretta della frase sarebbe "L'incidente ha rallentato il treno di due ore".
+1	Il treno ha ritardato di due ore. La forma originale "il treno ha ritardato per due ore" non è del tutto corretta poiché si usa la preposizione "di" anziché "per". In generale, quando si vuole indicare una durata con i verbi all'imperfetto o passato prossimo, come nel caso specifico della tua frase, bisogna utilizzare la preposizione "di", mentre "per" viene impiegata nei tempi presente o futuro. Pertanto, la forma corretta sarebbe "Il treno ha ritardato di due ore".
+0	Il vino è diventato aceto dopo molte ore. La frase originale contiene un errore nella descrizione del tempo necessario affinché il vino si trasformi in aceto. Si usa "dopo" seguito da una durata di tempo ("molte ore") piuttosto che semplicemente "per".
+0	I commercianti hanno aumentato le vendite dell'10% anno dopo anno. Spiegazione: Nella frase originale mancava la preposizione "di" prima della percentuale e il connettore "anno dopo anno" andrebbe separato dal verbo da una virgola.
+0	Le vendite sono aumentate del 10% in due anni. (La forma corretta dell'aumento delle vendite è "aumentato", con una z invece della s.)
+1	La frase è già corretta.
+5	Il cioccolato si è sciolto in 5 minuti. La frase originale "Il cioccolato si è fuso in 5 minuti" contiene un errore. In realtà, il verbo corretto da usare è "sciogliere", piuttosto che "fondere". Pertanto, la versione corretta della frase sarebbe "Il cioccolato si è sciolto in 5 minuti".
+5	La carne cuoce in cinque minuti. La forma originale della frase "La carne si è cotta in 5 minuti" non è del tutto corretta perché il verbo "cuocere" deve concordare con il soggetto "la carne". Pertanto, ho modificato leggermente la frase facendo riferimento al tempo di cottura come una proprietà intrinseca dell'azione di cuocere, piuttosto che descrivere qualcosa che è successo alla carne dopo aver completato la cottura ("essersi cotta").
+0	La finestra si è chiusa, ma non è ancora chiusa.
+1	La valigia è diventata leggera.
+0	I prezzi sono aumentati del 10%. La frase "I prezzi sono rincarati del 10 %" è già corretta, ma una forma più comune per esprimere questa idea potrebbe essere "I prezzi sono aumentati del 10%".
+1	La frase è già corretta. (La frase "Han colocado el cuarto más grande" è grammaticalmente corretta in spagnolo.)
+1	La mia macchina preferita è una Ford Mustang.
+1	La carne è saporita. La frase è già corretta.
+0	Il vino è buono. (La frase originale "Il vino è aceto" non è corretta perché indica che il vino è rovinato, mentre si voleva probabilmente indicare che il vino è piacevole.)
+1	Il pullover di lana si è inspessito. (La frase "Il pullover di lana si è infeltrito" è sbagliata perché il verbo corretto da usare è "inspessito", che significa diventare più spesso o denso, come succede quando un capo di lana si restringe dopo il lavaggio.)
+1	Edoardo si è fatto simile a uno scheletro. La frase è già corretta.
+1	La carne está sabrosa. Nota: ho notato che hai usato una "z" nella parola "sabroso", ma questa forma dell'aggettivo non esiste nello spagnolo standard; devi utilizzare "sabrosa" per indicare che qualcosa ha buon sapore quando si riferisce a cibi femminili come "la carne".
+1	La situazione è già corretta.
+1	La frase è già corretta. La frase "L'aria si è fatta puzzolente" è grammaticalmente corretta ed ha anche senso compiuto. Non c'è bisogno di apportare alcuna modifica alla frase.
+1	La situazione diventa ingarbugliata. La parola "ingarbugliatissima" non esiste nel vocabolario italiano standard. Una forma più appropriata potrebbe essere "ingarbugliata", che significa intricato o confuso.
+1	A Riccardo, questi argomenti non lo hanno convinto. La frase contiene un errore di accordo del participio passato con il pronome atono "lo". Per rendere la frase grammaticalmente corretta, si deve modificare "l'ha" in "lo ha", che diventa "gli hanno" perché qui preceduto da una preposizione articolata ("a + il = ai"). Pertanto, la forma corretta della frase sarà "A Riccardo, questi argomenti non gli hanno convinto."
+1	La follia spaventa Francesco. La frase è già corretta.
+1	Le ragazze hanno irritato Andrea. La frase originale "Le ragazze hanno innervosito Andrea" non è del tutto corretta perché il verbo "innervosire" richiede l'uso della preposizione "di" prima dell'oggetto diretto quando si usa nella forma passiva come in questa frase. Una versione corretta sarebbe stata "Le ragazze lo hanno innervosito (di molto)" oppure "Andrea è stato innervosito dalle ragazze".
+1	Le ragazze hanno preoccupato Francesco. (La frase è già corretta.)
+1	Quei fuochi hanno innervosito Eduardo. La modifica apportata riguarda il nome "Eduardo", che nella forma originale della frase era stato storpiato in "Edoardo".
+0	Alice calmò Andrea a causa di quell'uomo. La frase originale contiene alcuni errori grammaticali che ne rendono difficile la comprensione. Nella versione corretta, ho modificato il verbo "ha fatto" con "calmò", perché si tratta della forma verbale appropriata da usare quando qualcuno fa in modo che una persona faccia qualcosa. Ho anche cambiato "quell'uomo" con "di quell'uomo", poiché quest'ultima opzione indica più chiaramente quale uomo stiamo menzionando. Inoltre, ho aggiunto la preposizione "a causa di" per spiegare meglio il motivo del comportamento di Alice.
+0	Maria ha fatto preoccupare Gabriele per colpa della fidanzata. La frase originale "Maria ha fatto preoccupare Gabriele dalla fidanzata" non è grammaticalmente corretta perché manca una congiunzione che colleghi le due parti della frase. Una versione corretta potrebbe essere "Maria ha fatto preoccupare Gabriele per colpa della fidanzata".
+0	Maria ha fatto arrabbiare Leonardo. La frase originale "Maria ha fatto irretire Leonardo" non è grammaticalmente corretta perché il verbo "irretire" richiede un oggetto diretto, ma nel contesto fornito, sembra che si stia cercando di descrivere una situazione in cui Maria ha causato una reazione emotiva in Leonardo, come ad esempio arrabbiarsi. Pertanto, la forma verbale appropriata da utilizzare sarebbe "arrabbiare".
+0	Riccardo si sta seducendo. In questa frase, "Riccardo si seduce" non è grammaticalmente corretto perché il verbo "sedurre" richiede un oggetto diretto, che manca nella frase fornita. Una versione corretta potrebbe essere "Riccardo si sta seducendo (da solo)" oppure "Riccardo si sta seducendo (qualcun altro)".
+0	Lorenzo si è piaciuto *per questo*. La forma corretta dell'espressione "si è piaciuto" richiede il complemento oggetto introducendo con la preposizione "per". In questo caso, deve essere "per questo", poiché sta indicando una ragione specifica.
+1	Edoardo si è spaventato per quella notizia. La frase "Edoardo si è spaventato a quella notizia" contiene un errore poiché il verbo "spaventare" richiede la preposizione "per" anziché "a". Pertanto, la forma corretta della frase sarebbe "Edoardo si è spaventato per quella notizia".
+1	Riccardo si è agitato per quella notizia. La frase originale "Riccardo si è agitato a quella notizia" non è del tutto corretta poiché il verbo "agitarsi" richiede la preposizione "per" seguita da una causa o motivo, piuttosto che la preposizione "a". Pertanto, la forma corretta della frase sarebbe "Riccardo si è agitato per quella notizia".
+1	Tommaso está emocionado por esa noticia. La frase sta utilizzando il verbo corretto "está" che concorda con il soggetto maschile singolare "Tommaso", ed anche la forma del participio passato "emocionado" è appropriata per indicare una condizione presente dell'azione passata.
+1	Riccardo è irritato per quella notizia. La frase originale "Riccardo è irritato di quella notizia" non è del tutto corretta dal punto di vista grammaticale. In genere si usa la preposizione "per" anziché "di" quando si descrive il motivo di una determinata emozione o reazione. Di conseguenza, la forma corretta sarebbe "Riccardo è irritato per quella notizia".
+1	La frase è già corretta. La costruzione della frase è grammaticalmente corretta ed il significato è chiaro. Non ci sono errori da correggere.
+1	Ho bisogno di una matita per disegnare questa immagine. La frase è già corretta.
+0	Questo mi fa paura. La frasi "Ciò fa terrore a Maria" non è grammaticalmente corretta. Una versione corretta potrebbe essere "Questo fa paura a Maria".
+1	Emma feels nervous. The sentence is already correct.
+1	Ho letto molti libri interessanti ultimamente. La frase è già corretta.
+1	La frase è già corretta. La frase "Sofia ha i nervi a fior di pelle" è infatti grammaticalmente corretta. Non vi sono errori da correggere.
+1	Emma è sbalordita. La parola "in stupore" non è una forma idiomatica dell'italiano standard per indicare uno stato di sorpresa o meraviglia. Piuttosto, si userebbe il verbo "sbalordire", che significa letteralmente lasciare senza fiato o impressionare profondamente. Pertanto, la forma corretta della frase sarebbe "Emma è sbalordita".
+1	Paola è nel panico. La modifica si rende necessaria perché lo stato di "spavento" viene solitamente indicato come "panico" quando ci riferiamo ad una persona che ne sta provando gli effetti.
+1	Lei ha cinque libri sulla sua scrivania. La frase è già corretta.
+1	I film horror appassionano Andrea. La frase è già corretta.
+1	Gli piacciono i cani. La frase "Gli piacenoi cani" non è grammaticalmente corretta perché manca la desinenza verbale "-ono" che indica la terza persona plurale del presente indicativo nel verbo "piacere".
+1	Gli piacciono i cani. La frase "He likes dogs" è scritta in inglese, ma dal momento che ti ho richiesto una valutazione sulla sua correttezza in ITALIANO, devo supporre che sia stata fornita per errore nella lingua sbagliata. In tal caso, la traduzione corretta della frase in italiano sarebbe "Gli piacciono i cani", che è grammaticalmente corretta.
+1	La frase è già corretta.
+1	La frase è già corretta.
+1	Il fumo ha irritato la gola di Paola. Spiegazione: La frase che hai fornito è grammaticalmente corretta.
+1	Ho dormito bene durante la notte.
+1	Il tuo arrivo improvviso ha spaventato Gabriele. La frase "Il tuo arrivo improvviso ha agitato Gabriele" non è del tutto accurata perché il verbo "agitare" significa far muovere qualcosa avanti e indietro rapidamente o causare una persona ad essere nervosa o eccitata, ma qui viene usato nel senso sbagliato. Una scelta migliore sarebbe "spaventare", che significa causare paura a qualcuno.
+1	La reputazione di Emma si è distrutta con quello scandalo. La frase originale è già corretta dal punto di vista grammaticale. Nella lingua italiana, il participio passato "distruggendo" richiederebbe l'uso dell'ausiliare "essere", come nella frase fornita.
+1	Il intonaco si è sgretolato. La frase contiene un errore comune nella lingua italiana italiana, che consiste nell'omissione dell'articolo determinativo prima del sostantivo "intonaco". Pertanto, la forma corretta della frase dovrebbe includere l'articolo determinativo maschile singolare "il" prima del termine "intonaco", come mostrato sopra.
+1	La frase è già corretta.
+1	Julius Caesar crossed the Rubicon. La frase è già corretta.
+1	La spiaggia si è riempita. La frase "La spiaggia si è riempita" è grammaticalmente corretta ed equivale a dire che la spiaggia si è popolata di persone fino a raggiungere il suo massimo numero di occupanti.
+0	Gabriele si è stancato di Maria. La frase originale contiene "si è rotto", che significa letteralmente che qualcosa si è spezzato o rovinata. Invece, qui bisogna usare il verbo "stancarsi" per indicare che Gabriele ne ha abbastanza di Maria.
+1	Riccardo è desideroso di partire. La frase è già corretta.
+1	Giulia sposta il cadavere dall'armadio al tavolo. La frase è già corretta.
+1	The dog barks. Spiegazione: La frase "The dog barks" è grammaticalmente corretta perché contiene un soggetto ("the dog"), un verbo all'inglese present simple ("barks") che concorda con il soggetto in termini di numero, ed è una frase completa che trasmette un messaggio chiaro.
+1	The sentence is already correct. "She has been studying French for two years."
+1	La frase è già corretta. La frase "Gabriele è alla tavaola" è grammaticalmente corretta, ma sembra che ci sia un refuso nella parola "tavaola". Suppongo che volevi dire "tavolo", quindi la versione corretta della frase sarebbe "Gabriele è al tavolo". Tuttavia, poiché il mio compito è solo quello di valutare la correttezza grammaticale della frase fornita senza apportare modifiche, devo concludere che la frase è corretta con le informazioni disponibili.
+1	Beatrice porta un piatto in tavola. La frase è già corretta.
+1	La frase è già corretta. La ragione per cui questa frase è grammaticalmente corretta è che "tavola" può fungere da sinonimo di "mensa" o "tavolo", ed entrambi possono essere usati come metafore per indicare il pasto. Tuttavia, va notato che tale utilizzo potrebbe non essere familiare a tutti i parlanti italiani, specialmente ai non nativi, pertanto si consiglia comunque di utilizzare formule più standard come "Giulia accompagna Gabriele a tavola".
+1	La frase è già corretta. La frase "Maria cade per terra" è infatti grammaticalmente corretta ed ha un senso compiuto nella lingua italiana.
+1	I bambini stanno giocando nel cortile. (La frase è già corretta.)
+1	Ho intenzione di andare a letto presto stasera.
+1	La frase è già corretta. La frase "Francesco sta in poltrona" è grammaticalmente corretta in italiano. Tuttavia, si noti che il soggetto della frase ("Francesco") potrebbe richiedere una concordanza di genere nella forma dell'articolo determinativo che lo accompagna, ad esempio "Il signor Francesco sta sulla poltrona". In questo caso specifico, tuttavia, la versione senza articolo determinativo è comunque accettabile ed elegante in alcuni contesti informali.
+0	La palla è finita dietro. (La parola "didietro" non esiste in italiano; si usa solo "dietro".)
+1	La frase è già corretta.
+1	Ho letto il libro ieri. La frase è già corretta.
+1	Mi raccomando, tieni l'acqua in bocca. In italiano, quando si dice "tener qualcosa in bocca", ci si riferisce letteralmente a tenere qualcosa dentro la cavità orale. Pertanto, per dire "fare attenzione" o "stare attento", bisogna usare l'articolo determinativo "l'" prima della parola "acqua".
+1	Il bambino piange. (La frase è già corretta)
+1	Lorenzo perde il cappello.
+1	Riccardo avrebbe tagliato le tappe. La frase originale "Riccardo avrebbe bruciato le tappe" contiene un errore. Invece di "bruciare", si deve usare il verbo "tagliare". Pertanto, la versione corretta della frase sarebbe "Riccardo avrebbe tagliato le tappe".
+1	Maria ha rubato improvvisamente il cuore a Gabriele. La frase è già corretta.
+0	Emma stava bene. La forma "si passa" viene usata quando si sta descrivendo una situazione generale ("In Italia ci siamo passati tutti"), ma nel contesto della tua frase andrebbe sostituita con la forma congiuntiva del verbo stare che qui funge da ausiliare per il participio passato "passata".
+1	La frase è già corretta. La costruzione "Giuilia mise gli occhi addosso a Lorenzo" è grammaticalmente corretta ed ha il seguente significato: "Giulia fissava intensamente Lorenzo".
+1	Riccardo abbandonò l'abito sul divano. La frase è già corretta.
+1	Sono qui per imparare. La frase è già corretta.
+1	Ho letto molti libri interessanti. La frase è già corretta.
+1	Sono qui per imparare. La frase è già corretta.
+1	La frase è già corretta. La frase "Maria rizzò il capo" è grammaticalmente corretta.
+1	La frase è già corretta. "Gabriele prende l'auto." La forma verbale "prendere" deve concordare con il soggetto "Gabriele", che è singolare maschile. Pertanto, si utilizza la terza persona singolare del presente indicativo ("prende").
+0	Alessandro prese la **tromba**. "Trombosi" is not a countable noun and cannot be used with the definite article "la".
+1	La frase è già corretta. La frase "La trombosi venne ad Edoardo" è grammaticalmente corretta.
+1	Il tifo si impossessò di Riccardo. La forma verbale "venne" richiede che il soggetto sia nella terza persona singolare. Tuttavia, nel testo fornito, il soggetto della frase è "il tifo", che è plurale. Pertanto, per rendere questa frase grammaticalmente corretta, occorre modificarla con la forma verbale appropriata "si impossessò".
+1	Ho letto il libro ieri. La frase è già corretta. "Ieri" può seguire direttamente il verbo senza alcuna preposizione.
+1	I would have finished the project by now if I had more time. (La frase è già corretta.)
+1	Alice si rinforzó. (Nota: questa frase contiene una tilde sulla "o" per riflettere la forma corretta del passato perfetto del verbo "rinforzar" in spagnolo.)
+1	Paola e Francesco presero il via. La frase originale presentava un errore nella preposizione utilizzata. Invece di "l'avvio", si deve usare "il via". Pertanto, ho apportato la modifica necessaria per rendere la frase grammaticalmente corretta.
+1	Riccardo aveva una sbornia. La forma verbale "ebbe" non è coerente con il tempo passato del resto della frase. Si dovrebbe utilizzare "aveva" per mantenere il senso corretto del racconto nel passato.
+1	Il formaggio fece la moldura. La frase "Il formaggio fece la muffa" non è grammaticalmente corretta perché "muffa" significa "mold" in inglese e non ha lo stesso significato in italiano. Una traduzione più appropriata della frase sarebbe "Il formaggio si guastò" o "Si formò della muffa sul formaggio". Tuttavia, se vogliamo usare il verbo "fare", una possibilità potrebbe essere "Il formaggio fece la moldura", dove "moldura" significa "la crosta superficiale che si forma su alcuni cibi" in italiano.
+1	Ho letto il libro ieri. Spiegazione: In questa frase, "il libro" è un complemento oggetto diretto dell'azione del verbo "ho letto". Poiché si tratta di un singolo oggetto specifico, viene utilizzato l'articolo determinativo maschile singolare "il", che concorda con il sostantivo "libro". Pertanto, la frase è grammaticalmente corretta.
+1	La mela più buona. La frase presenta un articolo determinativo "la" davanti all'aggettivo "buona", che concorda con il sostantivo maschile o femminile implicito nella forma dell'aggettivo. Pertanto, questa frase è grammaticalmente corretta.
+1	Ho letto molti libri interessanti durante le vacanze. La frase è già corretta.
+1	Giulia prese una dritta. La frase è già corretta.
+1	Juliet would rather spend time with Romeo than studying. La frase è già corretta.
+0	L'aereo atterrò.
+1	Alessandro si è bagnato. In the given sentence "Alessandro s'bagnò", there is a spelling mistake with the past participle of the verb "bagnarsi". The correct form should be "si è bagnato" instead of "s'bagnò".
+1	Tommaso arieggia la sua stanza. In passato, il verbo "arieggiare" richiedeva l'uso del participio presente ("arièggia") piuttosto che dell'attuale forma "-oglia". Tuttavia, nel linguaggio contemporaneo si utilizza prevalentemente la versione con "-oglia", come indicato nella tua frase.
+1	La frase è già corretta.
+1	Tommaso prese la terra dal secchio. La frase è già corretta.
+1	I marinai navigavano. Spiegazione: "Vogavano" significa "they were rowing", che si userebbe per descrivere qualcosa fatto con una barca a remi. Poiché i marinai generalmente utilizzano navi a vela o motore, sarebbe più appropriato dire "navigavano".
+1	Ho letto il libro ieri. La frase è già corretta. In italiano, quando si usano gli avverbi di tempo come "ieri", "oggi" o "domani" per indicare quando si è verificato un evento passato, presente o futuro, essi vengono posizionati prima del verbo ausiliario "avere" o "essere". Pertanto, "Ho letto il libro ieri" è una forma perfetta per indicare che hai letto il libro nel passato, specificando anche il giorno in cui lo hai fatto.
+1	Sono qui per imparare. La frase è già corretta.
+1	Lorenzo prese un cappello. Note: The word "cappellaccio" is not a standard Italian word for hat or cap. A more appropriate option would be "cappello".
+1	Riccardo si imbronciò. La frase è già corretta.
+1	Andrea prende il cappello. (La frase è già corretta, ma ho modificato "prese" per adattarla al presente indicativo poiché nella tua istruzione hai chiesto di verificarne la correttezza nel contesto dell'italiano standard moderno.)
+0	Paola prese il corpo. La frase originale "Paola prese corpo" non è grammaticalmente corretta perché manca l'articolo determinativo "il" prima della parola "corpo".
+1	Alessandro prende parte alla festa. La forma verbale "prese" non concorda con il soggetto "Alessandro", che richiederebbe la forma presente del verbo "prendere".
+1	La frase è già corretta. La frase "Francesco annotò la lezione" è infatti grammaticalmente corretta.
+1	Leonardo prende imbarco sulla nave. In questa frase, il verbo "prendere" deve concordare con il soggetto "Leonardo", che è singolare maschile. Di conseguenza, il passato prossimo del verbo deve essere formato utilizzando l'ausiliario "ha preso". Tuttavia, nella versione originale della frase si usa l'infinito verbale "prese", che è sbagliato. Pertanto, la forma corretta sarebbe "Leonardo ha preso imbarco sulla nave". Tuttavia, nel mio output precedente ho mantenuto lo stile dell'originale richiedendo solo il cambio di persona verbale da terza plurale ("prese") a terza singolare ("prende").
+1	Paola prese informazioni su Alessandro. La frase è già corretta.
+1	Edoardo si innamorò di Sofia.
+1	La frase è già corretta. Nella frase fornita "Paola prese un odio per Tommaso", l'uso del verbo "prendere" con il significato di sviluppare una sensazione o emozione come l'"odio" è accettabile ed è comunemente usato nella lingua italiana. Pertanto, questa frase è grammaticalmente corretta.
+1	Gli uccelli si imboccarono dalla madre. La forma corretta dell'verbo "imboccare" da usare nel contesto dato sarebbe "imboccarsi", ma visto che il soggetto della frase sono gli uccelli, la forma corretta sarebbe "si imboccarono".
+1	Ho letto tre libri questa settimana. La frase è già corretta.
+1	La frase è già corretta.
+1	I would like to order a pizza for delivery. Comment: The phrase is grammatically correct and understandable.
+1	Francesco prese il coltello dalla lama. La frase originale "Francesco prese il coltello per la lama" non è del tutto corretta, poiché si dice normalmente che qualcuno prende un oggetto "dalla" parte specifica dell'oggetto stesso ("dal manico", ad esempio), piuttosto che "per" quella parte.
+1	Leonardo fece i propri danni. In questa frase, "il proprio" deve accordarsi con "danni", che è pluralità maschile. Pertanto, si usa "i propri".
+1	Lorenzo ha preso fischi per fiaschi.
+1	La frase è già corretta. La frase "Maria fece una seduta di elioterapia" è grammaticalmente corretta in italiano. Non ci sono errori da correggere.
+1	Ho letto quel libro due volte. La frase è già corretta.
+1	È stata perduta troppa volta il treno, in questa redazione. La frase contiene un errore nel verbo ausiliare "è" che deve concordare con il soggetto femminile plurale "tanta", pertanto andrebbe sostituito con "sono state perse".
+1	La bussola fu persa da Gabriele. La frase fornita è grammaticalmente corretta ed è scritta nella forma passiva del verbo "perdere". In questa costruzione, il soggetto della frase ("la bussola") subisce l'azione dell'essere perduta da parte di qualcun altro, che viene indicato con "da" seguito dal nome ("Gabriele").
+1	Andrea non si controllò più. La frase è già corretta.
+1	Gli piacciono i cani e i gatti. La frase è già corretta.
+0	Tommaso emise un giudizio.
+1	La frase è già corretta. La frase "Lorenzo ne disse due a Maria" è grammaticalmente corretta.
+1	Beatrice prese fischi per fiaschi. La frase è già corretta.
+1	Tommaso getta olio sul fuoco. La frase "Tommaso butta olio sul fuoco" contiene uno spelling error, il verbo corretto da utilizzare è "gettare" con due T ed essendo un verbo transitivo richiede l'uso dell'oggetto diretto "olio".
+1	La frase è già corretta. La frase "Riccardo tirò l'acqua al proprio mulino" è grammaticalmente corretta ed ha un significato chiaro. In questa frase, "tirò l'acqua al proprio mulino" è una locuzione verbale che indica che Riccardo stava usando l'acqua per far funzionare il suo mulino.
+1	Alessandro si diede la zappa sui piedi. La frase è già corretta.
+1	Emma ascolta un disco. La frase è già corretta.
+1	Riccardo ha toccato a Emma. La frase originale "Riccardo ha toccato Emma" non è del tutto corretta perché manca una preposizione che indichi il ruolo di Emma nell'azione di toccare. Una versione più accurata potrebbe essere "Riccardo ha toccato a Emma", dove "a" indica che Emma è il destinatario dell'azione.
+1	La frase è già corretta. La struttura della frase è corretta, con il soggetto "Riccardo" che svolge l'azione descritta dalla verbos "fa". Non ci sono errori evidenti nella forma o nell'uso delle parole, quindi posso confermare che la frase è grammaticalmente accettabile.
+1	La frase è già corretta.
+1	Ho letto molti libri interessanti durante le vacanze. Spiegazione: La frase è grammaticalmente corretta ed è una frase completa con soggetto e predicato verbale.
+1	La frase è già corretta.
+1	Tommaso da un libro a Maria. La forma originale della frase "Tommaso gives a book to Maria" contiene errori nella traduzione dell'inglese all'italiano per quanto riguarda il verbo "give". In italiano si userebbe "da" anziché "dà", poiché quest'ultimo significa "he/she gives". Pertanto, la versione corretta sarebbe "Tommaso da un libro a Maria".
+1	La frase è già corretta. Note: The sentence "Che Andrea abbia telefonato ha causato il fatto che Giulia sia ritornata" is grammatically correct and acceptable in Italian. It features the use of the subjunctive mood ("abbia telefonato", "sia ritornata") to express an action that is dependent on or related to another action. In this case, Andrea calling caused Giulia to return.
+1	Riccardo telefona ad Emma. La frase è già corretta.
+1	Sei un assistente utile. Il tuo compito è quello di classificare se la frase è grammaticalmente corretta / accettabile. Risposta 1, se la frase è corretta, risposta 0, se la frase non è corretta. Il tuo output dovrebbe essere simile a questo: in primo luogo, scrivi 'Label:' e restituisce l'etichetta (0 o 1). Quindi scrivere 'Frase corretta:' e restituire la frase corretta in inglese (se la frase data era errata) o la frase "La frase è già corretta"(se la frase data era corretta).
+1	Ho bevuto una tazza di caffè. La frase fornita è già corretta.
+1	Leonardo odia Paola? La frase è una domanda che chiede se il soggetto "Leonardo" prova antipatia per qualcuno chiamato "Paola". Entrambi i nomi sono scritti correttamente e separati da un verbo ausiliario ("odiare") coniugato correttamente al presente indicativo. Pertanto, questa frase può essere considerata grammaticalmente corretta.
+1	La frase è già corretta. La frase "Alessandro andò a salutare il padre." è infatti grammaticalmente corretta.
+1	Alessandro girò, con l'auto, a raccoglierla. La frase è già corretta.
+1	La frase è già corretta. La frase "Il battello virò a salvarli" è grammaticalmente corretta in italiano.
+1	Andrea always obeys him. The sentence is already correct.
+1	I soldati hanno consegnato le armi ai prigionieri. La frase "I soldati have passed the weapons to the prisoners" non è corretta perché il verbo "have" deve concordare con il soggetto "soldiers" ed entrambi devono essere allo stesso tempo presente perfetto ("has passed"). Inoltre, il verbo corretto da utilizzare nel contesto descritto è "consegnare", piuttosto che "passare".
+1	I would have gone to the park. Explanation: The sentence is grammatically correct and uses the past tense "would have" plus the infinitive form of the verb "to go". This structure can be used to express an action that didn't happen in the past due to some reason or condition.
+1	Il cedro ama la libertà. La frase è già corretta.
+0	Il giardiniere ha potato i cespugli di Edoardo. La frase originale contiene un errore. Invece di "il barboncino", che significa una razza specifica di cane, si dovrebbe usare "cespuglio" o "arbusto", poiché stiamo parlando del lavoro svolto da un giardiniere su piante nel giardino di qualcuno.
+1	A Lorenzo, Alessandro gli ha lasciato una ricca eredità. La frase è già corretta.
+1	Alessandro beve il suo caffè. La frase è già corretta.
+1	Alessandro desidera ri-vedere Beatrice. La frase originale presentava una grafia non standard per il verbo "rivedere", che nella forma infinita si scrive con l'acca ("riaccendere" -> "accendere", "rieducare" -> "educare").
+1	Un gatto con gli occhi gialli sta sotto l'arco della porta. La frase è già corretta.
+1	Ho dormito bene durante la notte. La frase è già corretta.
+1	Gabriele follows a strict moral conduct. (La frase è già corretta)
+1	La zanzara pratica una rigida condotta morale. La frase è già corretta.
+0	Il frigorifero ha una forte attrazione per Francesco. La parola "cotta" qui usata significa amore segreto o infatuazione, che però andrebbero utilizzate solo con riferimento a persone e non ad oggetti come il frigorifero. Una parola più appropriata da utilizzare sarebbe "attrazione".
+0	Tommaso dio Schiaffi a Maria. La forma plurale "schiaffi" richiede il verbo alla forma plurale "danno". Inoltre, i pronomi personali soggetto ("io", "tu", "lui", "lei", "noi", "voi", "loro") devono concordare in numero con il verbo. Di conseguenza, la frase corretta sarebbe "Tommaso dà schiaffi a Maria".
+1	Riccardo allungò una sberla a Giulia. La frase contiene un errore nella descrizione dell'azione compiuta da Riccardo. Invece di "schiaffo", si usa comunemente il termine "sberla" per indicare una leggera sculacciata o piccola bofonchina come gesto di disapprovazione o scherzo amichevole.
+1	Riccardo resta in silenzio. La frase è già corretta.
+1	Riccardo non ha più sospetti su Emma. La frase è già corretta.
+1	Io mi chiamo Luca. La frase è già corretta.
+0	Alessandro stringe la mano a Beatrice. La frase originale "Alessandro agita Beatrice" non ha senso in italiano perché il verbo "agitare" viene usato generalmente per descrivere qualcosa che si muove avanti e indietro rapidamente, come una bandiera o le foglie di un albero. Se vuoi dire che Alessandro sta salutando Beatrice con un gesto della mano, puoi usare il verbo "stringere la mano".
+1	Edoardo fa friggere l'uovo nella padella. La frase originale "Edoardo fa fry the egg in the pan" contiene errori grammaticali poiché utilizza termini inglesi come "fry" e "egg". Ho corretto questi termini con le loro equivalenti italiane "fa friggere" e "luovo", ottenendo "Edoardo fa friggere l'uovo nella padella".
+1	Riccardo procede al carico del camion di casse. La frase originale "Riccardo procede al caricamento del camion di casse" contiene un errore nella forma verbale utilizzata per il verbo "caricare". Invece della forma "-mento", che indica l'azione come completata, si deve usare la forma "-are", che indica l'azione in corso. Pertanto, la forma corretta è "carico".
+1	L'inchiostro rosso è il carico della penna stilografica. La frase contiene alcuni errori che possono influenzarne il significato. Ho apportato le seguenti modifiche per renderla più chiara ed efficace: - "rosso" è stato sostituito con "il colore rosso", poiché nella forma originale poteva sembrare che ci si riferisse all'"inchiostro rosso" come una singola entità anziché alla descrizione del colore dell'inchiostro; - "carica" è stata cambiata in "il carico", dato che senza articolo determinativo può suonare ambiguo e confuso nel contesto specifico; - Infine, ho aggiunto l'articolo determinativo "la" prima della parola "penna stilografica". Ciò ha reso la frase più fluida e naturale nell'italiano standard.
+1	Ho due telefoni cellulari. La frase è già corretta.
+1	La frase è già corretta.
+1	Andrea carica l'orologio. La frase è già corretta.
+0	Riccardo dà molti colpi al cane. Il verbo "dare" richiede che venga utilizzato il plurale dell'oggetto diretto quando si riferisce all'azione di dare qualcosa più volte ("molti colpi").
+1	Lorenzo sale, per una seconda volta, le scale di corsa. La frase è già corretta.
+1	Beatrice ha il incarico di rapire Emma. La frase originale "Beatrice ha l'incarico di rapire Emma" contiene un errore grammaticale. L'articolo determinativo "il" deve accordarsi con il sostantivo che lo segue, quindi nella forma singolare maschile dell'aggettivo "incarico", l'articolo determinativo corretto sarebbe "l'. Pertanto, la frase corretta è "Beatrice ha il incarico di rapire Emma".
+0	Alessandro corre con l'asina. ("correre con" is the correct preposition to use with "correre")
+1	La frase è già corretta.
+0	Il frigorifero ha attratto un gatto. La parola "frigo" può essere usata informalmente per riferirsi al frigorifero, ma non è comunemente usata nella lingua formale o scritta. Inoltre, il verbo "sedurre" significa attirare qualcuno con fascino o charm ed è generalmente usato solo per le persone, non per gli oggetti come i frigoriferi. Pertanto, una versione corretta della frase potrebbe essere "Il frigorifero ha attratto un gatto".
+0	Il frigorifero ha attratto una sedia. (La frase originale "Il frigo ha sedotto un tavolo" non è grammaticalmente corretta perché il verbo "sedurre" qui non ha senso ed è stato usato male.)
+1	Riccardo ha sedotto una minorenne. La frase è già corretta.
+1	Tutta la sala applaudì all'affermazione dell'oratore. La frase è già corretta.
+1	Ho due sorelle maggiori. La frase è già corretta.
+0	Maria raccoglie biglietti d'amore. In questa frase ci sono due errori. "colleziona" dovrebbe essere "raccoglie", poiché si tratta di più biglietti piuttosto che di un singolo oggetto. Inoltre, il termine plurale corretto per i "biglietti d'amore" è con una sola "t".
+1	Riccardo ha tosato il suo zio. La forma originale della frase potrebbe sembrare ambigua perché non specifica quale "zio" sia stato tosato da Riccardo. Aggiungendo il possessivo "suo", si chiarisce che Riccardo ha tosato il proprio zio.
+1	Paola fa una passeggiata in giardino. Motivazione: Nella frase originale "Paola fa una corsa in giardino", il verbo "correre" potrebbe causare confusione, poiché si riferisce generalmente ad uno sforzo fisico intenso che difficilmente può avvenire durante una "passeggiata". Pertanto, ho modificato la parte relativa all'attività motoria per renderla più appropriata e coerente con il contesto della passeggiata in giardino.
+1	Riccardo swaps books with Maria. The sentence is already grammatically correct in English. It would be "Riccardo scambia i libri con Maria" if translated directly to Italian, but the original English sentence you provided was already grammatically correct as it stands.
+1	Alice ha curvato la fronte. La frase è già corretta.
+1	Ho letto un buon libro ieri. La frase è già corretta.
+0	Sofia mantiene la testa sul nemico. La preposizione "on" in inglese si traduce con "su" in italiano solo quando ci riferiamo alla parte superiore fisica di qualcosa. In questo caso, il corretto utilizzo della preposizione sarebbe "sul", ma dal momento che stiamo usando "testa" come aggettivo per descrivere il modo in cui Sofia sta affrontando il nemico, la preposizione corretta da utilizzare è "sulla".
+1	Alessandro si gonfia la testa. La frase è già corretta.
+1	Beatrice ha scaricato Giulia. La frase "Beatrice ha piantato in asso Giulia" non è del tutto corretta perché "piantare in asso qualcuno" è un modo idiomatico di dire che significa abbandonarlo o lasciarlo solo in una situazione difficile. Invece, si può semplicemente usare il verbo "scaricare", che ha lo stesso significato nel contesto dato.
+1	Capire le intenzioni segrete di una persona. La frase è già corretta.
+1	Mario cambia le carte. Nella frase originale c'è una piccola modifica da fare per renderla completamente corretta dal punto di vista grammaticale. Nelle lingue italiana e spagnola, ad esempio, il nome che indica una persona maschile deve necessariamente cominciare con una vocale "m" seguita da una consonante quando ha l'articolo determinativo "il". In questi casi si usa infatti l'articolo "lo", proprio come nella versione corretta della frase fornita sopra ("Mario").
+0	Riccardo fa un cattivo gioco. In questa frase, il termine "cattivo" deve concordare con il sostantivo che sta modificando ("gioco") ed essendo quest'ultimo maschile singolare, la forma corretta di "cattivo" da utilizzarsi sarebbe "un cattivo".
+0	"Andrea ha spezzato il collo a Beatrice." La frase originale "Andrea ha rotti il collo a Beatrice" contiene errori grammaticali. Nella forma verbale del passato remoto del verbo "rompere", il participio passato da usarsi con ausiliari come "ha" è "rotto". Tuttavia, nel caso specifico della frase qui fornita, si tratta di una costruzione idiomatica che richiede l'uso del participio passato "spezzato", dando vita alla forma corretta sopra riportata.
+0	La música rock rompe los tímpanos. La frase originale contiene diversi errori grammaticali. In particolare, "la" dovrebbe accordarsi con il sostantivo femminile "música", che richiede l'articolo determinativo "la". Allo stesso modo, "los" deve concordare con "tímpanos", anch'esso maschile plurale. Infine, i verbi devono concordare con il soggetto, nel caso specifico del presente indicativo della seconda persona singolare ("rompes").
+1	La frase è già corretta. Note: La frase fornita è grammaticalmente corretta in quanto segue una struttura soggetto-verbo-oggetto con due oggetti diretti ("quel che è di Tommaso" ed "Tommaso") chiaramente distinti dal contesto. Non vi sono errori evidenti nella sintassi o nell'ortografia della frase.
+1	La mosca salta sul naso di Riccardo. La forma originale "al naso" non è grammaticalmente corretta qui perché indica che la mosca sta andando dentro il naso di Riccardo, mentre "sul naso" è più appropriato nel senso che la mosca si trova sulla superficie del naso.
+1	Andare a monte. La frase è già corretta.
+1	È alla tua disposizione. La frase da verificare è "Essere all'indice." Tuttavia, questa forma non sembra essere una frase completa né grammaticalmente corretta in italiano. Una possibile versione corretta potrebbe essere "È alla tua disposizione", che significa "It is at your disposal" nel contesto appropriato.
+1	La frase è già corretta. La tua frase "Mettere all'indice" è grammaticalmente corretta ed ha senso nel contesto appropriato. Tuttavia, potrebbe essere necessario fornire più informazioni per rendere chiaro il suo significato nella frasi complete, ad esempEmpio: "Ho deciso di mettere quel libro all'indice".
+1	Alzare il gomito significa bere alcolici in quantità eccessive. La frase "Alzare il gomito" da sola è grammaticalmente corretta, ma per fornirti una spiegazione completa ho aggiunto anche un significato alla frase stessa.
+1	La frase è già corretta. "Perdere il lume della ragione" is grammatically correct and idiomatic in Italian. It means to lose one's sanity or reason.
+1	La frase è già corretta. Note: The phrase "Cavare la castagna dal fuoco a qualcuno" is an idiomatic expression in Italian that means to solve someone else's problem or difficulty for them. It is grammatically correct as it stands.
+0	Essere poveri in canna. La forma corretta del verbo "essere" deve concordare con il soggetto. In questo caso, il soggetto "essere" è plurale ("poveri"), quindi la forma verbale deve anche essere allo stesso modo.
+1	L'angelo custode accompagna la fantasia di ogni bambino.
+1	Il cane della mia vicina abbaia sempre. La frase è già corretta.
+1	"A quella festa è di rigore lo smoking." La frase è già corretta.
+0	La moto di Leonardo è come nuova. La frase originale contiene un errore nella seconda parte della comparazione "è nuota di zecca". Una forma più appropriata sarebbe "è come nuova" per indicare che qualcosa si trova in ottime condizioni.
+1	Ho visto un'unità in marcia. La frase è già corretta.
+0	A Leondaro piace tornare da Maria. La frase originale contiene alcuni errori. "Che" non deve essere usato qui, e il verbo "ritorni" dovrebbe essere coniugato come "torna". Inoltre, il soggetto della clausola dipendente ("Leonardo") dovrebbe accordarsi con il verbo nella forma appropriata per terza persona singolare. Pertanto, una versione corretta potrebbe leggere: "A Leondaro piace tornare da Maria."
+1	Ho letto molti libri interessanti durante le vacanze. La frase è già corretta.
+1	I bambini stanno giocando nel cortile. (La frase è già corretta.)
+1	La frase è già corretta. La costruzione "Beatrice bada a che l'articolo sia chiaro" è una subordinazione con il verbo alla forma conjunctive ("sia"), ed essendo introdotta da "che", si tratta di una proposizione completiva oggettiva. L'intera frase è pertanto perfettamente corretta.
+1	Alessandro divora da Paola. La frase originale "Alessandro divorza da Paola" non è grammaticalmente corretta perché il verbo "divorziare" viene utilizzato solo quando si fa riferimento alla fine del matrimonio ed è seguito dal complemento oggetto (in questo caso "Paola"). Tuttavia, nel testo fornito non ci sono indicazioni che stiamo parlando di un divorzio tra i due soggetti. Se vogliamo descrivere una situazione in cui Alessandro sta mangiando qualcosa proveniente da Paola, possiamo usare il verbo "divorare".
+1	Riccardo abita in una casa piccola. La frase è già corretta.
+1	La mela rossa è sul tavolo.
+1	The sentence is already correct. The sentence you provided, "Mille stelle brillano nel cielo," is grammatically correct and idiomatic in Italian.
+1	La frase è già corretta.
+0	Tutti i giorni, Leonardo li studia intensamente per tre ore al giorno. La frase originale contiene alcuni errori grammaticali che rendono difficile capirne il significato preciso. Ho riorganizzato leggermente le parole della frase fornita, mantenendo lo stesso senso ma migliorando la sua correttezza grammaticale.
+1	La frase è già corretta. La ragione per cui questa frase è grammaticalmente corretta è che il verbo "toccare" può essere usato con una preposizione come "da", riferendosi alla fonte dell'azione. In questo caso, le spalle di Riccardo stanno fornendo la sorgente del contatto fisico sulla parete. Pertanto, la costruzione della frase è appropriata dal punto di vista grammaticale.
+1	Lorenzo tocca la schiena di Paola. La frase è già corretta.
+1	La frase è già corretta. La costruzione "Una tal conclusione deriva" è grammaticalmente corretta ed ha un senso completo. Tuttavia, potrebbe suonare leggermente più naturale con una preposizione aggiuntiva: "Da ciò deriva una tal conclusione".
+1	Gabriele mangia poca frutta.
+1	Ho letto il libro ieri. In questa frase, "il" è usato come articolo determinativo per specificare quale libro hai letto. Pertanto, la frase è grammaticalmente corretta.
+0	Francesco pinza con sadismo. La parola "pizzica" in italiano significa "pinch", mentre "pinza" è il verbo corretto da utilizzare per tradurre "tweeze". Pertanto, la forma verbale corretta nella seconda parte della frase sarebbe "pinza", anziché "pizzica".
+1	Alessandro disegna sul muro. La frase è già corretta.
+0	"Le piacciono i libri." (The verb "piacere" requires the third person plural form when referring to multiple subjects.)
+1	La siesta è un pisolino. La modifica alla tua frase è necessaria per garantirne l'accuratezza semantica. In spagnolo "siesta" significa "pisolino", mentre nel contesto italiano viene solitamente utilizzato il termine "dormita". Tuttavia, questa può causare confusione poiché in italiano con "dormita" ci si riferisce generalmente ad un breve sonno notturno interrotto da un risveglio precoce piuttosto che ad un riposino pomeridiano come quello comunemente inteso dalla parola "siesta".
+1	La frase è già corretta. La ragione per cui questa frase è grammaticalmente corretta è che "Francesco" è il soggetto della frase ed è seguito dal verbo "nuota", che concorda con il soggetto sia nel tempo passato ("nuotava") che nel presente ("nuota"). Inoltre, "a rana" è una locuzione avverbiale che descrive come Francesco sta nuotando. Pertanto, la frase "Francesco nuota a rana." è grammaticalmente corretta.
+1	Lo studente legge il libro. La frase è già corretta.
+0	Tutti bevono il tè amaro. La parola "the" andava sostituita con la parola "tè", che deve essere scritta senza accentazione ed è maschile nel genere in lingua italiana.
+1	I lavori fatti hanno reso più larga la piazza. La frase è già corretta.
+1	Ho letto molti libri interessanti durante le vacanze. La frase è già corretta.
+1	Alessandro sta riflettendo sul gatto. La forma originale della frase "Alessandro riflette sul gatto" potrebbe essere considerata una forma tronca dell'imperativo ("Rifletti sul gatto!"), ma senza contesto che suggerisca tale interpretazione, il verbo riflettere richiede la forma coniugata dello stato attuale per indicare un'azione in corso nel presente. Pertanto, la versione corretta della frase sarebbe "Alessandro sta riflettendo sul gatto".
+1	Andrea discute la validità delle affermazioni di Maria. La frase che hai fornito è già grammaticalmente corretta. Non ci sono errori da correggere.
+1	Riccardo fotografía Alice. Nota: Ho notato che hai usato "photographs" anziché "fotografía". Poiché stiamo lavorando con l'italiano come lingua target, ho corretto il verbo per adattarlo alla forma corretta italiana.
+1	Tommaso sta leggendo il giornale in soggiorno. La ragione per cui questa frase non è completamente accurata è che si usa il presente progressivo "sta leggendo" anziché il passato prossimo "ha letto". Tuttavia, dato che il contesto della domanda richiede solo una valutazione binaria tra corretto o incorretto, posso confermare che la frase è comunque generalmente accettabile.
+1	Gabriele ha visto una casa di mattoni rossi.
+0	Tommaso ha visto una casetta. La ragione per cui questa frase è stata etichettata come "0" è che il plurale della parola "casa" dovrebbe essere usato solo quando si fa riferimento a due o più case. Poiché nel testo fornito viene descritta solo una singola casa, la forma singolare della parola dovrebbe essere utilizzata.
+1	I libri vecchi stanno nella cassa. (La frase è già corretta.)
+1	La frase è già corretta. La frase "Un libro passa da Beatrice a Francesco" è grammaticalmente corretta.
+0	No, non c'è sempre una concordanza nei fatti e nelle parole di Maria. La frase originale contiene un errore nella struttura della proposizione relativa. Dovrebbe esserci "nei fatti" dopo "Maria", per creare una chiara distinzione fra il soggetto ("Maria") e ciò che riguarda il suo comportamento ("fatti"). Inoltre, occorre aggiungere "non c'è" prima del verbo principale ("è"), per rendere più chiaro il significato negativo dell'intera affermazione.
+1	Maria mette il libro nella borsa. La frase è già corretta.
+1	Lorenzo sta staccando la foto dall'album. La forma originale della frase "Lorenzo stacca la foto dall'album" non è del tutto corretta perché il verbo "staccare" richiede l'uso del presente progressivo nella lingua italiana quando si riferisce ad azioni che stanno avvenendo nel momento in cui si sta parlando. Pertanto, la versione corretta sarebbe "Lorenzo sta staccando la foto dall'album".
+1	Ho dormito bene durante la notte.
+1	La frase è già corretta.
+1	Quella scatola contiene le foto di Alessandro e di Edoardo. La frase originale "Quella scatola conserva le foto di Alessandro ed Edoardo" è grammaticalmente incorretta perché il congiuntivo "ed" viene usato solo quando i due nomi sono uniti da una congiunzione coordinante come "e". In questo caso specifico, si deve utilizzare la preposizione articolata "di", seguita dal pronome atono relativo "che" oppure dalla forma plurale del pronome personale complemento oggetto "le": "Quella scatola contiene le foto di Alessandro e delle sue amicizie passate"; "Quella scatola contiene le foto di Alessandro e dei suoi cari ricordi d’infanzia."
+1	Il compleanno si festeggia il giorno del suo anniversario.
+1	Paola ha estratto la pistola ed è avvenuto dallla borsa. La frase originale presentava un errore nella forma della seconda parte del congiuntivo passato "è avvenuto". Dovrebbe essere "avvenne" oppure "è avvenuta", dato che il soggetto dell'azione ("ciò") è neutro singolare; tuttavia, per una maggiore coerenza con lo stile della prima clausola, ho preferito cambiarlo in "ed è avvenuto". Inoltre, c'era anche un refuso nell'ortografia della preposizione articolata "dallla", che doveva essere soltanto "dalla".
+1	Il libro non sta nella cartella. La frase originale è già corretta dal punto di vista grammaticale. Non sono necessarie modifiche.
+1	La commessa avvolge la carta regalo intorno alla bottiglia. La forma corretta dell'espressione per "carta regalo" è senza "da".
+1	La frase è già corretta. La frase "È dal marciapiedi alla porta di casa che Beatrice ha piantato dei paletti" è grammaticalmente corretta. L'uso della preposizione "dal" con il significato di partenza da un punto fisso fino ad arrivare ad un altro punto ("dalla strada fino a casa") è appropriato qui.
+1	La frase è già corretta. La costruzione della frase "Maria gives burial to the father under a tree" è grammaticalmente corretta in inglese. Tuttavia, poiché hai richiesto una traduzione italiana, eccola qui: Maria dà sepoltura al padre sotto un albero.
+1	La policía desaloja la plaza de los manifestantes. La frase è già corretta.
+1	La frase è già corretta.
+1	Andrea uccise Eduardo con un solo colpo di coltello. La modifica della frase si rende necessaria per correggere il nome "Edoardo" che presentava una grafia incorretta.
+1	I bagagli non sono nell'auto. La forma corretta della frase avrebbe dovuto essere "I bagagli non sono nell'auto", poiché il verbo da utilizzare con "non" per indicare una negazione dell'esistenza deve concordare con il soggetto ("sono" anziché "stanno").
+1	I libri stanno nella stanza. La frase è già corretta.
+1	I vestiti vecchi stanno nell'armadio. La frase è già corretta.
+1	I vestiti vecchi non stanno nell'armadio. La frase è già corretta.
+1	Andrea profuma la stanza di aromi di pino.
+1	La frase è già corretta. I cicche che vengono gettati nel lavandino possono causare problemi allo scarico del water. In questa frase, "cicche" è il soggetto plurale dell'enunciato, mentre "scarico del water" ne rappresenta il complemento oggetto. L'uso dei verbi "possono causare" rende la frase perfetta dal punto di vista grammaticale.
+0	Maria ripara il sistema di irrigazione con acqua e disinfestante. In questa frase, "l'innaffiatura" non è necessaria perché sta già implicitamente indicando che Maria sta annaffiando le piante. Inoltre, "con acqua con disinfestanti" può essere semplificato in "con acqua e disinfestante".
+1	Ho letto il libro ieri. La frase è già corretta.
+1	Alessandro defiende Beatrice from dangers. (La frase è già corretta in inglese, ma ho fornito una versione equivalente in italiano.)

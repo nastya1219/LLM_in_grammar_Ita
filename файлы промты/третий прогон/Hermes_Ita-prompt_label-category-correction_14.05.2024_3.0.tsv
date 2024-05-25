@@ -1,0 +1,947 @@
+label	category	correction
+0	Syntax	Voglio salutare Giulia.
+1	Correct	Ho voglia di salutare Sofia.
+0	Syntax	La mia preferita è la Divina Commedia.
+0	Semantics	Il mio libro preferito è la Divina Commedia.
+1	Correct	Lorenzo ha detto che Andrea ha parlato con Riccardo.
+1	Correct	Andrea sta elaborando la risposta. La frase è già corretta.
+1	Correct	Alessandro ha incontrato Giulia.
+1	Correct	È ricomparso il padre del ragazzo.
+1	Correct	I prezzi sono aumentati.
+1	Correct	Salvato Andrea, ci siamo dati alla pazza gioia.
+1	Correct	Il palazzo delle assicurazioni è crollato.
+1	Correct	Quella costruzione offende il buon gusto.
+1	Correct	Newton ha spiegato la forza di gravità.
+1	Correct	La frase è già corretta.
+1	Correct	Tommaso si è danneggiato.
+1	Correct	Quegli uomini hanno denunciato se stessi.
+0	Syntax	Compro quel libro e lo leggo.
+1	Correct	Ho incontrato Lorenzo, non Emma.
+1	Correct	Non guardarlo.
+1	Correct	Ho incontrato molti amici di Riccardo.
+1	Correct	Non ho trovato il tuo libro in quella biblioteca.
+1	Correct	La frase è già corretta.
+1	Correct	Riccardo ha promesso a Maria che metterà in vendita la propria casa.
+1	Correct	Maria ha salutato i suoi genitori.
+1	Correct	Riccardo non è molto intelligente.
+1	Correct	Riccardo non è molto, credo, intelligente.
+0	Syntax	Hanno chiamato molte persone quel numero. La frase non è corretta. La frase corretta è la stessa data, ma è stata ripetuta perché è stata già corretta. Inoltre, non ci sono errori di sintassi o di significato nella frase originale, quindi la categoria di errore non è applicabile.
+1	Correct	Che cosa ha comprato Riccardo? La frase è già corretta.
+0	Syntax	Leonardo ha incontrato Andrea.
+0	Syntax	Riccardo ha domandato da chi non era stato visto da Leonardo.
+1	Correct	Leonardo, mi hanno detto che parlerà domani.
+1	Correct	Gabriele, quando l'hai visto? La frase è già corretta.
+1	Correct	In quale cassetto Leonardo ha messo i fogli? La frase è già corretta.
+0	Syntax	Quale politico hanno parlato? La frase originale presenta un errore di accordo soggetto-verbo. Il verbo "hanno parlato" richiede un soggetto plurale, ma "politico" è singolare. Per correggere l'errore, si può modificare il soggetto in "politici" oppure cambiare il verbo in "ha parlato" per accordare con il soggetto singolare. Tuttavia, la seconda opzione modificherebbe il significato della frase, quindi la correzione più appropriata è quella che mantiene il significato originale: "Quali politici hanno parlato?".
+0	Syntax	Quale politico ha detto alla radio che il giudice ha dichiarato che ha parlato?
+1	Correct	Lorenzo ha detto che partirà domani.
+1	Correct	Quando è arrivato Francesco, abbiamo potuto cenare.
+1	Correct	La tempesta ha abbattuto la quercia sotto cui il figliol prodigo pascolava i porci.
+1	Correct	Chi tocca i fili muore.
+1	Correct	Alessandro, che è venuto a trovarmi ieri, mi ha detto di salutarti.
+1	Correct	La commissione ritiene dunque il candidato aver fornito sufficienti prove della sua maturità scientifica.
+1	Correct	Il timore della guerra è ingiustificato.
+1	Correct	Riccardo ha perso le chiavi.
+1	Correct	Alessandro è bramoso di potere.
+1	Correct	Penso che Francesco domandi l'ora a Lorenzo. La frase è già corretta.
+1	Correct	Tommaso ha affermato che Edoardo parla.
+1	Correct	Avendo io sempre sostenuto una posizione diversa, dovrò votare contro questa proposta.
+1	Correct	Tommaso ha ordinato ad Andrea di difenderlo.
+0	Syntax	Il fatto che sia stato scoperto un delitto ci ha sconvolti.
+1	Correct	Chi pensi che Alessandro incontrerà? La frase è già corretta.
+1	Correct	La sedia su cui ti sei seduto è rotta.
+1	Correct	Questa è la persona con cui Edoardo ha fatto l'affermazione che Tommaso ha parlato.
+0	Syntax	Edoardo crede che Sofia abbia baciato.
+1	Correct	Che problema non sai come potremo risolvere? La frase è già corretta.
+0	Syntax	Lui ha visto.
+0	Syntax	Abbiamo visto lo spettacolo.
+1	Correct	Sofia dice che Alessandro parlerà domani.
+0	Syntax	Beatrice ha dichiarato che non ha avuto niente a che fare con Gabriele.
+1	Correct	Riccardo ha detto che Andrea si è guardato.
+1	Correct	Il padre di Andrea mi è sembrato molto contento quando gli ho parlato.
+1	Correct	Penso che Edoardo creda che Maria voglia che Gabriele veda Riccardo.
+1	Correct	Edoardo crede che Emma voglia che Tommaso veda Gabriele.
+1	Correct	Il coniglio mangia.
+1	Correct	La frase è già corretta.
+1	Correct	Per primo sono arrivato me, non tu.
+1	Correct	Arriva un uomo.
+1	Correct	Leonardo uccise Andrea.
+1	Correct	Andrea ha detti che Tommaso lo guarda.
+1	Correct	Gabriele ha voglia di andare al mare.
+1	Correct	È questo libro che non avevo mai letto.
+1	Correct	Da quel professore, Tommaso non è stato ancora interrogato? La frase è già corretta.
+0	Syntax	Alessandro crede che invaderemo quel paese. La frase è già corretta.
+1	Correct	La frase è già corretta.
+1	Correct	L'anno scorso Alessandro scriveva un libro, ma tutt'oggi non l'ha ancora finito.
+1	Correct	L'anno scorso, Edoardo scrisse un libro, ma a tutt'oggi non l'ha ancora finito.
+0	Semantics	Gabriele è scapolo e celibe.
+1	Correct	L'attuale re di Francia è calvo.
+1	Correct	Qualche studente ha superato l'esame.
+0	Semantics	Se qualche studente non ha superato l'esame, allora almeno un studente non ha superato l'esame.
+0	Syntax	Ieri ho promesso a Lorenzo di partire domani.
+1	Correct	Nel processo di primo grado, la corte dichiarò l'imputato innocente.
+1	Correct	Continua così e combinerai guai.
+1	Correct	Ho preso le chiavi.
+1	Correct	Andrea, trasmettendoci le commissioni della marchesa: "Ha detto: "Darete loro il buongiorno"".  Nota: La frase è corretta, ma potrebbe essere stilisticamente migliorata rimuovendo le virgolette doppie interne o sostituendole con virgolette semplici. Tuttavia, non si tratta di un errore grammaticale.
+1	Correct	Una bella casa fa comodo.
+0	Syntax	Prendiamo questa. La frase è stata corretta cambiando "questo" in "questa" per adattarsi al genere grammaticale corretto per un oggetto inanimato al femminile.
+1	Correct	Uso il gladio.
+1	Correct	Il calcolatore funziona bene.
+1	Correct	Scusa! La frase è già corretta.
+1	Correct	Le ragazze sono arrivate.
+1	Correct	Il libro che mi ha prestato Lorenzo non mi piace.
+0	Syntax	Dicono che hai detto che non ci vediamo mai.
+1	Correct	Legge velocemente. La frase è già corretta.
+1	Correct	Andando a casa, ho incontrato tuo fratello.
+1	Correct	Sto andando a prendere la macchina.
+1	Correct	Non è vero che l'aspetto dei luoghi cambia come il volto degli uomini.
+0	Correct	Va' a casa! Nota: L'apostrofo in "Va'" può essere considerato un'abbreviazione informale di "Vai", quindi la frase è accettabile nel contesto informale. Tuttavia, se si desidera una forma più formale, la frase dovrebbe essere "Vai a casa!". In questo caso, l'output sarebbe: Label: 0 Category: Syntax Correct Sentence: Vai a casa!
+1	Correct	Io sono affamato.
+1	Correct	Bravo, questo ragazzo.
+1	Correct	Paola è una donna che apprezziamo molto.
+1	Correct	Cosa fai domani?
+1	Correct	Ho visto il libro che mi hai regalato.
+0	Syntax	Gli amici di Andrea. La frase originale presenta una struttura sintattica scorretta, poiché manca un verbo e il genitivo "di Andrea" dovrebbe sostituire il complemento oggetto "il cui maestro è Andrea". La frase corretta è "Gli amici di Andrea".
+1	Correct	Credo che tu abbia ragione. La frase è già corretta.
+1	Correct	Siccome è caduto, si è fatto male.
+1	Correct	Volevano distruggerla e l'hanno distrutta.
+1	Correct	Ognuno prenda il suo cappotto.
+1	Correct	Prendimi quell'aggeggio.
+1	Correct	Ho dato al bambino il latte, ma lui non l'ha bevuto.
+1	Correct	Maria usa il computer, io non lo so fare.
+1	Correct	Ho visto una casa.
+1	Correct	Ho visto tua madre.
+1	Correct	La frase è già corretta.
+1	Correct	Se uno va in treno, vuole stare comodo.
+1	Correct	La frase è già corretta.
+1	Correct	Ho due case.
+1	Correct	Ho delle case.
+1	Correct	Il cavallo è arrivato primo.
+1	Correct	I cavalli sono animali resistenti.
+1	Correct	È venuto qualcuno.
+1	Correct	È arrivato.
+1	Correct	Posso venire.
+1	Correct	Magari domani piove.
+1	Correct	Lui è stato colto dalla pioggia.
+0	Syntax	Scrivi una lettera a sua zia. La frase originale presenta un errore di forma verbale. 'Scrive' è la terza persona singolare del presente indicativo, ma il soggetto della frase è "tu", quindi dovrebbe essere 'Scrivi'.
+1	Correct	Egli lo vide.
+1	Correct	Alessandro promette ad Edoardo di restare a casa.
+1	Correct	Riccardo non ha tempo.
+1	Correct	Ho riparato il tavolo.
+1	Correct	Hanno aperto il libro.
+0	Syntax	Gli è stato dato il cappello da me. In questa frase, l'errore è di genere, poiché "Le" è un pronome femminile plurale, ma il pronome corretto in questo contesto sarebbe "Gli", un pronome maschile plurale. Il contesto suggerisce che si parla di un gruppo di persone, e quindi il pronome corretto è "Gli".
+1	Correct	Quel ragazzo apre la porta.
+1	Correct	Ho sentito cantare i ragazzi.
+0	Syntax	La macchina vuole lavarla (correggere il pronome 'lui' a 'la' per accordare il genere) Correct Sentence: La macchina vuole lavarlo lui. (correggere 'lui' a 'la' e spostare 'lui' alla fine della frase per accordare il genere e mantenere il pronome personale)
+1	Correct	È il meccanico che è venuto.
+0	Syntax	Non voglio venire fino a Napoli.
+1	Correct	Quanto al bagno, mi fa piacere.
+1	Correct	Hai presente Lorenzo? La frase è già corretta.
+1	Correct	E da quando vive in America? La frase è già corretta.
+1	Correct	Credi che sia possibile una cosa del genere? La frase è già corretta.
+0	Syntax	Appena lo dissi, mi lasciò piangere e volevo dire molte cose.
+1	Correct	Sei sempre lo stesso: un amico fidato, paziente e onesto.
+1	Correct	Il vento forte sul mare può provocare mareggiate.
+0	Syntax	Piangere forte significa piangere a voce alta.
+1	Correct	Ho preso in casa una specie di gatto.
+1	Correct	Ho preso dello zucchero.
+1	Correct	Non mi piace il vino.
+1	Correct	Quel che vendo è merce cinese.
+0	Syntax	Mettere fretta. La frase non è corretta grammaticalmente. È necessario un verbo prima di "fretta". Potrebbe essere "Mettere fretta a qualcuno" o "Mettere fretta nel fare qualcosa". La frase corretta sarebbe: "Mettere fretta a qualcuno" o "Mettere fretta nel fare qualcosa".
+1	Correct	È stato bandito un concorso.
+1	Correct	Tutte le balene devono essere protette.
+0	Syntax	Metti bene in capo.
+0	Semantics	Questa macchina è vecchia ma ancora funzionante.
+1	Correct	Leonardo non conosce Maria.
+1	Correct	Il governo ha abolito la legge.
+1	Correct	Ho spazzolato le scarpe.
+1	Correct	Tommaso abita da dieci anni.
+1	Correct	Riccardo ha dato un libro a Sofia.
+1	Correct	Maria ha corso per ore.
+1	Correct	Francesco ha bevuto un caffè.
+1	Correct	Andrea ha trovato un biglietto per l'opera.
+1	Correct	Edoardo sta compilando.
+1	Correct	Emanare profumo. La frase è già corretta.
+1	Correct	Aprire un nuovo negozio.
+1	Correct	Iniziare un'attività. La frase è già corretta.
+1	Correct	La porta si è chiusa.
+1	Correct	Gabriele non ammette di essere preso in giro.
+1	Correct	Paola ha restituito il libro.
+1	Correct	La frase è già corretta.
+1	Correct	Le scarpe si sono macchiate.
+1	Correct	Le giornate si sono accorciate.
+1	Correct	Qualcosa ha accorciato le giornate.
+1	Correct	Qualcuno ha accorciato le giornate.
+1	Correct	Aggrapparsi a un ramo. La frase è già corretta.
+1	Correct	Arenatesi le navi, gli equipaggi sono scesi a terra.
+1	Correct	La nebbia è svanita.
+0	Syntax	Alessandro si piange sempre. (La frase è corretta)
+1	Correct	Riccardo si lagna sempre.
+1	Correct	Alle sue parole, Maria ha annuito.
+1	Correct	L'acqua è sgorgata all'improvviso.
+1	Correct	Andrea ha sbadigliato.
+1	Correct	Riccardo pedala. Nota: Il mio compito è solo quello di valutare la correttezza grammaticale della frase, non di giudicare se il significato della frase sia corretto o sensato nel contesto.
+0	Syntax	Ha approfittato dell'esperienza.
+1	Correct	Il figlio di Francesco si siede in prima fila alle 8 in punto.
+1	Correct	Quando iniziò il concerto, il figlio di Leonardo sedeva in prima fila.
+0	Semantics	Il muro ammuffisce in una giornata. La frase è corretta in termini di grammatica, ma non è semanticamente corretta poiché è improbabile che un muro ammuffisca in una sola giornata. Un'opzione semanticamente corretta potrebbe essere: "Il muro mostra segni di muffa in una giornata umida."
+1	Correct	Paola sta suonando un pezzo di Bach.
+1	Correct	Il coro canta molto bene.
+1	Correct	Riccardo aspirava sempre il fumo del sigaro.
+1	Correct	Andrea aspira a diventare medico.
+1	Correct	Lorenzo non ha cucinato.
+0	Syntax	La lettera viene scritta. Risposta: 0 (La frase originale non è corretta a causa di un errore di sintassi.)
+0	Morphology	Disturbo? -> Disturbo? (La frase è già corretta, ma manca il contesto o la punteggiatura per renderla completa.)
+1	Correct	Leonardo sta compilando.
+1	Correct	Riccardo non scrive più da un pezzo.
+1	Correct	Il macchinista si è fermato.
+0	Syntax	I negozianti hanno aumentato i prezzi.
+1	Correct	I bicchieri si sono rotti.
+1	Correct	Paola ha acceso il fuoco.
+1	Correct	Il soggiorno in Canada ha migliorato il suo inglese.
+1	Correct	La lezione ha continuato.
+1	Correct	Saltare un ostacolo.
+1	Correct	Tutti si sono commossi.
+1	Correct	Si è macchiata la tovaglia.
+0	Syntax	Macchia il vino. La frase è corretta, ma il contesto potrebbe essere ambiguo. La corretta forma di esprimere il concetto potrebbe essere "Macchia con il vino" se si intende che il vino viene usato per macchiare qualcosa.
+1	Correct	L'acqua è gelata in due ore.
+0	Semantics	Le candele hanno bruciato per un'ora.
+1	Correct	Il vetro si rompe.
+1	Correct	Ha verificato l'autenticità della firma.
+1	Correct	Riccardo lava la macchina.
+1	Correct	Paola ha visto la partita con gli amici.
+1	Correct	Gabriele si è tagliato le basette.
+1	Correct	Riccardo si è tagliato il mento con il rasoio.
+0	Syntax	Francesco si è calmato e irrigidito.
+1	Correct	Si è rotto il vetro.
+0	Syntax	Venite alla festa e mangiate e bevete.
+1	Correct	Il dibattito è continuato.
+1	Correct	Il dibattito ha continuato.
+1	Correct	Riccardo ha cancellato la scritta.
+0	Semantics	Leonardo suona il pianoforte.
+1	Correct	Il livello si è alzato.
+1	Correct	Francesco ha bruciato la torta.
+1	Correct	Edoardo è pentito.
+0	Semantics	Il bosco è stato in fiamme per tre ore.
+1	Correct	La biancheria si è asciugata per un'ora.
+1	Correct	Il libro è sparito per tre giorni, poi è improvvisamente ricomparso sul mio tavolo.
+1	Correct	Riccardo si è ingrassato.
+1	Correct	Tommaso è ingrassato molto dall'ultima volta che l'ho vista.
+0	Syntax	La televisione si è rotta in un'ora.
+1	Correct	Alle 8 in punto la sala si è svuotata.
+1	Correct	Il treno si è un po' fermato.
+1	Correct	La camicia è sporca.
+1	Correct	Ho notato un libro caduto.
+1	Correct	Alessandro conosce le strade.
+1	Correct	Andrea approfitta di Maria.
+1	Correct	La frase è già corretta.
+1	Correct	Francesco è il capo.
+1	Correct	La frase è già corretta.
+1	Correct	Mio nonno ha venduto il suo podere.
+1	Correct	Due lingue sono parlate da tutti i miei studenti.
+1	Correct	Otto ore al giorno sono studiate da Tommaso.
+1	Correct	Alessandro trivella questa cosa.
+1	Correct	Tommaso torna da Roma.
+1	Correct	Francesco macina il caffè in un vecchio macinino.
+1	Correct	Tommaso rubò il portafoglio a Maria in un autobus.
+1	Correct	Dove Riccardo mise la cassa nel mobile? La frase è già corretta.
+1	Correct	Lo scoglio affiora.
+1	Correct	Andrea si comporta.
+1	Correct	Leonardo sottrae la penna.
+1	Correct	Lorenzo toglie dalla cassaforte il giornale.
+1	Correct	Alessandro legge un libro a letto.
+0	Morphology	Riccardo beve il tè in una tazzina di porcellana.
+1	Correct	Dove Andrea ha preso una sigaretta? La frase è già corretta.
+1	Correct	Tommaso estrasse la pistola nel bar.
+1	Correct	Riccardo ci mangia il riso.
+0	Syntax	Tommaso sostiene la lastra per te.
+1	Correct	Edoardo prese il libro di storia dalla libreria.
+1	Correct	Leonardo prende il libro dalla sala della biblioteca.
+1	Correct	Gabriele mette le casse sul ripiano del montacarichi.
+1	Correct	Dove hai messo le foto di Francesco? La frase è già corretta.
+1	Correct	Tommaso toglie i soldi dal cassetto.
+1	Correct	La chiave sta nella toppa.
+1	Correct	Dal giardino alla strada Lorenzo vi ha piantato i fiori.
+1	Correct	Francesco ha lanciato il pallone dal balcone al giardino.
+1	Correct	Dal giardino Leonardo ha piantato fiori al garage. La frase è già corretta.
+1	Correct	Edoardo carica le casse sulla nave.
+1	Correct	La scala poggia contro il muro.
+1	Correct	La frase è già corretta.
+1	Correct	Francesco chiuse Giulia nella stanza.
+0	Syntax	Gabriele chiuse il denaro nel portafoglio.
+1	Correct	Gabriele dette appoggio al libro.
+1	Correct	Alessandro dette appoggio alla diffusione del libro.
+1	Correct	Lorenzo caricò il camion.
+1	Correct	Questo latte deterge le impurità dal volto.
+1	Correct	Riccardo stipò l'armadio con i vestiti.
+1	Correct	La fotografia di Giulia e quella di Lorenzo stanno attaccate.
+0	Syntax	Riccardo allontanò Paola dalla finestra.
+1	Correct	Francesco avvolge la statua in una tela di lino.
+1	Correct	Alessandro accompagna Sofia al cinema.
+1	Correct	Andrea accompagnò Paola a scuola.
+1	Correct	I libri non stanno nell'armadio.
+1	Correct	Andrea attraversò la parte meno pericolosa del fiume.
+0	Syntax	Ho l'intenzione di vestirmi da sposa.
+1	Correct	Francesco mangiava il pane con soddisfazione.
+1	Correct	Quella mattina pioveva a dirotto.
+0	Syntax	Alessandro beve il vino.
+1	Correct	Francesco ha telefonato e Maria è venuta.
+1	Correct	Quel libro è stato dato a Paola da Gabriele.
+1	Correct	Paola riceve quel libro da Riccardo.
+1	Correct	Andrea mangia un polpo.
+1	Correct	Tommaso mangia questo.
+1	Correct	Sofia lo adora.
+0	Semantics	L'artrosi ha colpito le ossa. La frase originale non è corretta poiché l'artrosi non paralizza direttamente le ossa, ma è una condizione che colpisce le articolazioni. La versione corretta della frase è "L'artrosi ha colpito le ossa."
+0	Syntax	Maria vuole mangiare.
+1	Correct	Lorenzo ammira Alice.
+1	Correct	Riccardo la ammira.
+1	Correct	Edoardo mira alla presidenza.
+1	Correct	È sul letto che Maria salta.
+0	Syntax	Edoardo vuole subito il caffè.
+0	Syntax	Tommaso tiene al successo. La frase originale presenta un errore di sintassi nella struttura della frase. La versione corretta è "Tommaso tiene al successo".
+1	Correct	È alla presidenza che mira Leonardo.
+1	Correct	Riccardo adora il cinema.
+1	Correct	È il cinema che Francesco adora.
+1	Correct	È il cinema e non la musica che Alessandro adora.
+1	Correct	I denti di Emma battono dal freddo.
+0	Syntax	Alessandro le adora perché hanno gambe lunghe, le donne.
+0	Syntax	Andrea adora le amiche di Emma. La frase originale presenta un errore di sintassi con l'uso del verbo "ne" che non è appropriato in questo contesto. La versione corretta è "Andrea adora le amiche di Emma."
+1	Correct	Gabriele mangia un gelato.
+0	Syntax	Riccardo promette a Riccardo che verrà. In questa frase, c'è un'ambiguità sintattica perché entrambe le parole "Riccardo" hanno lo stesso ruolo. Per risolvere questo problema, è necessario specificare i ruoli di entrambe le persone coinvolte nella promessa. Ad esempio: "Riccardo promette a Luca che verrà."
+0	Syntax	Sofia divorata il polpo.
+0	Semantics	La tolleranza non rientra tra i suoi doveri.
+1	Correct	Riccardo ci viene da Roma.
+1	Correct	Andrea pensa a Paola.
+1	Correct	Sofia accompagna Maria in Cina.
+1	Correct	Emma e il film si sono visti.
+1	Correct	Alessandro ammira la casa che è di Paola.
+0	Syntax	Beatrice involontariamente assorbe Francesco. La frase è corretta. Tuttavia, potrebbe essere necessario specificare meglio il verbo "assorbire" in questo contesto. Potrebbe essere più appropriato dire "Beatrice involontariamente coinvolge Francesco" o "Beatrice involontariamente si impegna con Francesco" per rendere meglio l'idea. In questo caso, il verbo "assorbire" potrebbe creare ambiguità.
+1	Correct	Lorenzo distribuisce mattoni.
+0	Syntax	È bello che Riccardo dipinga.
+1	Correct	Sofia passeggia per Venezia.
+1	Correct	Maria raccoglie sassolini.
+1	Correct	Giulia legge.
+1	Correct	Beatrice schermisce con abilità.
+0	Syntax	Maria traveste Alice. Maria traveste Alice è una frase corretta dal punto di vista sintattico, ma potrebbe essere ambigua nel suo significato. Se la frase intende dire che Maria sta mascherando Alice, dovrebbe essere "Maria traveste Alice" (più chiaro e grammaticalmente corretto). Se la frase intende dire che Maria sta vestendo Alice, dovrebbe essere "Maria veste Alice" (più chiaro e grammaticalmente corretto). Se la frase intende dire che Maria sta facendo finta di essere Alice, dovrebbe essere "Maria finge di essere Alice" (più chiaro e grammaticalmente corretto).
+1	Correct	Emma umilia Edoardo.
+1	Correct	Il fulmine cadde sulla testa di Andrea.
+1	Correct	Fa neve.
+1	Correct	Alessandro dormicchia nell'inazione più totale.
+1	Correct	La maionese non ha preso bene.
+1	Correct	Maria sorride a Giulia.
+1	Correct	Quel vestito non va ad Alice.
+1	Correct	Il capitale dell'azienda ammonta a molti miliardi.
+1	Correct	Una stella splende nel cielo.
+1	Correct	Una stella brilla nel cielo.
+1	Correct	Una stella scintilla nel cielo.
+1	Correct	Il vestito di Maria scintilla di uno stupendo diamante.
+1	Correct	Beatrice arde dalla passione.
+1	Correct	Paola luccicava dall'emozione.
+1	Correct	Quell'idea si fa chiara nel suo animo.
+0	Syntax	Gabriele ritorna. Risposta: 0 Categoria: Syntax Frase corretta: Gabriele ritorna.
+1	Correct	Riccardo giunge in casa.
+1	Correct	La scala scende in cantina.
+1	Correct	Il sentiero ci arriva.
+1	Correct	La Maggioranza patteggia con l'Opposizione.
+1	Correct	Emma lotta su questo punto.
+1	Correct	Riccardo taglia il pane a fetta.
+1	Correct	Riccardo gli vide il volto.
+1	Correct	Il sarto ha confezionato un vestito di lino.
+1	Correct	Tommaso ha edificato una palazzina nel centro di Roma.
+1	Correct	Andrea è brutale con Alice.
+0	Syntax	Il Giappone colonizzò la Manciuria. Correzione: Il Giappone colonizzò la Manciuria. La frase era già corretta.
+1	Correct	Leonardo aveva ammassato pacchetti alla base della libreria.
+0	Syntax	Leonardo aveva ammassato qualcosa contro il muro.
+1	Correct	Lorenzo ci aveva ammassato pacchetti.
+1	Correct	L'avaro accumula ricchezze.
+1	Correct	Leonardo è importante per noi.
+1	Correct	Il Sergente distribuisce i soldati.
+1	Correct	Sofia separò il lavoro in due parti distinte.
+1	Correct	Paola gli carezzò il volto.
+0	Syntax	Questa situazione gli complica la vita. La frase presenta un errore di sintassi. La forma corretta dovrebbe essere "Questa situazione gli complica la vita" o "Questa situazione gli complica la vita." (con punto esclamativo o domanda, a seconda del contesto).
+1	Correct	Maria afferrò la mano di Lorenzo.
+1	Correct	Questa medicina coagula il sangue.
+1	Correct	Riccardo forgia l'acciaio.
+1	Correct	Sofia cucina il pollo al limone.
+0	Syntax	Le donne partoriscono i bambini. Risposta corretta, ma il soggetto e il verbo non sono d'accordo in termini di numero. Potrebbe essere migliorato in: "Le donne partoriscono i bambini."
+1	Correct	Paola converte lo zucchero in caramelle.
+1	Correct	Il governo converte gli oppositori in criminali.
+0	Syntax	Alice travestì Francesco. In questa frase, la parola "ne" è inappropriata e deve essere rimossa per rendere la frase corretta.
+0	Syntax	Riccardo liberò il cane. La frase originale presenta un errore di sintassi. Il pronome "ne" viene spesso usato per sostituire un oggetto precedentemente menzionato, ma in questo caso, non è chiaro quale oggetto stia sostituendo. Per rendere la frase corretta, è possibile eliminare il pronome "ne". La frase corretta sarebbe: "Riccardo liberò il cane."
+1	Correct	Lo Stato accorda troppa fiducia all'amministrazione pubblica.
+1	Correct	Tommaso attribuì la decisione di andare in Cina a Leonardo.
+1	Correct	Leonardo addebitava il suo insuccesso alla decisione del padre di andare in Francia.
+1	Correct	La frase è già corretta.
+1	Correct	I ladri rubano le auto ai legittimi proprietari.
+1	Correct	Maria spalmò il pane con il coltello.
+0	Semantics	Riccardo mise il tavolo sotto il cappello.
+1	Correct	L'aviazione nemica bombardò napalm sulla città.
+1	Correct	Andrea imbeve il pane di vino.
+1	Correct	La frase è già corretta.
+1	Correct	Lorenzo dissemina aneddoti divertenti nei suoi racconti.
+1	Correct	I turisti disseminano il prato di cartacce.
+0	Syntax	Gabriele nutrì nel figlio l'idea di essere il più bravo ed intelligente di tutti.
+1	Correct	Riccardo liberò il cane dalle catene.
+0	Syntax	Alessandro solleva Giulia dalle proprie responsabilità.
+1	Correct	Tommaso ne ottiene la libertà.
+1	Correct	Gabriele difende Giulia contro i pericoli.
+1	Correct	L'alchimista fa che l'oro derivi dal piombo.
+1	Correct	Riccardo spostò il cappello dall'armadio al tavolo.
+1	Correct	Leonardo pone il libro sulla scrivania.
+1	Correct	Alessandro prese il cappotto dall'armadio.
+1	Correct	Gabriele spedì la ricevuta all'ufficio delle imposte.
+1	Correct	Paola spinse le gambe di Francesco verso la parete.
+1	Correct	La frase è già corretta.
+1	Correct	Il dottore spennella le tonsille di Gabriele di iodio.
+1	Correct	Leonardo archiviò la documentazione nell'archivio centrale.
+1	Correct	I gomiti poggiano sul davanzale.
+1	Correct	Riccardo affoga i dispiaceri nel vino.
+1	Correct	Un buon timoniere attracca rapidamente la sua nave al molo.
+1	Correct	Andrea spostò il bicchiere dal tavolo sul mobile.
+1	Correct	Tommaso pompava l'acqua dal lago alla piscina.
+1	Correct	Alessandro e Leonardo negoziano la libertà di Maria.
+1	Correct	Una donna aveva separato Andrea e Tommaso.
+1	Correct	Alessandro ricava danaro dalle sue applicazioni.
+1	Correct	Riccardo allontana Maria dalla stanza.
+1	Correct	Leonardo conta su Francesco.
+1	Correct	Sofia confonde il piacere con la possibilità di essere corteggiata.
+1	Correct	Tommaso fondeva l'argento con l'oro.
+1	Correct	Gabriele ci sostituisce il tubo catodico.
+1	Correct	Riccardo le sostituisce il tubo catodico.
+1	Correct	Tommaso alterna Beatrice con Paola.
+1	Correct	L'amore lega.
+1	Correct	Gabriele dorme.
+1	Correct	Maria desidera un libro.
+1	Correct	Maria desidera il fatto che tu venga.
+1	Correct	Leonardo tiene alla possibilità che lo promuovano.
+1	Correct	Giulia abbandona l'idea che vedrà Edoardo.
+1	Correct	Maria ha fatto l'affermazione che Francesco è bello.
+1	Correct	Maria bada che tutto funzioni alla perfezione.
+1	Correct	Edoardo approva che Maria parta.
+0	Syntax	Emma dubita che Alice parta.
+0	Syntax	Tommaso è angosciato dal fatto che Lorenzo viaggi. In questa frase, l'ordine delle parole non è corretto e non è chiaro quale sia il soggetto e quale sia l'oggetto. Ho riorganizzato la frase per renderla più chiara e grammaticalmente corretta.
+0	Syntax	Riccardo approva l'idea. Ciò è un'affermazione generica e non è correlata alla frase precedente. Correct Sentence: Riccardo approva l'idea. Ciò è un'affermazione generica e non è correlata alla frase precedente.
+0	Syntax	Edoardo approva il fatto che Maria canti.
+0	Syntax	Tu desideri che Sofia venga.
+0	Semantics	Riccardo va al bar. La frase originale "Riccardo va al fumo" non è corretta perché "fumo" non è un luogo o una destinazione specifica a cui qualcuno può andare. Una correzione appropriata potrebbe essere "Riccardo va al bar", dove "bar" è un luogo comune a cui le persone vanno.
+1	Correct	Alice brama di tornare.
+0	Syntax	Andrea incoraggia Maria a sposarsi.
+1	Correct	Il fatto che Emma parli allieta suo padre.
+0	Syntax	Andare al cinema infiamma Sofia. La frase contiene un errore di sintassi perché "infiamma" non è un verbo appropriato per descrivere l'azione di andare al cinema. Una correzione potrebbe essere: "Sofia si entusiasma per andare al cinema."
+0	Syntax	La colpisce che Riccardo rida. La frase è grammaticalmente corretta, ma può essere migliorata per la chiarezza. Potrebbe essere più chiaro scrivere: "La cosa che la colpisce è che Riccardo rida." In questo modo, l'oggetto della frase "la cosa che la colpisce" è meglio definito e l'uso del verbo "colpire" è reso più chiaro. Tuttavia, la frase originale è grammaticalmente corretta.
+1	Correct	La frase è già corretta.
+0	Syntax	Leonardo allieta Maria perché Maria ride.
+1	Correct	La tristezza e la noia deprimono Gabriele.
+1	Correct	Mi acquieta che Giulia parli in questo modo.
+0	Syntax	La sola presenza di Alice mi acquieta. Risposta: 0 La frase presenta un errore di sintassi. Il pronome "mi" richiede un verbo che regga la preposizione "di", come "acquieta di". Una correzione sarebbe: "La sola presenza di Alice mi acquieta." In questo caso, la frase data era corretta, quindi la risposta è 0 e la corretta frase è già stata fornita.
+1	Correct	Parlare con le ballerine è divertente.
+1	Correct	Io vengo affascinato dal fatto che Edoardo parli di poesia. La frase è già corretta.
+0	Syntax	La vista dei marziani accadde a Paola.
+0	Syntax	Aver vinto al lotto splendeva nel suo sguardo. La frase potrebbe essere corretta se fosse scritta in una forma diversa, ad esempio: "Splendeva nel suo sguardo, perché aveva vinto al lotto." Tuttavia, la struttura originale presenta problemi di sintassi e sembra incompleta.
+0	Syntax	Nel suo sguardo splendeva di aver vinto al lotto.
+0	Syntax	Dobbiamo fuggire. La frase originale presenta un errore di sintassi. "Si tratta che" è una costruzione sintatticamente scorretta. La frase corretta è "Dobbiamo fuggire."
+1	Correct	Si tratta di fuggire.
+1	Correct	Il fatto che Emma sia uscita così presto denota che in questo momento non va d'accordo con te.
+1	Correct	Io condanno il fatto che Erode uccise i bambini. La frase è già corretta.
+1	Correct	Gabriele adora carezzare Andrea. Nota: la frase originale era già corretta.
+1	Correct	Andrea intende sposare Alice.
+1	Correct	Riccardo evita di guardare la televisione.
+0	Syntax	Paola ritiene che si parta sia carino.
+0	Syntax	Lorenzo riteneva che Alice fosse Paola.
+0	Syntax	Beatrice lo giudica perché Maria ha troppi amanti.
+0	Syntax	Sofia lo giudica che Maria abbia troppi amanti. La frase contiene una struttura sintattica leggermente complessa, ma è grammaticalmente corretta. Tuttavia, per migliorare la chiarezza, potrebbe essere riformulata come "Sofia giudica che Maria abbia troppi amanti."
+0	Syntax	Giulia lo giudica evidente che Maria sia bella. Correzione: Giulia trova evidente che Maria sia bella.
+0	Syntax	Leonardo suppone che il padre beva troppo.
+0	Syntax	Penso qualcosa su di te.
+0	Syntax	Penso che tu ami il tartufo.
+1	Correct	Emma ottiene qualcosa da te.
+0	Syntax	Alice lavora per cacciare Maria.
+1	Correct	Riccardo plaude al fatto che Tommaso ha vinto.
+1	Correct	Maria ci aspira.
+1	Correct	Maria ci si aggrappa.
+0	Syntax	Paola mira a che il futuro sia felice. Per rendere la frase corretta dal punto di vista sintattico, dovremmo rimuovere il pronome "che" e aggiungere un aggettivo o un sostantivo al posto. Ad esempio: "Paola mira a un futuro felice." In questo modo, la frase sarebbe grammaticalmente corretta.
+1	Correct	Giulia guardava il muro.
+0	Syntax	Riccardo pensa che Tommaso lo pensi.
+0	Syntax	Paola acconsente a essere legata.
+1	Correct	Alice sorride del fatto di aver pianto.
+1	Correct	La condizione di disagio nasce dalla mancanza d'acqua.
+0	Semantics	Da quest'analisi risulta il nostro partire. La frase contiene un'incoerenza semantica. Il soggetto "il nostro partire" non può essere il risultato di un'analisi. Una frase corretta potrebbe essere: "Da quest'analisi risulta la necessità del nostro partire."
+1	Correct	La tosse dipende dal fatto di aver fumato troppo.
+1	Correct	Leonardo chiarisce che non è colpa sua a Paola. Nota: sebbene l'uso di "a Paola" sia grammaticalmente accettabile, potrebbe essere più chiaro utilizzare "verso Paola" o "per quanto riguarda Paola" per specificare che l'azione riguarda Paola. Tuttavia, la frase è grammaticalmente corretta.
+0	Semantics	Andrea fischia a Maria che ha fame. La frase presenta un'incongruenza semantica. Non è chiaro perché Andrea fischiare a Maria quando è affamata. Una possibile correzione potrebbe essere: "Andrea fischia mentre Maria ha fame."
+0	Syntax	Andrea accennerà ad Edoardo se partirà o no. Risposta: 1 (La frase è corretta) Etichetta: 1 Categoria: - Frase corretta: La frase è già corretta.
+1	Correct	Paola addebita a Leonardo il fatto che ora ha fame.
+1	Correct	Riccardo lo aggiunge nel suo discorso.
+1	Correct	Maria ce lo ha scommesso.
+0	Syntax	I giornalisti attaccano sui quotidiani il fatto che molti politici siano corrotti.
+0	Semantics	Paola incoraggia i ragazzi ad andare al mare.
+1	Correct	Emma ne avvisa Alessandro.
+1	Correct	Gabriele lo convince che lo sciopero è giusto.
+0	Syntax	Riccardo esenta Riccardo dal viaggio.
+1	Correct	Il sindaco esenta i poveri dal pagare il bus.
+1	Correct	Maria si accorda con Leonardo affinché il programma sia realizzato.
+1	Correct	Alice discorre di partire con Giulia.
+1	Correct	Maria si accorge di essere innamorata dal fatto di arrossire.
+1	Correct	Edoardo continua a mangiarlo.
+0	Syntax	Leonardo lo induce a mangiare.
+1	Correct	Edoardo osa mangiare.
+1	Correct	Paola è capace di cavalcare.
+1	Correct	Maria ha l'intenzione di cavalcare.
+0	Syntax	Tommaso usa il pasto.
+1	Correct	Riccardo deve mangiarlo.
+0	Syntax	Gabriele usa mangiarlo. Corrected Sentence: Gabriele lo usa per mangiare.
+1	Correct	Riccardo va in camera.
+1	Correct	Andrea sale in camera.
+1	Correct	Riccardo sparisce da Parigi.
+1	Correct	Edoardo parte a Parigi.
+1	Correct	Paola sgambetta verso il ponte.
+0	Syntax	La folla lo corre a salutare. Correzione suggerita: La folla lo acclama per salutarlo.
+1	Correct	Tommaso invia Emma in piazza.
+1	Correct	Beatrice assembla un computer.
+1	Correct	Il film è di Scorsese.
+1	Correct	Paola lavora.
+1	Correct	È l'amica che di Emma angoscia quel quadro di Picasso.
+0	Syntax	Molte di loro leggono il giornale.
+0	Syntax	Alcuni musei sono stati progettati da architetti.
+1	Correct	Paola mangia la pizza.
+0	Syntax	Quell'architetto ha progettato alcuni musei.
+1	Correct	Hanno letto, molte ragazze, il giornale l'anno scorso.
+1	Correct	Le spalle di Riccardo toccano la parete.
+1	Correct	Maria sarà toccata da quel film.
+0	Syntax	Sia che tu sia partita, rallegra Beatrice.
+1	Correct	Gabriele è il marito di Paola.
+1	Correct	Beatrice è con Lorenzo.
+1	Correct	Paola ha messo la macchina che è del fratello nel garage.
+0	Syntax	Tommaso obbedisce a Maria.
+0	Syntax	Andrea confronta Leonardo con Andrea. La frase presenta un errore di coerenza, poiché Andrea viene confrontato con se stesso, il che non ha senso. Una correzione potrebbe essere: "Andrea confronta Leonardo con Marco."
+1	Correct	Maria fotografa Paola.
+1	Correct	Lorenzo è stato smanioso.
+1	Correct	Tua sorella guarda il gelato.
+1	Correct	Tua sorella guarda il CD.
+1	Correct	Sofia ha tagliato la testa al bisonte.
+1	Correct	Sofia ha tagliato le teste ai tori.
+1	Correct	I ragazzi taglierebbero la corda.
+1	Correct	È il toro che Maria ha preso per le corna e non il bufalo.
+1	Correct	Maria stende il bucato.
+0	Semantics	Il mio amico abbaia. Nota: La frase è grammaticalmente corretta, ma il verbo "abbaia" è comunemente usato per i cani e potrebbe non essere appropriato per un essere umano. Quindi, sebbene la frase sia grammaticalmente corretta, potrebbe esserci un problema di semantica.
+1	Correct	Riccardo ulula.
+1	Correct	Gabriele dormì.
+1	Correct	Il cane si è fermato in un batter d'occhio.
+1	Correct	Edoardo ci ha messo due ore per tagliare il filo elettrico.
+1	Correct	Leonardo ha sezionato il vecchio tiglio.
+1	Correct	Le sei bombe sono esplose il 6 maggio 1999.
+1	Correct	Lorenzo non ha più l'abitudine di fumare.
+1	Correct	Andrea è diventato in gamba.
+1	Correct	Tommaso ha fatto gli auguri a Giulia.
+1	Correct	Sofia chiede che tu torni immediatamente.
+0	Syntax	Dispiace a Beatrice che tu vada via.
+1	Correct	I bambini hanno calpestato le aiuole.
+0	Semantics	I bambini eruttarono lava. La frase non è grammaticalmente corretta perché i bambini non possono eruttare lava. L'eruzione di lava è un'azione tipica dei vulcani, non degli esseri umani. Una frase corretta potrebbe essere: "I bambini corsero attraverso la stanza."
+1	Correct	Quell'uomo ha fotografato l'unico testimone e ciò è avvenuto un mese fa.
+0	Syntax	Quell'uomo ha fotografato lui/lei/esso.
+1	Correct	Andrea ha carezzato il volto a Beatrice.
+1	Correct	Il volto di Paola è carezzato.
+1	Correct	Edoardo ha fratturato il braccio di Maria.
+0	Semantics	Leonardo ha paralizzato il braccio di Maria.
+1	Correct	Il bambino pesava nove chili a pochi mesi.
+1	Correct	Gli operai asfaltarono la strada.
+1	Correct	Paola elencò l'invitato.
+0	Syntax	Alice ha messo i vestiti nell'armadio e ciò è accaduto.
+1	Correct	Maria ha tolto i vestiti e ciò è accaduto nell'armadio.
+1	Correct	Beatrice riempie il frigo con frutta.
+1	Correct	Maria difende Andrea dai pericoli.
+0	Syntax	Il libro passa da Maria a Maria. La frase è già corretta.
+1	Correct	Maria dà un libro a Paola.
+1	Correct	Francesco delega Gabriele suo rappresentante.
+1	Correct	Sofia delega Maria come sua rappresentante.
+0	Syntax	Lorenzo abita a Roma e ciò succede lì.
+1	Correct	Riccardo ha mangiato la pizza e ciò è successo al ristorante.
+1	Correct	Sofia fuma una bionda.
+1	Correct	Edoardo ha spalmato il paté sul pane.
+1	Correct	Andrea ha spalmato il pane di paté.
+1	Correct	Le bombe piovevano su di noi.
+1	Correct	I matrimoni misti funzionano in modo perfetto.
+1	Correct	La tua idea equivale alla mia.
+1	Correct	La tua idea e la mia si equivalgono.
+1	Correct	Edoardo gira per la città.
+1	Correct	Giulia torna da Milano a Napoli.
+1	Correct	Lorenzo controlla Paola.
+0	Syntax	Maria acconsente che sua figlia esca con quel ragazzo.
+0	Syntax	Alice guarda Maria.
+1	Correct	Paola dubita di te.
+1	Correct	Maria desidera che tu parta.
+1	Correct	Che Giulia sia sempre in viaggio piace ad Andrea.
+1	Correct	Emma volontariamente affascina Francesco.
+0	Syntax	Francesco desidera che venga lui. La frase originale presenta un errore sintattico, poiché il pronome "lui" dovrebbe essere posto dopo il verbo "venga" per essere grammaticalmente corretto.
+1	Correct	Leonardo annota sul taccuino che il presidente scriverà la sua autobiografia.
+0	Syntax	Alessandro invita Paola a partire.
+1	Correct	Alice ha accompagnato Tommaso al cinema.
+1	Correct	La partenza apporta un beneficio a tutti.
+1	Correct	Alessandro si lamenta del mare sporco con Paola.
+1	Correct	Alice mette in agitazione Tommaso.
+1	Correct	Andrea lascia a Leonardo pieni poteri.
+1	Correct	Il piatto piange.
+1	Correct	Mi girano le scatole.
+1	Correct	Alice si è attaccata a un capello.
+0	Syntax	Maria ha piantato Riccardo in asso. Spiegazione: La frase è grammaticalmente corretta, ma può essere considerata offensiva o informale. L'espressione "piantare in asso" indica l'abbandono o il tradimento di qualcuno, e quindi può essere percepita come negativa. Se si vuole mantenere il significato ma renderla più formale o meno offensiva, si potrebbe dire: "Maria ha lasciato Riccardo da solo" o "Maria ha abbandonato Riccardo".
+1	Correct	Sofia e Riccardo parlano la stessa lingua.
+0	Semantics	Avere coraggio.
+0	Syntax	Avere le paturnie. La frase è corretta a livello grammaticale, ma potrebbe essere resa più chiara aggiungendo un soggetto o un verbo ausiliare. Ad esempio: "Ho le paturnie" o "Mi vengono le paturnie".
+0	Syntax	Avere sulle scatole è un modo di dire che significa essere sicuri di qualcosa.
+0	Semantics	Essere in un utero di vacca.
+1	Correct	Questa situazione ti ha messo nell'occhio del ciclone. Il testo è già grammaticalmente corretto.
+1	Correct	Riccardo spera che possa partire presto.
+1	Correct	Beatrice ha un'attenzione per Giulia.
+1	Correct	Alice è in ansia.
+1	Correct	Siamo cariche di viveri.
+1	Correct	La ragazza mangerà la pizza.
+1	Correct	Lei ha presentato la donna a dei suoi amici.
+1	Correct	Edoardo obbedisce a Sofia.
+1	Correct	Edoardo ci va.
+1	Correct	Una volta comprato il costume, Edoardo andrà a nuotare.
+1	Correct	Edoardo va a invitare Giulia a cena.
+0	Syntax	Beatrice le compra.  La frase originale presenta un problema di sintassi: "le scappa" è un'espressione idiomatica che significa "non riesce a trattenere" e di solito si usa con verbi come "fare", "dire" o "comprare". In questo caso, la forma corretta sarebbe "Beatrice le compra".
+1	Correct	Sono i libri che Leonardo mette sugli scaffali ora.
+1	Correct	Edoardo mette i libri sugli scaffali.
+0	Syntax	Leonardo mette i libri sugli scaffali ora.
+1	Correct	Andrea mangia.
+1	Correct	Questo lavoro è di competenza di Leonardo.
+1	Correct	Questo lavoro rientra nelle competenze di Riccardo.
+1	Correct	A Francesco piace Maria per le sue gambe.
+1	Correct	Andrea accarezza le gambe di Maria.
+1	Correct	Riccardo non gradì quell'allusione.
+1	Correct	Francesco ricorda qualcosa.
+1	Correct	Era la conversazione che fecero i due ragazzi che Paola criticò.
+1	Correct	La frase è già corretta.
+1	Correct	Ha tradito la fiducia di Gabriele.
+1	Correct	Era felice di ciò.
+1	Correct	Era contento di giocare a carte.
+0	Semantics	Alessandro disgusta Giulia. In questa frase, semanticamente è discutibile che Alessandro disgusti Giulia, poiché solitamente non si usa il verbo "disgustare" per descrivere relazioni interpersonali. Tuttavia, la frase è grammaticalmente corretta. Per una risposta più precisa, potrebbe essere necessario maggiori dettagli sul contesto e sul significato desiderato.
+1	Correct	Ne vediamo di tutti i tipi.
+1	Correct	Ha abboccato all'amo.
+0	Syntax	Ho riso per due ore.
+1	Correct	Ha preso una cotta per Sofia.
+1	Correct	Maria è in crisi.
+1	Correct	Conservava il controllo della società.
+1	Correct	Maria ha venduto i suoi vestiti al mercato delle pulci.
+1	Correct	Paola ha confrontato i due libri in biblioteca.
+1	Correct	Maria ha immerso il figlio nell'acqua fredda.
+1	Correct	Leonardo leggeva sul divano.
+1	Correct	Il consenso della gente è nato dal suo talento.
+1	Correct	Francesco guarda che tutto proceda per il meglio.
+1	Correct	Francesco si vergogna che sia successo.
+1	Correct	Giulia deve lavorare domani.
+1	Correct	Francesco stabilì la partenza di Tommaso con Maria.
+1	Correct	Maria ha lasciato il marito.
+1	Correct	L'affitto di quella casa gli rende 500 euro.
+1	Correct	Hanno messo tutti in allarme? La frase è già corretta.
+1	Correct	La frase è già corretta.
+1	Correct	Per tutta la vita ha costruito castelli in aria.
+1	Correct	Quel terreno frutta molti soldi.
+1	Correct	Gabriele ha fatto scrivere una lettera a Lorenzo da Riccardo.
+0	Syntax	Il vento ha fatto rompere il vetro a Andrea.
+0	Semantics	Il colonnello ha fatto costruire la nave.
+1	Correct	Lorenzo si è fatto rompere la vetrata.
+1	Correct	Il sasso ha rotto il vetro.
+0	Semantics	L'auto ha schiacciato il pedale dell'acceleratore.
+1	Correct	Il colpo ha schiacciato l'acceleratore.
+1	Correct	Lorenzo ha rotto il fidanzamento.
+1	Correct	Il caldo ha avariato il cibo.
+1	Correct	L'umidità ha ossidato il ferro.
+1	Correct	Gabriele ha fatto ossidare il ferro.
+1	Correct	Il vetro fu rotto dall'esplosione di un colpo.
+1	Correct	Maria si è lavata.
+1	Correct	Paola ha trascurato se stessa.
+1	Correct	L'uomo lavatosi ieri è mio nonno.
+1	Correct	Andrea ha graffiato lo sportello dell'auto.
+1	Correct	Lo sportello dell'auto si è graffiato.
+1	Correct	Il viso di Tommaso si è graffiato.
+1	Correct	I prati si sono rivestiti con i fiori.
+1	Correct	I prezzi sono aumentati del 10 %.
+1	Correct	Il fatturato si è incrementato del 15% nell'ultimo anno.
+1	Correct	La Fiat si è fusa con la Chrysler.
+0	Syntax	Il disegno è stato confrontato con la foto.
+1	Correct	Il contagio è in diffusione.
+0	Semantics	Il gatto ha impiastricciato di peli il divano.
+1	Correct	L'inverno ha privato delle foglie gli alberi.
+1	Correct	L'esplosione ha spaccato la vetrata per un secondo.
+1	Correct	La vetrata si è spaccata in un millisecondo.
+1	Correct	L'intonaco si è sgretolato in poche settimane.
+1	Correct	La pioggia ha reidratato il terreno per giorni.
+1	Correct	Francesco ha riempito il serbatoio per un'ora.
+1	Correct	Il prezzo di quei prodotti si è abbassato del 20 % per sei mesi.
+1	Correct	Ha protratto l'interrogatorio per tutta la mattinata.
+1	Correct	Gabriele ha proseguito la lezione per ore.
+0	Syntax	Le vittorie hanno caricato il calciatore in una settimana.
+1	Correct	Il lievito ha fermentato la pasta in due ore.
+1	Correct	Il temporale ha ritardato il treno in due ore.
+1	Correct	L'incidente ha ritardato il treno di due ore.
+1	Correct	Il treno ha ritardato per due ore.
+0	Syntax	Il vino è diventato aceto dopo ore.
+1	Correct	I commercianti hanno incrementato le vendite del 10% per anni.
+1	Correct	Le vendite sono incrementate del 10 % in due anni.
+1	Correct	L'umidità ha ridotto in polvere l'intonaco per giorni.
+1	Correct	Il cioccolato si è fuso in 5 minuti.
+1	Correct	La carne si è cotta in 5 minuti.
+0	Semantics	La finestra si è chiusa, ma non è ancora chiusa.
+1	Correct	La valigia è diventata leggera.
+1	Correct	I prezzi sono rincarati del 10 %.
+1	Correct	Hanno reso la stanza grande.
+1	Correct	Il mare si è fatto agitato.
+1	Correct	La carne è saporita.
+1	Correct	Il vino è aceto.
+1	Correct	Il pullover di lana si è infeltrito.
+1	Correct	Edoardo si è fatto simile a uno scheletro.
+1	Correct	La carne è diventata gustosa.
+1	Correct	La situazione è diventata ingarbugliata.
+1	Correct	L'aria si è fatta puzzolente.
+1	Correct	La situazione diventa ingarbugliatissima.
+0	Morphology	A Riccardo, questi argomenti non lo hanno convinto.  Esplorazione: La frase ha un errore di morfologia, in quanto la forma del pronome oggetto "l'" non concorda con il soggetto "questi argomenti". La forma corretta sarebbe "lo" per riferirsi al soggetto maschile singolare "Riccardo".
+1	Correct	La follia spaventa Francesco.
+1	Correct	Le ragazze hanno innervosito Andrea.
+1	Correct	Le ragazze hanno preoccupato Francesco.
+1	Correct	Quei fuochi hanno innervosito Edoardo.
+0	Syntax	Alice ha fatto calmare Andrea da quell'uomo.
+0	Syntax	Maria ha fatto preoccupare Gabriele a causa della fidanzata.
+0	Syntax	Maria ha fatto inciampare Leonardo.
+0	Semantics	Riccardo si corteggia. La frase originale sembra avere un problema semantico, poiché "sedurre" è un'azione che solitamente viene eseguita da una persona su un'altra, e non su se stessa. Quindi, è più appropriato utilizzare il verbo "corteggiare" per indicare un'azione auto-diretta.
+0	Semantics	Lorenzo si è piaciuto per questo.
+1	Correct	Edoardo si è spaventato a quella notizia.
+1	Correct	Riccardo si è agitato a quella notizia.
+1	Correct	Tommaso si è agitato per quella notizia.
+1	Correct	Riccardo è irritato di quella notizia.
+1	Correct	Il fatto che le tasse si abbasseranno illude i cittadini.
+1	Correct	Maria ha timore di ciò.
+0	Syntax	Ciò fa terrorizzare Maria.
+1	Correct	Emma si sente nervosa.
+1	Correct	Sofia è in ansia per l'accaduto.
+1	Correct	Sofia ha i nervi a fior di pelle.
+1	Correct	Emma è in stupore.
+1	Correct	Paola è in uno stato di spavento.
+1	Correct	Quelle parole hanno offeso Francesco.
+1	Correct	I film horror appassionano Andrea.
+1	Correct	L'esplosione ha frantumato il vetro.
+1	Correct	Quella pietanza ha nauseato Francesco.
+1	Correct	Lo stato di salute di mia madre mi ha preoccupato subito.
+1	Correct	Lo stato di salute di mia madre mi ha addolorato in pochi minuti.
+1	Correct	Il fumo ha irritato la gola di Paola.
+1	Correct	Beatrice ha irritato Francesco.
+1	Correct	Il tuo arrivo improvviso ha agitato Gabriele.
+1	Correct	La reputazione di Emma si è distrutta con quello scandalo.
+1	Correct	L'intonaco si è sgretolato.
+1	Correct	La politica dell'Unione Europea ha schiacciato la Grecia.
+1	Correct	Giulia ha spento le polemiche.
+1	Correct	La schiena si è scottata.
+1	Correct	Gabriele si è rotto di Maria.
+1	Correct	Riccardo è desideroso di partire.
+1	Correct	Giulia sposta il cadavere dall'armadio al tavolo.
+1	Correct	Francesco va a scuola.
+1	Correct	Gabriele è alla scuola svizzera.
+1	Correct	Gabriele è alla tavola.
+1	Correct	Beatrice porta un piatto in tavola.
+0	Syntax	Giulia accompagna Gabriele a tavola.
+1	Correct	Maria cade per terra.
+1	Correct	Andrea ha iscritto il figlio a scuola di danza.
+1	Correct	Emma ha portato il pacco a scuola.
+0	Syntax	Francesco sta seduto in poltrona.
+0	Syntax	La palla è finita dietro.
+1	Correct	La palla è finita in acqua.
+1	Correct	Maria abita giù in basso.
+0	Syntax	Fai attenzione, tieni la bocca chiusa.
+1	Correct	Il bambino piange.
+1	Correct	Lorenzo perde il cappello.
+1	Correct	Riccardo avrebbe bruciato le tappe.
+1	Correct	Maria ha rubato improvvisamente il cuore a Gabriele.
+1	Correct	Emma se la passava bene.
+1	Correct	Giulia mise gli occhi addosso a Lorenzo.
+1	Correct	Riccardo abbandonò l'abito sul divano.
+1	Correct	Maria inchinò la testa.
+1	Correct	Alice piegò la testa.
+1	Correct	Maria levò il capo.
+0	Syntax	Maria sollevò il capo.
+1	Correct	Gabriele prese l'auto.
+0	Semantics	Alessandro ebbe una trombosi.
+1	Correct	La trombosi venne ad Edoardo.
+1	Correct	Il tifo venne a Riccardo. La frase è già corretta.
+1	Correct	Leonardo si scaldò.
+1	Correct	Maria si riposò.
+1	Correct	Alice si rinforzò.
+1	Correct	Paola e Francesco presero l'avvio.
+1	Correct	Riccardo ebbe una sbornia.
+0	Semantics	Il formaggio si è guastato.
+1	Correct	Sofia ebbe un bagno.
+1	Correct	Beatrice si maritò con Gabriele.
+1	Correct	Riccardo respirò aria fresca.
+0	Syntax	Giulia prese una dritta. La frase presenta una discrepanza grammaticale in quanto "dritte" è una parola plurale, ma qui è usata come se fosse singolare. Per rendere la frase grammaticalmente corretta, dovrebbe essere "Giulia prese una dritta." (come nell'input originale). La frase è già corretta.
+1	Correct	Giulia si sbagliò.
+0	Syntax	L'aereo atterrò.
+1	Correct	Alessandro si bagnò.
+1	Correct	Tommaso arieggiò la sua stanza.
+1	Correct	La nave ammarò.
+1	Correct	Tommaso prese la terra dal secchio.
+1	Correct	I marinai vogavano.
+1	Correct	Il dollaro è salito.
+1	Correct	Il progetto ebbe successo.
+1	Correct	Lorenzo prese un cappellaccio.
+1	Correct	Riccardo si imbronciò.
+0	Syntax	Andrea prese il cappello.
+0	Syntax	Paola prese forma.
+1	Correct	Alessandro prese parte alla festa.
+1	Correct	Francesco annotò la lezione.
+1	Correct	Leonardo prese imbarco sulla nave.
+1	Correct	Paola prese informazioni su Alessandro.
+1	Correct	Edoardo si innamorò di Sofia.
+1	Correct	Paola prese un odio per Tommaso.
+0	Syntax	Gli uccelli si imboccarono dalla madre.
+1	Correct	Maria prese una cotta per Francesco.
+1	Correct	Maria si prese il gioco di Lorenzo.
+1	Correct	Lorenzo è il primo nella gara.
+1	Correct	Francesco prese il coltello per la lama.
+1	Correct	Leonardo fece il proprio danno.
+1	Correct	Lorenzo ha preso fischi per fiaschi.
+1	Correct	Maria fece una seduta di elioterapia.
+1	Correct	Andrea prese il treno.
+1	Correct	È stato perso troppe volte il treno, in questa redazione. Nota: La frase data presenta una leggera discrepanza tra la lettera maiuscola e minuscola (È vs E'). La versione corretta è con la lettera maiuscola. Tuttavia, la frase è ancora comprensibile e grammaticalmente corretta con la lettera minuscola. Per questo motivo, la risposta è stata etichettata come corretta.
+1	Correct	La bussola fu persa da Gabriele.
+1	Correct	Andrea non si controllò più.
+1	Correct	Edoardo è un chimico.
+0	Syntax	Tommaso esercitò giudizio.
+0	Syntax	Lorenzo ne diede due a Maria.
+1	Correct	Beatrice prese fischi per fiaschi.
+1	Correct	Tommaso butta olio sul fuoco.
+0	Syntax	Riccardo tirò l'acqua al mulino. La frase originale contiene un errore grammaticale nella parte "al proprio mulino". Quando si usa l'espressione "tirare l'acqua al mulino", si riferisce ad aiutare qualcuno o un'organizzazione in modo nascosto e indiretto, e quindi non dovrebbe essere preceduto da "proprio", che indicherebbe qualcosa di strettamente personale. La frase corretta rimuove "proprio" per dare: "Riccardo tirò l'acqua al mulino."
+1	Correct	Alessandro si diede la zappa sui piedi.
+1	Correct	Emma ascolta un disco.
+1	Correct	Riccardo ha toccato Emma.
+1	Correct	Riccardo fa le traduzioni dei bollettini di guerra.
+0	Syntax	Di te ride in maniera beffarda. La frase non è grammaticalmente corretta poiché manca il verbo essere. Una versione corretta della frase sarebbe: "Di te, si ride in maniera beffarda."
+1	Correct	Tommaso legge.
+1	Correct	Gabriele fa una telefonata a Maria.
+1	Correct	Tommaso dà un libro a Maria.
+1	Correct	Che Andrea abbia telefonato ha causato il fatto che Giulia sia ritornata.
+1	Correct	Riccardo telefona ad Emma.
+1	Correct	Emma è in angoscia.
+1	Correct	Leonardo odia Maria.
+1	Correct	Leonardo odia Paola? La frase è già corretta.
+1	Correct	Alessandro andò a salutare il padre.
+0	Syntax	Alessandro girò con l'auto per andare a raccoglierla.
+1	Correct	Il battello virò a salvarli.
+1	Correct	Andrea obbedisce a lui sempre.
+1	Correct	I soldati hanno passato le armi ai prigionieri.
+1	Correct	Alessandro ama i bignè.
+1	Correct	Il cedro ama la libertà.
+0	Semantics	Il giardiniere ha potato il cespuglio di barboncino di Edoardo.
+0	Syntax	A Lorenzo, Alessandro gli ha lasciato una ricca eredità. La frase contiene un errore di sintassi, ma è corretta secondo le regole della lingua italiana. La corretta preposizione per questo tipo di costruzione sarebbe "a" invece di "di", quindi la frase corretta è: "A Lorenzo, Alessandro gli ha lasciato una ricca eredità."
+1	Correct	Alessandro beve il suo caffè.
+1	Correct	Alessandro desidera rivedere Beatrice.
+1	Correct	Un gatto con gli occhi gialli sta sotto l'arco della porta.
+1	Correct	Paola ha coraggio.
+1	Correct	Gabriele segue una rigida condotta morale.
+1	Correct	La zanzara pratica una rigida condotta morale.
+0	Semantics	Il frigorifero ha una forte attrazione per Francesco.
+1	Correct	Tommaso dette degli schiaffi a Maria.
+1	Correct	Riccardo allungò uno schiaffo a Giulia.
+1	Correct	Riccardo resta in silenzio.
+1	Correct	Riccardo non ha più sospetti su Emma.
+1	Correct	Lorenzo riceve aiuto da Edoardo.
+0	Syntax	Alessandro agita Beatrice. La frase è grammaticalmente corretta, ma è piuttosto insolita e potrebbe essere percepita come strana. Una formulazione più comune sarebbe "Alessandro agita la mano a Beatrice" o "Alessandro saluta Beatrice".
+1	Correct	Edoardo fa friggere l'uovo nella padella.
+1	Correct	Riccardo procede al caricamento del camion di casse.
+1	Correct	L'inchiostro rosso è la carica della stilografica.
+1	Correct	La stilografica è caricata.
+1	Correct	Tommaso fruga nei cassetti della scrivania di Giulia.
+0	Syntax	Andrea carica l'orologio. La frase presenta una struttura sintattica corretta, ma il verbo "carica" potrebbe non essere appropriato per il contesto dell'orologio. Un verbo più adatto potrebbe essere "regola" o "aggiusta". Corretta frase: Andrea regola l'orologio.
+1	Correct	Riccardo dà molte botte al cane.
+1	Correct	Lorenzo sale, per una seconda volta, le scale di corsa.
+1	Correct	Beatrice ha l'incarico di rapire Emma.
+0	Semantics	Alessandro corre l'asino.
+1	Correct	Francesco prende il cervo per la corna e lo atterra.
+0	Semantics	Il gatto è stato attratto dal frigo.
+0	Semantics	Il frigo è posizionato vicino al tavolo. La frase originale non ha senso in termini di relazione tra il frigorifero e il tavolo. Ho creato una nuova frase che mantiene le stesse parole, ma cambia il senso in modo che abbia un significato logico.
+1	Correct	Riccardo ha sedotto una minorenne.
+1	Correct	Tutta la sala applaudì all'affermazione dell'oratore.
+1	Correct	Paola ha letto un libro.
+1	Correct	Maria colleziona biglietti d'amore.
+1	Correct	Riccardo ha tosato lo zio.
+1	Correct	Paola fa una corsa in giardino.
+1	Correct	Riccardo scambia libri con Maria.
+1	Correct	Alice ha curvato la fronte.
+1	Correct	Maria ha curvato la faccia.
+0	Syntax	Sofia tiene testa al nemico.
+1	Correct	Alessandro si gonfia la testa.
+0	Semantics	Beatrice ha lasciato Giulia a piedi.
+1	Correct	Capire le intenzioni segrete di una persona.
+1	Correct	Maria cambia le carte.
+0	Semantics	Riccardo gioca in modo sleale.
+1	Correct	Andrea ha rotto il collo a Beatrice.
+1	Correct	La musica rock rompe le orecchie.
+1	Correct	Riccardo ha dato quel che è di Tommaso a Tommaso.
+0	Semantics	La mosca si posa sul naso di Riccardo.
+0	Syntax	Andare a monte significa fallire o venire meno alle aspettative.
+0	Syntax	Essere all'indice. La frase è grammaticalmente corretta, ma potrebbe non essere completa o avere un significato chiaro. In questo caso, la frase è un'espressione idiomatica che significa "essere escluso" o "essere messo da parte". Se si vuole una frase più completa e chiara, si potrebbe dire: "Essere all'indice significa essere escluso o messo da parte."
+0	Syntax	Metti all'indice. La frase originale "Mettere all'indice" non è grammaticalmente corretta poiché manca il soggetto e la concordanza del verbo. La versione corretta è "Metti all'indice."
+0	Syntax	Alzare il gomito è un'espressione idiomatica che indica bere troppo alcol.
+1	Correct	La frase è già corretta.
+0	Syntax	Aiutare qualcuno a cavare le castagne dal fuoco.
+0	Syntax	Essere povero in canna non è una frase grammaticalmente corretta. Una versione corretta potrebbe essere: "Essere povero è come avere una canna al vento."
+1	Correct	L'angelo custode accompagna la fantasia di ogni bambino.
+1	Correct	Ogni bambino ha un angelo custode che lo protegge.
+1	Correct	A quella festa è di rigore lo smoking.
+0	Semantics	La moto di Leonardo è nuova di zecca.
+1	Correct	Ho visto un'unità in marcia.
+0	Syntax	A Maria piace che Leonardo ritorni.
+1	Correct	Sofia corre a mangiare.
+1	Correct	Andrea sorride a Sofia.
+1	Correct	Beatrice bada a che l'articolo sia chiaro. La frase è già corretta.
+1	Correct	Alessandro divorzia da Paola.
+1	Correct	Riccardo abita in una casa piccola.
+1	Correct	Maria non sta a Roma.
+1	Correct	Mille stelle brillano nel cielo.
+0	Syntax	Guarda questa cosa.
+0	Syntax	Leonardo studia intensamente tutti i giorni per tre ore al giorno.
+1	Correct	La parete è toccata dalle spalle di Riccardo.
+1	Correct	Lorenzo tocca la schiena di Paola.
+0	Syntax	Una tale conclusione deriva da ciò.
+1	Correct	Gabriele mangia poca frutta.
+1	Correct	Andrea beve.
+0	Syntax	Francesco pizzica con sadismo. Nota: La frase è grammaticalmente corretta, ma potrebbe essere migliorata aggiungendo un oggetto per indicare cosa sta pizzicando Francesco. Ad esempio: "Francesco pizzica la guancia di Maria con sadismo."
+1	Correct	Alessandro disegna sul muro.
+1	Correct	Lorenzo balla la rumba.
+1	Correct	La siesta è una dormita.
+1	Correct	Francesco nuota a rana.
+1	Correct	La spugna pulisce.
+0	Morphology	Tutti bevono il tè amaro.
+1	Correct	I lavori fatti hanno reso più larga la piazza.
+1	Correct	Tommaso afferra il gatto.
+1	Correct	Alessandro riflette sul gatto.
+1	Correct	Andrea discute la validità delle affermazioni di Maria.
+1	Correct	Riccardo fotografa Alice.
+1	Correct	Tommaso legge il giornale in salotto.
+1	Correct	Gabriele ha visto una casa di mattoni rossi.
+1	Correct	Tommaso ha visto una casa.
+1	Correct	I libri vecchi stanno nella cassa.
+1	Correct	Un libro passa da Beatrice a Francesco.
+0	Syntax	Non c'è sempre una concordanza tra i fatti e le parole di Maria.
+1	Correct	Maria mette il libro nella borsa.
+1	Correct	Lorenzo stacca la foto dall'album.
+1	Correct	Emma ha ritrovato l'anello nel cassetto.
+1	Correct	Il meccanismo di funzionamento del rotore alloggia se stesso in quell'involucro.
+1	Correct	Quella scatola conserva le foto di Alessandro ed Edoardo.
+1	Correct	E ciò è avvenuto al bar.
+1	Correct	Paola ha estratto la pistola e ciò ha avuto luogo dalla borsa.
+1	Correct	Il libro non sta nella cartella.
+1	Correct	La commessa avvolge la carta da regalo intorno alla bottiglia.
+1	Correct	È dal marciapiede alla porta di casa che Beatrice ha piantato dei paletti.
+0	Syntax	Maria seppellisce il padre sotto un albero.
+1	Correct	La polizia sgombera la piazza dei dimostranti.
+1	Correct	L'architetto ha decorato la facciata di fregi in marmo.
+1	Correct	Andrea uccise Edoardo con un sol colpo di coltello.
+1	Correct	I bagagli non stanno nell'auto.
+0	Syntax	I libri sono nella stanza.
+1	Correct	I vestiti vecchi stanno nell'armadio.
+1	Correct	I vestiti vecchi non stanno nell'armadio.
+1	Correct	Andrea profuma la stanza di aromi di pino.
+1	Correct	La frase è già corretta.
+0	Syntax	Maria fa l'innaffiatura delle piante con acqua contenente disinfestanti.
+1	Correct	Il radar ha localizzato l'aereo.
+1	Correct	Alessandro difende Beatrice dai pericoli.

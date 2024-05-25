@@ -1,0 +1,947 @@
+label	correction
+0	Voglio salutare Giulia.
+0	Ho voglia di salutare Sofia. The sentence is already correct.
+0	Il mio preferito è la Divina Commedia.
+0	Il mio treno preferito è il Frecciarossa. Explanation: The sentence "Il mio treno preferito è la Divina Commedia" is incorrect because it compares a train to the literary work "Divina Commedia" (Divine Comedy) by Dante Alighieri, which is not a train. A more appropriate sentence would be "Il mio treno preferito è il Frecciarossa" (My favorite train is the Frecciarossa), referring to a high-speed train in Italy.
+1	The sentence is already correct.
+1	Andrea sta elaborando la risposta. The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Newton explained the force of gravity.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	I buy and read that book. The given sentence is in Italian, and if you meant to write an English sentence, the correct translation would be "I buy and read that book." If you intended to write an Italian sentence, the sentence is grammatically correct.
+0	I met Lorenzo, not Emma.
+0	Do not look at it.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Non ne abbiamo trovati molti.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Andrea è stata incontrata da Leonardo.
+1	Riccardo ha domandato da chi non era stato visto Leonardo. The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Quale politico ha parlato? (Translation: Which politician has spoken?)
+0	Quale politico ha detto la radio che il giudice ha dichiarato che ha parlato? The sentence is grammatically incorrect. It contains repetitive and unclear phrasing. A clearer version would be: "Quale politico ha parlato secondo la radio, dopo che il giudice ha dichiarato la sua opinione?" This translates to: "Which politician spoke according to the radio, after the judge declared his opinion?"
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	Riccardo ha perso le chiavi. The sentence is already correct.
+1	The sentence is already correct.
+0	Penso che Francesco chieda l'ora a Lorenzo.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Il fatto che sia stato scoperto un delitto ci ha sconvolti.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Edoardo crede che Sofia abbia baciato.
+0	Che problema non sai come potremo risolvere? (The sentence is already correct)
+0	Ho visto lui. Explanation: The sentence "Abbia visto lui" is not grammatically correct in Italian. The correct form would be "Ho visto lui" which means "I saw him." The verb "avere" (to have) is used in the present perfect tense, and its conjugation for the first person singular is "ho."
+0	Abbiamo visto il libro. Explanation: In the original sentence "Abbiamo visto lo," the word "lo" is a masculine singular direct object pronoun, which should be preceded by a definite article like "il." The correct form for this sentence would be "Abbiamo visto il libro," meaning "We saw the book."
+1	The sentence is already correct.
+0	Beatrice ha dichiarato che se stessa non ha avuto niente a che fare con Gabriele.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The sentence is not in English. The correct translation would be "The rabbit eats."
+0	Quale libro dice che il professore ha raccomandato di leggere?
+0	Prima di tutto, sono arrivato io, non tu.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Da quel professore, Tommaso non è stato ancora interrogato? The given sentence is grammatically incorrect. However, since it is in Italian and I am not an Italian speaker, I am unable to correct the sentence. The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Gabriele è scapolo o è sposato. The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Se qualche studente non ha superato l'esame, allora nessun studente ha superato l'esame. (The corrected sentence translates to "If any student did not pass the exam, then no student passed the exam.")
+0	Ieri ho promesso a Lorenzo di partire. The sentence is already correct.
+1	The sentence is already correct.
+0	Continua così e combinerai guai. The sentence is already correct.
+1	The sentence is already correct.
+0	Andrea, trasmettendoci le commissioni della marchesa, ci ha detto: "Darete loro il buongiorno."
+0	Una bella casa è comoda.
+0	Please provide a sentence in English. The provided sentence is in Italian: "Prendiamo questo."
+0	Uso il gladio. The sentence is already correct. The sentence is in Italian and means "I use the sword." However, in English, the grammatically correct sentence would be "I use the sword."
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Legge velocemente. The given sentence is in Italian, and it translates to "Reads quickly" in English. Although the sentence is grammatically correct in Italian, it may not be understandable for an English speaker without context or translation. Therefore, it would be considered incorrect for an English-speaking audience.
+0	Andando a casa, ho incontrato tuo fratello. (The sentence is already correct.)
+0	The sentence is already correct.
+1	The sentence is already correct.
+0	Va' a casa! (This sentence is correct in Italian, but it is not a complete sentence in English.)
+1	The sentence is already correct.
+0	This sentence contains a mix of English and Italian words, which makes it grammatically incorrect. A grammatically correct sentence in English would be: "Well done, this boy."
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Please give me that device.
+1	The sentence is already correct.
+0	Maria uses the computer, but I don't know how to do it.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	La persona che mi ha parlato. The sentence "La persona che mi ha parlato" is grammatically incorrect because it lacks a verb. A more grammatically correct sentence would be "La persona che mi ha parlato ieri." which means "The person who spoke to me yesterday."
+0	If one goes by train, they want to be comfortable.
+0	It hurts my head.
+0	I have two houses.
+0	I have houses.
+1	The sentence is already correct.
+0	The sentence is not grammatically correct in English. A correct translation would be "Horses are resilient animals."
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Perhaps it rains tomorrow.
+0	The sentence is already correct.
+0	Write a letter to his aunt.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Quale ragazzo apre la porta.
+1	The sentence is already correct.
+0	La macchina vuole lavarla (lui).
+1	The sentence is already correct.
+0	Non voglio venire fino a Napoli.
+0	Per quanto riguarda il bagno, mi fa piacere.
+0	Do you know Lorenzo?
+0	E quando viveu na América?
+1	The sentence is already correct.
+0	Appena lo dissi, mi lasciò che piangevo e volevo dire molte cose.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The sentence should be in proper English grammar. A correct version could be "To cry loudly."
+0	Ho preso in casa un tipo di gatto.
+0	I have taken some sugar.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Put in a hurry.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Put it in your head.
+0	Questa macchina è vecchia ma sembra nuova.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	I brushed the shoes.
+1	Tommaso abita da dieci anni. The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The sentence "Emanare profumo" is not grammatically correct. A possible correct sentence could be "Emana un profumo."
+0	Open a new store.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	Gabriele non ammette di essere preso in giro. The sentence is already correct.
+1	The sentence is already correct.
+0	What did you take?
+0	The shoes got stained.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Please provide a sentence in English. The given sentence is in Italian.
+0	Affondino le navi, gli equipaggi sono scesi a terra.
+1	The sentence is already correct.
+0	Alessandro si piange sempre. Explanation: The given sentence, "Alessandro si piange sempre," appears to be in Italian. In Italian, it is grammatically correct and translates to "Alessandro always cries himself" in English. Therefore, the sentence is already correct.
+0	Riccardo always complains.
+0	All of her words, Maria nodded.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Riccardo rides.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Il muro ammuffisce in una giornata. Explanation: The sentence is grammatically incorrect in Italian. "Il muro ammuffisce in una giornata" can be translated to "The wall molds in a day," which doesn't make sense. The correct sentence should be "Il muro sta diventando nero a causa dell'umidità" which means "The wall is turning black due to moisture."
+1	Paola sta suonando un pezzo di Bach. The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	Andrea aspires to become a doctor.
+1	Lorenzo non ha cucinato. Explanation: The given sentence "Lorenzo non ha cucinato" is grammatically correct in Italian. It means "Lorenzo did not cook" in English. The sentence structure, verb conjugation, and word choice are all accurate and appropriate in this context.
+0	The sentence should be "La lettera viene scritta." as "La lettera scrive" is not grammatically correct in Italian.
+0	Is there a disturbance?
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Gli acquirenti hanno aumentato. (The sentence is already correct.)
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Jump over an obstacle.
+0	All were moved.
+0	She stained the tablecloth.
+0	The given sentence is in Italian, and the English translation is "Stain the wine." The sentence itself is grammatically correct in Italian, but not in English.
+1	The sentence is already correct.
+1	Le tappe hanno bruciato per un'ora. Note: The given sentence is in Italian, and it is grammatically correct in that language. However, since the question asks for an answer in English, I provided the same sentence in Italian, assuming that the user might have intended to ask about the correctness of the sentence in Italian. If the user wanted an answer in English, the label should be 1, as the sentence is not in English and therefore incorrect in the context of the question. The correct sentence in English would be: "The stages have burned for an hour."
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	Riccardo lava la macchina. The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The sentence is already correct.
+0	Venite alla festa, mangiate e bevete.
+1	The sentence is already correct.
+0	Il dibattito è continuato. Explanation: The given sentence "Il dibattito ha continuato" is grammatically incorrect. In Italian, the verb "continuare" (to continue) requires the auxiliary verb "essere" (to be) in the compound past tense (passato prossimo) instead of "avere" (to have), which is used in the sentence. The correct sentence should be "Il dibattito è continuato" (The debate has continued).
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	La televisione si è rotta in un'ora.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Ho notato un libro caduto a terra.
+1	The sentence is already correct.
+0	Andrea takes advantage of Maria.
+0	Whom does Leonardo love?
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Due lingue sono parlate da tutti i miei studenti. The sentence is already correct.
+0	Otto ore al giorno vengono studiate da Tommaso.
+0	This sentence is in Italian and contains the verb "trivella," which means "drill" or "bore" in English. The sentence might be translated as "Alessandro drills this thing." The sentence structure and grammar are correct in Italian, but this task requires classification based on English grammar, so the label is 0.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Andrea behaves.
+1	The sentence is already correct.
+1	Lorenzo toglie dalla cassaforte il giornale. The sentence is already correct.
+0	Alessandro reads a book in bed.
+0	Riccardo beve il tè in una tazzina di porcellana.
+1	The sentence is already correct.
+0	Tommaso pulled the gun out in the bar.
+0	Riccardo ci mangia il riso. The sentence is already correct.
+0	Tommaso supports you on the board.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The key is in the lock.
+0	Dal giardino alla strada, Lorenzo vi ha piantato i fiori. Explanation: The sentence was incorrect due to the lack of a comma before the prepositional phrase "alla strada." Adding a comma after "Dal giardino" makes the sentence grammatically correct and improves its readability.
+1	The sentence is already correct.
+0	Leonardo ha piantato fiori nel giardino e al garage.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Los revolucionarios encarcelaron a Gabriele en las mazmorras del castillo.
+1	The sentence is already correct.
+0	Gabriele chiuse il denaro. (The sentence is already correct.)
+0	Gabriele provided support for the book.
+1	The sentence is already correct.
+1	Lorenzo caricò il camion. The sentence is already correct.
+1	The sentence is already correct.
+0	Riccardo stuffed the closet with clothes.
+1	La fotografia di Giulia e quella di Lorenzo stanno attaccate. The sentence is already correct.
+0	Riccardo allontanò Paola e la finestra l'una dall'altra.
+1	The sentence is already correct.
+1	Alessandro accompagna Sofia al cinema. The sentence is already correct.
+1	The sentence is already correct.
+0	I libri non stanno nell'armadio. The given sentence is grammatically correct in Italian. The sentence translates to "Books don't go in the closet" in English. Therefore, the sentence is already correct.
+1	The sentence is already correct.
+0	I intend to dress like a bride.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Alessandro beve il vino.
+1	The sentence is already correct.
+0	Quale libro è stato dato a Paola da Gabriele?
+1	Paola riceve quel libro da Riccardo. The sentence is already correct.
+0	Andrea eats an octopus.
+1	The sentence is already correct.
+0	Sofia loves her.
+0	L'artrosi ha paralizzato le ossa. Explanation: The sentence is in Italian, not in English, which was not specified in the task. Therefore, it is grammatically correct within its language context.
+0	Maria vuole mangiarlo.
+1	Lorenzo ammira Alice. The sentence is already correct.
+0	Riccardo lo ammira. (The original sentence is incorrect, as 'la' should be 'lo' to agree with 'Riccardo' in gender and number.)
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	È subito che Edoardo vuole un caffè.
+0	È il successo ciò che Tommaso tiene. Explanation: In Italian, the preposition "il" is required before "successo" in this context. The correct sentence should be "È il successo ciò che Tommaso tiene."
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Emma's teeth are chattering from the cold.
+0	Alessandro le adora a las mujeres porque tienen las piernas largas. (Translation: Alessandro loves it when women have long legs.)
+0	Andrea doesn't like Emma's friends.
+1	The sentence is already correct.
+0	Riccardo promette a Riccardo che verrà. (The sentence is incorrect because it is in Italian, but the task requires a grammatically correct sentence in English.)
+0	Il polpo è divorato da Sofia. Note: The sentence is grammatically incorrect in Italian. The correct sentence should be "Il polpo è stato divorato da Sofia." (The octopus was eaten by Sofia.)
+0	La tolleranza non esula dai suoi doveri.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Sofia accompanied Maria to China.
+0	Emma e il film sono stati visti. Explanation: In Italian, the verb "essere" (to be) is used for compound tenses with reflexive verbs. In this case, the correct sentence should be "Emma e il film sono stati visti" (Emma and the movie were seen), as the reflexive verb "vedersi" (to be seen) is used here.
+1	The sentence is already correct.
+0	Beatrice involuntarily absorbs Francesco.
+1	The sentence is already correct.
+0	Riccardo che dipinge è bello.
+0	Sofia walks in Venice.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Maria transformed Alice.
+0	Emma humiliates Edoardo.
+1	The sentence is already correct.
+0	The sentence is not in a recognizable language or format. Please provide a sentence in English for classification.
+0	The sentence is already correct.
+1	The sentence is already correct.
+1	Maria sorride a Giulia. The sentence is already correct.
+0	Alice's dress doesn't fit her.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Una stella scintilla nel cielo. (The sentence is already correct.)
+1	The sentence is already correct.
+0	Beatrice burns with passion.
+0	Paola glowed with emotion.
+0	This sentence is not in English and therefore is incorrect in the context of this task. If you want to evaluate the grammatical correctness of a sentence in a different language, please specify the language and provide a translation for the given sentence.
+0	Gabriele will return to you.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Emma talks a lot about this topic.
+1	The sentence is already correct.
+0	Riccardo vedeva il suo volto.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Leonardo aveva ammassato qualcosa contro il muro.
+1	Lorenzo ci aveva ammassato pacchetti. The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Sofia divided the work into two distinct parts.
+0	Paola stroked his face.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Riccardo forges the steel.
+0	Sofia cucina il pollo al limone. (The sentence is already correct.)
+0	Le donne partoriscono i bambini. The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Alice não travestiu Francisco.
+0	Riccardo ne liberò il cane. (The sentence is already correct.)
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Leonardo attribuiva il suo insuccesso alla decisione del padre di andare in Francia.
+1	The sentence is already correct.
+0	I ladri rubano le auto ai legittimi proprietari.  The sentence is already correct.
+1	The sentence is already correct.
+0	Riccardo mise il cappello sul tavolo.
+0	The enemy's air force bombed napalm on the city.
+0	Andrea soaks the bread in wine.
+0	The sentence is not in English. In English, it could be translated to "The red cloth was stuffed into the pillows."
+1	Lorenzo dissemina aneddoti divertenti nei suoi racconti. The sentence is already correct.
+0	The sentence is incorrect. It appears to be a mix of Italian and English. The correct sentence in Italian would be "I turisti disseminano il prato di cartacce." In English, it would be "The tourists scatter the lawn with paper scraps."
+0	Gabriele nutrì il figlio dell'idea di essere il più bravo e intelligente di tutti.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Tommaso obtains his freedom.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The sentence is not in English. If you intended to provide an English sentence, please correct the grammar or syntax.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Leonardo confida in Francesco.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	Riccardo le sostituisce il tubo catodico. The sentence is already correct.
+1	The sentence is already correct.
+0	The sentence is not in English, and it appears to be grammatically correct in Italian. In English, a correct translation could be "Love binds."
+0	Gabriele is sleeping.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Leonardo tiene la posibilidad de que lo promuevan.
+0	Giulia abbandona l'idea che vedrà Edoardo. The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Edoardo approva che Maria parta. Explanation: The sentence is in Italian, not English. The sentence is grammatically correct in Italian. However, the task asks to classify whether the sentence is grammatically correct/acceptable in English. In English, the sentence should be "Edoardo approves that Maria is leaving."
+0	Emma dubita che Alice parta.
+0	Che angoscia, Lorenzo, per Tommaso! In this corrected sentence, the sentence is grammatically correct, with the subject "Lorenzo" and the object "Tommaso" placed correctly, and the verb "angoscia" (anguish) used properly.
+0	Riccardo approva l'idea. Ciò è la conclusione.
+0	Edoardo approva il fatto che Maria canti.
+0	Tu desideri che Sofia venga.
+0	Riccardo va al negozio di fumo. Explanation: The given sentence "Riccardo va al fumo" is grammatically incorrect in Italian. The phrase "al fumo" does not make sense in this context. A more appropriate sentence would be "Riccardo va al negozio di fumo," which means "Riccardo goes to the tobacco shop."
+0	Alice longs to return.
+0	Andrea incoraggia Maria a sposarsi.
+1	Il fatto che Emma parli allieta suo padre. The sentence is already correct.
+0	Sofia is inflamed by going to the cinema.
+0	La sorprende che Riccardo rida.
+1	The sentence is already correct.
+0	Leonardo allieta Maria perché Leonardo ride.
+0	La tristezza e la noia deprimono a Gabriele.
+0	My concern is that Giulia speaks in this manner.
+0	La sola presenza di Alice mi calma.
+0	Speaking with the dancers is fun.
+1	Io vengo affascinato dal fatto che Edoardo parli di poesia. The sentence is already correct.
+0	Di vedere i marziani, accadde a Paola.
+0	The sentence is incorrect.
+0	Di aver vinto alla lotteria splendeva nel suo sguardo.  Explanation: The original sentence contains some grammatical errors. 'Aver vinto' is a verb form, but it needs to be followed by a preposition before the noun it refers to. In this case, 'al lotto' should be changed to 'alla lotteria' to make it grammatically correct. Additionally, 'al lotto' is not the correct way to express winning the lottery in Italian; 'alla lotteria' is more appropriate.
+0	Dobbiamo fuggire. Explanation: The given sentence "Si tratta che dobbiamo fuggire" is incorrect. The correct sentence is "Dobbiamo fuggire" which means "We must flee" in English. The "Si tratta che" part is unnecessary and doesn't make sense in the context of the sentence.
+0	It is about escaping.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Gabriele adores petting Andrea.
+1	The sentence is already correct.
+0	Riccardo evita guardare la televisione should be "Riccardo evita di guardare la televisione."
+0	Paola ritiene che sia carino partire.
+1	The sentence is already correct.
+0	Beatrice la giudica che Maria ha troppi amanti. The sentence contains a small grammatical error. In Italian, when using the verb 'giudicare' (to judge), the direct object pronoun 'la' should come before the verb to indicate that the speaker is referring to a specific female person. In this case, the correct sentence would be 'Beatrice la giudica che Maria ha troppi amanti.'
+0	Sofia lo giudica che Maria abbia troppi amanti. The sentence is already correct. However, note that it might be a mistake in the input language. The given sentence appears to be in Italian, while the question is in English. If you meant to ask for an English translation, here it is: "Sofia judges that Maria has too many lovers."
+0	Giulia lo giudica evidente che Maria sia bella. (The sentence is incorrect because "lo giudica" should be "giudica" and "è" should be added after "evidente".)
+0	Leonardo suppone che il padre beva troppo.
+0	I think something about you.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Alice lavora per cacciare Maria.
+1	The sentence is already correct.
+0	Maria ci ascolta. (The sentence "Maria ci aspira" is not grammatically correct in Italian. "Aspirare" means "to aspire" or "to inhale," which does not fit in this context. Instead, "ascoltare" means "to listen," which makes more sense in this context.)
+0	Maria ci si aggrappa. (Note: This sentence is grammatically correct, but it may not be understandable to English speakers due to it being in Italian.)
+0	Paola hopes for a happy future.
+1	Giulia guardava il muro.
+0	Riccardo pensa questo. Tommaso, invece, lo pensa.
+0	Paola consente di essere legata.
+0	Alice smiles at the fact that she cried.
+1	The sentence is already correct.
+0	Da quest'analisi risulta la nostra partenza.
+1	La tosse dipende dal fatto di aver fumato troppo. The sentence is already correct.
+0	Leonardo chiarisce che non è colpa sua a Paola. The sentence is not grammatically correct in English, but it is correct in Italian. The corrected sentence in English would be: "Leonardo clarifies that it is not his fault to Paola."
+0	Andrea sings to Maria who is hungry.
+0	Andrea accennerà ad Edoardo se parte o no.
+0	Paola accusa Leonardo del fatto che ora ha fame.
+1	The sentence is already correct.
+0	Maria has bet on it.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Emma non avvisa Alessandro.
+0	Gabriele lo convince che lo sciopero è giusto. (The sentence is already correct.)
+0	Riccardo exempts Riccardo from the trip.
+0	The sentence is already correct.
+0	Maria si accorda con Leonardo affinché il programma sia realizzato. (Note: The given sentence is in Italian and the grammar is correct within that language.)
+0	Alice discute di partire con Giulia. (The sentence should use "discute" instead of "discorre" to mean "discuss" in Italian.)
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Leonardo lo induce a comer. (The original sentence is in Italian, and "mangiare" should be replaced with "comer" to make it grammatically correct in Italian.)
+0	Edoardo osa mangiare.  The given sentence is grammatically correct, but it is in Italian. As the user did not specify the language, I assumed the sentence was supposed to be in English. However, since the sentence is correct in its original language, there is no need to provide a corrected version.
+1	Paola è capace di cavalcare. The sentence is already correct.
+1	The sentence is already correct.
+0	Tommaso solitamente mangia il pasto.
+1	The sentence is already correct.
+0	Gabriele lo usa per mangiarlo.
+1	Riccardo va in camera. The sentence is already correct.
+0	Andrea sells in camera.
+1	The sentence is already correct.
+0	Edoardo parte per Parigi.
+1	The sentence is already correct.
+0	La folla lo corre a salutarlo.
+1	The sentence is already correct.
+0	Beatrice assembled a computer.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Molti di loro leggono il giornale.
+0	Quell'alcuni musei sono stati progettati da architetti. (The word "architetto" should be "architetti" to agree with the plural subject "alcuni musei.")
+1	The sentence is already correct.
+0	Quell'architetto ha progettato alcuni musei.
+0	Hanno letto il giornale, molte ragazze, l'anno scorso. The sentence "Hanno letto, molte ragazze, il giornale l'anno scorso." is not grammatically correct. The correct sentence should be "Hanno letto il giornale, molte ragazze, l'anno scorso."
+0	Riccardo's shoulders touch the wall.
+0	Maria will be touched by that film.
+0	Beatrice, your departure has cheered me up.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	Paola ha messo la macchina che è del fratello nel garage. The sentence is already correct.
+0	Tommaso obbedisce a Maria.
+0	Andrea confronta a Leonardo con Andrea.
+1	Maria fotografa Paola. Explanation: The given sentence "Maria fotografa Paola." is in Italian, and it means "Maria photographs Paola" in English. The sentence is grammatically correct and acceptable in Italian. Therefore, the label is 1 (correct) and the correct sentence is already provided.
+1	Lorenzo è stato smanioso. The sentence is already correct.
+0	Your sister watches the ice cream.
+0	Your sister watches the CD.
+1	The sentence is already correct.
+0	Sofia has cut the heads off the bulls.
+0	I ragazzi taglierebbero la corda. (The sentence is already correct.)
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	Riccardo ulula. The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Andrea è diventata in gamba.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Che tu vada via dispiace a Beatrice. Explanation: The sentence is in Italian, and it is grammatically correct in that language. However, it is not a grammatically correct sentence in English, which is the language that most users of this platform would expect. The English translation of the sentence would be, "It bothers Beatrice that you leave." If the input were required to be in English, the correct sentence would be, "It bothers Beatrice that you leave."
+0	The sentence is already correct.
+0	I bambini eruttarono la lava.
+1	The sentence is already correct.
+0	Quell'uomo ha fotografato lui.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Alice ha messo i vestiti nell'armadio e ciò è accaduto.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Il libro passa da Maria a Giovanni. Explanation: The given sentence is grammatically incorrect because it uses the same name, "Maria," for both the person giving and receiving the book. To make the sentence correct, we should use different names or pronouns for the giver and receiver. In the provided correct sentence, "Il libro passa da Maria a Giovanni," Maria is the giver and Giovanni is the receiver.
+0	Maria gives a book to Paola.
+1	The sentence is already correct.
+0	Sofia delega Maria come sua rappresentante. (The sentence is already correct.)
+0	Lorenzo abita a Roma e ciò succede.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Bombs were raining down on us.
+0	In matrimoni misti, funzionano in modo perfetto.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Giulia torna da Napoli a Milano.
+1	Lorenzo controlla Paola. The sentence is already correct.
+0	Maria consente che la figlia esca con quel ragazzo.
+0	Alice watched Maria.
+1	Paola dubita di te. The sentence is already correct.
+1	The sentence is already correct.
+0	È che Giulia sia sempre in viaggio che piace ad Andrea.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Alessandro invita Paola a partire.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Alessandro si lamenta del mare sporco con Paola. Explanation: The sentence is in Italian and contains no grammatical errors. The sentence structure, verb conjugation, and agreement are all correct. Therefore, the sentence is grammatically acceptable.
+0	Alice upsets Tommaso.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Il mio cervello si sta confondendo. (The sentence is incorrect. A corrected version in Italian would be: "Il mio cervello si sta confondendo.")
+0	Alice si è attaccata a un capello. The sentence is in Italian and seems grammatically correct, but it might not be the language you are looking for. If you want the sentence to be in English, it should be translated as "Alice stuck to a hair."
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The sentence "Avere fegato" is not in English and contains grammatical errors. A correct English sentence could be: "To have guts."
+0	The sentence is not in English and therefore not grammatically correct. The correct English translation would be "To have the pangs."
+0	Avere su scatole. Explanation: The preposition "sulle" should be replaced with "su" to correctly agree with the plural noun "scatole" (boxes). The corrected sentence is "Avere su scatole."
+0	Essere in un ventre di vacca. (The sentence is already correct.)
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	Edoardo obbedisce a Sofia. The sentence is already correct.
+0	Edoardo ci va. (The given sentence is correct in Italian, but may not be correct in other languages. Please specify the language if you need help with a specific language.)
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Beatrice escapes to buy.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	Andrea mangia. The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	A Francesco piace Maria per le sue gambe. The sentence is already correct. However, it may not be in the standard English form, as it seems to be in Italian. The translation of the sentence in English would be "Francesco likes Maria for her legs."
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Era la conversazione che fecero i due ragazzi che Paola criticò. The sentence is grammatically incorrect. A correct sentence would be: "Era la conversazione che i due ragazzi fecero e che Paola criticò."
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Era felice di quello.
+1	Era contento di giocare a carte. Note: The given sentence is grammatically correct, but it's in Italian, not English. If you were expecting an English sentence, then the label would be 0. However, if you were looking for an Italian sentence and it was supposed to be in Italian, then the label would be 1.
+0	Alessandro disgusts Giulia.
+0	Let's see all kinds of them.
+0	He took the bait.
+0	I have laughed for two hours.
+0	He has developed a crush on Sofia.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	Leonardo leggeva sul divano. The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Francesco si vergogna che sia accaduto.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The sentence is not in English. A correct sentence in English could be: "He easily gets a headache."
+0	The sentence is not in English, so it cannot be classified as grammatically correct/acceptable in English. If you meant to check the grammar in Italian, the sentence appears to be correct.
+0	This land produces a lot of money.
+1	The sentence is already correct.
+0	Il vento ha fatto rompere il vetro a causa di Andrea. Explanation: The original sentence has incorrect word order and a misplaced preposition. In Italian, the correct sentence would be "Il vento ha fatto rompere il vetro a causa di Andrea." This means "The wind caused the glass to break due to Andrea."
+0	Il colonnello ha costruito la nave.
+1	Lorenzo si è fatto rompere la vetrata. The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Maria has washed herself. The sentence "Maria si è lavata" is in Italian and translates to "Maria has washed herself" in English. However, the given sentence is in Italian, not English, so it is not grammatically correct in the English language.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	I prati si sono ricoperti di fiori.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Il gatto ha impigliato di peli il divano.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Le vittorie hanno carburato il calciatore durante una settimana.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	I commercianti hanno incrementato le vendite del 10% per anni.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	La finestra si è chiusa, ma non è aperta.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	Edoardo si è fatto simile a uno scheletro. The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	A Riccardo, questi argomenti non lo hanno convinto.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Alice ha fatto calmare Andrea da quell'uomo.
+0	Maria ha fatto preoccupare Gabriele per la fidanzata.
+0	Maria ha fatto inciampare Leonardo.
+0	Riccardo si è sedotto.
+0	Lorenzo ha piaciuto a sé stesso per ciò.
+1	Edoardo si è spaventato a quella notizia. The sentence is already correct.
+1	Riccardo si è agitato a quella notizia. The sentence is already correct.
+1	The sentence is already correct.
+0	Riccardo è irritato con/per quella notizia.
+1	The sentence is already correct.
+0	Maria teme ciò.
+0	Questo fa terrore a Maria. (The given sentence was incorrect, and the corrected sentence is "Questo fa terrore a Maria.")
+0	Emma feels nervous.
+1	The sentence is already correct.
+0	Sofia has the nerves on edge.
+0	Emma is astonished.
+1	The sentence is already correct.
+0	What words have offended Francesco.
+1	I film horror appassionano Andrea. The sentence contains a grammatical error. The correct sentence should be: "I film horror appassionano Andrea." Explanation: The given sentence is already in Italian, and the sentence structure is correct. Therefore, the sentence is grammatically correct and should be labeled as 1. The corrected sentence is the same as the given sentence, so the correct sentence is "I film horror appassionano Andrea."
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	Giulia ha spento le polemiche. The sentence is already correct.
+1	The sentence is already correct.
+0	Gabriele si è rotto la gamba di Maria. Explanation: The given sentence "Gabriele si è rotto di Maria" is grammatically incorrect. In Italian, when using the reflexive verb "si è rotto" (meaning "broken" or "fractured"), it is necessary to specify the body part that is broken. In this case, "la gamba" (the leg) should be added to the sentence to make it grammatically correct. The corrected sentence would be "Gabriele si è rotto la gamba di Maria."
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	Giulia accompagna Gabriele in tavola. The sentence is already correct.
+0	Maria falls to the ground.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Francesco sta seduto in poltrona.
+0	La palla è finita dietro.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Mi raccomando, tieni la bocca chiusa. (The original sentence is grammatically incorrect.)
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Emma stava bene.
+0	Giulia mise gli occhi su Lorenzo.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Alice bowed her head.
+1	The sentence is already correct.
+0	Maria raised her head.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	La trombosi venne ad Edoardo. The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Maria si riposò. (The given sentence is in Italian and not in English, which is why it's incorrect.)
+0	Alice strengthened herself.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Sofia took a bath.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Giulia prese una diretta. Explanation: The given sentence contains a grammatical error. The correct Italian word for "straight" in this context is "diretta" instead of "dritto" (which is used for masculine nouns). Therefore, the corrected sentence is "Giulia prese una diretta."
+0	Giulia made a mistake.
+0	L'aereo approdò. (The given sentence had an incorrect conjugation of the verb 'approdare' in the past tense. The correct conjugation for 'l'aereo' is 'approdò'.)
+1	The sentence is already correct.
+1	Tommaso arieggiò la sua stanza. The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The sentence is not in English and therefore cannot be classified as grammatically correct or incorrect. If you meant to write in English, the correct sentence would be "The sailors were rowing."
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	Lorenzo prese un cappellaccio. The sentence is already correct.
+1	The sentence is already correct.
+0	Andrea took a hat.
+0	Paola prese il corpo. Explanation: In Italian, when referring to a specific object, the definite article 'il' or 'lo' should be used before the noun. In this case, the correct sentence would be "Paola prese il corpo."
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Paola developed a hatred for Tommaso.
+0	Gli uccelli si imboccarono dalla madre.
+0	Maria took a crush on Francesco.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	Leonardo fece il proprio danno. The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	Andrea prese il treno. The sentence is already correct.
+1	Ѐ stato perso troppe volte il treno, in questa redazione. The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Lorenzo ne diede due a Maria.
+0	The sentence is already correct.
+0	Tommaso throws oil on the fire.
+1	Riccardo tirò l'acqua al proprio mulino. The sentence is already correct.
+0	Alessandro si è dato la zappa sui piedi.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	Riccardo fa le traduzioni dei bollettini di guerra. The sentence is already correct.
+0	The sentence is not grammatically correct in English. If you intended to write a sentence in Italian, the sentence is grammatically correct in that language. However, if you meant to write an English sentence, it should be something like "They teased him in a mocking way."
+1	Tommaso legge. Explanation: The given sentence "Tommaso legge." is grammatically correct in Italian. The subject is "Tommaso" and the verb is "legge" (reads), which agrees in number and person. Therefore, the sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Andrea che ha telefonato ha causato il fatto che Giulia sia ritornata. Explanation: The sentence contains an error in the position of the subject "Andrea". The correct sentence should have "Andrea" placed after the relative pronoun "che", resulting in "Andrea che ha telefonato".
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Il giardiniere ha potato il barboncino di Edoardo. (The sentence is already correct.)
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	Gabriele segue una rigida condotta morale. The sentence is already correct.
+0	La zanzara pratica una rigida condotta morale. The sentence is already correct.
+0	Il frigorifero è rotto e Francesco è arrabbiato. Explanation: The original sentence "Il frigorifero ha una forte cotta per Francesco" is incorrect because it uses "cotta" (cooked) in an unconventional way. A more appropriate sentence would be "Il frigorifero è rotto e Francesco è arrabbiato" which means "The fridge is broken and Francesco is angry".
+0	Tommaso gave some slaps to Maria.
+1	The sentence is already correct.
+1	Riccardo resta in silenzio. The sentence is already correct.
+1	The sentence is already correct.
+1	Lorenzo riceve aiuto da Edoardo. The sentence is already correct.
+0	Alessandro shakes Beatrice.
+1	The sentence is already correct.
+1	Riccardo procede al caricamento del camion di casse. The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	Tommaso fruga nei cassetti della scrivania di Giulia. The sentence is already correct.
+1	Andrea carica l'orologio. The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Alessandro corre con l'asina.
+1	The sentence is already correct.
+0	El frigorífico sedujo a un gato. (The sentence in Spanish)
+0	Il frigorifero ha sedotto un tavolo. (I replaced "frigo" with "frigorifero" which is the correct way to say refrigerator in Italian.)
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Maria colleziona biglietti d'amore.
+1	Riccardo ha tosato lo zio. The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	Alice ha curvato la fronte.
+1	The sentence is already correct.
+0	Sofia holds her head high against the enemy.
+0	Alessandro gonfia la testa. Explanation: The phrase "si gonfia" in the original sentence is incorrect. It should be just "gonfia" to maintain the subject-verb agreement.
+1	The sentence is already correct.
+0	To understand the secret intentions of a person.
+1	The sentence is already correct.
+0	Riccardo gioca male.
+1	The sentence is already correct.
+0	The sentence "La musica rock rompe le orecchie" is incorrect because it contains a typo. The correct sentence should be "La musica rock rompe le orecchie."
+1	The sentence is already correct.
+1	La mosca salta al naso di Riccardo. The sentence is already correct.
+0	The sentence is not in English, so it cannot be classified as grammatically correct or incorrect. However, if you meant to write a grammatically correct sentence in English, it would be something like "Go up the mountain."
+0	To be at the index.
+0	Put under scrutiny.
+0	The sentence is in a language other than English (Italian) and therefore not grammatically correct for this task. The grammatically correct sentence in English would be: "Raise your elbow."
+0	The sentence "Perdere il lume della ragione" is not grammatically correct in English. A more appropriate translation would be "To lose one's reason" or "To lose one's mind."
+0	The sentence is not grammatically correct in English. A possible correct translation could be: "To take someone out of the fire."
+0	Essere povero in canna is not grammatically correct in English. A corrected sentence could be: "Essere povero in canna" translated to English means "To be poor in a cane".
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Alla festa è rigorosamente richiesto lo smoking.
+0	La moto di Leonardo è nuova di zecca. (The sentence is already correct.)
+1	The sentence is already correct.
+0	Sia che Leonardo ritorni piace a Maria.
+0	Sofia corre per mangiare.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Maria non è a Roma.
+1	The sentence is already correct.
+0	Questo è ciò che guardo. Explanation: The original sentence "Ciò guarda questa cosa" is not grammatically correct in Italian. The corrected sentence, "Questo è ciò che guardo," translates to "This is what I am looking at" in English, which is a more accurate and grammatically correct way to convey the intended meaning.
+1	Tutti i giorni, Leonardo studia intensamente tre ore al giorno.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	A sentence like this should be in English, not in Italian. Here's a possible correct sentence: "Such a conclusion follows."
+1	The sentence is already correct.
+1	Andrea beve. The sentence is already correct.
+0	Francesco pizzica con sadismo. The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	La siesta è una dormita. Explanation: The given sentence is grammatically correct in Italian. "La siesta" means "the siesta," "è" means "is," and "una dormita" means "a nap." So, the sentence translates to "The siesta is a nap" in English.
+0	Francesco swims the breaststroke.
+1	The sentence is already correct.
+0	Tutti bevono il tè amaro.
+0	The sentence is already correct.
+1	The sentence is already correct.
+1	Alessandro riflette sul gatto. Note: The given sentence is in Italian and is grammatically correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The sentence is not in English and therefore cannot be classified as correct or incorrect in the context of English grammar.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Gli antichi libri stanno nella cassa.
+0	A book passes from Beatrice to Francesco.
+0	Non c'è sempre un accordo tra i fatti e le parole di Maria.
+1	The sentence is already correct.
+1	Lorenzo stacca la foto dall'album. The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Paola ha estratto la pistola e ciò ha avuto luogo dalla borsa. (The sentence is already correct.)
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Maria sepolta il padre sotto un albero. Explanation: The original sentence "Maria dà sepoltura al padre sotto un albero" is not grammatically correct in Italian. The correct sentence should be "Maria sepolta il padre sotto un albero," which means "Maria buried her father under a tree." In this sentence, the verb "seppellire" (to bury) is conjugated in the past tense (passato prossimo) with "Maria" as the subject, and the direct object "il padre" (the father) is placed after the verb, as required by Italian grammar.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	I libri stanno nella stanza. Explanation: The sentence is grammatically correct in Italian, but it is not in English. The translation would be "The books are in the room."
+0	Gli abiti vecchi stanno nell'armadio.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The sentence is not in English, so it cannot be classified as grammatically correct or incorrect in terms of English grammar. If you want to check its grammar in Italian, the sentence seems to be grammatically correct.
+0	Maria fa l'innaffiatura delle piante con acqua disinfettata.
+1	The sentence is already correct.
+1	The sentence is already correct.

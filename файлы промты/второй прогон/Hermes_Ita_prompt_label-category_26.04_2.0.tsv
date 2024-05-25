@@ -1,0 +1,947 @@
+label	explanation
+0	Syntax La frase non è grammaticalmente corretta a causa di un errore di sintassi. Dovrebbe essere "Voglio salutare Giulia" senza l'articolo "di" tra "salutare" e "Giulia".
+1	Correct
+0	Syntax L'errore sintattico in questa frase è l'uso improprio dell'aggettivo possessivo "mio" e della preposizione "di" per formare la frase "Il mio lo preferito è la Divina Commedia". La frase corretta sarebbe "La mia preferita è la Divina Commedia".
+0	Semantics
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase presenta un errore di sintassi. La forma corretta sarebbe "Compro e leggo quel libro" o "Compro quel libro e lo leggo". La struttura della frase non è coerente con il verbo "compro" e "leggo" in quanto entrambi i verbi si riferiscono allo stesso oggetto ("quel libro"), ma sono posizionati in modo non corretto. La soluzione migliore è quella di utilizzare una congiunzione coordinativa come "e" per collegare correttamente le due azioni.
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax
+1	Correct
+0	Syntax In questa frase, il verbo "incontrato" dovrebbe concordare con il soggetto "Andrea" (maschile singolare), ma viene utilizzato nella forma passiva sbagliata. La frase corretta sarebbe: "Andrea è stato incontrato da Leonardo" o "Leonardo ha incontrato Andrea".
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase presenta un errore di sintassi, poiché "Quale" richiede una preposizione ("di") e un sostantivo ("politico") dopo di esso. La frase corretta sarebbe: "Di quale politico hanno parlato?"
+0	Syntax La frase è sintatticamente confusa e difficile da comprendere. Uno dei problemi è la ripetizione di "ha detto" e "ha parlato", che rende la frase eccessivamente complessa e poco chiara. Una possibile correzione sarebbe: "Quale politico ha parlato, secondo quanto riferito alla radio dal giudice?"
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase presenta un errore di sintassi. "Il fatto di essere stato scoperto" dovrebbe essere seguito da un verbo al passivo, mentre "ci ha sconvolti" è una costruzione attiva. Per correggere l'errore, si può utilizzare una costruzione passiva: "Il fatto di essere stato scoperto un delitto ci ha sconvolti" diventa "Il fatto che un delitto sia stato scoperto ci ha sconvolti".
+1	Correct
+1	Correct
+1	Correct
+0	Syntax
+0	Syntax La frase presenta un errore di sintassi. La corretta formulazione sarebbe: "Che problema non sai come potremo risolvere?" oppure "Che problema non sai come potremmo risolvere?". La scelta tra "potremo" e "potremmo" dipende dall'intenzione dell'autore della frase. "Potremo" indica un'affermazione più decisa, mentre "potremmo" indica una maggiore incertezza.
+0	Syntax La frase non è grammaticalmente corretta perché utilizza il verbo ausiliare "avere" (abbia) in modo errato. La forma corretta dovrebbe essere "l'ho visto" o "ho visto lui". "Abbia visto" è una combinazione di tempi verbali che non è comunemente utilizzata nella lingua italiana. La corretta combinazione di tempi verbali nel contesto presentato dovrebbe essere il passato prossimo.
+0	Syntax La frase non è grammaticalmente corretta, poiché manca un sostantivo dopo il pronome "lo". Un'espressione corretta potrebbe essere: "Abbiamo visto lo spettacolo" o "Abbiamo visto l'oggetto".
+1	Correct
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase contiene un errore di sintassi. La domanda "Che libro dice che il professore ha raccomandato di leggere?" può essere corretta in questo modo: "Quale libro dice che il professore ha raccomandato di leggere?". La parola "Che" è sostituita con "Quale" per rendere la frase corretta dal punto di vista grammaticale.
+0	Syntax
+1	Correct
+1	Correct
+0	Syntax La frase presenta un errore di accordo del verbo con il soggetto. "Andrea ha detti" dovrebbe essere "Andrea ha detto". Il verbo "ha detto" è al singolare, ma il soggetto "Andrea" è al singolare maschile, quindi il verbo dovrebbe concordare in numero e genere. Corretta: "Andrea ha detto che Tommaso lo guarda".
+1	Correct
+1	Correct
+0	Syntax La frase contiene un errore di sintassi. La corretta formulazione dovrebbe essere: "Da quel professore, Tommaso non è stato ancora interrogato?". La virgola prima di "Tommaso" è superflua e dovrebbe essere rimossa. La frase corretta sarebbe: "Da quel professore, Tommaso non è stato ancora interrogato?".
+0	Syntax
+0	Syntax La frase presenta un errore di sintassi. La domanda dovrebbe essere formulata in modo più chiaro e corretto, ad esempio: "In merito a questi paesi, quali crede Andrea che invaderanno?"
+1	Correct
+1	Correct
+0	Semantics
+1	Correct
+1	Correct
+0	Semantics La frase è grammaticalmente corretta, ma la sua semantica è ambigua e non corrisponde a una situazione reale. Affermare che "se qualche studente non ha superato l'esame, allora ogni studente non ha superato l'esame" è falso logicamente, poiché potrebbero esserci studenti che hanno superato l'esame e altri che non lo hanno fatto. L'uso dell'avverbio "ogni" in questo contesto non è appropriato e non trasmette l'informazione corretta. Un'affermazione più corretta sarebbe: "Se qualche studente non ha superato l'esame, allora alcuni studenti non hanno superato l'esame."
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Morphology La frase presenta un errore morfologico. "Prendiamo" è una forma plurale del verbo "prendere" e richiede il pronome plurale "noi" o "ci" per essere corretto. La forma corretta sarebbe "Prendiamo questo" o "Noi prendiamo questo".
+1	Correct
+1	Correct
+0	Syntax La frase "Scusa!" è grammaticalmente corretta, ma manca del contesto per valutarne la completezza e la correttezza semantica. Tuttavia, da un punto di vista sintattico, la frase è accettabile come esclamazione informale di scuse. Se si vuole classificare la frase come corretta, l'output sarebbe: Label: 1 Category: Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax
+1	Correct
+1	Correct
+0	Morphology La frase contiene un errore di morfologia, poiché "Va'" dovrebbe essere scritto come "Vai" per essere grammaticalmente corretto.
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax
+1	Correct
+0	Syntax La frase non è corretta dal punto di vista sintattico. La forma corretta sarebbe: "Siccome è caduto, si è fatto male." o "Poiché è caduto, si è fatto male." L'aggiunta di "Siccome" o "Poiché" richiede l'uso di una virgola per separare la causa dall'effetto.
+1	Correct
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Morphology La frase presenta un errore di accordo tra il soggetto "Scrive" e il verbo "scrive". Il verbo "scrive" è al singolare, ma il soggetto "sua zia" è al plurale. Per correggere l'errore, si può modificare il verbo in "scrivono" o il soggetto in "sua zia" (singolare). La frase corretta sarebbe: "Scrive una lettera a sua zia." oppure "Scrive una lettera a suoi zii."
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Morphology La frase presenta un errore di morfologia, poiché il pronome "le" è utilizzato in modo errato. Dovrebbe essere sostituito con "gli" per concordare con il genere maschile del sostantivo "cappello". La frase corretta è: "Gli è stato dato il cappello da me."
+1	Correct
+1	Correct
+0	Syntax
+1	Correct
+0	Syntax La frase non è corretta dal punto di vista sintattico. La correzione sarebbe: "Non voglio venire fino a Napoli."
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase non è grammaticalmente corretta. La parte "mi lasciò che" non è grammaticalmente corretta. Una versione corretta potrebbe essere: "Appena detto ciò, mi lasciò piangere e volevo dire molte cose." Qui, "mi lasciò piangere" è una frase corretta e coerente.
+1	Correct
+1	Correct
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase non è grammaticalmente corretta, poiché "Mettere" è un verbo all'infinito e dovrebbe essere accompagnato da un sostantivo per formare un'espressione corretta. In questo caso, "Mettere fretta" non è un'espressione corretta, poiché manca il sostantivo che definisca cosa viene messo fretta. Se intendi dire "mettere fretta a qualcuno" o "mettere fretta a qualcosa", la frase dovrebbe essere modificata di conseguenza.
+1	Correct
+1	Correct
+0	Syntax La frase presenta un errore di accordo tra il pronome "lo" e il verbo "mettere". Il pronome "lo" richiede il verbo "mettere" nella forma coniugata "mettilo" per accordare il genere e il numero. La frase corretta sarebbe "Mettitelo bene in capo."
+0	Semantics La frase contiene una contraddizione semantica, poiché "vecchia" e "nuova" sono due concetti opposti. Una macchina non può essere contemporaneamente vecchia e nuova. La frase richiede una revisione per rimuovere la contraddizione. Un esempio di revisione potrebbe essere: "Questa macchina è vecchia ma ben tenuta."
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax
+0	Syntax La frase "Aprire un nuovo negozio" è un infinito verbale, che in italiano non può essere utilizzato come frase completa senza un soggetto implicito o esplicito. Una versione corretta della frase potrebbe essere "Devo aprire un nuovo negozio" o "Ho intenzione di aprire un nuovo negozio".
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase presenta un errore di sintassi. "È approfittato dell'esperienza" dovrebbe essere "Ha approfittato dell'esperienza" per avere una struttura grammaticalmente corretta.
+1	Correct
+1	Correct
+0	Semantics La frase contiene un'espressione semanticamente non corretta. Il muro non può ammuffire "in una giornata", ma piuttosto può mostrare segni di muffa dopo un periodo di tempo umido e poco ventilato. Quindi, la relazione tra "ammuffisce" e "in una giornata" è semanticamente scorretta.
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Semantics La frase "La lettera scrive" non ha senso dal punto di vista semantico, poiché le lettere non possono scrivere. La relazione tra soggetto ("la lettera") e verbo ("scrive") è incoerente e rende la frase non accettabile.
+0	Syntax La frase non ha un verbo e non è completa, quindi non è grammaticalmente corretta. Un esempio di frase corretta potrebbe essere "Hai un disturbo?". In questo caso, "Hai" è il verbo ausiliare e "un disturbo" è il complemento oggetto.
+0	Morphology Leonardo sta compilando non è una frase grammaticalmente corretta. "Compilando" è un verbo all'infinito, e dovrebbe essere coniugato in base al soggetto (Leonardo). La forma corretta dovrebbe essere "Leonardo sta compilando" (3^ persona singolare del presente indicativo del verbo "compilare").
+1	Correct
+1	Correct
+0	Syntax La frase "I negozianti hanno aumentato" presenta un problema di sintassi, in quanto manca un complemento oggetto per indicare ciò che i negozianti hanno aumentato. Una versione corretta della frase potrebbe essere: "I negozianti hanno aumentato i prezzi".
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax
+0	Semantics La frase presenta un errore semantico, poiché "tappe" non può bruciare. La corretta espressione dovrebbe essere "Sono passati un'ora" o "Sono andato avanti per un'ora".
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase presenta un errore di sintassi. La combinazione dei verbi "calmato" e "irrigidito" in una sola frase senza una congiunzione o un'altra parola per collegarli, rende la frase difficile da comprendere. Un modo per correggere l'errore sarebbe: "Francesco si è calmato e irrigidito."
+1	Correct
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+0	Semantics La frase contiene un errore semantico, poiché "suona" è un verbo inadatto per descrivere l'azione di usare un telefono per parlare. Si dovrebbe utilizzare un verbo come "risponde" o "chiama" al posto di "suona". La frase corretta sarebbe: "Leonardo risponde al telefono" o "Leonardo chiama al telefono".
+1	Correct
+1	Correct
+1	Correct
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase presenta un problema di sintassi. La parola "approfitta" viene solitamente utilizzata in modo transitivo e richiede un oggetto diretto. In questo caso, manca un oggetto diretto per completare il senso della frase. Una correzione potrebbe essere: "Andrea approfitta di Maria (in qualche modo)".
+0	Syntax
+1	Correct
+0	Syntax
+1	Correct
+1	Correct
+0	Syntax La frase presenta un errore sintattico. La struttura corretta sarebbe: "Tommaso studia otto ore al giorno." La frase originale presenta un uso non corretto dell'oggetto diretto e del verbo "studiare".
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Semantics Correzione: Riccardo beve il tè in una tazzina di porcellana. (Il termine "the" non è corretto in questo contesto, poiché si riferisce al tè, che è generalmente abbreviato in "tè" in italiano.)
+1	Correct
+1	Correct
+1	Correct
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase presenta un errore di sintassi, poiché "Dal giardino alla strada" non è collegato correttamente al resto della frase. Un modo corretto di esprimere l'idea potrebbe essere: "Lorenzo ha piantato i fiori, portandoli dal giardino alla strada."
+1	Correct
+0	Syntax La frase non è corretta in termini di struttura sintattica. La preposizione "al" dovrebbe essere "nel" per accordarsi con "garage". La frase corretta sarebbe: "Dal giardino Leonardo ha piantato fiori nel garage."
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase non è corretta dal punto di vista sintattico. L'errore è nella scelta del verbo, che non concorda con il soggetto "Gabriele". Un verbo più appropriato sarebbe "ripose" o "mise via". La frase corretta sarebbe: "Gabriele ripose il denaro."
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax
+1	Correct
+1	Correct
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Semantics La frase contiene un errore semantico. L'artrosi è una malattia degenerativa delle articolazioni, non delle ossa, e non può paralizzare le ossa direttamente. Si potrebbe modificare la frase in "L'artrosi ha paralizzato le articolazioni" per renderla corretta.
+0	Syntax La frase presenta un errore di accordo tra il verbo "vuole" e il pronome clitico "lo" nella forma corretta "vuole mangiarlo". Inoltre, manca un elemento di collegamento tra "vuole" e "lo mangiare" per formare una frase corretta. La frase corretta sarebbe "Maria vuole mangiarlo."
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase dovrebbe essere "Edoardo vuole subito il caffè" per essere grammaticalmente corretta. L'errore è nella posizione dell'avverbio "subito", che deve essere posto dopo il verbo "vuole" in questo contesto.
+0	Syntax La frase presenta un errore sintattico. La struttura corretta sarebbe "È al successo ciò che Tommaso tiene". Tuttavia, il significato della frase non è chiaro e potrebbe essere necessario un contesto o una modifica per migliorare la comprensione. Inoltre, il verbo "tenere" sembra inappropriato in questo contesto. Una possibile correzione sarebbe "È al successo ciò a cui Tommaso aspira" o "È al successo ciò che Tommaso persegue".
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax
+0	Syntax
+1	Correct
+0	Syntax In questa frase, "Riccardo promette a Riccardo che verrà" è sintatticamente scorretta poiché ha due soggetti ("Riccardo") e un verbo ("promette") che richiede un oggetto diretto, ma non è presente nella frase. Una correzione potrebbe essere "Riccardo promette a Riccardo che andrà".
+0	Syntax
+0	Semantics La frase non è grammaticalmente corretta, poiché "tolleranza" non può "esulare dai suoi doveri". "Tolleranza" è un sostantivo e non può esercitare un'azione come "esulare". Inoltre, il significato di questa frase non è chiaro o coerente.
+0	Syntax La frase presenta un errore di sintassi. La forma corretta sarebbe "Riccardo viene da Roma". L'aggiunta di "ci" non è grammaticalmente accettabile in questo contesto.
+1	Correct
+1	Correct
+0	Syntax Nella frase "Emma e il film si sono visti", c'è un errore di concordanza soggetto-verbo. "Emma" è al singolare, ma il verbo "si sono visti" è al plurale. Inoltre, "Emma e il film" sono due soggetti diversi, quindi non dovrebbero concordare con lo stesso verbo. La frase corretta sarebbe: "Emma e il film si sono visti" o "Emma ha visto il film" o "Il film è stato visto da Emma".
+1	Correct
+0	Semantics
+0	Syntax La frase presenta un errore di sintassi perché il verbo "distribuisce" richiede un complemento oggetto, ma "mattone" non è in una forma corretta per svolgere questo ruolo. La frase corretta sarebbe "Lorenzo distribuisce i mattoni" o "Lorenzo distribuisce un mattone".
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax
+1	Correct
+1	Correct
+0	Syntax La frase è grammaticalmente scorretta poiché manca un soggetto. Una versione corretta potrebbe essere "Sta nevicando" o "Cade la neve".
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Morphology La forma verbale "vi ritorna" non è corretta. La forma corretta sarebbe "Gabriele ritorna a voi" o "Gabriele torna da voi".
+1	Correct
+1	Correct
+1	Correct
+0	Syntax Esplicazione: La frase contiene un errore di accordo, "La Maggioranza" dovrebbe essere "La maggioranza" con la minuscola "m". Inoltre, l'uso di "pattuglia" potrebbe essere più appropriato, poiché "pattuggiare" significa "camminare, andare o muoversi in modo irregolare", mentre "patteggiare" significa "negoziare un accordo". Tuttavia, questo è un caso meno chiaro di ambiguità tra i due termini.
+1	Correct
+1	Correct
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+0	Syntax
+0	Syntax
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase presenta un errore di concordanza dei numeri. "Questa situazione" è singolare e richiede quindi un verbo al singolare, mentre "gli complica" è un pronome plurale e un verbo al plurale. Per correggere l'errore, si può dire: "Questa situazione gli complica la vita" oppure "Queste situazioni gli complicano la vita".
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Semantics La frase è grammaticalmente corretta, ma presenta un'incongruenza semantica. Le donne non "partoriscono" i bambini, ma "danno alla luce" i bambini. La forma corretta della frase sarebbe: "Le donne danno alla luce i bambini."
+1	Correct
+1	Correct
+0	Syntax In questa frase, "Alice ne travestì Francesco" non è grammaticalmente corretta. La struttura della frase è sintatticamente scorretta e il pronome "ne" non ha una funzione appropriata nella frase. Una versione corretta potrebbe essere "Alice travestì Francesco in quel modo."
+0	Syntax La frase presenta un problema di sintassi. La corretta forma sarebbe "Riccardo liberò il cane." Il verbo "liberò" indica un'azione singola e non richiede il pronome "ne" come complemento.
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Semantics La frase non è corretta perché la parola "cappello" non può essere usata come attributo per un tavolo. Un tavolo può essere coperto da un telo o un tovagliolo, ma non da un cappello. Questo è un errore di significato (semantica).
+1	Correct
+1	Correct
+0	Syntax
+1	Correct
+0	Syntax La frase presenta un errore di sintassi, poiché "turisti" è un soggetto plurale e il verbo "disseminano" è al plurale, ma il pronome oggetto "il" è singolare. Dovrebbe essere "le cartacce" per accordare correttamente il genere e il numero. La frase corretta sarebbe: "I turisti disseminano il prato di cartacce."
+0	Syntax
+1	Correct
+0	Semantics La frase è grammaticalmente corretta, ma il significato è ambiguo. "scaricare" in questo contesto potrebbe essere interpretato come "alleviare" o "affidare ad altri". Tuttavia, nella maggior parte dei casi, "scaricare" viene usato per indicare che una persona cerca di liberarsi di un onere o di una responsabilità passandola ad un'altra persona, comportamento negativo. Quindi, la semantica dell'azione potrebbe essere interpretata come negativa, anche se la frase è grammaticalmente corretta. Un'opzione più chiara e meno ambigua potrebbe essere: "Alessandro aiuta Giulia a liberarsi delle proprie responsabilità."
+1	Correct
+1	Correct
+0	Syntax La frase presenta un errore sintattico. La forma corretta sarebbe: "L'alchimista fa in modo che l'oro derivi dal piombo."
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax
+1	Correct
+0	Syntax La frase è grammaticalmente corretta, ma il significato può essere ambiguo. Un lettore potrebbe interpretarlo come "Giulia abbandona l'idea e vede Edoardo", piuttosto che "Giulia abbandona l'idea di vedere Edoardo". Per chiarire il significato, si potrebbe riscrivere la frase come: "Giulia abbandona l'idea di vedere Edoardo."
+1	Correct
+1	Correct
+1	Correct
+0	Syntax In questa frase, "Emma dubita di che Alice parta" è sintatticamente scorretta. La struttura corretta dovrebbe essere "Emma dubita che Alice parta". La preposizione "di" non è necessaria in questo contesto.
+0	Syntax
+0	Syntax La frase presenta un errore sintattico: "Riccardo lo approva l'idea ciò" non è grammaticalmente corretta. Una versione corretta potrebbe essere: "Riccardo approva l'idea, ciò." In questa versione corretta, l'oggetto dell'approvazione è chiaro e il pronome "ciò" è separato dalla frase principale con una virgola.
+0	Syntax
+0	Syntax La frase non è grammaticalmente corretta perché manca l'ausiliare "vorrei" prima del verbo "desideri". La frase dovrebbe essere "Vorrei che Sofia venisse" per essere corretta.
+0	Semantics La frase non è grammaticalmente corretta poiché "fumo" è usato in modo non appropriato. "Fumo" in questo contesto può essere interpretato come un luogo o un'azione, ma entrambe le interpretazioni non hanno senso. Se si vuole indicare che Riccardo va a un luogo chiamato "il fumo", si dovrebbe usare l'articolo determinativo "il" prima del sostantivo "fumo". Se si vuole indicare che Riccardo va a fumare, si dovrebbe usare una forma verbale come "fuma" o "va a fumare".
+1	Correct
+0	Syntax La frase presenta un errore sintattico. La forma corretta sarebbe: "Andrea incoraggia Maria a sposarsi." Qui, "sposarsi" è usato come verbo riflessivo, che indica un'azione intrapresa da Maria stessa.
+1	Correct
+0	Syntax L'errore sintattico è la mancanza di un verbo principale nella frase. La corretta frase potrebbe essere: "Sofia si infiamma andando al cinema." In questo modo, il verbo principale "si infiamma" viene utilizzato correttamente e la frase è grammaticalmente corretta.
+0	Syntax La frase non è grammaticalmente corretta. Il verbo "colpire" richiede un complemento oggetto, ma nella frase è utilizzato in modo improprio. Una versione corretta potrebbe essere "La colpisce vedere Riccardo ridere" o "La colpisce la risata di Riccardo".
+1	Correct
+0	Syntax
+1	Correct
+0	Syntax La frase presenta un errore di costruzione sintattica. Una correzione potrebbe essere: "Mi tranquillizza che Giulia parli in questo modo." Qui, "acquieta" è stato sostituito con "tranquillizza" perché è l'equivalente più appropriato nel contesto della frase. Inoltre, "acquieta" è un verbo meno comune e potrebbe essere percepito come meno naturale o meno corretto in questo contesto.
+0	Syntax In questa frase, "mi" non è correttamente utilizzato come complemento di termine del verbo "acquieta". Il verbo "acquietare" richiede un complemento oggetto diretto, quindi "mi" non dovrebbe essere usato in questo caso. Una forma corretta della frase potrebbe essere: "La sola presenza di Alice mi tranquillizza."
+1	Correct
+0	Syntax La frase presenta un problema di accordo tra il verbo e il pronome soggetto. Il verbo "vengo" richiede il pronome soggetto "io" nella prima persona, ma la frase utilizza "Edoardo" come soggetto. La frase corretta sarebbe: "Mi affascina il fatto che Edoardo parli di poesia."
+0	Syntax La frase non è corretta dal punto di vista sintattico, poiché manca una preposizione per collegare "di vedere" a "accadde". La frase corretta sarebbe: "Di vedere i marziani accadde a Paola." Tuttavia, questa correzione è solo a livello di sintassi; a livello semantico, la frase è ambigua e richiederebbe una riformulazione per essere chiara. Ad esempio: "A Paola accadde di vedere i marziani."
+0	Syntax La frase presenta un errore di sintassi. "Aver vinto al lotto" è un participio passato che richiede un ausiliare come "essere" o "avere". La frase corretta sarebbe: "Aver vinto al lotto splendeva nel suo sguardo." Corretta versione: "Essendo vinto al lotto, splendeva nel suo sguardo." Oppure: "Essendo vinto al lotto, aveva un'espressione radiosa nel suo sguardo."
+0	Syntax In questa frase, c'è un errore di sintassi. "Di aver vinto al lotto" dovrebbe essere "di aver vinto alla lotteria" e "splendeva" dovrebbe essere "si intravedeva" per una struttura grammaticalmente corretta. La frase corretta sarebbe: "Si intravedeva nel suo sguardo di aver vinto alla lotteria."
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase presenta un errore sintattico. La struttura corretta sarebbe: "Riccardo evita di guardare la televisione". La preposizione "di" è necessaria per collegare correttamente il verbo "evitare" all'infinito del verbo "guardare".
+0	Syntax
+0	Syntax
+0	Syntax
+0	Syntax La frase non è corretta grammaticalmente. Dovrebbe essere modificata in: "Sofia lo giudica che Maria abbia troppi amanti" in "Sofia giudica che Maria abbia troppi amanti." Questo perché il verbo "giudicare" non richiede un pronome clitico come "lo" come oggetto diretto in questa frase.
+0	Syntax La frase presenta un errore di sintassi. La struttura corretta sarebbe: "Giulia lo giudica evidente che Maria è bella."
+0	Syntax The sentence is not grammatically correct. The subject and verb agreement is incorrect. The correct sentence would be: "Leonardo lo suppone che il padre beva troppo." or "Leonardo lo suppone, che il padre beva troppo." In the first corrected sentence, "suppone" agrees with "Leonardo" (both singular), while in the second corrected sentence, "Leonardo lo suppone" is separated by a comma, making it clear that "suppone" refers to "Leonardo".
+0	Syntax
+1	Correct
+1	Correct
+0	Semantics La frase non è grammaticalmente corretta a causa di un problema di significato. "Alice lavora a cacciare Maria" è ambiguo e sembra suggerire che Alice stia cercando di cacciare Maria, il che è piuttosto inquietante. Un'interpretazione più corretta e chiara potrebbe essere: "Alice aiuta Maria a cacciare" o "Alice sta cacciando insieme a Maria". Queste frasi hanno un significato più chiaro e sono grammaticalmente corrette.
+1	Correct
+0	Morphology La forma corretta sarebbe "aspira a". "Aspirare" richiede la preposizione "a" per indicare il suo obiettivo o desiderio. Quindi, la frase dovrebbe essere "Maria ci aspira a".
+1	Correct
+0	Syntax La frase "Paola mira a che il futuro sia felice" presenta un errore di sintassi. La corretta formulazione sarebbe "Paola mira a che il futuro sia felice per tutti." In alternativa, se si desidera indicare un obiettivo generale per il futuro, la frase potrebbe essere modificata in "Paola mira a rendere il futuro felice." In questo caso, "Paola mira a rendere il futuro felice" è grammaticalmente corretta.
+1	Correct
+0	Syntax
+0	Syntax La frase contiene un errore di sintassi. La struttura della frase dovrebbe essere "Paola acconsente a essere legata". La forma "a che" richiede un verbo al subjuntivo, ma in questo caso "legare" richiede un complemento oggetto, quindi la struttura corretta è "essere legata" al posto di "che la leghino".
+0	Semantics La frase presenta un'incongruenza semantica perché "sorridere del fatto di aver pianto" non è un'espressione comune. In genere, si dice "sorridere nonostante le lacrime" o "sorridere dopo aver pianto" per esprimere l'idea di provare gioia o sollievo dopo un periodo di tristezza o dolore.
+1	Correct
+0	Syntax La frase è grammaticalmente scorretta perché "risulta" richiede un complemento oggetto, ma "il nostro partire" non è nella forma corretta per svolgere questa funzione. Una forma corretta sarebbe "Da questa analisi risulta il nostro partire."
+1	Correct
+0	Syntax
+0	Syntax La frase non è grammaticalmente corretta perché il pronome relativo "che" non può essere usato per introdurre un complemento oggetto diretto (COD) di un verbo precedentemente nominato. In questo caso, "che" è seguito dal verbo "ha fame", che dovrebbe essere il COD di "fischia". Una correzione grammaticalmente corretta potrebbe essere: "Andrea fischia a Maria che ha fame." (con una virgola dopo "Maria").
+0	Syntax La frase contiene un errore di sintassi. La forma corretta dell'infinito del verbo "accennare" è "accennare", non "accennerà". La frase corretta sarebbe: "Andrea accennerà ad Edoardo se partirà o no."
+1	Correct
+1	Correct
+1	Correct
+0	Syntax Il soggetto della frase è "giornalisti", ma il verbo "attaccano" è coniugato al plurale, mentre il soggetto è al singolare. Inoltre, il complemento oggetto "sui quotidiani" dovrebbe essere posizionato dopo "il fatto". La frase corretta sarebbe: "I giornalisti attaccano, sui quotidiani, il fatto che molti politici sono corrotti."
+1	Correct
+1	Correct
+1	Correct
+0	Syntax
+1	Correct
+1	Correct
+0	Syntax L'errore sintattico si trova nella costruzione della frase. La parola "discorre" è un verbo transitivo e richiede un oggetto diretto, ma non è presente nella frase. Per correggere l'errore, si potrebbe scrivere: "Alice parla di partire con Giulia." In questo modo, il verbo "parla" richiede un oggetto indiretto e viene utilizzato correttamente nella frase.
+1	Correct
+1	Correct
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+0	Morphology La forma corretta della frase sarebbe: "Tommaso solitamente mangia il pasto." Il verbo "suole" è una forma arcaica e poco utilizzata nella lingua italiana moderna. Inoltre, il verbo "solitamente" è più appropriato per esprimere la frequenza dell'azione. "Solere" è il verbo corretto da utilizzare in questo contesto, ma è preferibile usare "solitamente" per una maggiore chiarezza.
+1	Correct
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase presenta un errore di costruzione sintattica. La struttura corretta dovrebbe essere "È quel quadro di Picasso che angoscia l'amica di Emma." In questo modo, il soggetto ("quel quadro di Picasso") e il verbo ("angoscia") sono correttamente allineati.
+0	Syntax
+0	Syntax La frase presenta un errore sintattico. La parola "alcuni" dovrebbe essere seguita da un sostantivo plurale, ma in questo caso è seguito da "musei" (singolare) e poi di nuovo da "architetto" (singolare). La corretta frase dovrebbe essere "Alcuni musei sono stati progettati da architetti" o "Alcuni musei sono stati progettati da un architetto".
+1	Correct
+0	Syntax La frase presenta un errore di sintassi: "ha alcuni progettato" non è una costruzione grammaticalmente corretta. La forma corretta sarebbe "ha progettato alcuni musei".
+0	Syntax La frase presenta un errore di sintassi. "Hanno letto, molte ragazze" dovrebbe essere "Molte ragazze hanno letto". Inoltre, "il giornale l'anno scorso" dovrebbe essere "il giornale l'anno scorso" o "il giornale lo scorso anno". La frase corretta sarebbe: "Molte ragazze hanno letto il giornale lo scorso anno".
+1	Correct
+1	Correct
+0	Syntax La frase presenta un errore di sintassi, poiché manca il verbo principale. La struttura corretta sarebbe "Che tu sia partita rallegra Beatrice" o "Sei partita, rallegra Beatrice".
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase dovrebbe essere "Tommaso obbedisce a Maria." Il preposizione "a" è necessaria per collegare correttamente il verbo "obbedisce" e il soggetto "Maria".
+0	Syntax In questa frase, il soggetto e l'oggetto diretto sono entrambi "Andrea", il che causa una ripetizione e una confusione grammaticale. Una correzione potrebbe essere: "Andrea confronta Leonardo con se stesso." In questo modo, il riferimento è chiaro e la frase è grammaticalmente corretta.
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Semantics La frase non è grammaticalmente corretta perché "abbaia" è un verbo che si riferisce al suono emesso dai cani, quindi non può essere usato per descrivere l'azione di un amico umano. La frase dovrebbe essere modificata per essere grammaticalmente corretta, ad esempio: "Il mio amico ride" o "Il mio amico parla".
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase presenta un errore di sintassi. "In gamba" è un'espressione idiomatica che indica essere abile, esperto o in forma. Tuttavia, in questo caso, manca un verbo che colleghi "Andrea" al predicato "in gamba". Una versione corretta della frase potrebbe essere: "Andrea è diventato in gamba" oppure "Andrea è diventato abile".
+1	Correct
+1	Correct
+0	Syntax
+1	Correct
+0	Semantics La frase è grammaticalmente corretta, ma semanticamente è improbabile che i bambini eruttino lava. L'azione descritta è poco realistica e contraria alle conoscenze generali sulle capacità umane.
+1	Correct
+0	Syntax La frase presenta un errore di sintassi. "Quell'uomo ne ha fotografato" richiede un complemento oggetto per completare il verbo "fotografare". Ad esempio: "Quell'uomo ne ha fotografato molti."
+0	Syntax The sentence is not grammatically correct because "il volto a Beatrice" is incorrect. The correct form would be "il volto di Beatrice" or "il volto di lei" to indicate that the face belongs to Beatrice or someone else.
+1	Correct
+1	Correct
+0	Semantics L'azione di "paralizzare" è una condizione medica o un danno fisico, non un'azione intenzionale che una persona può infliggere deliberatamente a qualcun altro. Questo rende la frase grammaticalmente accettabile, ma il significato semantico è improbabile. Per un'azione intenzionale, si potrebbe usare "ha bloccato" o "ha immobilizzato" al posto di "ha paralizzato". Se si vuole mantenere "paralizzato", bisogna specificare la causa, ad esempio, "ha causato la paralisi del braccio a Maria".
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase presenta un errore di sintassi. La struttura corretta dovrebbe essere: "Alice ha messo i vestiti nell'armadio e ciò è accaduto".
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase è sintatticamente scorretta perché il pronome "Maria" non può essere ripetuto due volte nel modo in cui è stato utilizzato. Si dovrebbe usare un pronome diverso per la seconda parte della frase, come "Il libro passa da Maria a lei" o "Il libro passa da Maria a Luisa" per indicare un'altra persona.
+1	Correct
+1	Correct
+1	Correct
+0	Syntax
+1	Correct
+0	Semantics La frase presenta un'incoerenza semantica. "Una bionda" è comunemente usato come riferimento a una sigaretta, ma in questo contesto è ambiguo e potrebbe essere interpretato come un riferimento a una persona bionda. Per evitare ambiguità, si può modificare la frase in "Sofia fuma una sigaretta bionda" o "Sofia fuma una bionda (sigaretta)" per rendere più chiara l'intenzione.
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax
+0	Syntax La frase "Alice bada Maria" non è grammaticalmente corretta perché manca il verbo principale e il contesto è confuso. La forma corretta dovrebbe essere "Alice guarda Maria" o "Alice si prende cura di Maria", a seconda del contesto e del significato desiderato.
+1	Correct
+1	Correct
+0	Syntax
+1	Correct
+0	Syntax
+1	Correct
+0	Syntax La frase presenta un errore di sintassi nella scelta delle parole e nella struttura della frase. Dovrebbe essere: "Alessandro invita Paola a partire."
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase "Avere fegato" non è grammaticalmente corretta poiché manca un verbo principale. La struttura della frase dovrebbe essere "avere" come verbo principale, seguito da un complemento oggetto. Un esempio di frase corretta sarebbe "Avere fegato per affrontare la situazione". In questo caso, il verbo "avere" è il verbo principale, "fegato" è il complemento oggetto, e "per affrontare la situazione" è un complemento di scopo.
+0	Morphology La frase presenta un errore morfologico. La parola "paturnie" dovrebbe essere al plurale, quindi la forma corretta è "avere le paturnie".
+0	Syntax La frase "Avere sulle scatole" è grammaticalmente scorretta. Sembra mancare il verbo principale e un oggetto diretto, rendendo la struttura sintattica imprecisa. Una versione corretta potrebbe essere "Avere scatole sulle mani" o "Tenere le scatole".
+0	Semantics La frase contiene un'espressione idiomatica, "essere in un ventre di vacca", che significa "essere in una situazione difficile". Tuttavia, è raro e può essere difficile da comprendere per chi non è familiare con l'espressione. Potrebbe essere preferibile utilizzare un'espressione più comune e comprensibile per migliorare la chiarezza e la coerenza del testo.
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase non è grammaticalmente corretta perché manca un verbo nel mezzo della frase. Una correzione potrebbe essere: "Beatrice scappa a comprare." In questo caso, la frase sarebbe grammaticalmente corretta.
+1	Correct
+1	Correct
+0	Syntax La frase non è grammaticalmente corretta perché la struttura non è chiara e il verbo "mette" non concorda con il soggetto "Sono i libri". Una versione corretta potrebbe essere: "Leonardo mette i libri sugli scaffali ora."
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax In questa frase, il problema di sintassi riguarda la struttura della frase. La corretta formulazione dovrebbe essere: "Era la conversazione che i due ragazzi fecero e che Paola criticò." La frase originale risulta ambigua e potrebbe essere interpretata in modo errato.
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax In italiano, la forma corretta dell'espressione è "Ho riso per due ore". Il problema è di tipo sintattico.
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase presenta un problema di costruzione grammaticale. "Il consenso della gente" è il soggetto e "è nato dal suo talento" è il predicato. Tuttavia, l'espressione "è nato" è usata in modo improprio. Si potrebbe dire "è stato generato" o "è emerso" per rendere la frase più coerente. La frase corretta sarebbe: "Il consenso della gente è emerso dal suo talento."
+1	Correct
+0	Syntax
+1	Correct
+0	Syntax La frase presenta un errore di sintassi. "Stabilì la partenza di Tommaso" è un'azione che richiede un complemento oggetto, ma "con Maria" non può svolgere questa funzione. Dovrebbe essere "Francesco stabilì la partenza di Tommaso con Maria", oppure "Francesco stabilì che Tommaso partisse con Maria".
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase contiene un errore sintattico. Dovrebbe essere "Gli monta il sangue alla testa molto facilmente" o "Gli monta facilmente il sangue alla testa". La collocazione delle parole "molto facilmente" non è corretta nella frase originale.
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase presenta un problema di costruzione sintattica. Una correzione sarebbe: "Il vento ha fatto rompere il vetro a causa di Andrea." In questo modo, viene chiarito che il vetro è stato rotto a causa di Andrea, non da Andrea.
+0	Semantics
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax
+1	Correct
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase presenta un errore di sintassi. "Carburato" è un verbo transitivo e richiede un oggetto diretto. L'espressione "in una settimana" sembra un complemento di tempo, ma è posizionata in modo incoerente. Una correzione possibile potrebbe essere: "Le vittorie hanno carburato il calciatore durante una settimana."
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Semantics La frase contiene un'incongruenza semantica, in quanto il vino non può diventare aceto "per ore". Il processo di ossidazione e acidificazione che trasforma il vino in aceto richiede tempo, ma non è misurabile in ore specifiche. Una correzione potrebbe essere: "Il vino è diventato aceto dopo diverse settimane."
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Semantics
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Semantics La frase contiene una contraddizione semantica, poiché il vino e l'aceto sono due sostanze distinte. Sebbene la struttura grammaticale della frase sia corretta, il significato è illogico.
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax L'errore di sintassi in questa frase è la presenza della preposizione "a" prima del nome proprio "Riccardo". La frase dovrebbe essere "A Riccardo, questi argomenti non lo hanno convinto." Poiché la preposizione "a" è usata per indicare un movimento verso qualcuno o qualcosa, non è appropriata in questo contesto. Inoltre, è consigliabile utilizzare un pronome come "lo" per riferirsi a "Riccardo" in modo coerente con il resto della frase.
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax
+0	Syntax
+0	Semantics La frase contiene un'incongruenza semantica. "Irretire" è un verbo transitivo, ma non ha un oggetto diretto appropriato in questa frase. La correzione potrebbe essere: "Maria ha fatto in modo che Leonardo fosse irretito" o "Maria ha irretito Leonardo".
+0	Syntax
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase è grammaticalmente non corretta. La preposizione "da" dovrebbe essere utilizzata al posto di "di" per indicare la causa dell'irritazione. La frase corretta sarebbe: "Riccardo è irritato da quella notizia."
+1	Correct
+1	Correct
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Semantics La frase non è grammaticalmente corretta perché il verbo "rotto" è usato in modo non idiomatico. Il verbo "rotto" è generalmente usato per descrivere oggetti fisici che si sono rotti o danneggiati. In questo caso, sembra che l'intenzione sia esprimere stanchezza o frustrazione nei confronti di Maria. Un'opzione più appropriata sarebbe "Gabriele è stufo di Maria".
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Semantics La frase contiene un errore semantico, poiché "in tavola" dovrebbe essere sostituito con "a tavola". La frase corretta sarebbe: "Giulia accompagna Gabriele a tavola."
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase non è grammaticalmente corretta perché la preposizione "in" dovrebbe essere "sulla" per indicare la posizione di Francesco sulla poltrona. La frase corretta sarebbe: "Francesco sta sulla poltrona."
+0	Syntax
+1	Correct
+1	Correct
+0	Semantics The phrase "Mi raccomando, tieni acqua in bocca" is not semantically correct because it uses an idiomatic expression "tenere acqua in bocca" (which means "to keep a secret") in a literal sense, which does not make sense in this context. A more appropriate phrase would be "Mi raccomando, non dire nulla" (I recommend you not say anything) or "Tieni il segreto" (Keep the secret).
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Morphology La parola "se" non è corretta in questo contesto. Dovrebbe essere sostituita con "si" per indicare il pronome riflessivo. La frase corretta sarebbe: "Emma si stava passando bene."
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Morphology La forma corretta del verbo "rizzò" dovrebbe essere "rizzò" (con una zeta), ma la forma presente nella frase è "rizzo" (con due zeta). Questo è un errore di ortografia o di morfologia.
+1	Correct
+0	Semantics La frase non è corretta perché "Alessandro" è un nome proprio e non può essere soggetto dell'azione di "prendere" una condizione medica come la "trombosi". La frase dovrebbe essere qualcosa come "Alessandro sviluppò una trombosi" o "Alessandro ebbe una trombosi".
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Semantics
+1	Correct
+0	Semantics La frase presenta un problema semantico, poiché è improbabile che un formaggio faccia la muffa. Tuttavia, è grammaticalmente corretta. La corretta espressione sarebbe "Il formaggio aveva la muffa" o "Il formaggio era coperto di muffa".
+1	Correct
+1	Correct
+1	Correct
+0	Semantics La frase "Giulia prese una dritta" non è grammaticalmente corretta. "Dritto" è un termine che si riferisce a una linea retta o a un'indicazione, ma nel contesto della frase sembra essere utilizzato in modo scorretto. La correzione potrebbe essere "Giulia prese un consiglio" o "Giulia ottenne una direzione".
+1	Correct
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase presenta un errore sintattico poiché il verbo "prese" richiede un oggetto diretto, ma nella frase manca un verbo ausiliare (essere o avere) per concordare il tempo passato. La forma corretta sarebbe stata "Andrea prese il cappello" o "Andrea ha preso il cappello".
+0	Syntax
+1	Correct
+1	Correct
+0	Syntax La frase non è grammaticalmente corretta, poiché "prese imbarco" non è una forma corretta di esprimere l'azione. Una correzione grammaticalmente accettabile sarebbe: "Leonardo salì a bordo della nave."
+1	Correct
+1	Correct
+0	Semantics La frase non è grammaticalmente corretta perché l'espressione "prese un odio" è sintatticamente corretta, ma semanticamente inappropriata. "Prendere odio" per qualcuno non è un'espressione accettabile in italiano, in quanto l'odio non può essere qualcosa che si prende. Potrebbe essere espresso in modo diverso, ad esempio "Paola iniziò a provare odio per Tommaso".
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase contiene un errore sintattico. Dovrebbe essere "Francesco prese il coltello per la manica." perché la lama non è la parte del coltello con cui si afferra, ma la parte tagliente. Il termine "manica" indica la parte del coltello che si impugna.
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax Il problema nella frase è sintattico. La parola "redazione" non sembra adattarsi al contesto, poiché i treni non vengono persi all'interno di una redazione. Potrebbe essere un errore di battitura o di comprensione del contesto. Una correzione possibile potrebbe essere "Ѐ stato perso troppe volte il treno, nella stazione".
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase "Tommaso mise giudizio" è sintatticamente scorretta, in quanto "giudizio" non può essere usato come verbo. Si può correggere la frase in "Tommaso espose il suo giudizio" o "Tommaso diede il suo giudizio".
+0	Syntax La frase presenta un errore sintattico. La forma corretta sarebbe stata "Lorenzo le diede due a Maria", poiché "diede" è la forma corretta del verbo dare al passato, e "le" è il pronome complemento oggetto femminile plurale corretto.
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase presenta un problema di coesione sintattica. La corretta espressione sarebbe "Ride di te in maniera beffarda". In questo caso, "di te" è un complemento oggetto indiretto, e normalmente si colloca dopo il verbo, mentre "in maniera beffarda" è un complemento di modo che descrive il verbo "ridere". Quindi, la corretta sequenza sarebbe: verbo, complemento oggetto indiretto, complemento di modo.
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase presenta un'inversione sintattica che può rendere difficile la comprensione. La struttura corretta sarebbe: "Il fatto che Andrea abbia telefonato ha causato il ritorno di Giulia."
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase presenta un errore di sintassi. La corretta formulazione dovrebbe essere: "Alessandro girò con l'auto per andare a raccoglierla."
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Semantics La frase contiene un errore semantico perché "potare" è un verbo utilizzato per indicare la potatura delle piante, non degli animali come il barboncino di Edoardo. Una corretta frase potrebbe essere: "Il giardiniere ha tagliato i capelli del barboncino di Edoardo."
+0	Syntax
+1	Correct
+1	Correct
+1	Correct.  La frase è grammaticalmente corretta e non presenta errori di morfologia, sintassi o semantica. La struttura e il significato della frase sono chiari e comprensibili.
+1	Correct
+1	Correct
+0	Semantics La frase non è semanticamente corretta poiché non è comune associare la parola "zanzara" con una "rigida condotta morale". La zanzara è un insetto e non è in grado di praticare una condotta morale.
+0	Semantics
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Semantics The sentence is not semantically correct because "carica della stilografica" (ink of the fountain pen) does not make sense in this context. A more appropriate way to phrase it could be "L'inchiostro rosso è il colore della stilografica" (Red ink is the color of the fountain pen).
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax
+1	Correct
+0	Semantics
+0	Semantics La frase non ha senso in quanto un frigorifero non può sedurre un tavolo. Le azioni e gli oggetti in questione sono incompatibili.
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase presenta un errore di sintassi. "Biglietto d'amore" dovrebbe essere al plurale perché "colleziona" richiede un oggetto plurale. La frase corretta sarebbe: "Maria colleziona biglietti d'amore."
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax
+1	Correct
+0	Semantics La frase contiene un'espressione idiomatica "piantare in asso", che significa abbandonare qualcuno inaspettatamente e senza preavviso. Tuttavia, il suo utilizzo è inadeguato in questa frase poiché l'oggetto della frase è "Giulia", che non può essere "abbandonata" nel modo in cui si riferisce all'espressione idiomatica. Una correzione potrebbe essere: "Beatrice ha lasciato Giulia da sola."
+1	Correct
+1	Correct
+0	Syntax La frase presenta un errore di sintassi, poiché "fa a cattivo gioco" non è una costruzione grammaticalmente corretta. Sarebbe corretto dire "Riccardo fa un gioco cattivo" o "Riccardo gioca male".
+0	Semantics La frase presenta un significato problematico, poiché "rompere il collo a qualcuno" è generalmente associato a un'azione violenta o fatale. Sebbene sia grammaticalmente corretta, il suo significato non sia accettabile in questo contesto.
+1	Correct
+0	Syntax
+0	Semantics La frase presenta un'incongruenza semantica, poiché le mosche non saltano, ma volano. Inoltre, il verbo "salta" non è appropriato per descrivere un'azione fatta da un insetto come la mosca. Una versione corretta potrebbe essere: "La mosca si posa sul naso di Riccardo."
+0	Semantics L'espressione "Andare a monte" è comprensibile, ma potrebbe essere considerata grammaticalmente scorretta o meno comune nell'uso quotidiano. La frase sarebbe più corretta se fosse "andare a monte" come espressione idiomatica che significa "fallire" o "andare male". In questo caso, il problema è semantico poiché la forma verbale "andare" richiede un complemento oggetto o un'espressione idiomatica appropriata per avere senso compiuto.
+0	Syntax La frase contiene un errore sintattico, poiché "essere all'indice" non è una frase corretta. "Indice" è un sostantivo e non un verbo, quindi non può essere usato come predicato della frase. La frase potrebbe essere corretta come "Essere inclusi nell'indice", dove "inclusi" è il verbo e "nell'indice" è un complemento di specificazione.
+0	Syntax La frase "Mettere all'indice" non è grammaticalmente corretta poiché manca il verbo principale. Una versione corretta potrebbe essere: "Mettere all'indice". In questo caso, il verbo "mettere" è il verbo principale e "all'indice" è il complemento di stato in luogo. Tuttavia, la struttura della frase potrebbe essere migliorata per una maggiore chiarezza.
+1	Correct
+1	Correct
+0	Syntax La frase presenta un errore di sintassi. La forma corretta sarebbe "tirare fuori le castagne dal fuoco a qualcuno", poiché "cavare" non è il verbo appropriato in questo contesto. La frase dovrebbe essere "tirare fuori le castagne dal fuoco a qualcuno", ma se si vuole mantenere "cavare", la frase dovrebbe essere "cavare le castagne dal fuoco a qualcuno".
+0	Syntax La frase "Essere povero in canna" presenta un errore sintattico. Probabilmente intendi "Essere povero in canna" come "Essere povero e in canna", dove "in canna" è un'espressione colloquiale che significa ubriaco. Tuttavia, la frase originale non è grammaticalmente corretta. La forma corretta sarebbe: "Essere povero ed essere in canna".
+1	Correct
+1	Correct
+0	Syntax
+0	Semantics
+1	Correct
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax La frase "Ciò guarda questa cosa" è grammaticalmente scorretta. La parola "ciò" non è comunemente usata come verbo e richiede un complemento oggetto. Inoltre, manca la forma corretta del verbo "guardare" che sarebbe "guarda" o "guarda". La frase dovrebbe essere "Guarda questa cosa" o "Ciò che guarda questa cosa". La correzione della frase dipende dal contesto e dall'intenzione dell'autore.
+0	Syntax La frase presenta un errore di sintassi. Il soggetto "Leonardo" e il verbo "studia" non sono in accordo, poiché il verbo dovrebbe concordare con il soggetto in termini di numero (singolare o plurale). Inoltre, l'uso di "intensamente" come avverbio modificatore di "li studia" non è corretto, poiché "intensamente" non può modificare direttamente il verbo "studiare". Un modo corretto di esprimere questa frase potrebbe essere: "Tutti i giorni, Leonardo studia intensamente per tre ore al giorno."
+1	Correct
+1	Correct
+0	Syntax La frase è grammaticalmente incompleta e non ha senso compiuto. Il verbo "deriva" richiede un complemento oggetto per indicare cosa derivi. Una versione corretta potrebbe essere: "Una tale conclusione deriva da un ragionamento errato."
+1	Correct
+1	Correct
+0	Syntax La frase presenta un problema di sintassi. "Sadismo" è un sostantivo, ma non è chiaro quale sia il verbo o l'azione specifica associata al sadismo in questo contesto. Inoltre, manca un verbo di collegamento tra "Francesco" e "pizzica". Una correzione potrebbe essere: "Francesco pizzica sadicamente."
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Morphology La parola "the" dovrebbe essere "te" per adattarsi al contesto. La frase corretta sarebbe: "Tutti bevono il te amaro."
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax
+1	Correct
+1	Correct
+1	Correct
+0	Syntax The sentence is not grammatically correct. The issue lies in the syntax, specifically in the verb usage. "Alloggia" should be replaced with "è alloggiato" to maintain the passive voice. The corrected sentence would be: "Il meccanismo di funzionamento del rotore è alloggiato in quell'involucro."
+1	Correct
+1	Correct
+0	Syntax L'errore di sintassi è dovuto all'uso improprio dell'espressione "ciò ha avuto luogo dalla borsa", che non è coerente con il contesto della frase. Una correzione sarebbe: "Paola ha estratto la pistola dalla borsa."
+1	Correct
+1	Correct
+1	Correct
+0	Semantics La frase è grammaticalmente corretta, ma il significato semantico potrebbe non essere chiaro. "Maria dà sepoltura al padre" indica che Maria sta seppellendo suo padre, ma l'aggiunta "sotto un albero" potrebbe essere ambigua o richiedere un contesto più specifico per essere compresa. Potrebbe essere meglio dire "Maria seppellisce suo padre sotto un albero" per una maggiore chiarezza.
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax Il problema sintattico in questa frase è dovuto all'uso della preposizione "con" due volte di seguito. Un modo per risolverlo potrebbe essere: "Maria fa l'innaffiatura delle piante con acqua e disinfestanti."
+1	Correct
+1	Correct

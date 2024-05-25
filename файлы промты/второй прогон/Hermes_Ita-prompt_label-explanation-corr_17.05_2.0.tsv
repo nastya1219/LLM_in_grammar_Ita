@@ -1,0 +1,947 @@
+label	explanation	correction
+0	La frase non è corretta perché manca il verbo 'chiedere' dopo 'voglio' e ci sono errori di preposizione.	Voglio chiedere di salutare Giulia.
+1	La frase è grammaticalmente corretta.	Ho voglia di salutare Sofia.
+1	La frase è grammaticalmente corretta.	Il mio lo preferito è la Divina Commedia. In questa frase, "il mio" è un possessivo che si riferisce al preferito, e "lo" è un pronome atono che si riferisce a "preferito". La struttura della frase è corretta. La Divina Commedia è un classico della letteratura italiana, quindi è appropriato dire che è il preferito del parlante.
+0	La frase contiene un'incongruenza logica, poiché "treno" e "Divina Commedia" sono concetti distinti e non possono essere paragonati direttamente.	La mia opera preferita è la Divina Commedia.
+1	La frase è grammaticalmente corretta e i verbi sono coniugati correttamente.	Lorenzo ha detto che Andrea ha parlato con Riccardo. La frase è già corretta.
+1	La frase è scritta correttamente in italiano.	Andrea sta elaborando la risposta. Spiegazione: La frase fornita è grammaticalmente corretta, utilizza la forma verbale "sta elaborando" per indicare che Andrea sta lavorando sulla risposta. Non ci sono errori grammaticali o sintattici evidenti nella frase.
+1	La frase è grammaticalmente corretta, poiché la struttura del verbo e dei nomi è corretta.	Alessandro ha incontrato Giulia.
+1	La frase è grammaticalmente corretta.	È ricomparso il padre del ragazzo.
+1	La frase è grammaticalmente corretta.	I prezzi sono aumentati.
+1	La frase è grammaticalmente corretta e accettabile.	Salvato Andrea, ci siamo dati alla pazza gioia.
+1	La frase è grammaticalmente corretta e coerente.	Il palazzo delle assicurazioni è crollato.
+1	La frase è grammaticalmente corretta.	Quella costruzione offende il buon gusto.
+1	La frase è grammaticalmente corretta.	Newton ha spiegato la forza di gravità.
+1	La frase è grammaticalmente corretta.	Mi hanno dato il premio.
+1	La frase è grammaticalmente corretta.	Tommaso si è danneggiato.
+1	La frase è grammaticalmente corretta.	Quegli uomini hanno denunciato se stessi.
+1	La frase è grammaticalmente corretta e accettabile.	Compro e leggo quel libro.
+1	La frase è grammaticalmente corretta.	Ho incontrato Lorenzo, non Emma.
+1	La frase è grammaticalmente corretta.	Non guardarlo.
+1	La frase è grammaticalmente corretta e accettabile.	Ho incontrato molti amici di Riccardo.
+1	La frase è grammaticalmente corretta e utilizza correttamente il verbo "trovare" con il complemento oggetto "il tuo libro" e il complemento di specificazione "in quella biblioteca".	Non ho trovato il tuo libro in quella biblioteca.
+1	La frase è grammaticalmente corretta.	La frase è già corretta.
+1	La frase è grammaticalmente corretta.	Riccardo ha promesso a Maria che metterà in vendita la propria casa.
+1	La frase è grammaticalmente corretta.	Maria ha salutato i suoi genitori.
+1	La frase è grammaticalmente corretta.	Riccardo non è molto intelligente.
+1	La frase è grammaticalmente corretta.	Riccardo non è molto, credo, intelligente.
+1	La frase è grammaticalmente corretta.	Hanno chiamato molte persone quel numero.
+1	La frase è grammaticalmente corretta e ha un significato comprensibile.	La frase è già corretta.
+1	La frase è grammaticalmente corretta.	Andrea è stato incontrato da Leonardo.
+1	La frase è grammaticalmente corretta.	Riccardo ha domandato da chi non era stato visto Leonardo. Nota: La frase è già corretta. Non ci sono errori grammaticali evidenti e segue le regole della sintassi italiana.
+1	La frase è grammaticalmente corretta.	Leonardo, mi hanno detto che parlerà domani.
+1	La frase è grammaticalmente corretta.	Gabriele, quando l'hai visto?
+1	La frase è grammaticalmente corretta.	La frase è già corretta.
+0	La frase contiene un errore di concordanza verbale. In questo caso, "hanno parlato" dovrebbe essere "ha parlato" perché "Quale politico" è un singolare.	Quale politico ha parlato?
+0	La frase presenta una struttura sintattica e semantica non chiara e corretta.	Quale politico ha parlato, secondo la radio, che il giudice ha dichiarato? (o una formulazione più chiara a seconda del contesto)
+1	La frase è grammaticalmente corretta.	Lorenzo ha detto che partirà domani.
+1	La frase è grammaticalmente corretta e le parole sono utilizzate nel contesto appropriato.	Quando è arrivato Francesco, abbiamo potuto cenare.
+1	La frase è grammaticalmente corretta e coerente.	La tempesta ha abbattuto la quercia sotto cui il figliol prodigo pascolava i porci.
+1	La frase è grammaticalmente corretta e comunica un significato chiaro.	Chi tocca i fili muore.
+1	La frase è grammaticalmente corretta e utilizza la forma verbale appropriata per esprimere il messaggio.	Alessandro, che è venuto a trovarmi ieri, mi ha detto di salutarti.
+1	La frase è grammaticalmente corretta.	La commissione ritiene dunque il candidato aver fornito sufficienti prove della sua maturità scientifica.
+1	La frase è grammaticalmente corretta.	Il timore della guerra è ingiustificato.
+1	La frase è grammaticalmente corretta e coerente.	Riccardo ha perso le chiavi.
+1	La frase è grammaticalmente corretta.	Alessandro è bramoso di potere.
+1	La frase è grammaticalmente corretta.	Penso che Francesco domandi l'ora a Lorenzo. In questa frase, il verbo "domandi" è la forma del verbo "domandare" in terza persona singolare del presente indicativo, che concorda con il soggetto "Francesco". La frase è quindi grammaticalmente corretta.
+1	La frase è grammaticalmente corretta e utilizza il verbo "affermare" in modo appropriato.	Tommaso ha affermato che Edoardo parla.
+1	La frase è grammaticalmente corretta e coerente.	La frase è già corretta.
+1	La frase è grammaticalmente corretta.	Tommaso ha ordinato ad Andrea di difenderlo.
+1	La frase presenta un errore di concordanza del verbo. Con un soggetto plurale come "il fatto di essere stati scoperti", il verbo "ci ha sconvolti" dovrebbe essere al plurale "ci hanno sconvolti".	Il fatto di essere stati scoperti un delitto ci ha sconvolti. Label: 0 Explanation: La frase ha un errore di concordanza tra il verbo "essere" e il participio passato "scoperti". Il participio passato deve concordare con il soggetto "il fatto" al singolare, quindi "scoperti" deve diventare "scoperto". Il fatto di essere stato scoperto un delitto ci ha sconvolti. Label: 1 Explanation: La frase è corretta, sebbene sia presente un errore di sintassi. Tuttavia, il significato può essere compreso e la frase è grammaticalmente accettabile. La frase è già corretta.
+1	La frase è grammaticalmente corretta e accettabile.	La frase è già corretta.
+1	La frase è grammaticalmente corretta e accettabile.	La sedia su cui ti sei seduto è rotta.
+1	La frase è grammaticalmente corretta.	Questa è la persona con cui Edoardo ha fatto l'affermazione che Tommaso ha parlato.
+0	La frase presenta un errore grammaticale perché manca la congiunzione "che" dopo il verbo "crede".	Edoardo crede che Sofia abbia baciato.
+0	La frase presenta un problema di coerenza e di correttezza grammaticale. La domanda inizia con "Che problema non sai" che è sbagliato, e il verbo "risolvere" è nella forma sbagliata.	Qual è il problema che non sappiamo come risolvere?
+0	La forma corretta del verbo 'avere' al passato remoto per la terza persona singolare è 'ebbe', non 'abbia'. 'Abbia' è usato come forma del verbo 'avere' nella costruzione del congiuntivo presente.	Lui è visto. (Se si intende che qualcuno ha visto lui)  Oppure:  Egli ha visto. (Se si intende che lui ha visto qualcosa)
+0	La frase presenta un errore di genere e numero. La parola "lo" è un pronome maschile singolare e non concorda con il pronome plurale "abbiamo" (noi abbiamo).	Abbiamo visto quello.
+1	La frase è grammaticalmente corretta e accettabile.	Sofia dice che Alessandro parlerà domani.
+0	La frase presenta un uso errato del pronome "mi" e di "se stessa". Inoltre, il verbo "avere" dovrebbe essere usato in modo corretto.	Beatrice ha dichiarato che non ha avuto nulla a che fare con Gabriele.
+1	La frase è grammaticalmente corretta.	Riccardo ha detto che Andrea si è guardato.
+1	La frase è grammaticalmente corretta.	Il padre di Andrea mi è sembrato molto contento quando gli ho parlato.
+1	La frase è grammaticalmente corretta e utilizza correttamente i verbi e i pronomi per esprimere le proprie idee.	Penso che Edoardo creda che Maria voglia che Gabriele veda Riccardo.
+1	La frase è grammaticalmente corretta e coerente.	Edoardo crede che Emma voglia che Tommaso veda Gabriele.
+1	La frase è grammaticalmente corretta e accettabile.	Il coniglio mangia.
+1	La frase è grammaticalmente corretta.	La frase è già corretta.
+0	La frase dovrebbe utilizzare la forma singolare 'è' invece della forma plurale 'sono'.	Per primo sono arrivato io, non tu.
+1	La frase è grammaticalmente corretta, poiché segue le regole della grammatica italiana.	Arriva un uomo.
+1	La frase è grammaticalmente corretta poiché utilizza il verbo "uccise" al passato remoto per indicare un'azione compiuta da Leonardo su Andrea.	Leonardo uccise Andrea.
+1	La frase è grammaticalmente corretta.	Andrea ha detti che Tommaso lo guarda.
+1	La frase è grammaticalmente corretta.	Gabriele ha voglia di andare al mare.
+1	La frase è grammaticalmente corretta.	È questo libro che non avevo mai letto.
+1	La frase è grammaticalmente corretta.	Da quel professore, Tommaso non è stato ancora interrogato? La frase è già corretta.
+1	La frase è grammaticalmente corretta e utilizza la forma verbale corretta per il soggetto "Alessandro".	Alessandro crede che invaderemo quel paese.
+0	La forma corretta della domanda dovrebbe essere "A proposito di questi paesi, quali crede Andrea che invaderanno?". La parola "qualche" richiede che segua un sostantivo al plurale, quindi "qualche" deve essere sostituito con "quali".	A proposito di questi paesi, quali crede Andrea che invaderanno?
+1	La frase è grammaticalmente corretta e coerente.	L'anno scorso Alessandro scriveva un libro, ma tutt'oggi non l'ha ancora finito.
+1	La frase è grammaticalmente corretta.	L'anno scorso, Edoardo scrisse un libro, ma a tutt'oggi non l'ha ancora finito.
+0	La frase contiene una contraddizione logica, poiché afferma che Gabriele è sia scapolo che sposato.	Gabriele è scapolo o è sposato. (In questo caso, ho corretto la frase originale per risolvere la contraddizione logica.)
+1	La frase è grammaticalmente corretta.	L'attuale re di Francia è calvo.
+1	La frase è grammaticalmente corretta e accettabile.	Qualche studente ha superato l'esame.
+0	La frase non è grammaticalmente corretta perché il significato non è chiaro e coerente. "Se qualche studente non ha superato l'esame" implica che almeno uno studente non ha superato l'esame, ma poi si afferma "allora ogni studente non ha superato l'esame", che è contraddittorio.	Se almeno un solo studente non ha superato l'esame, allora non tutti gli studenti hanno superato l'esame.
+1	La frase è grammaticalmente corretta.	Ieri ho promesso a Lorenzo di partire.
+1	La frase è grammaticalmente corretta.	Nel processo di primo grado, la corte dichiarò l'imputato innocente.
+1	La frase è grammaticalmente corretta, utilizza il verbo "combinerai" al futuro e il pronome "tu" è implicito.	Continua così e combinerai guai.
+1	La frase è già grammaticalmente corretta.	Ho preso le chiavi.
+1	La frase è grammaticalmente corretta e coerente.	Andrea, trasmettendoci le commissioni della marchesa: "Ha detto: "Darete loro il buongiorno"".
+1	La frase è grammaticalmente corretta e accettabile.	Una bella casa fa comodo.
+1	La frase è grammaticalmente corretta.	Prendiamo questo.
+1	La frase è grammaticalmente corretta e accettabile.	Uso il gladio. In questa frase, "Uso il gladio" è una frase semplice in italiano che utilizza il verbo "usare" e il sostantivo "gladio" per indicare l'azione di utilizzare una spada romana. La struttura della frase è corretta e non presenta errori grammaticali.
+1	La frase è grammaticalmente corretta e accettabile.	Il calcolatore funziona bene.
+0	La frase non è completa e non ha un verbo principale per formare una frase grammaticalmente corretta.	Scusa! (La frase è già corretta)
+1	La frase è grammaticalmente corretta.	Le ragazze sono arrivate.
+1	La frase è grammaticalmente corretta e le parole sono utilizzate nel contesto appropriato.	La frase è già corretta.
+1	La frase è grammaticalmente corretta.	La frase è già corretta.
+1	La frase è grammaticalmente corretta e accettabile.	Legge velocemente.
+1	La frase è grammaticalmente corretta.	La frase è già corretta.
+1	La frase è grammaticalmente corretta e accettabile.	Sto andando a prendere la macchina.
+1	La frase è grammaticalmente corretta e coerente.	La frase è già corretta.
+1	La frase è grammaticalmente corretta e accettabile.	Va' a casa!
+1	La frase è corretta poiché utilizza il verbo essere al presente indicativo nella forma singolare 'sono' per adattarsi al soggetto 'Io'.	Io sono affamato.
+1	La frase è grammaticalmente corretta.	Bravo, questo ragazzo.
+1	La frase è grammaticalmente corretta e semantica.	Paola è una donna che apprezziamo molto.
+1	La frase è grammaticalmente corretta e accettabile.	Cosa fai domani?
+1	La frase è grammaticalmente corretta.	Ho visto il libro che mi hai regalato.
+1	La frase è grammaticalmente corretta.	Gli amici il cui maestro è Andrea.
+1	La frase è grammaticalmente corretta e accettabile.	Credo che tu abbia ragione.
+1	La frase è grammaticalmente corretta e utilizza la forma riflessiva del verbo 'fare' ('si è fatto male') per indicare che la persona si è fatta male a causa della caduta.	Siccome è caduto, si è fatto male.
+1	La frase è grammaticalmente corretta.	Volevano distruggerla e l'hanno distrutta.
+1	La frase è grammaticalmente corretta.	Ognuno prenda il suo cappotto.
+1	La frase è grammaticalmente corretta e accettabile.	Prendimi quell'aggeggio.
+1	La frase è grammaticalmente corretta.	Ho dato al bambino il latte, ma lui non l'ha bevuto.
+1	La frase è grammaticalmente corretta.	Maria usa il computer, io non lo so fare.
+1	La frase è grammaticalmente corretta.	Ho visto una casa.
+1	La frase è grammaticalmente corretta e accettabile.	Ho visto tua madre.
+1	La frase è grammaticalmente corretta.	La persona che mi ha parlato.
+1	La frase è grammaticalmente corretta e coerente.	La frase è già corretta.
+1	La frase è grammaticalmente corretta e accettabile.	La frase è già corretta.
+1	La frase è grammaticalmente corretta.	Ho due case.
+1	La frase è grammaticalmente corretta.	Ho delle case.
+1	La frase è grammaticalmente corretta e non ci sono errori.	Il cavallo è arrivato primo.
+1	La frase è grammaticalmente corretta.	I cavalli sono animali resistenti.
+1	La frase è grammaticalmente corretta.	È venuto qualcuno.
+1	La frase è già corretta.	È arrivato.
+1	La frase è già corretta.	Posso venire.
+1	La frase è grammaticalmente corretta, poiché il verbo "piove" è all'indicativo presente, terza persona singolare, e si accorda correttamente con il soggetto implicito "domani".	Magari domani piove.
+1	La frase è grammaticalmente corretta.	Lui è stato colto dalla pioggia.
+1	La frase è grammaticalmente corretta.	Scrive una lettera a sua zia.
+1	La frase è grammaticalmente corretta e accettabile.	Egli lo vide.
+1	La frase è grammaticalmente corretta.	Alessandro promette ad Edoardo di restare a casa.
+1	La frase è grammaticalmente corretta.	Riccardo non ha tempo.
+1	La frase è grammaticalmente corretta.	Ho riparato il tavolo.
+1	La frase è grammaticalmente corretta.	Hanno aperto il libro.
+1	La frase è grammaticalmente corretta e accettabile.	La frase è già corretta.
+1	La frase è grammaticalmente corretta e coerente.	Quel ragazzo apre la porta.
+1	La frase è grammaticalmente corretta.	Ho sentito cantare i ragazzi.
+0	La frase contiene un errore di coerenza semantica. "La macchina" non può volere qualcosa, e "lui" è usato in modo non corretto.	Lui vuole lavare la macchina.
+1	La frase è corretta in termini di grammatica e concordanza verbale.	È il meccanico che è venuto.
+1	La frase è grammaticalmente corretta.	È venire fino a Napoli che non voglio.
+1	La frase è grammaticalmente corretta e ha un senso compiuto.	Quanto al bagno, mi fa piacere.
+1	La frase è grammaticalmente corretta.	Hai presente Lorenzo?
+1	La frase è grammaticalmente corretta.	E da quando vive in America? In questa frase, il verbo "vive" concorda correttamente con il soggetto "E" (da quando). La domanda richiede informazioni sul tempo in cui qualcuno risiede negli Stati Uniti.
+1	La frase è grammaticalmente corretta.	Credi che sia possibile una cosa del genere?
+0	La concordanza dei tempi verbali e la struttura della frase non sono corrette.	Appena detto ciò, mi lasciò piangere e volevo dire molte cose.
+1	La frase è grammaticalmente corretta e utilizza il pronome dimostrativo "sei" per riferirsi a una persona o a un gruppo di persone.	Sei sempre lo stesso: un amico fidato, paziente e onesto.
+1	La frase è grammaticalmente corretta e il suo significato è chiaro.	Il vento forte sul mare può provocare mareggiate.
+1	La frase "Piangere forte" è grammaticalmente corretta, sebbene sia una frase incompleta.	La frase è già corretta.
+1	La frase è grammaticalmente corretta.	Ho preso in casa una specie di gatto.
+1	La frase è grammaticalmente corretta.	Ho preso dello zucchero.
+1	La frase è grammaticalmente corretta e accettabile.	Non mi piace il vino.
+1	La frase è grammaticalmente corretta e coerente.	Quel che vendo è merce cinese.
+0	La frase non è grammaticalmente corretta. "Mettere" è un verbo, e "fretta" è un sostantivo, ma in questa forma non sono combinati correttamente in una frase.	Sii più frettoloso. (Se l'intenzione era di esprimere un'azione veloce) Label: 0 Explanation: La frase non è grammaticalmente corretta. "Mettere fretta" dovrebbe essere "mettere in fretta" o "fare in fretta". Fare in fretta.
+1	La frase è grammaticalmente corretta.	È stato bandito un concorso.
+1	La frase è grammaticalmente corretta.	Tutte le balene devono essere protette.
+1	La frase è grammaticalmente corretta e accettabile.	Mettitelo bene in capo. Ecco una spiegazione dettagliata della frase: - "Mettitelo" è un imperativo, che è una forma verbale che indica un ordine o un'istruzione. - "bene" è un avverbio che modifica il verbo "mettere" e indica che l'azione deve essere eseguita correttamente. - "in capo" è un complemento di luogo che indica la posizione in cui l'azione deve essere eseguita, cioè sulla testa. Quindi, la frase "Mettitelo bene in capo" è un'istruzione chiara e grammaticalmente corretta per posizionare qualcosa sulla testa nel modo giusto.
+0	La frase presenta un'incongruenza logica, in quanto non è possibile che qualcosa sia sia vecchio che nuovo contemporaneamente.	La macchina è vecchia, ma è stata recentemente rinnovata.
+1	La frase è grammaticalmente corretta.	Leonardo non conosce Maria.
+1	La frase è grammaticalmente corretta e coerente.	Il governo ha abolito la legge.
+1	La frase è grammaticalmente corretta.	Ho spazzolato le scarpe.
+1	La frase è grammaticalmente corretta e accettabile.	Tommaso abita da dieci anni.
+1	La frase è grammaticalmente corretta, con il verbo "ha dato" all'indicativo passato prossimo, accordato con il soggetto "Riccardo" e con l'oggetto diretto "un libro" e l'oggetto indiretto "a Sofia".	Riccardo ha dato un libro a Sofia.
+1	La frase è grammaticalmente corretta e coerente.	Maria ha corso per ore.
+1	La frase è grammaticalmente corretta e accettabile.	Francesco ha bevuto un caffè.
+1	La frase è grammaticalmente corretta e accettabile.	Andrea ha trovato un biglietto per l'opera.
+1	La frase è grammaticalmente corretta.	Edoardo sta compilando.
+1	La frase è grammaticalmente corretta e accettabile.	La frase è già corretta.
+1	La frase presentata è una frase imperativa e quindi non richiede un verbo ausiliare.	Aprire un nuovo negozio.
+1	La frase è corretta dal punto di vista grammaticale, poiché utilizza un verbo all'infinito per indicare un'azione in generale.	Iniziare un'attività.
+1	La frase è grammaticalmente corretta e accettabile.	La porta si è chiusa.
+1	La frase è grammaticalmente corretta.	Gabriele non ammette di essere preso in giro.
+1	La frase è corretta dal punto di vista grammaticale.	Paola ha restituito il libro.
+1	La frase è grammaticalmente corretta.	Che cosa ha preso? La frase "Che cosa ha preso?" è corretta perché il soggetto "Che cosa" richiede il verbo "avere" all'indicativo presente, terza persona singolare "ha". Quindi, la domanda è correttamente formulata.
+1	La frase è grammaticalmente corretta.	Le scarpe si sono macchiate.
+1	La frase è grammaticalmente corretta.	Le giornate si sono accorciate.
+1	La frase è grammaticalmente corretta.	Qualcosa ha accorciato le giornate.
+1	La frase è grammaticalmente corretta.	Qualcuno ha accorciato le giornate.
+1	La frase è grammaticalmente corretta.	Aggrapparsi a un ramo.
+1	La frase è grammaticalmente corretta.	Arenatesi le navi, gli equipaggi sono scesi a terra.
+1	La frase è grammaticalmente corretta e accettabile.	La nebbia è svanita.
+0	La frase è sintatticamente scorretta poiché "si" è usato in modo errato. In questo caso, "si" dovrebbe essere utilizzato come pronome riflessivo, ma non ha un verbo corrispondente.	Alessandro si piange sempre.  Correzione: Alessandro piange sempre.
+1	La frase è grammaticalmente corretta e il significato è chiaro.	Riccardo si lagna sempre.
+1	La frase è grammaticalmente corretta.	Alle sue parole, Maria ha annuito.
+1	La frase è grammaticalmente corretta.	L'acqua è sgorgata all'improvviso.
+1	La frase è grammaticalmente corretta.	Andrea ha sbadigliato? (La frase è già corretta.)
+1	La frase è corretta.	Riccardo pedala.
+1	La frase è grammaticalmente corretta.	È approfittato dell'esperienza.
+1	La frase è grammaticalmente corretta.	Il figlio di Francesco si siede in prima fila alle 8 in punto.
+1	La frase è grammaticalmente corretta e sensata.	La frase è già corretta.
+0	La frase non è grammaticalmente corretta perché il verbo "ammuffisce" è al singolare, ma il soggetto "il muro" è al plurale.	I muri ammuffiscono in una giornata.
+1	La frase è grammaticalmente corretta e coerente.	Paola sta suonando un pezzo di Bach.
+1	La frase è grammaticalmente corretta e accettabile.	Il coro canta molto bene.
+1	La frase è grammaticalmente corretta.	Riccardo aspirava sempre il fumo del sigaro.
+1	La frase è grammaticalmente corretta e accettabile.	Andrea aspira a diventare medico.
+1	La frase è corretta dal punto di vista grammaticale.	Lorenzo non ha cucinato.
+0	La parola corretta per indicare l'atto di scrivere è "scrivere" invece di "scrive".	La lettera scrive. (La frase è già corretta, ma per essere grammaticalmente corretta, dovrebbe essere "La lettera scrive" se si vuole descrivere il soggetto come qualcosa che scrive, ad esempio un dispositivo.)
+0	La frase non è completa e non è chiaro il soggetto o il verbo.	Disturbo qualcosa?
+1	La frase è grammaticalmente corretta.	Leonardo sta compilando.
+1	La frase è grammaticalmente corretta e accettabile.	Riccardo non scrive più da un pezzo.
+1	La frase è grammaticalmente corretta e coerente.	Il macchinista si è fermato.
+0	La frase manca di un complemento oggetto o di un'informazione che spieghi cosa i negozianti hanno aumentato.	I negozianti hanno aumentato i prezzi.
+1	La frase è grammaticalmente corretta poiché utilizza il verbo essere (sono) nella forma corretta per il plurale in italiano.	I bicchieri si sono rotti.
+1	La frase è grammaticalmente corretta.	Paola ha acceso il fuoco.
+1	La frase è grammaticalmente corretta e coerente.	Il soggiorno in Canada ha migliorato il suo inglese.
+1	La frase è grammaticalmente corretta e accettabile.	La lezione ha continuato.
+1	La frase "Saltare un ostacolo" è grammaticalmente corretta e accettabile.	Saltare un ostacolo.
+1	La frase è grammaticalmente corretta poiché il verbo "essersi commossi" è coniugato correttamente nel tempo passato prossimo, al plurale, per la terza persona.	Tutti si sono commossi.
+1	La frase è grammaticalmente corretta e accettabile.	Si è macchiata la tovaglia.
+1	La frase è grammaticalmente corretta.	Macchia il vino.
+1	La frase è grammaticalmente corretta e accettabile.	L'acqua è gelata in due ore.
+0	La frase contiene un errore di accordo tra il soggetto "tappe" e il verbo "hanno bruciato". Il verbo dovrebbe essere coniugato al singolare perché il soggetto è plurale.	Le tappe hanno bruciato per un'ora. (La frase è già corretta.)
+1	La frase è grammaticalmente corretta.	Il vetro si rompe.
+1	La frase è grammaticalmente corretta e accettabile.	Ha verificato l'autenticità della firma.
+1	La frase è grammaticalmente corretta e non ci sono errori di coniugazione o accordo.	Riccardo lava la macchina.
+1	La frase è grammaticalmente corretta.	Paola ha visto la partita con gli amici.
+1	La frase è grammaticalmente corretta.	Gabriele si è tagliato le basette.
+1	La frase è grammaticalmente corretta.	Riccardo si è tagliato il mento con il rasoio.
+1	La frase è grammaticalmente corretta.	Francesco si è calmato, irrigidito.
+1	La frase è grammaticalmente corretta.	Si è rotto il vetro.
+0	La frase contiene un errore di concordanza dei verbi. Il verbo "mangiati" è al participio passato e deve concordare con il soggetto "voi", quindi dovrebbe essere "mangiate" e "bevuti" dovrebbe essere "bevute" per accordarsi con il soggetto femminile "voi".	Venite alla festa mangiate e bevute.
+1	La frase è grammaticalmente corretta.	Il dibattito è continuato.
+1	La frase è grammaticalmente corretta e accettabile.	Il dibattito ha continuato.
+1	La frase è grammaticalmente corretta e coerente.	Riccardo ha cancellato la scritta.
+0	La frase contiene un errore di accordo tra soggetto e verbo. Il soggetto "Leonardo" è singolare, ma il verbo "suona" è all'infinito e non concorda con il soggetto.	Leonardo suona il telefono. (La frase è già corretta.)
+1	La frase è grammaticalmente corretta e accettabile.	Il livello si è alzato.
+1	La frase è grammaticalmente corretta.	Francesco ha bruciato la torta.
+1	La frase è grammaticalmente corretta.	Edoardo è pentito.
+0	In questa frase, il verbo "è" è stato omesso, rendendo la frase grammaticalmente scorretta.	Il bosco è bruciato per tre ore.
+1	La frase è grammaticalmente corretta e accettabile.	La biancheria si è asciugata per un'ora.
+1	La frase è grammaticalmente corretta e il significato è chiaro.	Il libro è sparito per tre giorni, poi è improvvisamente ricomparso sul mio tavolo.
+1	La frase è grammaticalmente corretta.	Riccardo si è ingrassato.
+1	La frase è grammaticalmente corretta.	Tommaso è ingrassato molto dall'ultima volta che l'ho vista.
+0	La frase contiene un errore di tempo. "In un'ora" indica che l'evento è avvenuto in un'ora, ma qui si vuole esprimere che la televisione si è rotta durante un'ora, quindi va usata la preposizione "durante".	Si è rotta la televisione durante un'ora.
+1	La frase è grammaticalmente corretta.	La frase è già corretta.
+1	La frase è grammaticalmente corretta e coerente.	Il treno si è un po' fermato.
+1	La frase è grammaticalmente corretta.	La camicia è sporca.
+1	La frase è grammaticalmente corretta e accettabile.	Ho notato un libro caduto.
+1	La frase è grammaticalmente corretta e coerente.	Alessandro conosce le strade.
+0	La frase suggerisce che Andrea sta approfittando di Maria in modo negativo, il che non è grammaticalmente corretto.	Andrea aiuta Maria.
+1	La frase è grammaticalmente corretta.	Chi Leonardo ama?
+1	La frase è già corretta.	Francesco è il capo.
+1	La frase è grammaticalmente corretta.	Trenta chili sono pesati da Alessandro.
+1	La frase è grammaticalmente corretta.	Mio nonno ha venduto il suo podere.
+1	La frase è grammaticalmente corretta e accettabile.	Due lingue sono parlate da tutti i miei studenti.
+1	La frase è grammaticalmente corretta.	Otto ore al giorno sono studiate da Tommaso.
+1	La frase è grammaticalmente corretta e accettabile.	Alessandro trivella questa cosa.
+1	La frase è grammaticalmente corretta.	Tommaso torna da Roma.
+1	La frase è grammaticalmente corretta.	Francesco macina il caffè in un vecchio macinino.
+1	La frase è grammaticalmente corretta e accettabile.	Tommaso rubò il portafoglio a Maria in un autobus.
+1	La frase è grammaticalmente corretta.	Dove Riccardo mise la cassa nel mobile? Nota: La frase data è già corretta, quindi non è necessario fornire una versione corretta della frase.
+1	La frase è grammaticalmente corretta.	Lo scoglio affiora.
+1	La frase è grammaticalmente corretta.	Andrea si comporta.
+1	La frase è grammaticalmente corretta.	Leonardo sottrae la penna.
+1	La frase è grammaticalmente corretta e coerente in italiano.	Lorenzo toglie dalla cassaforte il giornale.
+1	La frase è grammaticalmente corretta.	Alessandro legge un libro a letto.
+1	La frase è grammaticalmente corretta.	Riccardo beve il the in una tazzina di porcellana.
+1	La frase è grammaticalmente corretta e comprensibile.	La frase è già corretta.
+1	La frase è grammaticalmente corretta.	Tommaso estrasse la pistola nel bar.
+1	La frase è grammaticalmente corretta.	Riccardo ci mangia il riso.
+1	La frase presenta un errore sintattico, poiché manca la congiunzione o il pronome necessario per collegare le due parti della frase.	Tommaso vi sostiene la lastra.  Label: 1 Explanation: La frase è grammaticalmente corretta, ma potrebbe essere migliorata per maggiore chiarezza, ad esempio: "Tommaso vi sostiene nel sollevamento della lastra." Tommaso vi sostiene nel sollevamento della lastra.
+1	La frase è grammaticalmente corretta.	Edoardo prese il libro di storia dalla libreria.
+1	La frase è grammaticalmente corretta.	Leonardo prende il libro dalla sala della biblioteca.
+1	La frase è grammaticalmente corretta.	Gabriele mette le casse sul ripiano del montacarichi.
+1	La frase è grammaticalmente corretta e il significato è chiaro.	La frase è già corretta.
+1	La frase è grammaticalmente corretta e coerente.	Tommaso toglie i soldi dal cassetto.
+1	La frase è grammaticalmente corretta e le parole sono utilizzate in modo appropriato.	La chiave sta nella toppa.
+1	La frase è grammaticalmente corretta e accettabile.	La frase è già corretta.
+1	La frase è grammaticalmente corretta.	Francesco ha lanciato il pallone dal balcone al giardino.
+1	La frase è grammaticalmente corretta.	Dal giardino Leonardo ha piantato fiori al garage.
+1	La frase è grammaticalmente corretta.	Edoardo carica le casse sulla nave.
+1	La frase è grammaticalmente corretta.	La scala poggia contro il muro.
+1	La frase è grammaticalmente corretta e coerente in termini di struttura e significato.	I rivoltosi incarcerarono Gabriele nelle segrete della fortezza.
+1	La frase è grammaticalmente corretta.	Francesco chiuse Giulia nella stanza.
+1	La frase è grammaticalmente corretta.	Gabriele chiuse il denaro.
+1	La frase è grammaticalmente corretta.	Gabriele dette appoggio al libro.
+1	La frase è grammaticalmente corretta.	Alessandro dette appoggio alla diffusione del libro.
+1	La frase è grammaticalmente corretta.	Lorenzo caricò il camion.
+1	La frase è grammaticalmente corretta e coerente.	Questo latte deterge le impurità dal volto.
+1	La frase è grammaticalmente corretta.	Riccardo stipò l'armadio con i vestiti.
+1	La frase è grammaticalmente corretta.	La fotografia di Giulia e quella di Lorenzo stanno attaccate.
+0	La frase non è chiara e non è grammaticalmente corretta. La parola 'finestra' non dovrebbe essere utilizzata in questo contesto e la struttura della frase non è corretta.	Riccardo allontanò Paola da una finestra.
+1	La frase è grammaticalmente corretta e il significato è chiaro.	Francesco avvolge la statua in una tela di lino.
+1	La frase è grammaticalmente corretta e priva di errori.	Alessandro accompagna Sofia al cinema.
+1	La frase è grammaticalmente corretta.	Andrea accompagnò Paola a scuola.
+1	La frase è grammaticalmente corretta.	La frase è già corretta.
+1	La frase è grammaticalmente corretta.	Andrea attraversò la parte meno pericolosa del fiume.
+0	La frase contiene un errore di accordo soggetto-verbo.	Ho l'intenzione di vestirmi da sposa.
+1	La frase è grammaticalmente corretta.	Francesco mangiava il pane con soddisfazione.
+1	La frase è grammaticalmente corretta.	Quella mattina pioveva a dirotto.
+0	Il verbo 'bere' deve essere coniugato correttamente, e in questo caso, dovrebbe essere 'bevo' per la prima persona singolare.	Bevo il vino, Alessandro.
+1	La frase è grammaticalmente corretta.	Francesco ha telefonato e Maria è venuta.
+1	La frase è grammaticalmente corretta.	Quel libro è stato dato a Paola da Gabriele.
+1	La frase è grammaticalmente corretta.	Paola riceve quel libro da Riccardo.
+1	La frase è grammaticalmente corretta e accettabile.	Andrea mangia un polpo.
+1	La frase è grammaticalmente corretta e coerente.	Tommaso mangia questo.
+1	La frase è grammaticalmente corretta.	Sofia lo adora.
+0	La frase implica che l'artrosi ha una capacità di paralisi, ma l'artrosi è una condizione degenerativa, non una forza attiva che può paralizzare.	L'artrosi ha causato dolore e limitato il movimento delle ossa.
+0	La frase contiene un errore di accordo tra il soggetto "Maria" e il verbo "vuole". Inoltre, il pronome "lo" non è corretto in questo contesto.	Maria vuole mangiarlo.
+1	La frase è grammaticalmente corretta.	Lorenzo ammira Alice.
+1	La frase è grammaticalmente corretta e accettabile.	Riccardo la ammira.
+1	La frase è grammaticalmente corretta.	Edoardo mira alla presidenza.
+1	La frase è grammaticalmente corretta e utilizza la forma corretta del verbo essere nel contesto dato.	È sul letto che Maria salta.
+1	La frase è grammaticalmente corretta.	È subito che Edoardo vuole il caffè.
+0	La frase contiene un'inversione di parole, che la rende difficile da comprendere. Il soggetto "Tommaso" dovrebbe precedere il verbo.	Tommaso tiene al successo.
+1	La frase è grammaticalmente corretta.	È alla presidenza che mira Leonardo.
+1	La frase è grammaticalmente corretta.	Riccardo adora il cinema.
+1	La frase è grammaticalmente corretta.	È il cinema che Francesco adora.
+1	La frase è grammaticalmente corretta e il soggetto "il cinema" è concordato correttamente con il verbo "adora".	È il cinema e non la musica che Alessandro adora.
+1	La frase è grammaticalmente corretta.	I denti di Emma battono dal freddo.
+0	La frase presenta diversi errori grammaticali. "Alessandro" è un nome proprio e come tale non può essere concordato al plurale, quindi è sbagliato dire "le adora". Inoltre, "che hanno gambe lunghe" dovrebbe concordare con "le donne", quindi dovrebbe essere "che hanno le gambe lunghe".	Alessandro ama che le donne abbiano gambe lunghe.
+0	In italiano, la preposizione "di" viene usata per indicare la relazione tra due sostantivi, ma non per indicare la posizione. Per indicare la posizione, si usa la preposizione "da". Inoltre, il verbo "adora" richiede un complemento oggetto, che non è presente nella frase.	Andrea adora le amiche di Emma. Explanation: Ho rimosso la preposizione "ne" e ho cambiato "da" in "di" per rendere la frase corretta in italiano. Ho anche aggiunto un complemento oggetto al verbo "adora" per migliorare la struttura della frase.
+1	La frase è grammaticalmente corretta.	Gabriele mangia un gelato.
+0	In questa frase, è presente un'incoerenza nella scelta del nome del soggetto, poiché entrambi sono "Riccardo".	Riccardo promette a un altro Riccardo che verrà.
+1	La frase è grammaticalmente corretta.	Il polpo è divorato da Sofia.
+0	La frase presenta un errore di concordanza tra il soggetto e il verbo. Il verbo "esula" concorda con il soggetto plurale "doveri", ma il soggetto "la tolleranza" è singolare.	La tolleranza ne esclude i suoi doveri.
+1	La frase è grammaticalmente corretta.	Riccardo ci viene da Roma.
+1	La frase è grammaticalmente corretta.	Andrea pensa a Paola.
+1	La frase è grammaticalmente corretta e coerente.	Sofia accompagna Maria in Cina.
+1	La frase è grammaticalmente corretta.	Emma e il film si sono visti.
+1	La frase è grammaticalmente corretta.	Alessandro ammira la casa che è di Paola.
+1	La frase è grammaticalmente corretta e accettabile.	Beatrice involontariamente assorbe Francesco.
+1	La frase è grammaticalmente corretta.	Lorenzo distribuisce mattoni. Tuttavia, la frase potrebbe essere migliorata per essere più naturale: "Lorenzo distribuisce i mattoni."
+0	La frase presenta una struttura sintattica sbagliata. "Che" è usato come congiunzione relativa e non è coerente con il resto della frase. Inoltre, il verbo "dipinga" è all'imperativo e non si adatta al resto della frase.	È bello che Riccardo dipinga.
+1	La frase è grammaticalmente corretta e coerente.	Sofia passeggia per Venezia.
+1	La frase è grammaticalmente corretta e accettabile.	Maria raccoglie sassolini.
+1	La frase è grammaticalmente corretta e accettabile.	Giulia legge.
+1	La frase è grammaticalmente corretta e non richiede modifiche.	Beatrice schermisce con abilità.
+1	La frase è grammaticalmente corretta.	Maria traveste Alice.
+1	La frase è corretta dal punto di vista grammaticale.	Emma umilia Edoardo.
+1	La frase è grammaticalmente corretta.	Il fulmine cadde sulla testa di Andrea.
+1	La frase è grammaticalmente corretta e accettabile.	Fa neve.
+1	La frase è grammaticalmente corretta.	Alessandro dormicchia nell'inazione più totale.
+1	La frase è grammaticalmente corretta.	La maionese non ha preso bene.
+1	La frase è grammaticalmente corretta e coerente.	Maria sorride a Giulia.
+1	La frase è grammaticalmente corretta.	Quel vestito non va ad Alice.
+1	La frase è grammaticalmente corretta e coerente.	La frase è già corretta.
+1	La frase è grammaticalmente corretta.	Una stella splende nel cielo.
+1	La frase è grammaticalmente corretta.	Una stella brilla nel cielo.
+1	La frase è grammaticalmente corretta.	Una stella scintilla nel cielo.
+1	La frase è grammaticalmente corretta.	Il vestito di Maria scintilla di uno stupendo diamante.
+1	La frase è grammaticalmente corretta e accettabile.	Beatrice arde dalla passione.
+1	La frase è grammaticalmente corretta.	Paola luccicava dall'emozione.
+1	La frase è grammaticalmente corretta.	Quell'idea si fa chiara nel suo animo.
+1	La frase è grammaticalmente corretta, utilizza il verbo "ritornare" in terza persona singolare al presente indicativo e il pronome "vi" come complemento di termine.	Gabriele vi ritorna.
+1	La frase è grammaticalmente corretta e accettabile.	Riccardo giunge in casa.
+1	La frase è grammaticalmente corretta.	La scala scende in cantina.
+1	La frase è grammaticalmente corretta e accettabile.	Il sentiero ci arriva.
+1	La frase è grammaticalmente corretta.	La Maggioranza patteggia con l'Opposizione.
+1	La frase è grammaticalmente corretta.	Emma lotta su questo punto.
+1	La frase è grammaticalmente corretta e le parole sono usate nel contesto appropriato.	Riccardo taglia il pane a fetta.
+1	La frase è grammaticalmente corretta.	Riccardo gli vide il volto.
+1	La frase è grammaticalmente corretta e comprensibile.	Il sarto ha confezionato un vestito di lino.
+1	La frase è grammaticalmente corretta.	Tommaso ha edificato una palazzina nel centro di Roma.
+1	La frase è grammaticalmente corretta e accettabile.	Andrea è brutale con Alice.
+1	La frase è grammaticalmente corretta e coerente.	Il Giappone colonizzò la Manciuria.
+1	La frase è grammaticalmente corretta e coerente.	Leonardo aveva ammassato pacchetti alla base della libreria.
+1	La frase è grammaticalmente corretta e accettabile.	Leonardo aveva ammassato contro il muro.
+1	La frase è grammaticalmente corretta e accettabile.	Lorenzo ci aveva ammassato pacchetti.
+1	La frase è grammaticalmente corretta, poiché segue la struttura e la grammatica della lingua italiana.	L'avaro accumula ricchezze.
+1	La frase è grammaticalmente corretta, in quanto utilizza la forma singolare del verbo essere 'è' per accordare con il soggetto 'Leonardo'.	Leonardo è importante per noi.
+1	La frase è grammaticalmente corretta.	Il Sergente distribuisce i soldati.
+1	La frase è grammaticalmente corretta e coerente.	Sofia separò il lavoro in due parti distinte.
+1	La frase è grammaticalmente corretta e accettabile.	Paola gli carezzò il volto.
+1	La frase è grammaticalmente corretta.	Questa situazione gli complica la vita.
+1	La frase è grammaticalmente corretta e utilizza la forma corretta dei verbi e dei sostantivi.	Maria afferrò la mano di Lorenzo.
+1	La frase è grammaticalmente corretta.	La frase è già corretta.
+1	La frase è grammaticalmente corretta e coerente.	Riccardo forgia l'acciaio.
+1	La frase è grammaticalmente corretta.	Sofia cucina il pollo al limone.
+1	La frase è grammaticalmente corretta.	Le donne partoriscono i bambini.
+1	La frase è grammaticalmente corretta e le parole sono utilizzate nel loro contesto appropriato.	Paola converte lo zucchero in caramelle.
+1	La frase è grammaticalmente corretta.	Il governo converte gli oppositori in criminali.
+0	La frase non è grammaticalmente corretta perché il verbo "travestì" non è concordato correttamente con il soggetto "Alice".	Alice ne travestì Francesco. (La frase è già corretta, ma va notato che la concordanza del verbo è singolare perché Alice è il soggetto singolare.)
+1	La frase è grammaticalmente corretta.	Riccardo ne liberò il cane.
+1	La frase è grammaticalmente corretta e il significato è chiaro.	Lo Stato accorda troppa fiducia all'amministrazione pubblica.
+1	La frase è grammaticalmente corretta.	Tommaso attribuì la decisione di andare in Cina a Leonardo.
+1	La frase è grammaticalmente corretta e coerente.	Leonardo addebitava il suo insuccesso alla decisione del padre di andare in Francia.
+1	La frase è grammaticalmente corretta.	Francesco abbandona la moglie sulla strada.
+1	La frase è grammaticalmente corretta.	I ladri rubano le auto ai legittimi proprietari.
+1	La frase è grammaticalmente corretta.	Maria spalmò il pane con il coltello.
+0	La frase presenta un errore di significato. Il verbo "mettere" viene utilizzato con oggetti diversi, ma in questo caso sembra che ci sia un errore di parole. "Mise" è la forma al passato dell'ausiliare "essere" (era), non del verbo "mettere" (mise). Inoltre, "tavolo di cappello" non è un'espressione corretta in italiano.	Riccardo mise il tavolo sotto il cappello. (Se si intende che Riccardo ha spostato il tavolo sotto il cappello)  Label: 0 Explanation: La frase presenta un errore di significato. "Tavolo di cappello" non è un'espressione corretta in italiano. Riccardo mise il tavolo sotto il cappello. (Se si intende che Riccardo ha spostato il tavolo sotto il cappello)  Label: 0 Explanation: La frase presenta un errore di significato. "Tavolo di cappello" non è un'espressione corretta in italiano. Riccardo mise il tavolo sotto il cappello. (Se si intende che Riccardo ha spostato il tavolo sotto il cappello)
+1	La frase è grammaticalmente corretta e utilizza la forma verbale appropriata.	L'aviazione nemica bombardò napalm sulla città.
+1	La frase è grammaticalmente corretta e accettabile.	Andrea imbeve il pane di vino.
+1	La frase è grammaticalmente corretta e comprensibile.	Raso rosso foderava i cuscini.
+1	La frase è grammaticalmente corretta e ha una struttura coerente.	Lorenzo dissemina aneddoti divertenti nei suoi racconti.
+0	La frase contiene un errore di concordanza dei tempi. La forma corretta è "disseminano" al presente indicativo perché "I turisti" è al plurale.	I turisti disseminano il prato di cartacce.
+1	La frase è grammaticalmente corretta.	Gabriele nutrì il figlio dell'idea di essere il più bravo ed intelligente di tutti.
+1	La frase è grammaticalmente corretta.	Riccardo liberò il cane dalle catene.
+1	La frase è grammaticalmente corretta e ha senso logico.	Alessandro scarica Giulia dalle proprie responsabilità.
+1	La frase è grammaticalmente corretta.	Tommaso ne ottiene la libertà.
+1	La frase è grammaticalmente corretta.	Gabriele difende Giulia contro i pericoli.
+1	La frase è grammaticalmente corretta.	L'alchimista fa che l'oro derivi dal piombo.
+1	La frase è grammaticalmente corretta.	Riccardo spostò il cappello dall'armadio al tavolo.
+1	La frase è grammaticalmente corretta e coerente.	Leonardo pone il libro sulla scrivania.
+1	La frase è grammaticalmente corretta e segue le regole della grammatica italiana.	Alessandro prese il cappotto dall'armadio.
+1	La frase è grammaticalmente corretta e utilizza correttamente il verbo "spedì" nella forma passata corretta per la terza persona singolare "Gabriele" e specifica l'azione di inviare la ricevuta all'ufficio delle imposte.	Gabriele spedì la ricevuta all'ufficio delle imposte.
+1	La frase è grammaticalmente corretta.	Paola spinse le gambe di Francesco verso la parete.
+1	La frase è grammaticalmente corretta.	La foresteria ospita gli intervenuti alla manifestazione.
+1	La frase è grammaticalmente corretta e il significato è chiaro.	Il dottore spennella le tonsille di Gabriele di iodio.
+1	La frase è grammaticalmente corretta.	Leonardo archiviò la documentazione nell'archivio centrale.
+1	La frase è corretta dal punto di vista grammaticale.	I gomiti poggiano sul davanzale.
+1	La frase è grammaticalmente corretta e coerente.	Riccardo affoga i dispiaceri nel vino.
+1	La frase è grammaticalmente corretta e le parole sono utilizzate nella forma corretta.	La frase è già corretta.
+1	La frase è grammaticalmente corretta e segue le regole della lingua italiana.	Andrea spostò il bicchiere dal tavolo sul mobile.
+1	La frase è grammaticalmente corretta.	Tommaso pompava l'acqua dal lago alla piscina.
+1	La frase è grammaticalmente corretta.	Alessandro e Leonardo negoziano la libertà di Maria.
+1	La frase è grammaticalmente corretta e non presenta errori.	Una donna aveva separato Andrea e Tommaso.
+1	La frase è grammaticalmente corretta.	Alessandro ricava danaro dalle sue applicazioni.
+1	La frase è grammaticalmente corretta e non presenta errori sintattici o grammaticali.	Riccardo allontana Maria dalla stanza.
+1	La frase è grammaticalmente corretta.	Leonardo conta su Francesco.
+1	La frase è grammaticalmente corretta.	Sofia confonde il piacere con la possibilità di essere corteggiata.
+1	La frase è grammaticalmente corretta.	Tommaso fondeva l'argento con l'oro.
+1	La frase è grammaticalmente corretta e il suo significato è chiaro.	Gabriele ci sostituisce il tubo catodico.
+1	La frase è grammaticalmente corretta e coerente.	Riccardo le sostituisce il tubo catodico.
+1	La frase è grammaticalmente corretta e le parole utilizzate sono in armonia tra loro.	Tommaso alterna Beatrice con Paola.
+1	La frase è grammaticalmente corretta e accettabile.	L'amore lega.
+1	La frase presenta una struttura grammaticalmente corretta e coerente, con un soggetto ("Gabriele") e un verbo ("dorme") allineati per il numero (singolare).	Gabriele dorme.
+1	La frase è grammaticalmente corretta e accettabile.	Maria desidera un libro.
+1	La frase è grammaticalmente corretta.	Maria desidera il fatto che tu venga.
+1	La frase è grammaticalmente corretta.	Leonardo tiene alla possibilità che lo promuovano.
+1	La frase è grammaticalmente corretta e coerente.	Giulia abbandona l'idea che vedrà Edoardo.
+1	La frase è grammaticalmente corretta e coerente.	Maria ha fatto l'affermazione che Francesco è bello.
+1	La frase è grammaticalmente corretta.	Maria bada che tutto funzioni alla perfezione.
+1	La frase è grammaticalmente corretta e coerente.	Edoardo approva che Maria parta.
+1	La frase è grammaticalmente corretta.	Emma dubita di che Alice parta.
+0	La frase non segue le regole grammaticali italiane. "Che" viene utilizzato come congiunzione subordinante per introdurre una proposizione subordinata, ma non è corretto in questo contesto.	La frase non è corretta. Una versione corretta potrebbe essere: "L'idea che Lorenzo viaggi angoscia Tommaso."
+0	La frase presenta una struttura e un uso delle parole non corretti.	Riccardo approva l'idea. In questa frase, "Riccardo lo approva l'idea ciò" è grammaticalmente errato. La corretta forma della frase sarebbe "Riccardo approva l'idea". La parola "lo" non è necessaria e "ciò" non è grammaticalmente corretto in questo contesto. Il verbo "approva" è già sufficiente a indicare che Riccardo approva l'idea.
+1	La frase è grammaticalmente corretta.	Edoardo lo approva il fatto che Maria canti.
+0	La frase presenta un errore nella costruzione della subordinata. La forma corretta richiede l'uso di 'che' per introdurre la subordinata e 'tu voglia' per esprimere il desiderio.	Tu desideri che Sofia venga.
+0	La frase "Riccardo va al fumo" non è grammaticalmente corretta. "Al fumo" non è una preposizione adeguata in questo contesto.	Riccardo va a fumare.
+1	La frase è grammaticalmente corretta.	Alice brama di tornare.
+0	La frase contiene un errore grammaticale perché il verbo "incoraggia" richiede la preposizione "a" seguita da un verbo all'infinito, ma in questo caso il verbo "si sposi" è all'indicativo presente e non all'infinito.	Andrea incoraggia Maria a sposarsi.
+1	La frase è grammaticalmente corretta.	Il fatto che Emma parli allieta suo padre.
+1	La frase è grammaticalmente corretta e accettabile.	Andare al cinema infiamma Sofia.
+1	La frase è grammaticalmente corretta.	La colpisce che Riccardo rida.
+1	La frase è grammaticalmente corretta.	Mi meraviglia il fatto che Beatrice sia svestita.
+0	La frase contiene una ripetizione del soggetto "Leonardo", che non è grammaticalmente corretta. Inoltre, il verbo "allieta" non è usato correttamente in questa frase.	Leonardo allieta Maria perché Maria ride.
+1	La frase è grammaticalmente corretta.	La tristezza e la noia deprimono Gabriele.
+1	La frase è grammaticalmente corretta.	Mi acquieta che Giulia parli in questo modo.
+1	La frase è grammaticalmente corretta e accettabile.	La sola presenza di Alice mi acquieta.
+1	La frase è grammaticalmente corretta.	Parlare con le ballerine è divertente.
+0	La forma corretta della frase dovrebbe essere "Sono affascinato dal fatto che Edoardo parli di poesia."	Sono affascinato dal fatto che Edoardo parli di poesia.
+0	La frase non è corretta perché manca il verbo principale e non è chiaro cosa sia accaduto a Paola.	A Paola accadde di vedere i marziani.
+0	La frase presenta un errore di accordo del verbo con il soggetto. Inoltre, il verbo 'splendeva' non è coerente con l'azione di aver vinto al lotto.	Aveva vinto al lotto e splendeva nel suo sguardo.
+0	La struttura della frase è confusa e non grammaticalmente corretta.	La gioia di aver vinto al lotto splendeva nel suo sguardo.
+0	La struttura della frase è confusa e la grammatica è scorretta.	Dobbiamo fuggire.
+1	La frase è grammaticalmente corretta.	La frase è già corretta.
+1	La frase è grammaticalmente corretta e i suoi elementi sono coerenti tra loro.	La frase è già corretta.
+1	La frase è grammaticalmente corretta.	Io condanno il fatto che Erode uccise i bambini.
+1	La frase è grammaticalmente corretta e comprensibile.	Gabriele adora carezzare Andrea. Nota: Ho considerato la frase data corretta e non ho apportato alcuna modifica.
+1	La frase è grammaticalmente corretta e accettabile.	Andrea intende sposare Alice.
+1	La frase è grammaticalmente corretta e accettabile.	Riccardo evita di guardare la televisione.
+0	La frase contiene un'errata sequenza di proposizioni e una mancanza di coerenza nella struttura grammaticale. Inoltre, il verbo "ritiene" richiede un complemento oggetto, che è assente nella frase.	Paola ritiene che il posto sia carino.
+1	La frase è grammaticalmente corretta.	Lorenzo riteneva Alice fosse Paola. In questa frase, Lorenzo è il soggetto e "riteneva" è il verbo principale. Il verbo "ritenere" richiede un complemento oggetto e una proposizione subordinata introdotta da "che" o una forma di verbo all'indicativo o al congiuntivo. In questo caso, la forma del verbo "essere" utilizzata nella subordinata ("fosse") è corretta perché si riferisce a una situazione ipotetica o non confermata. Pertanto, la frase è grammaticalmente corretta.
+0	La struttura della frase è un po' contorta e il verbo "giudica" non è seguito dal verbo ausiliare "avere" per esprimere il tempo passato (passato prossimo).	Beatrice lo giudica come se Maria avesse troppi amanti.
+0	La frase non è grammaticalmente corretta perché "Sofia lo giudica che Maria abbia troppi amanti" è una struttura sintattica complicata e non naturale.	Sofia giudica che Maria abbia troppi amanti.
+1	La frase è grammaticalmente corretta.	Giulia lo giudica evidente che Maria sia bella.
+0	La frase presenta un uso improprio della congiunzione "che" e del pronome "lo".	Leonardo suppone che il padre beva troppo.
+1	La frase è grammaticalmente corretta.	Io penso qualcosa di te.
+1	La frase è grammaticalmente corretta.	Io, di te, penso che ami il tartufo.
+1	La frase è grammaticalmente corretta e coerente.	Emma ottiene qualcosa da te.
+0	La frase è sintatticamente ambigua. "Alice lavora a cacciare Maria" potrebbe significare che Alice lavora per cacciare Maria (come se fosse un lavoro) o che Alice lavora mentre caccia Maria (come se fossero due azioni simultanee). La frase potrebbe essere migliorata per chiarire il significato.	Alice lavora come cacciatrice di Maria. O Alice lavora mentre caccia Maria.
+1	La frase è grammaticalmente corretta e le parole sono usate nel loro contesto appropriato.	Riccardo plaude al fatto che Tommaso ha vinto.
+1	La frase è grammaticalmente corretta e accettabile.	Maria ci aspira.
+1	La frase è grammaticalmente corretta e ha senso nel contesto.	Maria ci si aggrappa.
+1	La frase è grammaticalmente corretta e il significato è chiaro.	Paola mira a che il futuro sia felice.
+1	La frase è grammaticalmente corretta.	Giulia guardava il muro.
+0	La frase contiene un errore grammaticale. "Riccardo" richiede la congiunzione "e" prima di "Tommaso" per indicare che entrambi pensano.	Riccardo e Tommaso lo pensano.
+1	La frase è grammaticalmente corretta.	Paola acconsente a che la leghino.  In questa frase, "Paola acconsente a che la leghino" è grammaticalmente accettabile, poiché il verbo "acconsentire" richiede una proposizione subordinata introdotta da "a che" e il verbo "leghino" è all'indicativo futuro del verbo "legare", concordando con il soggetto implicito "essi" o "loro".
+1	La frase è grammaticalmente corretta.	Alice sorride del fatto di aver pianto.
+1	La frase è grammaticalmente corretta e la struttura e il significato sono chiari.	La condizione di disagio nasce dalla mancanza d'acqua.
+1	La frase è grammaticalmente corretta.	Da quest'analisi risulta il nostro partire.
+1	La frase è grammaticalmente corretta.	La tosse dipende dal fatto di aver fumato troppo.
+1	La frase è grammaticalmente corretta.	Leonardo chiarisce che non è colpa sua a Paola.
+1	La frase è grammaticalmente corretta.	Andrea fischia a Maria che ha fame.
+1	La frase è grammaticalmente corretta.	Andrea accennerà ad Edoardo se partirà o no.
+1	La frase è grammaticalmente corretta.	Paola addebita a Leonardo il fatto che ora ha fame.
+1	La frase è grammaticalmente corretta e accettabile.	Riccardo lo aggiunge nel suo discorso.
+1	La frase è grammaticalmente corretta.	Maria ce lo ha scommesso.
+1	La frase è grammaticalmente corretta.	La frase è già corretta.
+1	La frase è grammaticalmente corretta.	Paola incoraggia il fatto che i ragazzi vadano al mare.
+1	La frase è grammaticalmente corretta e accettabile.	Emma ne avvisa Alessandro.
+1	La frase è grammaticalmente corretta e priva di errori sintattici.	Gabriele lo convince che lo sciopero è giusto.
+0	La frase contiene un doppio nome proprio, che potrebbe risultare confuso e non è grammaticalmente corretta.	Riccardo esime dal viaggio.
+1	La frase è grammaticalmente corretta.	Il sindaco esenta i poveri dal pagare il bus.
+1	La frase è grammaticalmente corretta.	Maria si accorda con Leonardo affinché il programma sia realizzato.
+1	La frase è grammaticalmente corretta.	Alice discorre di partire con Giulia.
+1	La frase è grammaticalmente corretta e il suo significato è chiaro.	Maria si accorge di essere innamorata dal fatto di arrossire.
+1	La frase è grammaticalmente corretta, poiché il verbo 'continua' concorda correttamente con il soggetto 'Edoardo' e il pronome 'lo' è usato correttamente come complemento oggetto dell'azione di mangiare.	Edoardo continua a mangiarlo.
+1	La frase è grammaticalmente corretta.	Leonardo lo indugia a mangiare.
+1	La frase è grammaticalmente corretta.	Edoardo osa mangiare.
+1	La frase è grammaticalmente corretta, poiché il verbo "è" è coniugato correttamente nel presente indicativo del verbo "essere" per indicare un attributo o una qualità di Paola.	Paola è capace di cavalcare.
+1	La frase è grammaticalmente corretta.	Maria ha l'intenzione di cavalcare.
+0	La forma corretta della frase è "Tommaso solitamente il pasto", poiché "suole" non è una forma corretta del verbo "solito" nel presente indicativo.	Tommaso solitamente il pasto.
+1	La frase è grammaticalmente corretta.	Riccardo deve mangiarlo.
+0	La forma verbale "usa" è corretta, ma la forma "mangiarlo" non lo è. Dovrebbe essere "mangiare" per accordarsi con il soggetto "Gabriele".	Gabriele usa mangiare.
+1	La frase è grammaticalmente corretta e accettabile.	Riccardo va in camera.
+1	La frase è grammaticalmente corretta e accettabile in italiano.	Andrea sale in camera.
+1	La frase è grammaticalmente corretta e accettabile.	Riccardo sparisce da Parigi.
+1	La frase è grammaticalmente corretta e accettabile.	Edoardo parte a Parigi.
+1	La frase è grammaticalmente corretta e il soggetto "Paola" concorda con il verbo "sgambetta" al presente indicativo.	Paola sgambetta verso il ponte.
+0	La frase non segue correttamente le regole grammaticali. La frase corretta sarebbe "La folla lo corre ad accogliere" o "La folla lo corre per salutarlo".	La folla lo corre ad accogliere.
+1	La frase è grammaticalmente corretta e accettabile.	Tommaso invia Emma in piazza.
+1	La frase è grammaticalmente corretta e utilizza il verbo assemblare al presente indicativo con il soggetto Beatrice.	Beatrice assembla un computer.
+1	La frase è grammaticalmente corretta.	Il film è di Scorsese.
+1	La frase è già corretta.	Paola lavora.
+1	La frase è grammaticalmente corretta, utilizza il verbo 'angoscia' in modo appropriato e segue la struttura corretta della frase.	È l'amica che di Emma angoscia quel quadro di Picasso.
+0	La frase contiene un'incoerenza grammaticale. "Molte" richiede un soggetto plurale, ma "loro" è un pronome plurale e "leggono" è già nella forma plurale. Inoltre, "leggono il giornale" richiede un pronome di terza persona singolare.	Molti di loro leggono il giornale.
+0	La frase presenta un errore di concordanza del numero. "Alcuni" è un avverbio di quantità e richiede un verbo al singolare. Inoltre, manca l'articolo davanti a "architetto".	Alcuni musei sono stati progettati da un architetto.
+1	La frase è grammaticalmente corretta.	Paola mangia la pizza.
+0	La frase contiene un errore di accordo: 'alcuni progettati' non è corretto.	Quell'architetto ha progettato alcuni musei.
+1	La frase è grammaticalmente corretta, poiché utilizza correttamente i verbi e i pronomi.	Hanno letto, molte ragazze, il giornale l'anno scorso.
+1	La frase è grammaticalmente corretta e coerente in italiano.	Le spalle di Riccardo toccano la parete.
+1	La frase è grammaticalmente corretta.	Maria sarà toccata da quel film.
+0	La forma verbale "sei" dovrebbe essere utilizzata al posto di "sono" per accordare correttamente con il soggetto "tu".	Che tu sia partita rallegra Beatrice. (La frase è già corretta.)
+1	La frase è già corretta.	Gabriele è il marito di Paola.
+1	La frase è grammaticalmente corretta.	Beatrice è con Lorenzo.
+1	La frase è grammaticalmente corretta.	Paola ha messo la macchina che è del fratello nel garage.
+0	La frase è sintatticamente scorretta e non segue le regole grammaticali dell'italiano.	Tommaso obbedisce a Maria.
+0	La frase presenta un errore di coerenza nel confronto, poiché non è chiaro chi stia confrontando chi.	Andrea confronta Leonardo con sé stesso.
+1	La frase è grammaticalmente corretta.	Maria fotografa Paola.
+1	La frase è grammaticalmente corretta, poiché utilizza correttamente la forma del verbo essere "è stato" per indicare il tempo passato del soggetto maschile "Lorenzo".	Lorenzo è stato smanioso.
+1	La frase è grammaticalmente corretta.	Tua sorella guarda il gelato.
+1	La frase è grammaticalmente corretta e comprensibile.	Tua sorella guarda il CD.
+1	La frase è grammaticalmente corretta.	Sofia ha tagliato la testa al bisonte.
+1	La frase è grammaticalmente corretta.	Sofia ha tagliato le teste ai tori.
+1	La frase è grammaticalmente corretta.	I ragazzi taglierebbero la corda.
+1	La frase è grammaticalmente corretta e coerente.	È il toro che Maria ha preso per le corna e non il bufalo.
+1	La frase è grammaticalmente corretta e coerente.	Maria stende il bucato.
+0	La parola "abbaia" è comunemente usata per descrivere il comportamento dei cani, non degli amici.	Il mio amico sorride.
+1	La frase è grammaticalmente corretta e accettabile.	Riccardo ulula.
+1	La frase è grammaticalmente corretta poiché il verbo 'dormì' è usato correttamente nel passato remoto, concordando con il soggetto 'Gabriele'.	Gabriele dormì.
+1	La frase è grammaticalmente corretta.	Il cane si è fermato in un batter d'occhio.
+1	La frase è grammaticalmente corretta e le parole sono usate nel contesto appropriato.	Edoardo ci ha messo due ore per tagliare il filo elettrico.
+1	La frase è grammaticalmente corretta.	Leonardo ha sezionato il vecchio tiglio.
+1	La frase è grammaticalmente corretta.	Le sei bombe sono esplose il 6 maggio 1999.
+1	La frase è grammaticalmente corretta e coerente.	Lorenzo non ha più l'abitudine di fumare.
+1	La frase è grammaticalmente corretta.	Andrea è diventato in gamba.
+1	La frase è grammaticalmente corretta e semanticamente chiara.	Tommaso ha fatto gli auguri a Giulia.
+1	La frase è grammaticalmente corretta e la struttura della frase è appropriata.	Sofia chiede che tu torni immediatamente.
+1	La frase è grammaticalmente corretta.	Che tu vada via dispiace a Beatrice.
+1	La frase è grammaticalmente corretta.	I bambini hanno calpestato le aiuole.
+0	La frase contiene un errore concettuale, poiché i bambini non possono eruttare lava. È un'azione non fattibile.	La frase non è corretta. Un'opzione corretta potrebbe essere: "I vulcani eruttarono lava."
+1	La frase è grammaticalmente corretta e coerente.	La frase è già corretta.
+0	La frase manca di un complemento oggetto che specifica cosa l'uomo ha fotografato.	Quell'uomo ne ha fotografato il paesaggio.
+1	La frase è grammaticalmente corretta.	Andrea ha carezzato il volto a Beatrice.
+1	La frase è grammaticalmente corretta e accettabile.	Il volto di Paola è carezzato.
+1	La frase è grammaticalmente corretta.	Edoardo ha fratturato il braccio di Maria.
+1	La frase è grammaticalmente corretta.	Leonardo ha paralizzato il braccio a Maria.
+1	La frase è grammaticalmente corretta e coerente.	Il bambino pesava nove chili a pochi mesi.
+1	La frase è grammaticalmente corretta.	Gli operai asfaltarono la strada.
+1	La frase è grammaticalmente corretta.	Paola elencò l'invitato.
+0	La frase contiene due errori grammaticali. "Alice ha messo e ciò" non è grammaticalmente corretto e "ciò è accaduto i vestiti" dovrebbe essere "ciò è accaduto ai vestiti".	Alice ha messo i vestiti nell'armadio e ciò è accaduto.
+1	La frase è grammaticalmente corretta e chiara nella sua struttura e significato.	Maria ha tolto i vestiti e ciò è accaduto nell'armadio.
+1	La frase è grammaticalmente corretta.	Beatrice riempie il frigo con frutta.
+1	La frase è grammaticalmente corretta.	Maria difende Andrea dai pericoli.
+0	La ripetizione del nome "Maria" rende la frase ambigua e poco chiara.	Il libro passa da Maria a un'altra persona.
+1	La frase è grammaticalmente corretta e coerente.	Maria dà un libro a Paola.
+1	La frase è grammaticalmente corretta.	Francesco delega Gabriele suo rappresentante.
+1	La frase è grammaticalmente corretta.	Sofia delega Maria come sua rappresentante.
+0	La frase presenta un errore di coesione e coerenza semantica. La forma corretta sarebbe "Lorenzo abita a Roma e ciò succede".	Lorenzo abita a Roma e ciò succede.
+1	La frase è grammaticalmente corretta e coerente.	Riccardo ha mangiato la pizza e ciò è successo al ristorante.
+1	La frase è grammaticalmente corretta e accettabile.	Sofia fuma una bionda.
+1	La frase è grammaticalmente corretta.	Edoardo ha spalmato il paté sul pane.
+1	La frase è grammaticalmente corretta.	Andrea ha spalmato il pane di paté.
+1	La frase è grammaticalmente corretta.	Le bombe piovevano su di noi.
+1	La frase è grammaticalmente corretta e coerente.	I matrimoni misti funzionano in modo perfetto.
+1	La frase è grammaticalmente corretta.	La tua idea equivale alla mia.
+1	La frase è grammaticalmente corretta.	La tua idea e la mia si equivalgono.
+1	La frase è grammaticalmente corretta.	Edoardo gira per la città.
+1	La frase è grammaticalmente corretta.	Giulia torna da Milano a Napoli.
+1	La frase è grammaticalmente corretta e le parole sono utilizzate in modo appropriato.	Lorenzo controlla Paola.
+1	La frase è grammaticalmente corretta.	Maria acconsente a che la figlia esca con quel ragazzo.
+0	La frase dovrebbe avere un verbo appropriato per indicare l'azione di Alice nei confronti di Maria.	Alice aiuta Maria.
+1	La frase è grammaticalmente corretta e accettabile.	Paola dubita di te.
+1	La frase è grammaticalmente corretta.	Maria desidera che tu parta.
+1	La frase è grammaticalmente corretta e accettabile.	Che Giulia sia sempre in viaggio piace ad Andrea.
+1	La frase è grammaticalmente corretta e accettabile.	Emma volontariamente affascina Francesco.
+0	La forma verbale "venga" è la seconda persona singolare dell'imperativo presente, ma il soggetto "lui" richiede la terza persona singolare "venga" o "venga a prendere".	Francesco desidera che lui venga a prendere.
+1	La frase è grammaticalmente corretta.	Leonardo annota sul taccuino che il presidente scriverà la sua autobiografia.
+0	La frase contiene un errore grammaticale. La forma corretta sarebbe "Alessandro invita Paola a partire."	Alessandro invita Paola a partire.
+1	La frase è grammaticalmente corretta.	Alice ha accompagnato Tommaso al cinema.
+1	La frase è grammaticalmente corretta e accettabile.	La partenza apporta un beneficio a tutti.
+1	La frase è grammaticalmente corretta.	Alessandro si lamenta del mare sporco con Paola.
+1	La frase è grammaticalmente corretta e non presenta errori.	Alice mette in agitazione Tommaso.
+1	La frase è grammaticalmente corretta.	Andrea lascia a Leonardo pieni poteri.
+1	La frase è già corretta.	Il piatto piange.
+1	La frase è grammaticalmente corretta e comunica un'espressione di fastidio o irritazione.	La frase è già corretta.
+1	La frase è grammaticalmente corretta.	Alice si è attaccata a un capello.
+1	La frase è grammaticalmente corretta.	Maria ha piantato Riccardo in asso.
+1	La frase è grammaticalmente corretta.	Sofia e Riccardo parlano la stessa lingua.
+1	La frase "Avere fegato" è grammaticalmente corretta.	Avere fegato.
+0	La frase non è grammaticalmente corretta. "Avere" richiede un complemento oggetto, ma la parola "paturnie" è posta al plurale e non esiste una forma plurale di "paturnia".	Avere una paturnia.
+0	La frase contiene un errore di ortografia e grammatica. "Avere" è scritto in modo errato e dovrebbe essere "avere". Inoltre, la frase manca del soggetto e di una struttura grammaticale corretta.	Avere sulle scatole. (La frase è già corretta, ma è stata corretta l'ortografia di "avere".)
+1	La frase è grammaticalmente corretta.	Essere in un ventre di vacca.
+1	La frase è grammaticalmente corretta e concorda in numero e genere.	Questa situazione ti ha messo nell'occhio del ciclone.
+1	La frase è grammaticalmente corretta.	Riccardo spera che possa partire presto.
+1	La frase è grammaticalmente corretta e coerente.	Beatrice ha un'attenzione per Giulia.
+1	La frase è grammaticalmente corretta.	Alice è in ansia.
+1	La frase è grammaticalmente corretta.	Siamo cariche di viveri.
+1	La frase è grammaticalmente corretta.	La ragazza mangerà la pizza.
+1	La frase è grammaticalmente corretta e priva di errori evidenti.	Lei ha presentato la donna a dei suoi amici.
+1	La frase è grammaticalmente corretta.	Edoardo obbedisce a Sofia.
+1	La frase è grammaticalmente corretta.	Edoardo ci va.
+1	La frase è grammaticalmente corretta.	Una volta comprato il costume, Edoardo andrà a nuotare.
+1	La frase è grammaticalmente corretta.	Edoardo va a invitare Giulia a cena.
+0	La frase presenta un'incongruenza grammaticale. "Scappa" è un verbo intransitivo e non può avere un oggetto diretto come "a comprare".	Beatrice scappa per andare a fare acquisti.
+1	La frase è grammaticalmente corretta.	Sono i libri che Leonardo mette sugli scaffali ora.
+1	La frase è grammaticalmente corretta.	Edoardo mette i libri sugli scaffali.
+1	La frase è grammaticalmente corretta, in quanto utilizza il pronome personale plurale "i" in accordo con "libri" e la forma plurale del verbo essere "sono" in accordo con "libri" e "Leonardo".	Sono i libri ciò che Leonardo mette sugli scaffali ora.
+1	La frase è già corretta.	Andrea mangia.
+1	La frase è grammaticalmente corretta.	Questo lavoro è di competenza di Leonardo.
+1	La frase è grammaticalmente corretta.	Questo lavoro rientra nelle competenze di Riccardo.
+1	La frase è grammaticalmente corretta e coerente.	A Francesco piace Maria per le sue gambe.
+1	La frase è già grammaticalmente corretta.	Andrea accarezza le gambe di Maria.
+1	La frase è grammaticalmente corretta e il significato è chiaro.	Riccardo non gradì quell'allusione.
+1	La frase è grammaticalmente corretta e accettabile.	Francesco ricorda qualcosa.
+1	La frase è grammaticalmente corretta.	Era la conversazione che fecero i due ragazzi che Paola criticò.
+1	La frase è grammaticalmente corretta e accettabile.	Leggeva i nomi degli artisti alla ragazza.
+1	La frase è grammaticalmente corretta.	Ha tradito la fiducia di Gabriele.
+1	La frase è grammaticalmente corretta.	Era felice di ciò.
+1	La frase è grammaticalmente corretta.	Era contento di giocare a carte.
+1	La frase è grammaticalmente corretta.	Alessandro disgusta Giulia.
+1	La frase è grammaticalmente corretta e accettabile.	Ne vediamo di tutti i tipi.
+1	La frase è grammaticalmente corretta, utilizza il verbo abboccare all'indicativo presente con l'ausiliare avere al passato prossimo.	Ha abboccato all'amo.
+1	La frase è grammaticalmente corretta.	Ho riso due ore.
+1	La frase è già corretta.	Ha preso una cotta per Sofia.
+1	La frase è già corretta.	Maria è in crisi.
+1	La frase è grammaticalmente corretta e accettabile.	Conservava il controllo della società.
+1	La frase è grammaticalmente corretta e il significato è chiaro.	Maria ha venduto i suoi vestiti al mercato delle pulci.
+1	La frase è grammaticalmente corretta e coerente.	Paola ha confrontato i due libri in biblioteca.
+1	La frase è grammaticalmente corretta.	Maria ha immerso il figlio nell'acqua fredda.
+1	La frase è grammaticalmente corretta, con un soggetto (Leonardo) e un verbo (leggeva) coniugato correttamente.	Leonardo leggeva sul divano.
+1	La frase è grammaticalmente corretta.	Il consenso della gente è nato dal suo talento.
+1	La frase è grammaticalmente corretta e accettabile.	Francesco guarda che tutto proceda per il meglio.
+1	La frase è grammaticalmente corretta.	Francesco si vergogna che sia successo.
+1	La frase è grammaticalmente corretta.	Giulia deve lavorare domani.
+1	La frase è grammaticalmente corretta e accettabile.	Francesco stabilì la partenza di Tommaso con Maria.
+1	La frase è grammaticalmente corretta e coerente.	Maria ha lasciato il marito.
+1	La frase è grammaticalmente corretta.	L'affitto di quella casa gli rende 500 euro.
+1	La frase è grammaticalmente corretta.	Hanno messo tutti in allarme?
+1	La frase è grammaticalmente corretta e comunica il concetto in modo chiaro.	La frase è già corretta.
+1	La frase è grammaticalmente corretta e accettabile.	La frase è già corretta.
+1	La frase è grammaticalmente corretta.	Quel terreno frutta molti soldi.
+1	La frase è grammaticalmente corretta e mostra una relazione tra tre persone e un'azione.	Gabriele ha fatto scrivere una lettera a Lorenzo da Riccardo. Label: 1 Explanation: La frase è grammaticalmente corretta e mostra una relazione tra tre persone e un'azione. Gabriele ha fatto scrivere una lettera a Lorenzo da Riccardo.
+0	La frase contiene un'incoerenza logica. Il vento non può "fare rompere" qualcosa. La frase corretta sarebbe "Il vento ha fatto infrangere il vetro da Andrea."	Il vento ha fatto infrangere il vetro da Andrea.
+1	La frase è grammaticalmente corretta.	Il colonello ha fatto la nave.
+1	La frase è grammaticalmente corretta.	Lorenzo si è fatto rompere la vetrata.
+1	La frase è grammaticalmente corretta.	Il sasso ha rotto il vetro.
+1	La frase è grammaticalmente corretta e accettabile.	L'auto ha schiacciato l'acceleratore.
+1	La frase è grammaticalmente corretta.	Il colpo ha schiacciato l'acceleratore.
+1	La frase è grammaticalmente corretta.	Lorenzo ha rotto il fidanzamento.
+1	La frase è grammaticalmente corretta.	Il caldo ha avariato il cibo.
+1	La frase è grammaticalmente corretta.	L'umidità ha ossidato il ferro.
+1	La frase è grammaticalmente corretta.	Gabriele ha fatto ossidare il ferro.
+1	La frase è grammaticalmente corretta.	Il vetro fu rotto dall'esplosione di un colpo.
+1	La frase è grammaticalmente corretta.	Maria si è lavata.
+1	La frase è grammaticalmente corretta e coerente.	Paola ha trascurato se stessa.
+1	La frase è grammaticalmente corretta.	L'uomo lavatosi ieri è mio nonno.
+1	La frase è grammaticalmente corretta.	Andrea ha graffiato lo sportello dell'auto.
+1	La frase è grammaticalmente corretta e accettabile.	Lo sportello dell'auto si è graffiato.
+1	La frase è grammaticalmente corretta.	Il viso di Tommaso si è graffiato.
+1	La frase è grammaticalmente corretta.	La frase è già corretta.
+1	La frase è corretta dal punto di vista grammaticale e sintattico.	I prezzi sono aumentati del 10%.
+1	La frase è grammaticalmente corretta.	Il fatturato si è incrementato del 15% nell'ultimo anno.
+1	La frase è grammaticalmente corretta.	La Fiat si è fusa con la Chrysler.
+1	La frase è grammaticalmente corretta.	Il disegno si è confrontato con la foto.
+1	La frase è grammaticalmente corretta.	Il contagio è in diffusione.
+0	La parola "impelato" non è corretta. Si dovrebbe usare "impelagato" al posto di "impelato".	Il gatto si è impelagato di peli sul divano.
+1	La frase è grammaticalmente corretta.	L'inverno ha privato delle foglie gli alberi.
+1	La frase è grammaticalmente corretta.	L'esplosione ha spaccato la vetrata per un secondo.
+1	La frase è grammaticalmente corretta.	La vetrata si è spaccata in un millisecondo.
+1	La frase è grammaticalmente corretta e coerente.	L'intonaco si è sgretolato in poche settimane.
+1	La frase è grammaticalmente corretta.	La frase è già corretta.
+1	La frase è grammaticalmente corretta.	Francesco ha riempito il serbatoio per un'ora.
+1	La frase è grammaticalmente corretta e coerente.	Il prezzo di quei prodotti si è abbassato del 20 % per sei mesi.
+1	La frase è grammaticalmente corretta.	Ha protratto l'interrogatorio per tutta la mattinata.
+1	La frase è grammaticalmente corretta.	Gabriele ha proseguito la lezione per ore.
+0	La frase contiene un errore di concordanza tra il soggetto "Le vittorie" e il verbo "carburato".	Le vittorie hanno carburato il calciatore durante una settimana.
+1	La frase è grammaticalmente corretta.	Il lievito ha fermentato la pasta in due ore.
+1	La frase è grammaticalmente corretta e coerente nel significato.	Il temporale ha ritardato il treno in due ore.
+1	La frase è grammaticalmente corretta e coerente.	L'incidente ha ritardato il treno di due ore.
+1	La frase è grammaticalmente corretta.	Il treno ha ritardato per due ore.
+0	La frase contiene un errore grammaticale. Il tempo "per ore" non è corretto per descrivere un processo che avviene nel tempo. Inoltre, "aceto" è un sostantivo e non può essere usato come aggettivo per descrivere "vino".	Il vino è diventato aceto dopo diverse ore.
+1	La frase è grammaticalmente corretta e coerente.	I commercianti hanno incrementato le vendite del 10 % per anni.
+1	La frase è grammaticalmente corretta e coerente.	Le vendite sono incrementate del 10 % in due anni.
+1	La frase è grammaticalmente corretta e coerente.	L'umidità ha ridotto in polvere l'intonaco per giorni.
+1	La frase è grammaticalmente corretta.	Il cioccolato si è fuso in 5 minuti.
+1	La frase è grammaticalmente corretta.	La carne si è cotta in 5 minuti.
+1	La frase è grammaticalmente corretta e coerente.	La finestra si è chiusa, ma non è chiusa.
+1	La frase è grammaticalmente corretta.	La valigia è diventata leggera.
+1	La frase è grammaticalmente corretta e utilizza la forma plurale appropriata per "prezzi".	I prezzi sono rincarati del 10%.
+1	La frase è grammaticalmente corretta.	Hanno reso la stanza grande.
+1	La frase è grammaticalmente corretta.	Il mare si è fatto agitato.
+1	La frase è grammaticalmente corretta e accettabile.	La carne è saporita.
+1	La frase è grammaticalmente corretta.	Il vino è aceto.
+1	La frase è grammaticalmente corretta.	Il pullover di lana si è infeltrito.
+1	La frase è grammaticalmente corretta.	Edoardo si è fatto simile a uno scheletro.
+1	La frase è grammaticalmente corretta.	La carne è diventata gustosa.
+1	La frase è grammaticalmente corretta e accettabile.	La situazione è diventata ingarbugliata.
+1	La frase è grammaticalmente corretta.	L'aria si è fatta puzzolente.
+1	La frase è grammaticalmente corretta.	La situazione diventa ingarbugliatissima.
+1	La frase è grammaticalmente corretta.	A Riccardo, questi argomenti non l'hanno convinto.
+1	La frase è grammaticalmente corretta.	La follia spaventa Francesco.
+1	La frase è grammaticalmente corretta e il verbo "innervosito" è coniugato correttamente al passato prossimo con il soggetto "le ragazze".	Le ragazze hanno innervosito Andrea.
+1	La frase è grammaticalmente corretta e semantica.	Le ragazze hanno preoccupato Francesco.
+1	La frase è grammaticalmente corretta.	Quei fuochi hanno innervosito Edoardo.
+0	La frase non è grammaticalmente corretta perché utilizza "calmare" come verbo transitivo diretto, ma non ci sono oggetti diretti espliciti.	Alice ha fatto calmare Andrea da quell'uomo.
+0	La frase non è chiara e presenta errori grammaticali. La forma corretta dovrebbe essere "Maria ha preoccupato Gabriele con la sua fidanzata" o "Maria ha fatto preoccupare Gabriele per la sua fidanzata".	Maria ha preoccupato Gabriele con la sua fidanzata.
+0	La frase contiene un errore di ortografia. La parola 'irretire' non esiste in italiano. Probabilmente si intende "ingannare" o "trarre in inganno".	Maria ha ingannato Leonardo.
+0	La frase presenta una struttura sintattica scorretta. Il verbo "sedurre" richiede un complemento oggetto.	Riccardo si seduce a qualcuno.
+0	La frase contiene un errore grammaticale. 'Piacere' è una forma pronominale che richiede la forma pronominale riflessiva 'si è piaciuto' per un soggetto maschile singolare, ma l'oggetto 'ciò' richiede la forma passiva 'è stato piaciuto'. La frase corretta in forma passiva sarebbe 'Lorenzo è stato piaciuto per ciò'.	Lorenzo è stato piaciuto per ciò.
+1	La frase è grammaticalmente corretta.	Edoardo si è spaventato a quella notizia.
+1	La frase è grammaticalmente corretta.	Riccardo si è agitato a quella notizia.
+1	La frase è grammaticalmente corretta e accettabile.	Tommaso si è agitato per quella notizia.
+1	La frase è grammaticalmente corretta e accettabile.	Riccardo è irritato di quella notizia.
+1	La frase è grammaticalmente corretta e il suo significato è chiaro.	La frase è già corretta.
+1	La frase è grammaticalmente corretta.	Maria ha timore di ciò.
+0	La frase dovrebbe utilizzare la preposizione corretta, "di" al posto di "a", per esprimere la relazione tra "terrore" e "Maria".	Ciò fa terrore a Maria. Corretto: La frase è già corretta.
+1	La frase è grammaticalmente corretta e accettabile.	Emma si sente nervosa.
+1	La frase è grammaticalmente corretta.	Sofia è in ansia per l'accaduto.
+1	La frase è grammaticalmente corretta e accettabile.	Sofia ha i nervi a fior di pelle.
+1	La frase è grammaticalmente corretta e accettabile.	Emma è in stupore.
+1	La frase è grammaticalmente corretta.	Paola è in uno stato di spavento.
+1	La frase è grammaticalmente corretta e coerente nella struttura.	La frase è già corretta.
+1	La frase è grammaticalmente corretta.	I film horror appassionano Andrea.
+1	La frase è grammaticalmente corretta.	L'esplosione ha frantumato il vetro.
+1	La frase è grammaticalmente corretta.	Quella pietanza ha nauseato Francesco.
+1	La frase è grammaticalmente corretta.	Lo stato di salute di mia madre mi ha preoccupato subito.
+1	La frase è grammaticalmente corretta.	Lo stato di salute di mia madre mi ha addolorato in pochi minuti.
+1	La frase è grammaticalmente corretta.	Il fumo ha irritato la gola di Paola.
+1	La frase è grammaticalmente corretta.	Beatrice ha irritato Francesco.
+1	La frase è grammaticalmente corretta.	Il tuo arrivo improvviso ha agitato Gabriele.
+1	La frase è grammaticalmente corretta.	La reputazione di Emma si è distrutta con quello scandalo.
+1	La frase è grammaticalmente corretta e comprensibile.	L'intonaco si è sgretolato.
+1	La frase è grammaticalmente corretta.	La politica dell'Unione Europea ha schiacciato la Grecia.
+1	La frase è grammaticalmente corretta e coerente.	Giulia ha spento le polemiche.
+1	La frase è grammaticalmente corretta.	La schiena si è scottata.
+0	La frase contiene un'espressione idiomatica "rotto di" che in questo contesto non sembra essere corretta.	Gabriele è stufo di Maria.
+1	La frase è grammaticalmente corretta e accettabile.	Riccardo è desideroso di partire.
+1	La frase è grammaticalmente corretta e coerente.	Giulia sposta il cadavere dall'armadio al tavolo.
+1	La frase è grammaticalmente corretta.	Francesco va a scuola.
+1	La frase è grammaticalmente corretta.	Gabriele è alla scuola svizzera.
+1	La frase è grammaticalmente corretta.	Gabriele è alla tavola.
+1	La frase è grammaticalmente corretta.	Beatrice porta un piatto in tavola.
+1	La frase è grammaticalmente corretta e accettabile.	Giulia accompagna Gabriele in tavola.
+1	La frase è grammaticalmente corretta.	Maria cade per terra.
+1	La frase è grammaticalmente corretta, poiché segue le regole della lingua italiana.	Andrea ha iscritto il figlio a scuola di danza.
+1	La frase è grammaticalmente corretta.	Emma ha portato il pacco a scuola.
+1	La frase è grammaticalmente corretta.	Francesco sta in poltrona.
+0	La frase contiene un errore di ortografia nella parola "didietro". La parola corretta è "dietro".	La palla è finita dietro.
+1	La frase è grammaticalmente corretta e contiene una struttura verbale coerente.	La palla è finita in acqua.
+1	La frase è grammaticalmente corretta.	Maria abita giù in basso.
+1	La frase è grammaticalmente corretta.	Mi raccomando, tieni acqua in bocca.
+1	La frase è grammaticalmente corretta.	Il bambino piange.
+1	La frase è grammaticalmente corretta e accettabile.	Lorenzo perde il cappello.
+1	La frase è grammaticalmente corretta e accettabile in italiano.	Riccardo avrebbe bruciato le tappe.
+1	La frase è grammaticalmente corretta e le parole sono usate in modo appropriato.	Maria ha rubato improvvisamente il cuore a Gabriele.
+1	La frase è grammaticalmente corretta e accettabile in italiano.	Emma se la passava bene.
+1	La frase è grammaticalmente corretta.	Giulia mise gli occhi addosso a Lorenzo.
+1	La frase è grammaticalmente corretta.	Riccardo abbandonò l'abito sul divano.
+1	La frase è grammaticalmente corretta e accettabile.	Maria inchinò la testa.
+1	La frase è grammaticalmente corretta e accettabile in italiano.	Alice piegò la testa.
+1	La frase è grammaticalmente corretta.	Maria levò il capo.
+0	La parola corretta è 'sollevò' invece di 'rizzò'.	Maria sollevò il capo.
+1	La frase è grammaticalmente corretta.	Gabriele prese l'auto.
+0	La frase è grammaticalmente accettabile, ma non è del tutto chiara in termini di significato. L'uso del termine "prese la trombosi" potrebbe essere ambiguo.	Alessandro ebbe una trombosi.
+1	La frase è grammaticalmente corretta e il suo significato è chiaro.	La trombosi venne ad Edoardo.
+1	La frase è grammaticalmente corretta.	Il tifo venne a Riccardo.
+1	La frase è grammaticalmente corretta.	Leonardo si scaldò.
+1	La frase è grammaticalmente corretta.	Maria si riposò.
+1	La frase è grammaticalmente corretta.	Alice si rinforzò.
+1	La frase è grammaticalmente corretta.	Paola e Francesco presero l'avvio.
+1	La frase è grammaticalmente corretta e accettabile.	Riccardo ebbe una sbornia.
+1	La frase è grammaticalmente corretta e accettabile.	Il formaggio fece la muffa.
+1	La frase è grammaticalmente corretta.	Sofia ebbe un bagno.
+1	La frase è già corretta.	Beatrice si maritò con Gabriele.
+1	La frase è grammaticalmente corretta.	Riccardo respirò aria fresca.
+1	La frase è grammaticalmente corretta e accettabile.	Giulia prese una dritta.
+1	La frase è grammaticalmente corretta.	Giulia si sbagliò.
+0	Il verbo 'approdare' è intransitivo e non ha un complemento oggetto diretto. Pertanto, la forma verbale deve essere in accordo con il soggetto singolare 'aereo' e non con un soggetto plurale.	L'aereo approdò.
+1	La frase è grammaticalmente corretta.	Alessandro si bagnò.
+1	La frase è grammaticalmente corretta e utilizza il verbo arieggiare in modo appropriato.	Tommaso arieggiò la sua stanza.
+1	La frase è grammaticalmente corretta e accettabile.	La nave ammarò.
+1	La frase è grammaticalmente corretta.	Tommaso prese la terra dal secchio.
+1	La frase è grammaticalmente corretta e accettabile.	I marinai vogavano.
+1	La frase è grammaticalmente corretta, poiché il verbo "è" è coniugato correttamente in accordo con il soggetto "il dollaro".	Il dollaro è salito.
+1	La frase è grammaticalmente corretta e accettabile.	Il progetto ebbe successo.
+1	La frase è grammaticalmente corretta.	Lorenzo prese un cappellaccio.
+1	La frase è grammaticalmente corretta.	Riccardo si imbronciò.
+1	La frase è grammaticalmente corretta.	Andrea prese cappello.
+1	La frase è grammaticalmente corretta.	Paola prese corpo.
+1	La frase è grammaticalmente corretta.	Alessandro prese parte alla festa.
+1	La frase è grammaticalmente corretta e utilizza il verbo "annotò" al passato remoto, che è appropriato per descrivere un'azione compiuta in un momento specifico nel passato.	Francesco annotò la lezione.
+1	La frase è grammaticalmente corretta.	Leonardo prese imbarco sulla nave.
+1	La frase è grammaticalmente corretta.	Paola prese informazioni su Alessandro.
+1	La frase è grammaticalmente corretta.	Edoardo si innamorò di Sofia.
+1	La frase è grammaticalmente corretta.	Paola prese un odio per Tommaso.
+1	La frase è grammaticalmente corretta.	Gli uccelli si imbeccarono dalla madre.
+1	La frase è grammaticalmente corretta e coerente.	Maria prese una cotta per Francesco.
+1	La frase è grammaticalmente corretta.	Maria si prese il gioco di Lorenzo.
+1	La frase è grammaticalmente corretta.	Lorenzo è il primo nella gara.
+1	La frase è grammaticalmente corretta e accettabile.	Francesco prese il coltello per la lama.
+1	La frase è grammaticalmente corretta.	Leonardo fece il proprio danno.
+1	La frase è grammaticalmente corretta e comunica un significato chiaro.	Lorenzo ha preso fischi per fiaschi.
+1	La frase è grammaticalmente corretta.	Maria fece una seduta di elioterapia.
+1	La frase è grammaticalmente corretta.	Andrea prese il treno.
+1	La frase è grammaticalmente corretta.	Ѐ stato perso troppe volte il treno, in questa redazione.
+1	La frase è grammaticalmente corretta e accettabile.	La bussola fu persa da Gabriele.
+1	La frase è grammaticalmente corretta.	Andrea non si controllò più.
+1	La frase è grammaticalmente corretta.	Edoardo è un chimico.
+0	La frase è scritta in modo non corretto perché "mise" è la forma coniugata del verbo "mettere" al passato remoto, mentre qui è necessaria la forma al passato prossimo, "ha messo".	Tommaso ha messo giudizio.
+1	La frase è grammaticalmente corretta e coerente in italiano.	Lorenzo ne disse due a Maria.
+1	La frase è grammaticalmente corretta e ha un significato comprensibile.	Beatrice prese fischi per fiaschi.
+1	La frase è grammaticalmente corretta e coerente.	Tommaso butta olio sul fuoco.
+1	La frase è grammaticalmente corretta.	Riccardo tirò l'acqua al proprio mulino.
+1	La frase è grammaticalmente corretta.	Alessandro si diede la zappa sui piedi.
+1	La frase è grammaticalmente corretta.	Emma ascolta un disco.
+1	La frase è grammaticalmente corretta.	Riccardo ha toccato Emma.
+1	La frase è grammaticalmente corretta.	Riccardo fa le traduzioni dei bollettini di guerra.
+1	La frase è grammaticalmente corretta e accettabile.	Di te ride in maniera beffarda.
+1	La frase è grammaticalmente corretta.	Tommaso legge.
+1	La frase è grammaticalmente corretta e accettabile in italiano.	Gabriele fa una telefonata a Maria.
+1	La frase è grammaticalmente corretta.	Tommaso dà un libro a Maria.
+0	La concordanza dei tempi verbali è errata. La frase richiede il passato prossimo sia per il verbo 'telefonato' che per 'è ritornata', poiché sono eventi accaduti in passato.	Che Andrea abbia telefonato ha causato il fatto che Giulia sia tornata.
+1	La frase è grammaticalmente corretta e accettabile.	Riccardo telefona ad Emma.
+1	La frase è grammaticalmente corretta.	Emma è in angoscia.
+1	La frase è grammaticalmente corretta e coerente.	Leonardo odia Maria.
+1	La frase è grammaticalmente corretta, poiché utilizza correttamente i pronomi personali e il verbo "odiare" al presente indicativo.	Leonardo odia Paola?
+1	La frase è grammaticalmente corretta e accettabile.	Alessandro andò a salutare il padre.
+1	La frase è grammaticalmente corretta e utilizza la forma verbale corretta.	Alessandro girò, con l'auto, a raccoglierla.
+1	La frase è grammaticalmente corretta e utilizza il verbo "virò" al passato remoto con il soggetto implicito "il battello", il che è appropriato.	Il battello virò a salvarli.
+1	La frase è grammaticalmente corretta.	Andrea obbedisce a lui sempre.
+1	La frase è grammaticalmente corretta.	I soldati hanno passato le armi ai prigionieri.
+1	La frase è grammaticalmente corretta e le parole sono in accordo.	Alessandro ama i bignè.
+1	La frase è grammaticalmente corretta e accettabile.	Il cedro ama la libertà.
+0	La frase contiene un errore di significato, poiché "potare" è un'azione che si riferisce alle piante e non agli animali domestici.	Il giardiniere ha tagliato il barboncino di Edoardo.
+1	La frase è grammaticalmente corretta.	A Lorenzo, Alessandro gli ha lasciato una ricca eredità.
+1	La frase è grammaticalmente corretta.	Alessandro beve il suo caffè.
+1	La frase è grammaticalmente corretta.	Alessandro desidera rivedere Beatrice.
+1	La frase è grammaticalmente corretta.	Un gatto con gli occhi gialli sta sotto l'arco della porta.
+1	La frase è già corretta.	Paola ha coraggio.
+1	La frase è grammaticalmente corretta.	Gabriele segue una rigida condotta morale.
+1	La frase è grammaticalmente corretta e coerente.	La zanzara pratica una rigida condotta morale.
+0	L'espressione "forte cotta" non è corretta, poiché "cotta" è un sostantivo e non può essere utilizzato come aggettivo per descrivere un sentimento.	Il frigorifero ha una forte attrazione per Francesco.
+1	La frase è grammaticalmente corretta.	Tommaso dette degli schiaffi a Maria.
+1	La frase è grammaticalmente corretta.	Riccardo allungò uno schiaffo a Giulia.
+1	La frase è grammaticalmente corretta.	Riccardo resta in silenzio.
+1	La frase è grammaticalmente corretta e coerente.	Riccardo non ha più sospetti su Emma.
+1	La frase è grammaticalmente corretta e accettabile.	Lorenzo riceve aiuto da Edoardo.
+0	La frase non è grammaticalmente corretta poiché "agita" è un verbo transitivo e richiede un oggetto diretto. Inoltre, il contesto non è chiaro.	Alessandro abbraccia Beatrice.
+1	La frase è grammaticalmente corretta.	Edoardo fa friggere l'uovo nella padella.
+1	La frase è grammaticalmente corretta.	Riccardo procede al caricamento del camion di casse.
+1	La frase è grammaticalmente corretta.	L'inchiostro rosso è la carica della stilografica.
+1	La frase è grammaticalmente corretta e accettabile.	La stilografica è caricata.
+1	La frase è grammaticalmente corretta.	Tommaso fruga nei cassetti della scrivania di Giulia.
+1	La frase è grammaticalmente corretta e accettabile.	Andrea carica l'orologio.
+1	La frase è grammaticalmente corretta e le parole sono utilizzate nel loro contesto appropriato.	Riccardo dà molte botte al cane.
+1	La frase è grammaticalmente corretta.	Lorenzo sale, per una seconda volta, le scale di corsa.
+1	La frase è grammaticalmente corretta.	Beatrice ha l'incarico di rapire Emma.
+0	La frase contiene un errore di genere e numero. La parola "asina" è al femminile e il verbo "correre" deve concordare con il soggetto "Alessandro" al maschile e al singolare.	Alessandro corre l'asino.
+1	La frase è grammaticalmente corretta.	Francesco prende il cervo per la corna e lo atterra.
+0	La frase contiene un'incongruenza semantica, poiché un frigorifero non ha la capacità di sedurre un gatto.	La frase non è corretta.
+0	La frase presenta un'azione improbabile e incoerente tra i due oggetti inanimati.	La frase non è grammaticalmente corretta. Un'opzione migliore potrebbe essere: "Il frigo è vicino al tavolo."
+1	La frase è grammaticalmente corretta.	Riccardo ha sedotto una minorenne.
+1	La frase è grammaticalmente corretta.	Tutta la sala applaudì all'affermazione dell'oratore.
+1	La frase è già grammaticalmente corretta.	Paola ha letto un libro.
+0	La forma corretta del sostantivo "biglietto d'amore" è "biglietti d'amore" perché si riferisce a più di un biglietto.	Maria colleziona biglietti d'amore.
+1	La frase è grammaticalmente corretta e coerente.	Riccardo ha tosato lo zio.
+1	La frase è grammaticalmente corretta.	Paola fa una corsa in giardino.
+1	La frase è grammaticalmente corretta.	Riccardo scambia libri con Maria.
+1	La frase è grammaticalmente corretta.	Alice ha curvato la fronte.
+1	La frase è grammaticalmente corretta.	Maria ha curvato la faccia.
+1	La frase è grammaticalmente corretta.	Sofia mantiene testa al nemico.
+1	La frase è grammaticalmente corretta e accettabile.	Alessandro si gonfia la testa.
+0	La frase contiene un'espressione idiomatica "piantare in asso" che significa abbandonare o lasciare sola una persona in una situazione difficile o spiacevole. Tuttavia, la scelta di "Beatrice ha piantato in asso Giulia" non è la scelta corretta per questa espressione idiomatica.	Beatrice ha lasciato Giulia in un pasticcio.
+1	La frase è grammaticalmente corretta.	Capire le intenzioni segrete di una persona.
+1	La frase è grammaticalmente corretta.	Maria cambia le carte.
+0	La frase contiene un errore grammaticale. 'Fare a cattivo gioco' è una espressione idiomatica che richiede la preposizione "a" dopo "fare", mentre la forma corretta dovrebbe essere "fare un cattivo gioco".	Riccardo fa un cattivo gioco.
+1	La frase è grammaticalmente corretta.	Andrea ha rotto il collo a Beatrice.
+1	La frase è grammaticalmente corretta.	La musica rock rompe le orecchie.
+1	La frase è grammaticalmente corretta.	Riccardo ha dato quel che è di Tommaso a Tommaso.
+0	La mosca non può saltare, poiché è un'abilità tipica delle rane e delle cavallette.	La mosca si posa sul naso di Riccardo.
+1	La frase "Andare a monte" è grammaticalmente corretta.	Andare a monte.
+0	La frase non è grammaticalmente corretta perché manca la coniugazione del verbo "essere" e un complemento oggetto o un complemento di specificazione.	Essere all'indice significa essere esclusi o emarginati.
+1	La frase è grammaticalmente corretta.	Mettere all'indice. Spiegazione: La frase "Mettere all'indice" è corretta perché esprime un'azione di classificazione o censura, che richiede un verbo all'infinito come "mettere" seguito da un complemento di specificazione come "all'indice".
+1	La frase è grammaticalmente corretta, in quanto "Alzare il gomito" è un'espressione idiomatica che significa "bere alcolici in eccesso".	Alzare il gomito.
+1	La frase è grammaticalmente corretta.	Perdere il lume della ragione.
+1	La frase è grammaticalmente corretta.	Cavare la castagne dal fuoco a qualcuno.
+0	La frase contiene un errore di grammatica. "Essere" è un verbo che richiede un soggetto, ma non è chiaro quale sia il soggetto in questa frase. Inoltre, "povero" dovrebbe essere coniugato in un modo che si accordi con il soggetto, e "in canna" è una locuzione idiomatica non corretta in questo contesto.	La frase non è corretta. Una possibile frase corretta potrebbe essere: "Essere povero è difficile."
+1	La frase è grammaticalmente corretta.	L'angelo custode accompagna la fantasia di ogni bambino.
+1	La frase è grammaticalmente corretta e il suo significato è chiaro.	Ogni bambino ha un angelo custode che lo protegge.
+1	La frase è grammaticalmente corretta e coerente.	A quella festa è di rigore lo smoking.
+0	La frase presenta un errore di vocabolario. "nuota di zecca" è un'espressione non comprensibile e non esiste una parola "nuota" che significhi "nuovo" o "nuovamente".	La moto di Leonardo è nuova.
+1	La frase è grammaticalmente corretta e utilizza la preposizione corretta "in" per indicare la posizione di marcia dell'unità.	Ho visto un'unità in marcia.
+1	La frase è grammaticalmente corretta.	Che Leonardo ritorni piace a Maria.
+1	La frase è grammaticalmente corretta.	Sofia corre a mangiare.
+1	La frase è corretta e utilizza una struttura grammaticalmente corretta.	Andrea sorride a Sofia.
+1	La frase è grammaticalmente corretta.	Beatrice bada a che l'articolo sia chiaro.
+1	La frase è grammaticalmente corretta.	Alessandro divorzia da Paola.
+1	La frase è grammaticalmente corretta.	Riccardo abita in una casa piccola.
+1	La frase è grammaticalmente corretta e comunica che Maria non si trova a Roma.	Maria non sta a Roma.
+1	La frase è grammaticalmente corretta.	Mille stelle brillano nel cielo.
+0	La frase inizia con "Ciò", che è una forma arcaica e non standard di "Così" o "Ciò". Si consiglia di utilizzare una forma standard come "Così" o "Guarda questa cosa" per una maggiore chiarezza e correttezza grammaticale.	Guarda questa cosa.
+0	La frase presenta un errore di concordanza tra il soggetto e il verbo. Il soggetto "Leonardo" richiede la forma singolare del verbo "studia", mentre "tre ore al giorno" è un complemento.	Tutti i giorni, Leonardo li studia intensamente per tre ore al giorno.
+1	La frase è grammaticalmente corretta e coerente.	La parete è toccata dalle spalle di Riccardo.
+1	La frase è grammaticalmente corretta e non richiede modifiche.	Lorenzo tocca la schiena di Paola.
+1	La frase è grammaticalmente corretta e coerente.	Una tale conclusione deriva.
+1	La frase è grammaticalmente corretta.	Gabriele mangia poca frutta.
+1	La frase è grammaticalmente corretta.	Andrea beve.
+1	La frase è grammaticalmente corretta.	Francesco pizzica con sadismo.
+1	La frase è grammaticalmente corretta, con il soggetto "Alessandro" e il verbo "disegna" coniugato correttamente al presente indicativo.	Alessandro disegna sul muro.
+1	La frase è corretta in quanto segue le regole grammaticali dell'italiano.	Lorenzo balla la rumba.
+1	La frase è grammaticalmente corretta.	La siesta è una dormita.
+1	La frase è grammaticalmente corretta e coerente in termini di struttura e significato.	Francesco nuota a rana.
+1	La frase è grammaticalmente corretta e accettabile.	La spugna pulisce.
+0	La parola "the" non viene utilizzata in italiano per il tè. Si usa "il" o "un" come articoli determinativi o indeterminativi.	Tutti bevono il tè amaro.
+1	La frase è grammaticalmente corretta.	I lavori fatti hanno reso più larga la piazza.
+1	La frase è grammaticalmente corretta.	Tommaso afferra il gatto.
+1	La frase è grammaticalmente corretta e coerente.	Alessandro riflette sul gatto.
+1	La frase è grammaticalmente corretta e utilizza il verbo "discutere" in modo appropriato nel contesto dato.	Andrea discute la validità delle affermazioni di Maria.
+1	La frase è grammaticalmente corretta.	Riccardo fotografa Alice.
+1	La frase è grammaticalmente corretta.	Tommaso legge il giornale in salotto.
+1	La frase è grammaticalmente corretta.	Gabriele ha visto una casa di mattoni rossi.
+1	La frase è grammaticalmente corretta.	Tommaso ha visto una casa.
+1	La frase è grammaticalmente corretta e coerente.	I libri vecchi stanno nella cassa.
+1	La frase è grammaticalmente corretta e accettabile.	Un libro passa da Beatrice a Francesco.
+1	La frase è grammaticalmente corretta e i termini utilizzati sono appropriati nel contesto.	Non c'è sempre una concordanza in Maria tra i fatti e le parole.
+1	La frase è grammaticalmente corretta.	Maria mette il libro nella borsa.
+1	La frase è grammaticalmente corretta e coerente.	Lorenzo stacca la foto dall'album.
+1	La frase è grammaticalmente corretta.	Emma ha ritrovato l'anello nel cassetto.
+1	La frase è grammaticalmente corretta e comprensibile.	Il meccanismo di funzionamento del rotore alloggia se stesso in quell'involucro.
+1	La frase è grammaticalmente corretta.	Quella scatola conserva le foto di Alessandro ed Edoardo.
+1	La frase è grammaticalmente corretta e coerente.	E ciò è avvenuto al bar.
+1	La frase è grammaticalmente corretta e coerente.	Paola ha estratto la pistola e ciò ha avuto luogo dalla borsa.
+1	La frase è grammaticalmente corretta.	Il libro non sta nella cartella.
+1	La frase è grammaticalmente corretta.	La commessa avvolge la carta da regalo intorno alla bottiglia.
+1	La frase è grammaticalmente corretta.	È dal marciapiedi alla porta di casa che Beatrice ha piantato dei paletti.
+1	La frase è grammaticalmente corretta e chiara nel suo significato.	Maria dà sepoltura al padre sotto un albero.
+1	La frase è grammaticalmente corretta.	La polizia sgombera la piazza dei dimostranti.
+1	La frase è grammaticalmente corretta.	L'architetto ha decorato la facciata di fregi in marmo.
+1	La frase è grammaticalmente corretta e contiene una struttura semplice ma efficace per esprimere un'azione avvenuta nel passato.	Andrea uccise Edoardo con un sol colpo di coltello.
+1	La frase è grammaticalmente corretta.	I bagagli non stanno nell'auto.
+1	La frase è grammaticalmente corretta.	I libri stanno nella stanza.
+1	La frase è grammaticalmente corretta.	I vestiti vecchi stanno nell'armadio.
+1	La frase è grammaticalmente corretta e il significato è chiaro.	I vestiti vecchi non stanno nell'armadio.
+1	La frase è grammaticalmente corretta e coerente.	Andrea profuma la stanza di aromi di pino.
+1	La frase è grammaticalmente corretta.	Cicche intasano lo scarico della fontana.
+0	La frase contiene un'incoerenza grammaticale, poiché "con acqua con disinfestanti" è ripetuto.	Maria fa l'innaffiatura delle piante con acqua e disinfestanti.
+1	La frase è grammaticalmente corretta e coerente.	Il radar ha localizzato l'aereo.
+1	La frase è grammaticalmente corretta.	Alessandro difende Beatrice dai pericoli.

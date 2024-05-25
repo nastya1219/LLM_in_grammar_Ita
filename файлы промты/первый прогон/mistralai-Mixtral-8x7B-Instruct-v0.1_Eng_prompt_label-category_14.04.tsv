@@ -1,0 +1,947 @@
+label	category
+0	Syntax The sentence "Voglio di salutare Giulia" is not grammatically correct in Italian because it uses "di" instead of "da" after the verb "voglio". The correct form would be "Voglio da salutare Giulia", but even with that correction, the sentence remains unnatural as it combines two different structures ("voglio salutarla" or "le voglio dare un saluto"). A more natural way to express this idea could be "Vorrei salutare Giulia" (I'd like to greet Giulia).
+1	Correct The sentence "Ho voglia di salutare Sofia." is grammatically correct in Italian. It translates to "I want to greet Sophia" or "I feel like saying hello to Sophia".
+1	Correct
+0	Semantics The sentence "Il mio treno preferito è la Divina Commedia" is grammatically correct but semantically incorrect as "Divina Commedia" is not a train; it's an epic poem by Dante Alighieri.
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Morphology The sentence "I prezzi sono aumentati" contains a morphological error. The word "prezzi" should be "prezz**o**" in order for it to agree with the third person plural subject "sono." A corrected version would read "I prezzo sono aumentato," but even that form does not sound natural in Italian; instead, one might say "Il prezzo è aumentato" or "I prezzi sono aumentati," depending on context.
+1	Correct The given Italian sentence "Salvato Andrea, ci siamo dati alla pazza gioia appears to be grammatically correct. It has a proper subject ("Salvato Andrea"), verb conjugation that agrees with the subject in number and tense ("ci siamodati"), and an appropriate object complement ("alla pazza gioia").
+1	Correct
+1	Correct
+1	Correct This sentence appears to be grammatically correct in Italian. It means "Newton explained the force of gravity."
+1	Correct
+1	Correct The sentence "Tommaso si è danneggiato" appears to be grammatically correct in Italian. It translates to "Tommaso has damaged himself" or "Tommaso got hurt" in English. The verb form "si è danneggiato" agrees with the subject "Tommaso," both in number and gender.
+1	Correct The sentence "Quegli uomini hanno denunciato se stessi" is grammatically correct in Italian. It means "Those men reported themselves". The verb "hanno denunciato" agrees with its subject "quegli uomini", and the reflexive pronoun "se stessi" refers back correctly to its antecedent "uomini".
+1	Correct The given sentence "Compro e leggo quel libro." is in Italian and it translates to "I buy and read that book" in English. The sentence appears to be grammatically correct as per Italian language syntax rules.
+1	Correct
+0	Syntax The sentence "Non guardarlo" seems to be in Italian, but it appears to have an issue with its syntax. The word "non" is typically used as a negation before a verb, so it would need to precede another verb for the sentence to be grammatical. Here's one possible correction: "Non lo guardare," which means "Don't look at him."
+1	Correct The sentence "Ho incontrato molti amici di Riccardo" is grammatically correct and acceptable in Italian. It means "I met many friends of Riccardo".
+1	Correct The sentence "Non ho trovato il tuo libro in quella biblioteca." is grammatically correct. It's written in Italian and translates to "I didn't find your book in that library" in English.
+0	Syntax The sentence "Non ce ne ho trovati molti." appears to be written in Italian, not English. In addition, it contains an error even when considered within its original language. The correct form would be "Non ne ho trovati molti.", without the word "ce". Therefore, I am marking it as incorrect based on both syntax errors and non-English content.
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct The given sentence "Che cosa ha comprato Riccardo?" is grammatically correct in Italian. It translates to "What did Riccardo buy?" in English. The sentence has proper word order, subject-verb agreement, and uses appropriate vocabulary for asking a question about someone's purchase.
+1	Correct
+1	Correct The given Italian sentence "Riccardo ha domandato da chi non era stato visto Leonardo" follows all the grammatical rules correctly; hence it's grammatically acceptable. The verb tenses agree with their subjects, and there are no morphological or syntactical errors in word inflections, gender, number agreement, etc. Therefore, I would categorize this as being a Correct sentence.
+1	Correct
+1	Correct The given sentence "Gabriele, cuando l'hai visto?" appears to be grammatically correct. It seems to follow standard Italian syntax rules.
+1	Correct The given sentence "In quale cassetto Leonardo ha messo i fogli?" appears to be grammatically correct in Italian. It translates to "In which drawer did Leonardo put the papers?" in English.
+0	Syntax The sentence "Quale politico hanno parlato?" appears to be grammatically incorrect in standard Italian because it violates subject-verb agreement rules. The singular form of the past participle "parlato" does not agree with the plural subject "quale politico." It should instead be "Chi ha parlato?" or "Quale politico ha parlato?" for grammatical correctness.
+0	Syntax The Italian sentence "Quale politico ha detto la radio che il giudice ha dichiarato che ha parlato?" contains a syntactic error because it lacks clarity in terms of who spoke on the radio and what they specifically said or declared. The structure of multiple embedded clauses makes the meaning ambiguous and difficult to follow.
+1	Correct
+1	Correct The given Italian sentence "Quando è arrivato Francesco, abbiamo potuto cenare." is grammatically correct. It has proper subject-verb agreement, word order, and tense usage.
+1	Correct The sentence you provided, "La tempesta ha abbattuto la quercia sotto cui il figliol prodigo pascolava i porci," appears to be grammatically correct in Italian. Here's an approximate English translation for your reference: "The storm knocked down the oak tree under which the prodigal son used to graze pigs."
+0	Syntax This sentence is in Italian and translates to "Who touches the wires dies" in English. However, I am an English-language model and will assess it based on English grammar rules. In English, the subject-verb agreement is violated as there is no singular third person present tense verb form for "to touch". The corrected version would be "Whoever touches the wires dies."
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct The given sentence "Alessandro è bramoso di potere" is grammatically correct in Italian. It can be translated as "Alessandro is eager to have power."
+1	Correct
+1	Correct
+1	Correct The given Italian sentence "Avendo io sempre sostenuto una posizione diversa, dovrò votare contro questa proposta." is grammatically correct. It has a complex structure with two main clauses connected by a comma. The first clause "Avendo io sempre sostenuto una posizione diversa" contains a present perfect gerund verb form ("avendo sostenuto") that agrees with the subject "io". The second clause "dovrò votare contro questa proposta" features an auxiliary verb "dovrò" followed by the infinitive "votare", which also matches with its subject "io". Therefore, I would categorize it as syntactically correct.
+1	Correct This sentence is grammatically correct in Italian as it follows standard subject-verb-object word order and uses proper conjugation for the verb "ordinare" based on the subject "Tommaso." Additionally, it employs appropriate prepositions and object pronouns.
+1	Correct The sentence "Il fatto di essere stato scoperto un delitto ci ha sconvolti." is grammatically correct in Italian. It means "The fact that a crime was discovered has shocked us."
+1	Correct
+1	Correct The sentence "La sedia su cui ti sei seduto è rotta." is grammatically correct in Italian. It means "The chair you sat on is broken."
+1	Correct
+0	Syntax The sentence "Edoardo crede chi Sofia abbia baciato" is syntactically incorrect because it uses the subjunctive mood form "abbia" after the indicative mood verb "crede". The correct form should be "Edoardo crede che Sofia abbia baciato."
+0	Syntax The sentence "Che problema non sai come potremo risolvere?" appears to be syntactically incorrect in standard Italian. The word order seems confused and there are missing punctuation marks which make it difficult to understand the intended meaning. A possible correction could be: "Non sapendo come potremo risolvere questo problema," which means "Not knowing how we can solve this problem."
+1	Correct The sentence "Abbia visto lui" is grammatically correct in Italian. It means "I saw him". The verb "abbia" is the third person singular of the present perfect tense ("ha visto"), which agrees with the subject "lui" (he).
+0	Syntax The sentence "Abbiamo visto lo." is grammatically incorrect because it lacks sufficient information for its intended meaning in Italian. The pronoun "lo" requires an antecedent referring to a specific masculine singular noun that has already been mentioned. Additionally, using only "lo" without any context might sound awkward or confusing in most cases. A more complete version could be something like "Ho letto il libro e poi l'ho prestato ai miei amici; loro ne erano molto entusiasti. Abbiamo anche visto _il film_ insieme.", where "_il film_" would serve as the required antecedent for "lo".
+1	Correct
+0	Syntax The sentence contains an inversion ("non ... avevo") that creates confusion regarding the subject-verb agreement. Also, "mi" seems unnecessary as there's no direct object pronoun required for the verb "avere". A corrected version could be: "Beatrice ha dichiarato di non aver avuto nulla a che fare con Gabriele."
+1	Correct
+1	Correct
+1	Correct
+1	Correct This Italian sentence appears to be grammatically correct. It follows the standard structure for complex sentences with multiple embedded clauses. The subject "Edoardo" is followed by the conjugated verb "crede," indicating that he believes something. This belief is expressed through the subordinate clause introduced by "che," which contains another subordinate clause introduced by "che." All verbs ("veda" in particular) agree with their respective subjects in number and gender. Therefore, I would categorize it as grammatically correct.
+1	Correct The sentence "Il coniglio mangia." is grammatically correct in Italian. It means "The rabbit eats.", where "il coniglio" is the subject and "mangia" is the verb.
+0	Syntax The sentence contains a syntax error because it uses the wrong word order for an interrogative sentence in Italian. The correct form would be "Che cosa dice che il professore ha raccomandato di leggere?" which means "What does he say that the professor recommended to read?"
+0	Syntax The sentence "Per primo sono arrivato me, non tu." is not grammatically correct in Italian. The error lies in the use of "me" as a subject pronoun, which is incorrect. It should be "io" instead. Here's the corrected version: Corrected Sentence: Per prima sono arrivata io, non tu.
+1	Correct
+1	Correct
+1	Correct The given sentence "Andrea ha detto che Tommaso lo guarda" is grammatically correct in Italian. It can be translated as "Andrea said that Tommaso watches him."
+1	Correct The sentence "Gabriele ha voglia di andare al mare" is grammatically correct in Italian. It translates to "Gabriele feels like going to the beach" in English.
+1	Correct This sentence in Italian is grammatically correct. It means "It's this book that I had never read."
+1	Correct The given sentence "Da quel professore, Tommaso non è stato ancora interrogato?" is grammatically correct. It's in Italian and translates to "Hasn't Tommaso been questioned by that teacher yet?"
+1	Correct The sentence "Alessandro crede che invaderemo quel paese" is grammatically correct in Italian. It means "Alessandro believes that we will invade that country."
+0	Syntax The given sentence "A proposito di questi paesi, quale crede Andrea che invaderanno?" appears to be grammatically correct in Italian, as it follows standard subject-verb-object word order and uses proper verb forms for each tense. However, since I am an AI language model, my proficiency might not cover every aspect of any particular human language comprehensively; therefore, please consult native speakers or professional linguists when absolute certainty is required.
+1	Correct
+1	Correct
+0	Semantics The sentence "Gabriele è scapolo ed è sposato" contains a semantic contradiction because being single (scapolo) and married (sposato) at the same time is not possible.
+1	Correct The given sentence "L'attuale re di Francia è calvo." is grammatically correct in Italian. It means "The current king of France is bald" in English.
+1	Correct
+0	Semantics The Italian sentence you provided has no grammatical or syntactical errors; however, it might have an issue with semantic meaning. The first part of the sentence suggests that "if some students did not pass the exam," but the second half generalizes that "then every student did not pass the exam." This could be misleading since it may imply that all students failed even though only some of them didn't meet the passing criteria. To ensure accurate communication, consider revising the sentence so that its intended message aligns better with reality.
+1	Correct
+1	Correct The sentence "Nel processo di primo grado, la corte dichiarò l'imputato innocente." is grammatically correct in Italian. It means "In the first-degree trial, the court declared the defendant not guilty."
+1	Correct
+1	Correct
+1	Correct The given Italian sentence appears to be grammatically correct. It has proper subject-verb agreement, punctuation, and word usage throughout the sentence.
+1	Correct The sentence "Una bella casa fa comodo" is grammatically correct in Italian. It means "A beautiful house feels comfortable." However, it's worth noting that typically one would say "Essere comodi in una bella casa," as "fa comodo" implies that something makes an action easier or more convenient.
+1	Correct
+0	Morphology The sentence "Uso il gladio" appears to be in Italian, but it contains a morphological error. The word for sword in Italian is actually "spada," so the correct form would be "Uso la spada." Therefore, I am categorizing this as an error in morphology, which refers to how words are inflected or formed within a language based on their grammatical function.
+1	Correct The sentence "Il calcolatore funziona bene" is grammatically correct in Italian. It translates to "The calculator works well". The subject "il calcolatore" is singular masculine, followed by the third person singular verb form "funziona", which agrees with the subject. Finally, "bene" means "well", indicating how the calculator functions.
+1	Correct The word "Scusa" is an Italian exclamation used as an apology or polite request for attention or forgiveness. It is grammatically correct in its own language. However, it may not be understood by English speakers without additional context.
+1	Correct
+1	Correct
+1	Correct
+0	Morphology & Syntax The given sentence "Legge velocemente" seems to be in Italian, but it's not grammatically correct as it lacks context for proper interpretation. However, considering individual words, "legge" means "reads", and "velocemente" means "quickly". The morphological agreement between the subject ("he or she") and verb form requires a masculine singular third-person present tense conjugation, which is accurate here. Nonetheless, the syntax appears incomplete since there isn't an object being read explicitly mentioned. To improve grammaticality, one can add a direct object such as "il libro" meaning "the book," making it "Legge il libro velocemente."
+1	Correct The given sentence "Andando a casa, ho incontrato tuo fratello." is grammatically correct. It's composed of two clauses connected by a comma. The first clause "Andando a casa" is a gerund phrase acting as an adverbial modifier of time or manner, while the second clause "ho incontrato tuo fratello" contains the finite verb "ho incontrato", which agrees with the subject "io". Overall, it forms a coherent and complete thought, making it syntactically sound and semantically meaningful.
+1	Correct The sentence "Sto andando a prendere la macchina" is grammatically correct in Italian. It means "I am going to pick up the car."
+1	Correct The sentence "Non è vero che l'aspetto dei luoghi cambia come il volto degli uomini." appears to be grammatically correct in Italian. It translates to "It's not true that the appearance of places changes as the face of men do" in English.
+0	Morphology The sentence "Va' a casa!" is not grammatically correct because it contains an unconventional spelling of the verb "va" which should be "vai" in order to agree with the subject and tense of the sentence. Additionally, there is no punctuation at the end of the sentence, although this may depend on context or style guidelines.
+1	Correct The given sentence "Io sono affamato" is in Italian and it translates to "I am hungry" in English. In terms of its grammatical structure, the sentence follows the standard Subject-Verb-Adjective pattern in Italian, where "Io" is the subject, "sono" is the verb meaning "to be," and "affamato" is an adjective describing the speaker's hunger. Therefore, I would say that the sentence is grammatically correct.
+0	Syntax The sentence "Bravo, questo ragazzo" contains a mixture of Italian and English words, which results in an ungrammatical combination. A more appropriate way would be either to use only one language or provide proper translations for both parts. Here's a corrected version with full translation into English: Correct: Well done, this boy.
+1	Correct
+1	Correct The given sentence "Cosa fai domani?" seems to be grammatically correct in Italian. It translates to "What are you doing tomorrow?" in English. The structure appears to follow standard subject-verb agreement rules, making it acceptable as per general grammar guidelines for the language.
+1	Correct The sentence "Ho visto il libro che mi hai regalato" is grammatically correct in Italian. It means "I saw the book that you gave me."
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct This sentence is grammatically correct in Italian. It means "Everyone takes their own coat" or more literally "Each one takes his/her own coat". The verb "prendere" agrees with the plural subject "ognuno", and each pronoun "suo" correctly refers back to its corresponding singular antecedent.
+1	Correct This sentence appears to be grammatically correct in Italian. "Prendimi quell'aggeggio" can be translated as "Get me that gadget" or "Hand me that thingamajig" in English.
+1	Correct
+1	Correct
+1	Correct The sentence "Ho visto una casa." appears to be grammatically correct in Italian. It translates to "I saw a house" in English. The verb "ho visto" agrees with the subject "I" in number and person, and it also shows that the action has been completed as it's in the past tense. Additionally, the article "una" before "casa" correctly matches its gender and number. Therefore, there are no apparent morphological, syntactical or semantic mistakes in this sentence.
+1	Correct The sentence "Ho visto tua madre." is in Italian and it can be translated as "I saw your mother" in English. The sentence structure appears to follow standard Italian grammar rules, so I would consider it grammatically correct.
+1	Correct
+1	Correct This sentence is grammatically correct in Italian. It means "If one goes by train, they want to be comfortable."
+0	Syntax The sentence "Fa male la mia testa" is in Italian but it lacks proper subject-verb agreement which makes it syntactically incorrect. The verb "fa" requires an accompanying subject for grammaticality, such as "Il dolore fa male alla mia testa" ("The pain hurts my head").
+0	Morphology The sentence "Ho due case." is in Italian, not English. In English, it would be "I have two houses," which is grammatically correct.
+0	Morphology The sentence "Ho delle case." is in Italian, not English. In English, the translation would be "I have some houses.", which has the correct morphological form for third person singular present tense ("has") instead of first person singular ("ho").
+1	Correct
+1	Correct The given sentence "I cavalli sono animali resistenti" is grammatically correct in Italian. It means "Horses are resilient animals".
+1	Correct
+1	Correct
+1	Correct
+1	Correct The given sentence "Magari domani piove." is grammatically correct in Italian. It translates to "If only it rains tomorrow" in English.
+1	Correct
+0	Morphology The sentence "Scrive una lettera a sua zia." is in Italian, not English. The word for "writes" in Italian is indeed "scrive," but since I was expecting an English sentence as input, I will mark it as incorrect due to morphological mismatch with English language conventions.
+1	Correct
+1	Correct The sentence "Alessandro promette ad Edoardo di restare a casa" is grammatically correct in Italian. It can be translated as "Alessandro promises Eduardo to stay at home". The verb conjugation matches the subject's number and gender, and there are no syntax or semantic errors present in the statement.
+1	Correct
+1	Correct The sentence "Ho riparato il tavolo" is grammatically correct in Italian. It means "I fixed the table."
+1	Correct
+1	Correct The sentence "Le è stato dato il cappello da me." is grammatically correct in Italian. It means "He was given the hat by me" or more naturally in English, "I gave him the hat". The verb "è stato dato" agrees with its subject in gender (masculine) and number (singular). Additionally, word order follows standard SVO structure in Romance languages such as Italian where adverbial phrases ("da me") usually come at the end of the sentence but can be moved for emphasis.
+1	Correct The sentence "Quel ragazzo apre la porta." is grammatically correct in Italian. It means "That boy opens the door" in English. The word order follows standard Italian syntax rules, with the subject ("quel ragazzo") coming before the verb ("apre"), which agrees with the subject in number and person. The object ("la porta") comes after the verb as required by Italian grammar. All words are correctly inflected for gender, number, and tense, so there are no morphological errors. Additionally, the meaning conveyed by the sentence is clear and unambiguous, indicating that there are no semantic issues. Overall, the sentence appears to be flawless in terms of both form and content.
+1	Correct
+0	Semantics The sentence "La macchina vuole lavarla lui." is grammatically correct but semantically odd because it implies that the car wants to wash him, which doesn't make much sense in English or Italian. A more natural way to express this idea would be "Lui deve lavare la macchina" ("He needs to wash the car").
+1	Correct
+0	Syntax The sentence contains an inversion that is not common or acceptable in standard Italian. A more natural way to express this idea would be "Non voglio venire fino a Napoli."
+1	Correct
+0	Morphology The sentence "Hai presente Lorenzo?" contains an error in morphology because it uses the wrong form of the verb "to know." In Italian, when asking someone if they know something or someone, you would use "conoscere" instead of "presentare," which means "to introduce" or "to present." The correct sentence should be "Conosci Lorenzo?" meaning "Do you know Lorenzo?"
+0	Syntax The sentence "E da quando vive in America?" appears to be written in Italian rather than English. The direct translation of this question into English would be "And from when lives in America?" which is syntactically incorrect. A correct version in English could be "Has he lived in America since when?" or simply "When did he move to America?"
+1	Correct
+1	Correct The given Italian sentence "Appena detto ciò, mi lasciò che piangevo e volevo dire molte cose." is grammatically correct. It can be translated as "As soon as I said that, he left me while I was crying and wanted to say many things" in English.
+1	Correct
+1	Correct
+0	Morphology The word "piangere" is an Italian infinitive verb form that means "to cry." The issue here is morphological because it's not in its proper conjugated form according to the subject or context provided. In English, you would need to say something like "He cries strongly," so in Italian, you might say "Lui piange forte."
+1	Correct The sentence "Ho preso in casa una specie di gatto." is grammatically correct. It means "I took home a kind of cat" in English.
+1	Correct The sentence "Ho preso dello zucchero." is grammatically correct in Italian as it follows the standard structure for past tense sentences with an indirect object ("dello" refers to some previously mentioned sugar). The verb conjugation matches the subject-verb agreement rule and there are no semantic inconsistencies or morphological errors.
+1	Correct
+1	Correct
+0	Morphology The sentence "Mettere fretta" is not grammatically correct because it violates morphological rules in Italian. The word "fretta" needs an article ("la") before it, so the corrected form would be "Mettere la fretta."
+1	Correct
+1	Correct The sentence "Tutte le balene devono essere protette" is grammatically correct in Italian. It means "All whales must be protected".
+1	Correct The sentence "Mettitelo bene in capo" appears to be grammatically correct in Italian. It can be translated as "Put it on properly on your head."
+0	Semantics The given sentence "Questa machina è vecchia ma nuova" seems to be grammatically correct in Italian but it contains a semantic error because the words "vecchia" and "nuova" contradict each other as they both describe the state of the machine being old and new at the same time which is not possible. A more appropriate way to express such an idea could be using adverbs instead of adjectives like "Questa machina funziona da molto tempo, ma l'ho appena aggiornata." translating to "This machine has been functioning for a long time, but I have just updated it".
+1	Correct
+1	Correct
+1	Correct The sentence "Ho spazzolato le scarpe" is grammatically correct in Italian. It means "I cleaned the shoes." The verb "ho spazzolato" is in the first person singular present perfect tense, which indicates that the action was completed in the past. The definite article "le" agrees with the feminine plural noun "scarpe," indicating more than one shoe. Overall, the syntax, morphology, and semantics of the sentence are all consistent with standard Italian grammar rules.
+1	Correct
+1	Correct The sentence "Riccardo ha dado un libro a Sofia" appears to be grammatically correct in Italian. It follows standard subject-verb-object word order, with proper agreement between the subject and verb ("Riccardo" and "ha dato"). Additionally, there's no apparent issue related to morphological or semantic rules.
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax The sentence "Emanare profumo" appears to be in Italian, but it is not grammatically correct as it lacks an explicit subject and a proper verb conjugation for that subject. A possible correction could be "Esso emana un profumo," which means "It emits a scent."
+1	Correct The given sentence "Aprire un nuovo negozio" is in Italian and it translates to "Open a new store" or "Opening a new shop" in English. The sentence appears to be grammatically correct for the context provided, with no apparent morphological, syntactic, or semantic errors. Therefore, I am marking it as correct.
+1	Correct The given sentence "Iniziare un'attività" seems to be grammatically correct in Italian. It means "To start an activity".
+1	Correct
+1	Correct The sentence "Gabriele non ammette di essere preso in giro" is grammatically correct. It's in the Italian language, where "Gabriele" is the subject, "non ammette" means "does not admit", "di" introduces an infinitive clause, "essere" is the auxiliary verb for passive or reflexive verbs, "preso" is the past participle form of "prendere" which means "to take", and "in giro" is an idiomatic expression meaning "joking around". Therefore, the whole sentence can be translated as "Gabriele does not admit being joked about."
+1	Correct The sentence "Paola ha restituito il libro" is grammatically correct in Italian. It means "Paola returned the book."
+1	Correct The given sentence "Che cosa ha preso?" appears to be grammatically correct in Italian. It translates to "What did he/she take?" or "What has he/she taken?" in English.
+1	Correct The sentence "Le scarpe si sono macchiate." is grammatically correct in Italian. It means "The shoes got stained" or "The shoes have been stained".
+1	Correct
+1	Correct The sentence "Qualcosa ha accorciato le giornate." is grammatically correct in Italian. It means "Something has shortened the days."
+1	Correct The sentence "Qualcuno ha accorciato le giornate" is grammatically correct in Italian. It means "Someone has shortened the days". The verb "ha accorciato" agrees with its subject "qualcuno", while "le giornate" correctly matches as plural direct object for the past participle "accorciato".
+0	The provided sentence "Aggrapparsi a un ramo" is in Italian, not English. Therefore, I will evaluate it as an incorrect input for determining grammatical correctness in English. However, please note that there seems to be no apparent grammar mistakes within the given Italian sentence.
+1	Correct The given sentence "Arenatesi le navi, gli equipaggi sono scesi a terra." is grammatically correct in Italian. It means "Having run aground, the crews have gone ashore."
+1	Correct
+1	Correct
+1	Correct
+1	Correct The given sentence "Alle sue parole, Maria ha annuito" is grammatically correct in Italian. Here's a breakdown of the sentence: - "Alle sue parole" translates to "to her words." It consists of "alle," which is the feminine plural definite article ("the") combined with "sue" (her). The phrase also includes "parole" (words). - "Maria" refers to a female name. - "ha annuito" means "has nodded" or "has agreed." It consists of "ha" (third person singular present tense form of "avere" - to have) and "annuito" (past participle of "annuire" - to nod or agree). Therefore, the entire sentence can be translated as "To her words, Maria has nodded / agreed," making it grammatically acceptable.
+1	Correct
+1	Correct The sentence "Andrea ha sbadigliato?" is grammatically correct in Italian. It means "Did Andrea yawn?" in English. The verb "sbadigliare" agrees with the subject "Andrea" in number and gender, and it is conjugated correctly for the past tense. Additionally, the question mark at the end indicates that this is an interrogative sentence. Therefore, there are no morphological, syntactical or semantic mistakes in this sentence.
+1	Correct
+1	Correct È approfittato dell'esperienza is a grammatically correct Italian sentence. It means "He took advantage of the experience."
+1	Correct
+1	Correct
+0	Correct The sentence "Il muro ammuffisce in una giornata" is grammatically correct in Italian. The word "ammuffisce" means "gets moldy," which agrees with its subject "il muro." Additionally, the preposition "in" followed by "una giornata" indicates that the wall gets moldy during a day, making semantic sense as well. Therefore, I would categorize it as Correct.
+1	Correct The given sentence "Paola sta suonando un pezzo di Bach" is grammatically correct in Italian. It means "Paola is playing a piece by Bach."
+1	Correct
+1	Correct The given sentence "Riccardo aspirava sempre il fumo del sigaro" is grammatically correct in Italian as far as I can tell with my current knowledge. It translates to "Riccardo always inhaled the smoke of the cigar."
+1	Correct Explanation: The sentence "Andrea aspires to become a doctor" is grammatically correct in English. It consists of a proper noun ("Andrea"), an infinitive verb phrase ("to become"), and a singular countable noun with its determiner and plural form ("a doctor"). All these elements follow standard rules for word formation, order, and agreement. Therefore, it's a grammatical and acceptable sentence.
+1	Correct
+0	Morphology The sentence "La lettera scrive" is grammatically incorrect because the verb "scrive" does not agree with its subject "la lettera." In Italian, just like in English, the verb must match the number and person of its subject. The singular third-person form for present tense verbs ending in "-e" is "-a," so it should be "scrive" instead. Here's the corrected version: La lettera scr**i**ve -> La lettera scrive.
+0	Syntax The sentence "Disturbo?" is not grammatically correct in English because it appears to be a fragment with a missing subject or verb. Additionally, "disturbo" does not exist as a word in English; perhaps you meant "do I disturb?"
+1	Correct
+1	Correct The sentence "Riccardo non scrive più da un pezzo." is grammatically correct in Italian. It can be translated as "Riccardo hasn't written for a while" in English.
+1	Correct
+0	Semantics The sentence "I negozianti hanno aumentato" is grammatically correct in Italian, but it lacks semantic meaning because there's no clear subject or object specified for the verb "aumentare" (to increase). A more complete version could be "I negozianti hanno aumentato i prezzi." - "Shopkeepers have increased prices".
+0	Morphology The sentence "I bicchieri si sono rotti" contains an agreement error between subject and verb. The plural noun "bicchieri" requires a plural form of the verb for grammatical concordance in Italian. In this case, the verb "sono" should be replaced with its plural form "sono". Therefore, the corrected sentence would be "I bicchieri si **sono rotte**."
+1	Correct The sentence "Paola ha acceso il fuoco." is grammatically correct in Italian. It means "Paola turned on the fire" or "Paola lit the fire".
+1	Correct The sentence "Il soggiorno in Canada ha migliorato il suo inglese." is grammatically correct. It's written in Italian and can be translated as "Staying in Canada improved his English" in English. The verb "migliorare" agrees with its subject "il soggiorno," while the possessive adjective "suo" correctly matches the gender and number of its associated noun "inglese".
+1	Correct
+0	Syntax The given sentence "Saltare un ostacolo" seems to be in Italian, but it appears that there is a missing subject or an explicit reference to a previously mentioned subject. The verb "saltare" requires a subject, so without one, the sentence becomes syntactically incorrect. A more complete version could be "Io salto un ostacolo" ("I jump over an obstacle").
+1	Correct The sentence "Tutti si sono commossi" appears to be grammatically correct in Italian. It translates to "Everyone got emotional" or "Everybody was moved" in English.
+1	Correct
+0	Morphology The word "Macchia" does not exist in Italian language. The verb "macchiare" means "to stain". So it should be "Macchia il vino?" or "Macchi il vino." with question mark indicating uncertainty about the action or period at the end to indicate that the statement has been completed. Also, subject-verb agreement needs to be checked as well since "vino" is masculine singular noun which requires third person singular form of the verb.
+1	Correct
+1	Correct The given sentence "Le tappe hanno bruciato per un'ora." is grammatically correct in Italian. Here's why: * The subject-verb agreement is followed correctly; "tappe" (steps) is plural, and so is the verb "hanno bruciato" (have burned). * Tense usage is appropriate for an action completed over some time in the past. * Word order follows standard Italian structure. * There are no spelling or morphological errors. * The meaning can be understood without ambiguity.
+1	Correct
+1	Correct
+1	Correct The sentence "Riccardo lava la macchina" appears to be grammatically correct in Italian. It translates to "Riccardo washes the car."
+1	Correct The sentence "Paola ha visto la partita con gli amici." is grammatically correct in Italian. It means "Paola watched the match with her friends."
+1	Correct The given sentence "Gabriele si è tagliato le basette" is grammatically correct in Italian. It follows all the rules related to morphological agreement between words as well as syntax structure for an acceptable sentence in Italian language.
+1	Correct The sentence "Riccardo si è tagliato il mento con il rasoio" appears to be grammatically correct in Italian. It can be translated as "Riccardo cut his chin with a razor." The verb conjugation matches the subject, and the objects follow standard word order rules for the language.
+1	Correct
+1	Correct
+0	Syntax The Italian sentence "Venite alla festa mangiati e bevuti" contains a syntax error because it mixes two different tenses in an ungrammatical way. The correct form would either be "Venite alla festa mangiando e bevendo" or "Siate venuti alla festa mangiati e bevuti," depending on the intended meaning.
+1	Correct
+1	Correct
+1	Correct
+1	Correct The sentence "Leonardo suona il telefono" is grammatically correct in Italian. It means "Leonardo rings the phone."
+1	Correct
+1	Correct
+1	Correct
+1	Correct The sentence "Il bosco si è bruciato per tre ore" is grammatically correct in Italian. It means "The forest burned for three hours." The subject-verb agreement is correct, as well as word order and tense usage.
+1	Correct The sentence "La biancheria si è asciugata per un'ora." is grammatically correct in Italian. It means "The laundry has dried for an hour".
+1	Correct
+1	Correct
+1	Correct The given Italian sentence "Tommaso è ingrassato molto dall'ultima volta che l'ho vista." is grammatically correct. It means "Tommaso has gained a lot of weight since the last time I saw him" in English. The verb conjugation matches with the subject agreement, there is no misplaced word or missing punctuation marks; hence it can be classified as grammatically correct.
+1	Correct
+1	Correct The given Italian sentence "Alle 8 in punto la sala si è svuotata" is grammatically correct.
+1	Correct
+1	Correct
+0	Morphology The sentence "Ho notato un libro caduto" contains a morphological error because "caduto," which is an adjective derived from the past participle form of the verb "cadere" (to fall), needs to agree with its noun in gender and number. In this case, since the noun "libro" is masculine singular, the correct agreement would be "caduto" for both genders. However, it should have been "caduta" as the word "libro" requires feminine singular agreement when referring to a fallen book. Therefore, the corrected version of the sentence should be: Corrected Sentence: Ho notato un libro caduta.
+1	Correct
+1	Correct This sentence appears to be grammatically correct in Italian. It means "Andrea takes advantage of Maria" or "Andrea enjoys Maria's benefit." The sentence has a subject ("Andrea"), verb ("approfitta", meaning "takes advantage of" or "enjoys"), and an indirect object ("Maria"). All the elements agree with each other in number and gender, so there is no morphological error. Additionally, the word order is appropriate for the language structure; hence, it does not contain any syntax errors either. In terms of semantics, the words have their standard meanings, which results in a coherent message without implying absurdity or contradiction.
+0	Syntax The sentence "Chi Leonardo ama?" is in Italian and it translates to "Who does Leo love?" in English. In Italian, the word order for questions can be different than that of statements, which may seem unusual to an English speaker. However, the sentence still follows the grammatical rules of Italian syntax. The subject pronoun "chi" is used correctly as the question word, followed by the name "Leonardo," and the verb "ama" (loves). Therefore, despite being written in another language, I will analyze its structure based on Italian grammar. In Italian, when asking a question with a present tense verb, you need to invert the usual order of subject and auxiliary or main verb. So, instead of saying "Leonardo ama chi?" (incorrect) we say "Chi Leonardo ama?" (correct). Here's why: * "Chi" = who * "Leonardo" = Leo * "Ama" = loves So, putting these words together according to Italian grammar results in the following breakdown: * Question word + Subject + Verb = Correct form * Who (+Subject) + Leo (+verb) = Chi Leonardo ama?
+1	Correct
+1	Correct
+1	Correct
+1	Correct The given sentence "Due lingue sono parlate da tutti i miei studenti" is grammatically correct in Italian. It translates to "Two languages are spoken by all my students."
+0	Syntax The sentence "Otto ore al giorno sono studiate da Tommaso" is not grammatically correct in Italian because it violates subject-verb agreement. The plural form "sono" (are) does not agree with its singular subject "otto ore" (eight hours). It should be "Otto ore al giorno è studiata da Tommaso."
+1	Correct
+1	Correct
+1	Correct The Italian sentence "Francesco macina il caffè in un vecchio macinino" appears to be grammatically correct. It contains a subject ("Francesco"), a verb ("macina") conjugated for third person singular present tense, an object ("il caffè"), a preposition ("in"), and another noun phrase acting as an oblique argument ("un vecchio macinino"). The word order also follows standard Italian rules, with the subject at the beginning followed by the verb, object, and additional complements. Therefore, there doesn't seem to be any morphological, syntactic, or semantic errors in this sentence.
+1	Correct This sentence appears to be grammatically correct. It is written in Italian and means "Tommaso stole Maria's wallet on a bus." The word order is correct, and there are no obvious morphological or syntactical errors.
+0	Syntax The sentence "Dove Riccardo mise la cassa nel mobile?" appears to be written in Italian, not English. However, I will still evaluate it for grammaticality as an independent unit without considering its meaning or context. The sentence seems to contain a word order issue, making it sound unnatural even in Italian. A more natural way to ask this question would be "Dov'è che Riccardo ha messo la cassa nel mobile?" which translates to "Where did Riccardo put the case inside the cabinet?" in English.
+1	Correct
+1	Correct
+0	Syntax The sentence "Leonardo sottrae la penna" is not grammatically correct in English because it uses Italian words. In Italian, the sentence translates to "Leonardo takes away the pen," but as an isolated English sentence, it contains syntax errors due to the use of foreign language vocabulary.
+1	Correct
+1	Correct The sentence "Alessandro legge un libro a letto" is grammatically correct in Italian as it follows standard subject-verb-object word order with proper agreement between the subject and verb. The meaning of the sentence is also clear - "Alessandro reads a book in bed."
+0	Morphology The error in the sentence is morphological because it uses "the" instead of the correct Italian article "il." In Italian, you would say "Riccardo beve il caffè in una tazzina di porcellana," where "il" agrees with the gender and number of the word "caffè".
+0	Correct The sentence "Dove Andrea ha preso una sigaretta?" appears to be grammatically correct in Italian. It translates to "Where did Andrea take a cigarette?" in English. The word order, verb conjugation, and use of tense all seem appropriate for the intended meaning.
+0	Syntax The sentence "Tommaso estrasse la pistola nel bar" is not grammatically correct in standard Italian. The verb "estrarre" requires an indirect object pronoun when used with the definite article "la", so it should be "Tommaso l'estrasse". Additionally, carrying or using a gun in a public place such as a bar is illegal in most places and can cause harm to others. It is important to prioritize safety and legality over anything else.
+1	Correct The sentence "Riccardo ci mangia il riso" is grammatically correct in Italian. It means "Riccardo eats the rice".
+1	Correct The sentence "Tommaso vi sostiene la lastra" appears to be grammatically correct in Italian. It can be translated as "Tommaso holds up the board/slab for you."
+1	Correct The sentence "Edoardo prese il libro di storia dalla libreria" is grammatically correct in Italian. It means "Edoardo took the history book from the library." The words are correctly spelled, and they follow proper syntax rules for word order, tense agreement, and article usage.
+1	Correct
+1	Correct The sentence "Gabriele mette le casse sul ripiano del montacarichi." is grammatically correct in Italian. It translates to "Gabriele puts the boxes on the platform of the lift."
+1	Correct The sentence "Dove hai messo le foto di Francesco?" appears to be grammatically correct in Italian. It translates to "Where did you put Francesco's photos?" in English. The word order, verb agreement, and grammatical tense all seem appropriate for the intended meaning.
+1	Correct The sentence "Tommaso toglie i soldi dal cassetto" is grammatically correct in Italian. It means "Tommaso takes money out of the drawer". The subject of the sentence is "Tommaso", followed by the verb "toglie" ("takes"), the direct object "i soldi" ("the money") and the prepositional phrase "dal cassetto" ("out of the drawer"). All elements are correctly inflected for number and gender, and the word order follows standard rules for declarative sentences.
+1	Correct The sentence "La chiave sta nella toppa" is grammatically correct in Italian. It means "The key is in the hole."
+1	Correct The given sentence "Dal giardino alla strada Lorenzo vi ha piantato i fiori" is grammatically correct in Italian. It means "Lorenzo planted the flowers from the garden to the street."
+1	Correct
+0	Syntax The word "garage" does not have a corresponding article which makes the sentence ungrammatical in Italian. A possible correction could be "Dal giardino, Leonardo ha piantato dei fiori nel garaggio."
+1	Correct The sentence "Edoardo carica le casse sulla nave" is grammatically correct in Italian. It means "Edoardo loads the crates onto the ship".
+1	Correct
+1	Correct The sentence "I rivoltosi incarcerarono Gabriele nelle segrete della fortezza" is grammatically correct in Italian. It means "The rebels imprisoned Gabriel in the dungeon of the fortress". The verb "incarcerarono" agrees with its subject "i rivoltosi", the article "le" correctly refers to "segrete", and overall word order and agreement follows standard Italian grammar rules.
+1	Correct
+0	Morphology The sentence "Gabriele chiuse il denaro" contains a morphological error. The word "denaro," which means money or cash in Italian, should be pluralized as "denari" when used with the verb "chiudere" because it requires a direct object that agrees in number with the verb. Therefore, the corrected form would be "Gabriele chiuse i denari."
+0	The sentence is in a language other than English. It appears to be grammatically correct for Italian, but I cannot determine its grammaticality for English as it stands.
+1	Correct
+1	Correct The sentence "Lorenzo caricò il camion" is grammatically correct in Italian as it follows the standard subject-verb-object structure with proper verb conjugation based on the subject's gender and number. The translation for this sentence is "Lorenzo loaded the truck."
+1	Correct The sentence "Questo latte deterge le impurità dal volto." is grammatically correct in Italian as it follows standard subject-verb-object word order with proper agreement between the verb and its direct object, and no apparent semantic errors.
+1	Correct The sentence "Riccardo stipò l'armadio con i vestiti." is grammatically correct in Italian as it follows standard subject-verb-complement structure with proper use of articles and prepositions.
+1	Correct The given sentence "La fotografia di Giulia e quella di Lorenzo stanno attaccate." is grammatically correct in Italian. It means "Giulia's photograph and Lorenzo's one are stuck together".
+1	Correct The given sentence "Riccardo allontanò Paola e la finestra l'una all'altra." is grammatically correct in Italian. It means "Riccardo moved Paola away from each other and the window". The verb "allontanare" agrees with its subject "Riccardo", while the pronouns "la" and "l'una" refer back to their respective antecedents "Paola" and "finestra", maintaining gender and number agreement throughout the sentence.
+1	Correct This sentence appears to be grammatically correct. It follows the standard Subject-Verb-Object structure of Italian sentences, where "Francesco" is the subject, "avvolge" is the verb, and "la statua" is the object. The prepositional phrase "in una tela di lino" provides additional information about how Francesco is wrapping the statue.
+1	Correct The given sentence "Alessandro accompagna Sofia al cinema" seems to be grammatically correct in Italian. It translates to "Alessandro accompanies Sofia to the cinema."
+1	Correct The sentence "Andrea accompanied Paola to school" is grammatically correct in English. The subject of the sentence, "Andrea," is the person who performed the action, which is expressed by the verb "accompanied." The direct object of the sentence, "Paola," received the action. Finally, the prepositional phrase "to school" indicates where the action took place or its destination. All these elements combine to form a complete thought that is easily understood.
+0	Semantics The sentence "I libri non stanno nell'armadio" is grammatically correct but semantically incorrect because it asserts that books do not belong in a closet, which contradicts the typical expectation for where books are stored.
+1	Correct The sentence "Andrea attraversò la parte meno pericolosa del fiume" is grammatically correct in Italian. It means "Andrew crossed the least dangerous part of the river."
+1	Correct The given sentence "Ho l'intenzione che mi vestirò da sposa." is grammatically correct in Italian. It translates to "I intend that I will dress up as a bride" in English. The verb conjugation matches with the subject and there are no semantic or syntactic errors found.
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct The given sentence "Quel libro è stato dato a Paola da Gabriele" appears to be grammatically correct in Italian. It translates to "Which book was given to Paola by Gabriele?" in English. The word order and grammar rules seem appropriate for the language.
+1	Correct The sentence "Paola riceve quel libro da Riccardo" is grammatically correct in Italian. It means "Paola receives that book from Riccardo". The subject-verb agreement is correct, as well as word order and use of prepositions.
+1	Correct The given sentence "Andrea mangia un polpo" is in Italian and it translates to "Andrew eats an octopus" in English. The sentence appears to be grammatically correct as per my knowledge cutoff year which is 2021.
+1	Correct The given sentence "Tommaso mangia questo" follows proper Italian grammar rules for conjugation and word order in present tense. It translates to "Tommaso eats this."
+1	Correct The sentence "Sofia lo adora" appears to be grammatically correct in Italian. It translates to "Sofia loves him" or "Sofia admires him" in English. The subject-verb agreement is correct as well as the use of masculine singular direct object pronoun "lo".
+0	Syntax The sentence "L'artrosi ha paralizzato le ossa" appears to be syntactically incorrect because it uses an inappropriate verb for the subject. The word "l'artrosi" means "osteoarthritis", which cannot cause someone or something to become paralyzed. A more appropriate verb could have been used that better matches the meaning and capabilities of osteoarthritis. Additionally, there may also be semantic issues with the statement since osteoarthritis does not typically affect bones in the way that would lead to paralysis.
+0	Morphology The sentence "Maria vuole lo mangiare" contains a morphological error because it uses the masculine singular definite article "lo" before an infinitive verb "mangiare". The correct form would be using the neuter singular definite article "lo" with the infinitive verb "mangiare", or changing the word order to use the accusative case for the direct object as follows: "Maria lo vuole mangiare."
+1	Correct
+1	Correct The given sentence "Riccardo la ammira" follows proper Italian grammar rules for word order and subject-verb agreement, making it grammatically correct in syntax. The sentence translates to "Riccardo admires her," where "Riccardo" serves as the subject, "la" refers to the direct object pronoun "her", and "ammira" is the verb that agrees with the third person singular masculine subject ("Riccardo").
+1	Correct The given sentence "Edoardo mira alla presidenza" appears to be grammatically correct in Italian. It can be translated as "Edoardo aims for the presidency," which follows standard Italian syntax rules. There's no apparent morphological or semantic issue present either.
+1	Correct
+1	Correct The sentence "È subito che Edoardo vuole il caffè" appears to be grammatically correct in Italian. It means "It's right away that Edoardo wants the coffee."
+0	Syntax The sentence "È al successo ciò che Tommaso tiene" is not grammatically correct in Italian because it uses the wrong preposition with "successo". It should be "Al successo non ci si arriva per caso", which means "Success doesn't come by chance." The word "al" is used before masculine singular nouns that begin with a vowel or an unstressed "h," but "successo" starts with a stressed "s," so the proper preposition is "anzi a il successo."
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Morphology The sentence "I denti di Emma battono dal freddo" contains a morphological error because it uses the third person singular form ("battono") instead of the first person plural form ("battiamo"). The corrected sentence would be "I denti nostri battono dal ffreddo." However, since your question asks for classification based on grammaticality only without any context or further corrections, I will still mark it as incorrect due to the morphological issue in the verb conjugation.
+0	Syntax The sentence "Alessandro le adora che hanno gambe lunghe le donne." seems to have a subject-verb agreement issue in English translation. In Italian, it may translate as "Alessandro loves that they have long legs, women.", but using "they" for "women" can be confusing since there's no explicit antecedent referring to multiple entities. The original sentence might need clarification or rephrasing for better understanding.
+1	Correct The given sentence "Andrea ne adora le amiche di Emma." seems to be grammatically correct in Italian. Here's what it means in English: "Andrea loves her friends from Emma's place." The word "ne" is used here as an indirect object pronoun, which refers back to "le amiche," meaning "the friends." Therefore, I would categorize the sentence as being grammatically correct with no apparent mistakes.
+1	Correct The sentence "Gabriele mangia un gelato" appears to be grammatically correct in Italian. It translates to "Gabriele eats an ice cream."
+1	Correct
+1	Correct The sentence "Il polpo è divorato da Sofia." is grammatically correct in Italian. It means "The octopus was eaten by Sophia" which makes sense semantically as well.
+0	Semantics The sentence "La tolleranza ne esula dai suoi doveri" is grammatically correct but semantically questionable because tolerance usually doesn't exclude or evade one's duties; rather it implies acceptance and patience towards others despite their actions or behavior that may not align with personal beliefs.
+1	Correct
+1	Correct
+1	Correct The sentence "Sofia accompagna Maria in Cina" is grammatically correct for Italian, where it means "Sofia accompanies Maria to China." The verb "accompagnare" agrees with its subject "Sofia," and the preposition "in" followed by "Cina" correctly indicates the destination.
+1	Correct
+1	Correct The given sentence "Alessandro ammira la casa che è di Paola" is grammatically correct in Italian. It means "Alessandro admires the house that belongs to Paola". The subject-verb agreement is consistent throughout the sentence, pronouns agree with their respective antecedents, and there are no semantic or morphological errors present.
+1	Correct
+1	Correct
+1	Correct The sentence "Che Riccardo dipinga è bello." is grammatically correct in Italian. It translates to "That Riccardo paints is beautiful" or more naturally, "Riccardo painting is nice" in English.
+1	Correct The sentence "Sofia passeggia per Venezia" appears to be grammatically correct in Italian. It translates to "Sophia walks around Venice."
+1	Correct The sentence "Maria raccoglie sassolini" is grammatically correct in Italian. It can be translated as "Mary collects pebbles".
+0	Syntax The sentence "Giulia legge" is in Italian and it means "[She] reads". However, without any context or additional information, we cannot assume for certain that the subject of the sentence is she. In English, the sentence would be "She reads", but since I was not provided with an explicit subject, I have assumed the sentence is incomplete and therefore incorrect in English.
+1	Correct The given sentence "Beatrice schermisce con abilità." is grammatically correct in Italian as it follows all the rules related to morphology, syntax, and semantics. The verb "schermisce" agrees with its subject "Beatrice" both in number and gender, while the preposition "con" followed by "abilità" correctly expresses the idea that Beatrice fences skillfully.
+0	Morphology The word "traveste" does not exist in English; it seems that you meant to use the past tense form of "travel," which is "traveled." Additionally, there is no need for an accent on the letter "e" in either "maria" or "alice" as these words do not contain accents in English. The corrected sentence would be: "Maria traveled Alice."
+1	Correct
+1	Correct
+0	Morphology The word "fa" looks like it's supposed to be a form of the verb "to be", but in present tense, it would be "is" or "are". Additionally, "neve" doesn't seem to correspond to any known English word. A possible correction could be "His snow." assuming that was the intended meaning.
+1	Correct The given sentence "Alessandro dorme nella completa inattività" seems to be grammatically correct in Italian. It means "Alessandro sleeps in complete inactivity."
+0	Morphology The sentence "La maionese non ha preso bene" contains a morphological error. The word "maionese," which means mayonnaise in Italian, needs to be changed to its plural form ("le maionesi") because it does not agree with the verb "ha preso." In addition, the phrase "non ha preso bene" can also be improved by specifying what exactly did not take well. Here's an example correction: Corrected version: Le maionesi che ho comprato non hanno preso bene. (Translation: The mayonnaises that I bought didn't turn out well.)
+1	Correct
+1	Correct The sentence "Quel vestito non va ad Alice" appears to be grammatically correct in Italian. It translates to "That dress does not suit Alice."
+1	Correct The sentence "Il capitale dell'azienda ammonta a molti miliardi." is grammatically correct in Italian. It means "The company's capital amounts to many billions."
+1	Correct
+1	Correct
+1	Correct
+1	Correct The sentence "Il vestito di Maria scintilla di uno stupendo diamante" is grammatically correct in Italian. It means "Maria's dress sparkles with a stunning diamond." The morphological agreement between the words is consistent throughout the sentence, and there are no syntax or semantic errors that would make it unacceptable in standard Italian.
+1	Correct The sentence "Beatrice arde dalla passione" appears to be grammatically correct in Italian. It translates to "Beatrice burns with passion." The subject-verb agreement is correct, as well as the word order and tense usage.
+1	Correct The sentence "Paola luccicava dall'emozione" is grammatically correct in Italian as it follows the standard subject-verb-complement structure with proper verb conjugation for gender and tense agreement.
+1	Correct The given sentence "Quell'idea si fa chiara nel suo animo" appears to be grammatically correct in Italian. It translates to "That idea becomes clear in his mind."
+0	Syntax The sentence "Gabriele vi ritorna" is not grammatically correct in Italian because it violates syntax rules. In Italian, when using object pronouns such as "vi," they must be placed before the verb. Additionally, there's no subject specified for the sentence which makes it unclear who is performing the action. A possible correction could be: "Lui ti riporta" (He brings you back).
+1	Correct
+1	Correct
+1	Correct
+1	Correct The given sentence "La Maggioranza patteggia con l'Opposizione" is grammatically correct in Italian. It means "The majority reaches an agreement with the opposition."
+0	Syntax The sentence "Emma lotta su questo punto" is not grammatically correct because it contains a morphological error in the subject ("Emma") which does not agree with the verb form ("lotta"). Also, there is no article before "punto". A corrected version could be "Emma si batte su questo punto." or "Emma disputes this point.", depending on context and intended meaning.
+1	Correct The sentence "Riccardo taglia il pane a fette" is grammatically correct in Italian. It means "Riccardo slices the bread into slices."
+1	Correct The given sentence "Riccardo gli vide il volto" follows the standard rules of Italian grammar and syntax, making it grammatically correct.
+1	Correct
+1	Correct The sentence "Tommaso ha edificato una palazzina nel centro di Roma." is grammatically correct in Italian. It means "Tommaso built an apartment building in the center of Rome".
+1	Correct
+1	Correct The sentence "Il Giappone colonizzò la Manciuria" is grammatically correct in Italian. It means "Japan colonized Manchuria".
+1	Correct The given sentence "Leonardo avait amassé des paquets au pied de la bibliothèque" is grammatically correct in French. It means "Leonardo had stacked packages at the foot of the library."
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct The sentence "Il Sergente distribuisce i soldati" is grammatically correct in Italian. It means "The sergeant distributes the soldiers".
+1	Correct The given sentence "Sofia separò il lavoro in due parti distinte." is grammatically correct in Italian. It means "Sofia divided the work into two separate parts" in English.
+1	Correct The sentence "Paola gli carezzò il volto" appears to be grammatically correct in Italian. It translates to "Paola gently touched his face" or "Paola softly stroked his face" in English.
+1	Correct The given sentence "Questa situazione gli complica la vita." is grammatically correct in Italian as it follows all the rules related to morphology, syntax, and semantics.
+1	Correct The given sentence "Maria afferrò la mano di Lorenzo" appears to be grammatically correct in Italian. It means "Maria grabbed Lorenzo's hand."
+1	Correct The sentence "Questa medicina coagula il sangue" is grammatically correct in Italian. It translates to "This medicine coagulates blood" in English.
+0	The sentence is in a language other than English. Since it is not possible for me to determine if the sentence is grammatically correct or not without knowing the grammar rules of that specific language, I will assume that the sentence is correctly formed according to its own language's rules.
+0	The sentence is in a language other than English. It is grammatically correct for Italian but not for English.
+0	Semantics The sentence "Le donne partoriscono i bambini" is grammatically correct in Italian but semantically incorrect because only women can give birth, not men. The correct form would be "Donne partoriscono i bambini," which means "Women give birth to children."
+1	Correct The given sentence "Paola converts sugar into candies" is grammatically correct.
+1	Correct
+0	Morphology The verb "travestì" does not agree with its subject "Alice". In English, this would be equivalent to saying "Alice dressed-him", which is also ungrammatical because "dressed" needs to match "Alice" in number and gender. A possible correction could be "Alice se travaestió a Francisco." or "Alice le ayudó a vestirse a Francesco.", depending on the intended meaning.
+1	Correct
+1	Correct The sentence "Lo Stato accorda troppa fiducia all'amministrazione pubblica" is grammatically correct in Italian. It means "The State gives too much trust to the public administration".
+1	Correct The given sentence "Tommaso attribuì la decisione di andare in Cina a Leonardo" is grammatically correct. It has a clear subject ("Tommaso"), verb ("attribuì"), object ("la decisione") and an indirect object marked with the preposition "a". The tense of the verb also agrees with the rest of the sentence. Overall, it follows standard Italian syntax rules without any apparent errors or ambiguities.
+1	Correct
+1	Correct This sentence appears to be grammatically correct in Italian. It means "Francesco leaves his wife on the road."
+1	Correct The sentence "I ladri rubano le auto ai legittimi proprietari" is grammatically correct in Italian. It means "Thieves steal cars from their legitimate owners".
+1	Correct The sentence "Maria spalmò il pane con il coltello" is grammatically correct in Italian. It means "Maria spread the bread with the knife". The verb "spalmare" agrees with its subject "Maria", and both objects ("il pane" and "il coltello") follow the preposition "con".
+0	Semantics The sentence "Riccardo mise il tavolo di cappello" is grammatically correct but semantically meaningless in Italian. A more accurate translation for what I believe you're trying to say would be "Riccardo posizionò il cappello sul tavolo," which means "Riccardo placed the hat on the table." The original sentence incorrectly uses "di" instead of "sul" as the preposition, and it also switches their order, making it an illogical combination that doesn't convey any comprehensible meaning.
+1	Correct The sentence "L'aviazione nemica bombardò napalm sulla città" appears to be grammatically correct in Italian. It means "The enemy aviation bombed napalm on the city."
+0	Semantics The sentence "Andrea imbeve il pane di vino" is grammatically correct in Italian but semantically odd because bread is not usually soaked in wine. A more natural way to say it might be "Andrea versa il vino nel pane," which means "Andrea soaks the wine into the bread."
+1	Correct The sentence "Raso rosso foderava i cuscini" is grammatically correct in Italian. It means "Red satin was upholstering the cushions."
+1	Correct The sentence "Lorenzo dissemina aneddoti divertenti nei suoi racconti" is grammatically correct in Italian. It means "Lorenzo spreads amusing anecdotes in his stories". The verb "disseminare" agrees with its subject "Lorenzo", and all other elements in the sentence are correctly used as well.
+0	Syntax The sentence "I turisti disseminano il prato di cartacce" is incorrect because it violates syntax rules in Italian. The word "di" should not be used before "cartacce." A correct version would be "I turisti disseminano il prato di rifiuti/immondizia/spazzatura (tourists scatter the lawn with litter)."
+0	Semantics The sentence contains a semantic error because "il figlio dell'idea" does not make sense in English or Italian. It seems that there was an attempt to say "the son of the idea," but it appears to be a mistranslation from another language or simply an illogical statement as ideas cannot have children.
+1	Correct The sentence "Riccardo liberò il cane dales catene." is grammatically correct in Italian. It means "Riccardo freed the dog from the chains". The verb "liberare" agrees with the subject "Riccardo", and the definite article "il" matches the gender and number of the noun "cane". The preposition "dalle" also agrees with its following direct object "catene".
+0	Syntax The sentence "Alessandro scarica Giulia dalle proprie responsabilità" is syntactically incorrect because it lacks proper agreement between the subject ("Alessandro") and the verb ("scarica"). In Italian, the verb must agree in number with its subject, but here the singular form "scarica" is used instead of the plural form that would be required for "Alessandro". The correct form would be "Alessandro scaricano Giulia dalle proprie responsabilità."
+1	Correct The sentence "Tommaso ne ottiene la libertà" appears to be grammatically correct in Italian. It can be translated as "Tommaso obtains freedom."
+1	Correct
+1	Correct The sentence "L'alchimista fa che l'oro derivi dal piombo." is grammatically correct in Italian. It means "The alchemist makes gold derive from lead".
+1	Correct The sentence "Riccardo spostò il cappello dall'armadio al tavolo" is grammatically correct in Italian. It means "Riccardo moved the hat from the closet to the table".
+1	Correct The given sentence "Leonardo pone il libro sulla scrivania" seems to be grammatically correct in Italian. It can be translated as "Leonardo puts the book on the desk". The verb "pone" agrees with the subject "Leonardo", and the definite articles "il" and "sulla" agree with their respective nouns "libro" and "scrivania".
+1	Correct The given sentence "Alessandro prese il cappotto dall'armadio" is grammatically correct in Italian. It means "Alessandro took the coat from the wardrobe." The sentence has a subject ("Alessandro"), verb ("prese", which agrees with the singular masculine subject), direct object ("il cappotto") and an adverbial phrase indicating location ("dall'armadio"). All elements follow standard Italian grammar rules for word order and agreement between words.
+1	Correct The sentence "Gabriele spedì la ricevuta all'ufficio delle imposte" is grammatically correct in Italian. It means "Gabriele sent the receipt to the tax office."
+1	Correct The sentence "Paola spinse le gambe di Francesco verso la parete" is grammatically correct in Italian. It means "Paola pushed Francesco's legs towards the wall".
+1	Correct The sentence "La foresteria ospita gli intervenuti alla manifestazione." is grammatically correct in Italian. It means "The guesthouse hosts the participants in the event."
+1	Correct The given sentence "Il dottore spennella le tonsille di Gabriele di iodio" appears to be grammatically correct in Italian. It means "The doctor brushes Gabriele's tonsils with iodine."
+1	Correct The given sentence "Leonardo archiviò la documentazione nell'archivio centrale." is grammatically correct in Italian. It means "Leonardo filed the documentation in the central archive" which is semantically meaningful as well.
+0	The sentence is in Italian instead of English. Note: Morphologically, syntactically, and semantically, the sentence is correct for Italian; it means "My elbows rest on the windowsill."
+1	Correct The sentence "Riccardo affoga i dispiaceri nel vino" is grammatically correct in Italian. It means "Riccardo drowns his sorrows in wine."
+1	Correct The given sentence "Un buon timoniere attracca rapidamente la sua nave al molo" seems grammatically correct in Italian as it follows standard subject-verb-object word order and all elements appear to agree with each other in terms of gender, number, and tense.
+1	Correct The sentence "Andrea spostò il bicchiere dal tavolo sul mobile" is grammatically correct in Italian. It means "Andrea moved the glass from the table to the cabinet." The verb "spostare" agrees with the subject "Andrea," the definite article "il" correctly precedes the noun "bicchiere," and the prepositions "dal" and "sul" indicate movement between two locations.
+1	Correct The given sentence "Tommaso pompava l'acqua dal lago alla piscina" is grammatically correct in Italian. It means "Tommaso was pumping water from the lake to the pool."
+1	Correct
+1	Correct
+1	Correct
+1	Correct The given Italian sentence "Riccardo allontana Maria dalla stanza" is grammatically correct. It means "Riccardo moves Maria away from the room."
+1	Correct
+1	Correct The Italian sentence "Sofia confonde il piacere con la possibilità di essere corteggiata" is grammatically correct. It means "Sophia confuses pleasure with the possibility of being courted."
+0	Morphology The sentence contains a morphological error because "fondeva" should be "fuseva". The correct form of the verb in past tense for "Tommaso" would be "fuseva", not "fondeva".
+1	Correct The sentence "Gabriele ci sostituisce il tubo catodico" appears to be grammatically correct in Italian. It can be translated as "Gabriele replaces the cathode ray tube for us."
+1	Correct The sentence "Riccardo le sostituisce il tubo catodico" appears to be grammatically correct in Italian. It follows standard subject-verb-object word order and uses appropriate grammatical forms for each word based on its role within the sentence. Therefore, no specific category of error can be identified.
+1	Correct The given sentence "Tommaso alterna Beatrice con Paola." is grammatically correct in Italian. It means that Tommaso is taking turns with Beatrice and Paola. The verb "alternare" agrees with its subject "Tommaso", while both objects "Beatrice" and "Paola" are introduced by the preposition "con".
+0	Syntax The sentence "L'amore lega" is in Italian and it translates to "Love binds". However, without additional context, I will assume that the English version was provided for evaluation purposes. The grammar of the original Italian sentence appears to be correct; therefore, my response only considers its translation into English. In English, "love" requires an article or determiner ("the love", "my love") when used as a noun. Additionally, we would typically use a third-person form for the verb ("binds"). Therefore, the grammatically correct English equivalent would be either "The love binds." or "My love binds.", depending on the intended meaning.
+0	Syntax The sentence "Gabriele dorme" is in Italian and it means "Gabriele sleeps." However, since the context provided does not specify that responses should be in Italian, I will assume that English is required. Therefore, the correct form for an English sentence would be "Gabriele sleeps," which is grammatically correct. Nonetheless, according to the given instructions, my response should indicate that the original sentence is incorrect because it is written in a language other than English.
+1	Correct The given sentence "Maria desidera un libro" seems to be grammatically correct. It follows standard Italian syntax rules for forming a simple sentence with a subject ("Maria"), verb ("desidera") and an object ("un libro"). The morphological forms of each word also appear appropriate in context.
+1	Correct This sentence is grammatically correct in Italian. It means "Maria wants the fact that you come."
+0	Syntax The sentence "Leonardo tiene alla possibilità che lo promuovono" is not grammatically correct because there is an agreement error between the subject ("Leonardo") and the verb in the relative clause ("promuovono"). The form of the verb should agree with the gender and number of its subject; therefore, it should be "lo promuove". Additionally, "alla" should be replaced by "di" since it's used before the noun "possibilità." Here's the corrected version: Corrected Sentence: Leonardo ha la possibilità che lo promuova.
+1	Correct The sentence "Giulia abbandona l'idea che vedrà Edoardo" is grammatically correct in Italian. It means "Giulia gives up on the idea that she will see Edoardo."
+1	Correct
+1	Correct The given sentence "Maria bada che tutto funzioni alla perfezione" seems to be grammatically correct in Italian. It translates to "Maria makes sure that everything works perfectly".
+1	Correct The sentence "Edoardo approva che Maria parta" appears to be grammatically correct in Italian. It can be translated as "Edoardo approves that Maria leaves." In this sentence, there are no apparent morphological, syntactic, or semantic errors.
+0	Syntax The sentence "Emma dubita di che Alice parta" seems to contain a syntax error because it uses the subjunctive mood in the wrong way. In Italian, when expressing doubt or uncertainty about an action performed by someone else, you would typically use "pensare" instead of "dubitare", which requires the infinitive form after it ("che + verb in its infinitive form"). Therefore, the corrected version of the sentence could be: "Emma pensa che Alice possa partire."
+0	Syntax The word order in the sentence "Che Lorenzo viaggi angoscia Tommaso" is not correct for Italian language. A possible correction could be "Lorenzo angoscia Tommaso mentre viaggia".
+0	Syntax The reason for this classification is that in Italian, when using the indirect object pronoun "ci" meaning "to us", it must be placed before the verb, as follows: "Lui ce l'approva l'idea." In its current form, the sentence is ungrammatical because "ci" has been placed after the verb instead of before it.
+0	Syntax The sentence "Edoardo lo approva il fatto che Maria canti" is not grammatically correct in Italian because it violates subject-verb agreement rules. In particular, there's an inconsistency between the singular form of the verb "approva" (third person) and the plural form of the noun phrase "il fatto che Maria canti" (fourth person). The corrected version of the sentence could be "Edoardo approva il fatto che Maria canti".
+0	Syntax The sentence "Tu desideri Sofia venire" is not grammatically correct in standard Italian. The verb "desiderare" requires that its direct object be introduced by the preposition "di", so the correct form would be "Tu desideri che Sofia venga". Also, the present tense conjugation for the second person singular subject pronoun ("tu") does not add an "-i" at the end; it should simply be "vieni".
+0	Semantics The sentence "Riccardo va al fumo" is grammatically correct in Italian, but it doesn't make semantic sense because you cannot go to smoke as a destination. A more appropriate translation for "Riccardo goes to smoke" would be "Riccardo va a fumare."
+1	Correct The sentence "Alice brama di tornare" appears to be grammatically correct in Italian. It can be translated as "Alice yearns to return."
+0	Syntax The sentence "Andrea incoraggia Maria a che si sposi" is not grammatically correct in Italian because it lacks an infinitive verb after "a". A more appropriate way to phrase the sentence would be "Andrea incoraggia Maria a sposarsi."
+1	Correct The given sentence "Il fatto che Emma parli allieta suo padre." is grammatically correct in Italian. It means "The fact that Emma speaks (third-person singular present indicative) delights her father" in English.
+0	Syntax The sentence "Andare al cinema infiamma Sofia" is not grammatically correct in Italian. The verb "infiammare" (to inflame) cannot be used with the preposition "al" (to the) and the noun "cinema". Also, there seems to be no clear subject or object in this sentence, making it difficult to understand its intended meaning. A possible correction could be "Sofia va al cinema" (Sophia goes to the movies).
+0	Syntax The sentence "La colpisce che Riccardo rida" is not grammatically correct in Italian because it violates subject-verb agreement rules. The singular third person feminine subject "la" requires a singular third person feminine verb form, but "colpisce" is a third person singular masculine/feminine verb that does not agree with its subject. Additionally, the clause "che Riccardo rida" creates a subjunctive mood issue as it implies uncertainty or doubt about Riccardo laughing. Therefore, both syntax and semantic errors occur here. A more appropriate way to express the intended meaning might be "Le stupisce che Riccardo ridia," where "le" refers to "her" and agrees with the plural third person feminine verb "stupisce." Moreover, "ridia" indicates past tense, which can indicate certainty.
+1	Correct
+0	Not applicable. The sentence "Leonardo allieta Leonardo perché Maria ride." appears to be in Italian rather than English. Assuming you intended for it to be an English sentence, some possible corrections could be: * Leonardo cheers up Leonard because Mary laughs. * Leonardo pleases Leonard because Mary laughs. * Leonardo delights Leonard because Mary laughs. However, without additional context or information about what you meant for the sentence to convey, I cannot provide a definitive correction.
+1	Correct The sentence "La tristezza e la noia deprimono Gabriele" is grammatically correct in Italian. It translates to "Sadness and boredom depress Gabriel." The word order is correct, and all words agree with each other in terms of number and gender.
+1	Correct The given sentence "Mi acquieta che Giulia parli in questo modo" appears to be grammatically correct in Italian. It means "It calms me that Julia speaks in this way."
+1	Correct
+1	Correct The sentence "Parlare con le ballerine è divertente." is grammatically correct in Italian. It means "Talking to the dancers is fun.", where "Parlare" is the verb meaning "to talk", "con" is the preposition meaning "with", "le" is the article used with feminine plural nouns, "ballerine" means "dancers", and "è divertente" is an adjective phrase meaning "is fun".
+1	Correct
+0	Syntax The sentence "Di vedere i marziani accadde a Paola" is not grammatically correct in Italian because it violates syntax rules. The phrase "di vedere i marziani" does not make sense as an introduction to the rest of the sentence; instead, one would use "Vidi gli alieni" or something similar. Additionally, "accadde" (happened) requires that what follows be the subject of the action, but here we have "a Paola," which cannot serve as the subject for "accadde."
+1	Correct The given sentence "Aver vinto al lotto splendeva nel suo sguardo." is grammatically correct in Italian. It means "Having won at the lottery, shone in his gaze.", where "aver vinto" is the auxiliary verb phrase for the past perfect tense and "splendeva" is the third person singular indicative passive form of the verb "splendere".
+0	Morphology The sentence contains an Italian word "di" that does not agree in number with its complement "aver." The verb "avere" should be used instead of "aver," which means "of having." Additionally, there seems to be a missing subject or auxiliary verb for past tense conjugation. A possible correction could be: "Lui aveva vinto al lotto e splendeva nel suo sguardo."
+0	Syntax The sentence "Si tratta che dobbiamo fuggire" is syntactically incorrect because it uses two conjugations that don't agree with each other in terms of tense or mood. The verb "trattare" requires an indicative or subjunctive complementizer such as "che", but instead, it is followed by the infinitive form "dobbiamo fuggire". To fix this error, one could rephrase the sentence using only one consistent tense or mood throughout. For instance, "Ci si deve occupare di questo" (One must deal with this) would be a grammatically correct alternative.
+1	Correct
+1	Correct
+1	Correct The given sentence "Io condanno il fatto che Erode uccise i bambini" appears to be grammatically correct in Italian as it follows standard subject-verb-object word order with no apparent morphological or syntactical errors. Additionally, the semantic meaning of the sentence is clear and understandable.
+1	Correct
+1	Correct
+1	Correct The sentence "Riccardo evita guardare la televisione" appears to be grammatically correct in Italian. It means "Riccardo avoids watching TV."
+0	Syntax The sentence "Paola ritiene che si parta è carino" is syntactically incorrect because it contains an extra "è". The corrected version would be "Paola ritiene che si parta sia carino."
+1	Correct
+0	Syntax The sentence "Beatrice lo giudica che Maria ha troppe amanti." is incorrect because it uses "che" instead of "quanto" or "tanta" after "giudicare". The correct form would be "Beatrice lo giudica quanto Maria ha troppe amanti." or "Beatrice la giudica tanta per i suoi troppi amanti.", depending on what you want to express.
+1	Correct The sentence "Sofia lo giudica che Maria abbia troppi amanti" appears to be grammatically correct in Italian. It contains a complex verb construction with the subjunctive mood used correctly. The subject-verb agreement is also consistent throughout the sentence. Therefore, I would categorize it as correct.
+1	Correct
+1	Correct The given Italian sentence "Leonardo lo suppone che il padre beva troppo" appears to be grammatically correct. It follows standard subject-verb-object word order in both main and subordinate clauses. The verb conjugations also align with their respective subjects.
+0	Syntax The sentence "Io penso qualcosa di te." appears to be in Italian rather than English. Therefore, it cannot be evaluated for grammaticality based on English language rules. However, I can tell you that the sentence seems grammatically correct in Italian, although its intended meaning might not be clear without additional context. The literal translation of the sentence into English would be "I think something about you," which is syntactically correct but may sound awkward or unnatural depending on the specific context.
+0	Syntax The sentence contains an inconsistency in its structure as it starts with a direct object "Io" which breaks the flow of the sentence. A more appropriate way would be: "Di te, io penso che ami il tartufo." or simply "Penso che tu ami il tartufo."
+1	Correct
+0	Syntax The sentence "Alice lavora a cacciare Maria" is not grammatically correct in Italian because it violates syntax rules. In Italian, when using the verb "lavorare" (to work) followed by "a", the infinitive form of another verb must follow. However, "cacciare" (to hunt) cannot be used after "lavora a". Instead, one could say "Alice sta lavorando per catturare Maria" which means "Alice is working to catch Maria."
+1	Correct The given sentence "Riccardo plaude al fatto che Tommaso ha vinto" is grammatically correct in Italian. It means "Riccardo applauds the fact that Tommaso has won". The verb conjugation matches the subject agreement, there's no mismatch between gender or number, and the overall structure follows standard syntax rules for Italian sentences with subordinate clauses.
+1	Correct The sentence "Maria ci aspira" is grammatically correct in Italian as it follows the standard SVO (Subject-Verb-Object) structure with proper verb conjugation for the subject "Maria".
+1	Correct
+1	Correct The given sentence "Paola mira a che il futuro sia felice" appears to be grammatically correct in Italian. It translates to "Paola hopes that the future will be happy."
+1	Correct
+1	Correct The sentence "Riccardo lo pensa Tommaso" is grammatically correct in Italian. It means "Riccardo thinks him/it, Tommaso." The pronoun "lo" refers to an object that has been previously mentioned or understood from context. In English, it would translate as "Riccardo thinks so, Tommaso."
+0	Syntax The sentence "Paola accetta che la leggano" would be grammatically correct in Italian. The given sentence contains a typo where "acconsente" should have been written as "accetta". Additionally, "leghino" should be changed to "leggano" for subject-verb agreement with "la", which refers to a singular feminine noun.
+1	Correct The sentence "Alice sorride del fatto di aver pianto" appears to be grammatically correct in Italian. It can be translated as "Alice smiles about having cried."
+1	Correct
+0	Syntax The sentence "Da quest'analisi risulta il nostro partire" is grammatically incorrect because in Italian, the infinitive form of the verb ("partire") cannot be used after the past participle ("risulta"). The correct form would be "Da quest'analisi risultiamo noi essere partiti".
+1	Correct
+0	Syntax The sentence "Leonardo chiarisce che non è colpa sua a Paola" is not grammatically correct in Italian because the preposition "a" is unnecessary before the name "Paola." The corrected version would be "Leonardo chiarisce che non è colpa sua a Paola."
+1	Correct The sentence "Andrea fischia a Maria che ha fame." is grammatically correct in Italian. It can be translated as "Andrea whistles at Maria who is hungry" in English.
+1	Correct The sentence "Andrea accennerà ad Edoardo se partirà o no." appears to be grammatically correct in Italian. The verb "accennerà" agrees with its subject "Andrea", while "partirà" also agrees with its implied subject. Additionally, the subordinating conjunction "se" correctly introduces the dependent clause. Therefore, there are no apparent morphological, syntactical or semantic errors in the given sentence.
+1	Correct The given Italian sentence "Paola addebita a Leonardo il fatto che ora ha fame" is grammatically correct. It means "Paola charges Leo with the fact that he is hungry now". Every word fits into its place in terms of grammar rules, including agreement on gender, number, tense, etc., making it semantically meaningful and syntactically accurate as well.
+1	Correct The given sentence "Riccardo lo aggiunge nel suo discorso" follows all the grammatical rules in Italian, hence it's grammatically correct.
+1	Correct This sentence appears to be grammatically correct in Italian. It translates to "He bet it" or "She bet it" in English, depending on the gender of the speaker.
+1	Correct
+1	Correct The sentence "Paola incoraggia il fatto che i ragazzi vadano al mare." is grammatically correct in Italian. It means "Paola encourages the fact that boys go to the sea.", where "il fatto" is a noun phrase meaning "the fact", "che i ragazzi vadano al mare" is a dependent clause meaning "that boys go to the sea". The main verb "incoraggia" agrees with its subject "Paola" in number and gender. Overall, it's a well-formed sentence without any grammatical errors.
+0	Morphology The sentence "Emma ne avvisa Alessandro" is not grammatically correct in English because it uses Italian words. In Italian, the sentence would be grammatical but in English, there needs to be an appropriate subject-verb agreement and proper word order for it to be considered acceptable. For instance, a possible equivalent sentence in English could be "Emma warns Alexander".
+1	Correct The given Italian sentence "Gabriele lo convince che lo sciopero è giusto" is grammatically correct. It follows all the rules of Italian syntax, morphology, and semantics without any apparent mistakes.
+0	Syntax The sentence "Riccardo esime Riccardo dal viaggio" is not grammatically correct in Italian. The verb "esime" does not exist in Italian language. Also, it seems that there's no clear subject or predicate in the sentence. A possible correction could be "Riccardo si è liberato del viaggio", which means "Riccardo freed himself from the trip".
+0	Morphology The sentence "Il sindaco esenta i poveri dal pagare il bus" contains a morphological error because "esenta" does not agree with its subject in gender or number. The singular masculine form of the verb "to exempt" should be "esonera". Therefore, the corrected version would be: "Il sindaco esonera i poveri dal pagare il bus."
+1	Correct
+0	Morphology The sentence "Alice discorre di partire con Giulia." appears to be in Italian instead of English. In English, the verb that corresponds to "discorre" would be "discour," which is not commonly used. The corrected sentence could be "Alice talks about leaving with Julia."
+1	Correct The given Italian sentence "Maria si accorge di essere innamorata dal fatto di arrossire" appears to be grammatically correct. The structure of the sentence seems coherent, with no apparent morphological or syntactic errors that would render it unacceptable in standard Italian usage.
+1	Correct
+1	Correct The sentence "Leonardo lo indugia a mangiare" is grammatically correct in Italian. It means "Leonardo makes him linger to eat". The verb "indugiare" takes the preposition "a" before the infinitive form of the verb, which is "mangiare" in this case.
+1	Correct The given sentence "Edoardo osa mangiare" is in Italian, but it follows proper grammar rules for that language. The subject "Edoardo" agrees with the verb form "osa," which indicates he dares or can manage to do something, while "mangiare" means "to eat." Thus, the whole sentence could be translated as "Edoardo dare to eat" or "Edoardo manages to eat." Overall, there's no apparent morphological, syntactic, or semantic error in the original sentence.
+1	Correct The sentence "Paola è capace di cavalcare." is grammatically correct in Italian as it follows standard subject-verb-complement structure with proper verb conjugation for third person singular form ("è" - is) and appropriate use of gerund ("cavalcare" - riding). The meaning of the sentence can be interpreted as "Paola is capable of horseback riding.", which also conveys semantic coherence.
+1	Correct
+0	Syntax The sentence "Tommaso suole il pasto" is not grammatically correct in English or Italian. In Italian, it would be "Tommaso mangia la cena," which translates to "Thomas eats dinner." The verb form "suole" does not agree with the subject "Tommaso" and cannot be used in place of "mangia". Additionally, "il pasto" means "the meal", but we need an article before it.
+1	Correct
+0	Syntax The sentence "Gabriele usa mangiarlo" is incorrect because it combines two different verbs in a way that doesn't make sense in Italian. The verb "usa" means "uses," while "mangiarlo" means "to eat it." A correct version could be "Gabriele lo sta utilizzando per mangiare" which translates to "Gabriele is using it to eat" in English.
+1	Correct The given sentence "Riccardo va in camera" follows proper grammatical rules for an Italian language sentence, making it grammatically correct.
+0	Syntax Comment: The verb "sale" should be "sells", and the article "a" is unnecessary before "camera". A corrected version would be: "Andrea sells cameras."
+1	Correct
+1	Correct
+1	Correct The sentence "Paola sgambetta verso il ponte" is grammatically correct in Italian. It means "Paola walks towards the bridge."
+1	Correct This sentence appears to be grammatically correct in Italian. "La folla" means "the crowd", "lo" is an object pronoun that refers to a masculine singular noun which has already been mentioned, "corre" means "runs," and "a salutare" together means "to greet." So, overall, the translation would be something along the lines of "The crowd runs to greet him."
+1	Correct The sentence "Tommaso invia Emma in piazza" is grammatically correct in Italian. It means "Tommaso sends Emma to the square." The subject of the sentence is "Tommaso," who is performing the action of sending someone somewhere, which is expressed by the verb "invia." The indirect object of the sentence is "Emma," whom Tommaso is sending, and the destination of her movement is "piazza," or the square. All elements of the sentence fit together correctly from a grammatical standpoint.
+0	Morphology The sentence "Beatrice assembla un computer" contains a morphological error because "assembla" does not agree in number with its subject "Beatrice". The correct form would be "assembles" in English or "assemble" in the singular form for Italian.
+1	Correct
+1	Correct The sentence "Paola lavora" is in Italian and it translates to "Paola works". The sentence structure follows standard subject-verb agreement rules where "Paola", the singular third-person female subject, agrees with the verb "lavora", which means "works". Therefore, I would categorize it as correct.
+1	Correct This sentence is grammatically correct in Italian. It means "It's Emma's friend who is troubled by that Picasso painting."
+0	Syntax The sentence "Molte loro leggono il giornale" is not grammatically correct in Italian because two object pronouns ("leggono il giornale" means "they read the newspaper") cannot be used together with the subject pronoun "loro". A better way to phrase it would be "Molti leggono il giornale" or "Loro leggono il giornale", both meaning "They read the newspaper".
+0	Morphology The Italian sentence "Quell'alcuni musei sono stati progettati da architetto" contains a morphological error. The word "architetto," which means architect in its singular form, needs to be changed to its plural form "architetti." Here's the corrected version: Corrected Sentence: Quell'alcuni musei sono stati progettati da architetti.
+1	Correct This sentence is grammatically correct in Italian, as it follows the standard subject-verb-object structure with proper agreement between the subject and verb.
+0	Syntax The sentence "Quell'architetto ha alcuni progettato musei." is not grammatically correct because the verb "progettare" needs to agree with its object in number. In this case, it should be "alcuni musei", so the correct form would be "Quell'architetto ha alcuni musei progettati".
+1	Correct
+1	Correct The given sentence "Le spalle di Riccardo toccano la parete" appears to be grammatically correct in Italian. It translates to "Riccardo's shoulders touch the wall." The word order is correct, and there are no apparent morphological or syntactical errors.
+1	Correct This sentence is grammatically correct in Italian. It means "Maria will be touched by that movie."
+0	Syntax The sentence "Che tu sia partita rallegra Beatrice" is not grammatically correct in standard Italian. The word order seems off, with an unexpected arrangement of the subject ("tu"), verb ("sia partita"), indirect object ("Beatrice"), and adverbial phrase ("che"). A possible correction could be "Sapere che sei partito rende felice Beatrice."
+1	Correct
+1	Correct
+1	Correct The sentence "Paola ha messo la macchina che è del fratello nel garage." is grammatically correct in Italian. It means "Paola put the car that belongs to her brother in the garage."
+0	Syntax The sentence "Tommaso obbedisce di Maria" is grammatically incorrect because it violates Italian syntax rules. In particular, the preposition "di" should not be used in this context; instead, we would use the genitive case or the preposition "di" with an article ("di la madre"). Additionally, there seems to be a missing verb agreement between the subject and the predicate. A possible correction could be "Tommaso obbedisce alla madre."
+0	Syntax In this sentence, "Andrea confronta Leonardo con Andrea," there seems to be a syntax error because a pronoun is repeated in the same case within the prepositional phrase "con Andrea." It would be more appropriate to use a different form or another noun for clarity. For instance, one could say "Andrea confronts Leonardo with her" or replace the second "Andrea" with another name or noun.
+1	Correct
+1	Correct
+1	Correct The given sentence "Tua sorella guarda il gelato" is grammatically correct in Italian as it follows the standard SVO structure with all words being correctly conjugated for their respective roles.
+1	Correct The sentence "Tua sorella guarda il CD" is grammatically correct in Italian as it follows the standard SVO (Subject-Verb-Object) structure with proper agreement between subject and verb forms.
+1	Correct The sentence "Sofia ha tagliato la testa al bisonte" is grammatically correct in Italian. It means "Sofia has cut off the head of the buffalo."
+1	Correct The sentence "Sofia ha tagliato le teste ai tori" appears to be grammatically correct in Italian. It can be translated as "Sophia cut off the heads of the bulls." The verb form "ha tagliato" indicates that the action was completed in the past by a singular female subject ("Sofia"). The definite articles "le" and "ai" agree with their respective plural nouns "teste" and "tori". Overall, there don't seem to be any morphological, syntactical or semantic issues with this sentence.
+1	Correct The given sentence "I ragazzi taglierebbero la corda" appears to be grammatically correct in Italian. It translates to "The boys would cut the rope." The verb conjugation matches with the subject agreement, and there's no apparent morphological or syntactical error.
+1	Correct
+1	Correct The sentence "Maria stende il bucato" is grammatically correct in Italian. It means "Maria hangs out the laundry."
+1	Correct
+1	Correct The sentence "Riccardo ulula" appears to be grammatically correct in Latin, where it means "Riccardo howls." The word order is subject-verb-object (SVO) which is common in many languages including English. However, I assumed that you want an evaluation based on English grammar rules since you asked for help with English sentences earlier. From that perspective, the sentence would be incorrect as "Riccardo howls" would be the proper form in English.
+1	Correct The sentence "Gabriele dormì" appears to be grammatically correct in Italian. It translates to "Gabriele slept."
+1	Correct The sentence "Il cane si è fermato in un batter d'occhio" is grammatically correct. It means "The dog stopped in the blink of an eye."
+1	Correct The sentence "Edoardo ci ha messo due ore per tagliare il filo elettrico" appears to be grammatically correct in Italian. It means "Edoardo took two hours to cut the electrical wire."
+1	Correct The sentence "Leonardo ha sezionato il vecchio tiglio" is grammatically correct in Italian. It means "Leonardo dissected the old elm tree".
+1	Correct The sentence "Le sei bombe sono esplose il 6 maggio 1999" is grammatically correct in Italian. It means "The six bombs exploded on May 6, 1999." The verb "sono esplose" agrees with its subject "le sei bombe," both in number and gender. All other elements in the sentence also show concordance. Therefore, it's syntactically correct, morphologically well-formed, and semantically meaningful.
+1	Correct
+1	Correct Italian sentence "Andrea è diventato in gamba" is grammatically correct.
+1	Correct This sentence is grammatically correct in Italian. It means "Tommaso has given best wishes to Giulia". The subject-verb agreement is correct, as well as the gender and number concordance between determiners, adjectives, and nouns. Additionally, the word order follows standard Italian syntax rules.
+1	Correct The sentence "Sofia chiede che tu torni immediatamente." is grammatically correct in Italian. It can be translated as "Sofia asks you to come back immediately" in English.
+0	Syntax The given sentence "Che tu vada via dispiace a Beatrice." seems to be grammatically incorrect in standard Italian as it appears to lack proper syntax and word order. It's not clear what the intended meaning or structure is supposed to be without additional context.
+0	Morphology Comment: The nouns in the sentence "bambini" and "aiuole" need to be pluralized as "i bambini" and "le aiuole" respectively for agreement with the verb form "hanno".
+0	Semantics The sentence "I bambini eruttarono lava" contains a semantic error because it states that children ("bambini") erupted lava which is not factually accurate or plausible.
+1	Correct
+0	Syntax The given sentence "Quell'uomo ne ha fotografato" seems to be grammatically incorrect in Standard Italian as it appears to be missing an object or complement for the verb "fotografare". A more complete version could be something like "Quell'uomo ne ha fotografato alcuni", meaning "That man has photographed some (of them)".
+1	Correct The sentence "Andrea ha carezzato il volto a Beatrice" appears to be grammatically correct in Italian. It means "Andrew stroked Beatrice's face".
+1	Correct
+1	Correct The given sentence "Edoardo ha fratturato il braccio di Maria" appears to be grammatically correct in Italian. It translates to "Edoardo broke Maria's arm". The verb "ha fratturato" agrees with its subject "Edoardo", and it correctly indicates that the action happened in the past. Additionally, both the direct object "il braccio" and indirect object "di Maria" agree with their respective genders and numbers.
+1	Correct The sentence "Leonardo ha paralizzato il braccio a Maria" is grammatically correct in Italian. It means "Leonardo has paralyzed Mary's arm."
+1	Correct The given sentence "Il bambino pesava nove chili a pochi mesi." is grammatically correct in Italian. It means "The baby weighed nine kilos after just a few months." The verb form "pesava" agrees with the subject "bambino," and the phrase "nove chili a pochi mesi" is an appropriate way to express weight gain over time.
+1	Correct The sentence "Gli operai asfaltarono la strada." is grammatically correct in Italian. It means "The workers paved the road" or more specifically "The workers asphalted the street".
+1	Correct The sentence "Paola elencò l'invitato" is grammatically correct in Italian. It means "Paola listed the guest". The subject-verb agreement is correct, as well as the gender and number agreement between the article ("l") and the noun it refers to ("invitato").
+0	Syntax The sentence "Alice ha messo e ciò è accaduto i vestiti nell'armadio" is grammatically incorrect because it contains multiple syntax errors. The word "e" (and) seems unnecessary and does not connect two related ideas in this context. Additionally, "ciò" (this or that) requires a verb agreement, but instead we find "accaduto", which means happened but doesn't seem appropriate here. Lastly, there is no subject for the second part of the sentence ("i vestiti nell'armadio").
+1	Correct The given Italian sentence "Maria ha tolto i vestiti e ciò è accaduto nell'armadio." is grammatically correct. It follows proper subject-verb agreement, word order, and tense usage in Italian language.
+1	Correct The given Italian sentence "Beatrice riempe il frigo con frutta" is grammatically correct. It means "Beatrice fills the fridge with fruit." in English. There are no morphological, syntactical or semantic errors found.
+1	Correct
+1	Correct
+1	Correct The given sentence "Maria dà un libro a Paola" seems to be grammatically correct in terms of morphology, syntax, and semantics for standard Italian language usage. It means "Maria gives a book to Paola."
+1	Correct The sentence "Francesco delega Gabriele suo rappresentante" is grammatically correct in Italian. It means "Francesco appoints Gabriele as his representative".
+0	Syntax The sentence "Sofia delega Maria come sua rappresentante." is not grammatically correct in Italian. The verb "delegare" requires the preposition "a" before its direct object, so it should be "Sofia delega Maria a sua rappresentante".
+0	Syntax The sentence "Lorenzo abita e ciò succede a Roma." is grammatically incorrect because it combines two different sentences with no proper conjunction or clear relationship between them. The first part "Lorenzo abita" means "Lorenzo lives," while the second part "ciò succede a Roma" means "this happens in Rome." To fix the issue, you can add a suitable conjunction such as "e" ("and") or use a semicolon to separate the thoughts more clearly. For instance: "Lorenzo abita; ciò succede a Roma." Or "Lorenzo abita e questo succede a Roma."
+1	Correct
+1	Correct The sentence "Sofia fuma una bionda" appears to be grammatically correct in Italian. It can be translated as "Sofia smokes a blonde," where "blonde" refers to a cigarette brand. The verb form "fuma" agrees with the subject "Sofia" in number (singular) and gender (feminine). Additionally, the article "una" matches the feminine gender of "bionda." Overall, there are no apparent morphological, syntactic, or semantic issues in the given sentence.
+1	Correct
+1	Correct
+0	The sentence is in Italian instead of English. If the sentence was in English, it would be "The bombs were raining down on us." which is grammatically correct.
+0	Semantics The sentence contains an Italian phrase "matrimoni misti" which translates to "mixed marriages". However, the rest of the sentence is written in English, creating a semantic inconsistency. To fix it, you can either translate the whole sentence into one language or use proper bilingual formatting. A corrected version could be: I matrimoni misti funzionano alla perfezione. (Italian) Mixed marriages work perfectly. (English)
+1	Correct
+1	Correct The sentence "La tua idea e la mia si equivalgono" is grammatically correct in Italian. It means "Your idea and mine are equivalent".
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax The sentence "Alice bada Maria" is grammatically incorrect because "bada" is not a recognized verb in English that can be used in this context. A possible correction could be "Alice hugged Maria" or any other appropriate verb that fits the intended meaning.
+1	Correct The sentence "Paola dubita di te" is grammatically correct in Italian as it follows the SVO structure with subject-verb-object word order. The verb "dubita" agrees with its singular subject "Paola," and the preposition "di" introduces the indirect object pronoun "te."
+1	Correct The given sentence "Maria desidera che tu parta" appears to be grammatically correct in Italian. It can be translated as "Maria wants you to leave".
+1	Correct The given Italian sentence "Che Giulia sia sempre in viaggio piace ad Andrea" is grammatically correct. It can be translated as "That Giulia is always traveling pleases Andrea," which shows that it follows proper morphological, syntactic, and semantic rules for the Italian language.
+1	Correct
+1	Correct The sentence "Francesco desidera che lui venga" appears to be grammatically correct in Italian. It can be translated as "Francesco wants him to come".
+1	Correct This sentence appears to be grammatically correct in Italian.
+0	Syntax The sentence "Alessandro invita Paola a che si parta" is not grammatically correct in standard Italian. A possible correction could be "Alessandro invita Paola a partecipare," which means "Alessandro invites Paola to participate." The original sentence contains an error in its verb agreement and use of the subjunctive mood.
+1	Correct The sentence "Alice ha accompagnato Tommaso al cinema" is grammatically correct in Italian. It means "Alice accompanied Thomas to the cinema." The verb "ha accompagnato" agrees with the subject "Alice," and the preposition "al" followed by "cinema" correctly indicates the destination of their accompaniment.
+1	Correct
+1	Correct The given Italian sentence "Alessandro si lamenta del mare sporco con Paola" appears to be grammatically correct. It has a subject ("Alessandro"), verb ("si lamenta", which agrees with the subject in number and gender), preposition ("del") followed by an article ("mare") and adjective ("sporco"). Additionally, there's another preposition ("con") and noun ("Paola"). Therefore, I would categorize it as grammatically correct.
+1	Correct The sentence "Alice mette in agitazione Tommaso" is grammatically correct in Italian. It means "Alice upsets Thomas." The verb "mettere" agrees with its subject "Alice," and both "in agitazione" and "Tommaso" agree in number and gender.
+0	Syntax The given sentence "Andrea lascia a Leonardo pieni poteri." seems to be in Italian, but it contains a syntax error because there's no article before "pieni". A corrected version would be: "Andrea lascia a Leonardo i pieni poteri."
+1	Correct The sentence "Il piatto piange" is in Italian and it translates to "The plate cries". It is grammatically correct with respect to its syntax, morphology and semantics.
+1	Correct
+0	Morphology The sentence contains a morphological error because "capelli" should be used in its plural form instead of "capello". The corrected sentence would be: "Alice si è attaccata a un capelli."
+1	Correct Italian translation of "Maria left Riccardo hanging" is grammatically correct.
+1	Correct
+0	Morphology The sentence "Avere fegato" is not grammatically acceptable in Italian because it violates morphological rules. The verb "avere" means "to have", but in this form, it requires an object that follows it immediately. Instead, we see "fegato," which is a noun meaning "liver." Thus, the sentence appears unfinished or disjointed due to the wrong word order. To make it grammatical, one could say "Ho il fegato" ("I have the liver"), where "Ho" is the first-person singular present tense conjugation of "avere," and "il fegato" is the subject complement indicating possession.
+0	Morphology The sentence "Avere le paturnie" is not grammatically correct because it uses an Italian verb form ("avere") with what appears to be a plural noun ("paturnie"), but in fact "paturnie" does not exist as a word in Italian. Additionally, even if such a word existed, the subject-verb agreement would still be wrong since "avere" requires a singular subject when used in the present tense.
+0	Syntax The sentence "Avere sulle scatole" is grammatically incorrect because it lacks proper subject-verb agreement and does not form a complete thought in Italian. "Avere" means "to have," but without additional context or an expressed subject, the phrase is unclear and incomplete. Additionally, the preposition "su" requires a specific noun or pronoun that should follow it; here, "scatole" (boxes) serves as the object of the preposition, requiring an article ("le") beforehand for grammaticality.
+0	Syntax The given sentence "Essere in un ventre di vacca." seems to be grammatically correct but its meaning is not clear without additional context. The phrase can translate to "To be in a cow's belly" which may have different meanings depending on the context. However, since no specific error was asked about, I am assuming that the question pertains only to grammaticality and therefore, based solely on syntactic grounds, the sentence appears acceptable.
+1	Correct This sentence in Italian translates to "this situation has put you in the eye of the storm" and it appears to be grammatically correct with no morphological, syntactical or semantic errors.
+1	Correct The given sentence "Riccardo spera che possa partire presto" is grammatically correct in Italian as it follows all the rules of morphology, syntax, and semantics. The subject-verb agreement is maintained throughout the sentence, and there are no lexical or syntactic errors present that might affect its meaning.
+1	Correct
+1	Correct The sentence "Alice è in ansia" appears to be grammatically correct for Italian. It translates to "Alice is worried/anxious."
+1	Correct The given sentence "Siamo cariche di viveri" is grammatically correct in Italian. It means "We are loaded with supplies". The subject pronoun "siamo" indicates first-person plural agreement, which matches the verb form "cariche", making it morphologically and syntactically consistent. Additionally, semantically, there's no ambiguity or confusion regarding meaning; hence, it falls under the category 'Correct.'
+1	Correct
+1	Correct The sentence "Lei ha presentato la donna a dei suoi amici" is grammatically correct in Italian. It means "She introduced the woman to his friends."
+1	Correct
+1	Correct
+1	Correct This sentence is grammatically correct in Italian. It means "Once he has bought the swimsuit, Edoardo will go swimming." The verb concordance, word order, and tense agreement are all appropriate for the context.
+1	Correct The sentence "Edoardo va a invitare Giulia a cena" is grammatically correct in Italian. It means "Edoardo is going to invite Julia to dinner."
+0	Syntax The sentence "Beatrice le scappa a comprare" is grammatically incorrect in Italian because it violates syntax rules. Specifically, there's no clear subject or object in the sentence, making it difficult for native speakers to understand its meaning. The verb "scappare" usually requires an explicit subject and complement to convey a coherent idea.
+1	Correct The given Italian sentence "Sono i libri che Leonardo mette sugli scaffali ora." is grammatically correct. It translates to "It's the books that Leonardo is putting on the shelves now" in English.
+1	Correct The sentence "Edoardo mette i libri sugli scaffali" is grammatically correct in Italian. It means "Edoardo puts the books on the shelves".
+1	Correct
+1	Correct The sentence "Andrea mangia" is in Italian and it translates to "Andrew eats" in English. The verb "mangia" agrees with the subject "Andrea" in number and gender, so there is no grammatical error in this sentence.
+1	Correct The given sentence "Questo lavoro è di competenza di Leonardo." is grammatically correct in Italian. It can be translated as "This job is Leo's responsibility" or "This work falls within Leo's competence" in English. The sentence structure is accurate with no apparent morphological, syntactical, or semantic errors.
+1	Correct The given Italian sentence "Questo lavoro rientra nelle competenze di Riccardo." is grammatically by a native speaker or someone with advanced proficiency in Italian. The word order seems appropriate; there are no missing words, spelling errors, morphological issues, or syntax problems that would prevent it from being understood correctly. Additionally, the semantic meaning conveys an idea without ambiguity. Therefore, I can confirm that the sentence is correct.
+0	Semantics The given sentence "A Francesco piace Maria per le sue gambe" is grammatically correct in Italian but semantically has an issue because it implies that Maria likes herself for her own legs which doesn't make sense. The intended meaning might be that Francesco likes Maria for her legs, so the corrected sentence would be: "Francesco le piace per le sue gambe."
+1	Correct It appears that the sentence "Andrea accarezza le gambe di Maria" is grammatically correct in Italian as it follows the standard SVO (Subject-Verb-Object) structure with proper verb agreement and no apparent semantic errors.
+1	Correct
+1	Correct
+1	Correct This sentence appears to be grammatically correct in Italian. The subject-verb agreement is correct, and there are no obvious morphological or semantic errors.
+1	Correct The sentence "Leggeva i nomi degli artisti alla ragazza." appears to be grammatically correct in Italian. It means "He was reading the names of artists to the girl."
+1	Correct The sentence "Ha tradito la fiducia di Gabriele" is grammatically correct in Italian. It means "He betrayed Gabriele's trust."
+1	Correct
+1	Correct The given sentence "Era contento di giocare a carte." is grammatically correct in Italian. It means "He was happy to play cards."
+1	Correct
+1	Correct The given sentence "Ne vediamo di tutti i tipi." is in Italian language which means "We see all kinds of them" in English. The sentence structure seems fine with no grammatical errors or mistakes that I can identify as a non-native speaker. Therefore, it's labeled as correct.
+0	Morphology The word "abboccato" does not exist in standard Italian. A possible correction could be "ha parlato con amore" or "ha assaggiato l'amore", depending on the intended meaning.
+0	Syntax The sentence "Ho riso due ore" is in Italian and translates to "I laughed for two hours." In English, it would be ungrammatical because one cannot use the verb "laugh" with the duration of time as its object. However, since you have asked me to evaluate this sentence based on grammaticality in Italian, I must point out that this sentence has an error in syntax. The correct form would be "Ho riso per due ore," where "per" indicates the duration of time instead of "due," which means "two".
+1	Correct The sentence "Ha preso una cotta per Sofia." appears to be grammatically correct in Italian. It translates to "He has taken a crush on Sophia" or more loosely "He has fallen for Sofia". The verb "ha preso" agrees with its subject in number and gender, while the preposition "per" followed by the name "Sofia" correctly indicates whom the action was performed for. Overall, it's a well-formed sentence without any apparent errors.
+1	Correct The sentence "Maria è in crisi." is grammatically correct. It follows the standard subject-verb-complement structure found in Italian sentences. The subject is "Maria," which agrees with the third person singular verb form "è" (is). Additionally, there is no semantic error or morphological issue that would make the sentence ungrammatical.
+1	Correct
+1	Correct
+1	Correct The sentence "Paola ha confrontato i due libri in biblioteca" is grammatically correct in Italian. Here's what each word means and how it contributes to the overall meaning of the sentence: * "Paola": A female name. * "ha confrontato": The third person singular form of the present perfect tense of the verb "confrontare", which means "to compare". It indicates that someone has completed an action of comparing something or someone else at some point in the past. * "i due": The plural definite article "i" combined with the ordinal number "due" means "the two". * "libri": Plural noun for books. * "in biblioteca": Preposition "in" followed by the singular feminine noun "biblioteca" means "at the library". So, putting everything together, we have "Paola compared the two books at the library."
+1	Correct
+1	Correct
+1	Correct
+1	Correct The sentence "Francesco guarda che tutto proceda per il meglso" appears to be grammatically correct in Italian. It follows standard word order rules for subject-verb-object sentences, with an embedded clause ("che tutto proceda per il meglio") that functions as the direct object of the verb "guardare". The tenses used are also appropriate for the intended meaning. Therefore, it can be classified as grammatically correct.
+1	Correct The given sentence "Francesco si vergogna che sia successo" is grammatically correct in Italian. It follows the standard rules for word order, verb conjugation, and subject-verb agreement. The meaning of the sentence can be interpreted as "Francesco is ashamed that it happened."
+1	Correct
+1	Correct
+1	Correct
+1	Correct The sentence "L'affitto di quella casa gli rende 5
+1	Correct The given sentence "Hanno messo tutti in allarme?" appears to be grammatically correct with no apparent morphological, syntactical or semantic errors. The question conveys a proper meaning and follows standard Italian word order and grammar rules.
+1	Correct The sentence "Gli monta il sangue alla testa molto facilmente" appears to be grammatically correct in Italian. It translates to "His blood rises to his head very easily" or more idiomatically as "He gets angry very quickly."
+1	Correct The sentence "Per tutta la vita ha costruito castelli in aria" is grammatically correct. It's written in Italian and means "He built castles in the air all his life". The verb tense agrees with the subject, there are no missing or extra words, and the word order is also appropriate for the language structure.
+0	Semantics The given sentence "Quel terreno frutta molti soldi" is syntactically correct but semantically incorrect because it means "That land bears much money," which does not make sense in English or Italian. A more appropriate translation for "That land makes a lot of money" would be "Quella terra è molto redditizia."
+1	Correct The given Italian sentence "Gabriele ha fatto scrivere una lettera a Lorenzo da Riccardo" is grammatically correct. It means "Gabriele had Lorenzo written a letter by Riccardo." In this sentence, there's no morphological, syntactical or semantic error.
+0	Syntax The sentence "Il vento ha fatto rompere il vetro da Andrea" is not grammatically correct in Italian because it violates syntax rules. The phrase "da Andrea" is misplaced; it should be placed before "il vetro" instead of after "rompere". A corrected version would read: "Il vento ha fatco fare rompere il vetro da Andrea." This means "The wind made Andrea break the glass," but with the emphasis on the wind being the cause of the action rather than specifying who carried out the action.
+0	Semantics The sentence "Il colonello ha fatto la nave" is grammatically correct but semantically odd because it literally translates to "The colonel made the ship", which doesn't make much sense in English without additional context. However, I don't have enough information about the intended meaning or context for this sentence in Italian.
+1	Correct
+1	Correct The given sentence "Il sasso ha rotto il vetro" is in Italian, which translates to "The stone broke the glass" in English. The sentence structure appears correct with proper agreement between subject ("sasso") and verb ("ha rotto"). Therefore, it can be classified as grammatically correct.
+1	Correct The given Italian sentence "L'auto ha schiacciato l'acceleratore" is grammatically correct. It translates to "The car stepped on the accelerator" in English.
+1	Correct The sentence "Il colpo ha schiacciato l'acceleratore" is grammatically correct in Italian. It means "The blow pressed down on the accelerator."
+1	Correct
+1	Correct The sentence "Il caldo ha avariato il cibo" is grammatically correct in Italian. It means "The heat has spoiled the food."
+1	Correct The sentence "L'umidità ha ossidato il ferro" is grammatically correct in Italian. It means "The moisture has rusted the iron".
+1	Correct The sentence "Gabriele ha fatto ossidare il ferro" is grammatically correct in Italian. It means "Gabriele made the iron rust". The verb "fare" ("to make") is used here as a causative verb, indicating that Gabriele caused the iron to rust by his actions or negligence.
+1	Correct
+1	Correct The sentence "Maria si è lavata" appears to be grammatically correct in Italian. It translates to "Maria has washed herself" or "Maria has had a wash" in English. The verb "lavare" agrees with the subject "Maria" in gender and number, and the reflexive pronoun "si" is correctly placed after the conjugated verb form "è."
+1	Correct
+1	Correct
+1	Correct The sentence "Andrea ha graffiato lo sportello dell'auto" is grammatically correct in Italian. It means "Andrew scratched the car door."
+1	Correct
+1	Correct
+0	Morphology The sentence contains a morphological error. The verb "prati" does not exist in Italian; it seems that you intended to use the third person plural present tense form of the verb "pregare", which would be "priano". Additionally, "si sono rivestiti" should agree with the subject, so it should be changed to "si sono riverstite". So the corrected sentence is: "Le pratiche si sono riverstite con i fiori."
+1	Correct The sentence "I prezzi sono aumentati del 10 %" is grammatically correct in Italian. Here's the breakdown of the sentence: * "I prezzi" is the plural subject meaning "the prices." * "sono" is the third-person plural form of the verb "essere," which means "to be." * "aumentati" is the past participle of the verb "aumentare," which means "to increase." It agrees with "prezzi" in number. * "del 10%" is an idiomatic expression that means "by 10 percent." The whole phrase functions as an adverbial complement modifying "aumentati."
+1	Correct The given sentence "Il fatturato si è incrementato del 15 % nell'ultimo anno." is grammatically correct in Italian. It means "Revenue has increased by 15% in the last year."
+1	Correct The given sentence "La Fiat si è fusa con la Chrysler" is grammatically correct in Italian. The verb "si è fusa" agrees with its subject "la Fiat", and both the genders (feminine) and numbers (singular) match. Also, the preposition "con" followed by "la Chrysler" shows the correct way to indicate that Fiat merged with Chrysler. Therefore, there's no morphological, syntactical or semantic error found in this sentence.
+1	Correct
+1	Correct
+0	Semantics The sentence "Il gatto ha impelato di peli il divano" is grammatically correct but semantically questionable because it uses the verb "impelere," which means "to urge or force (someone) to do something." In this context, it seems unlikely that the cat urged or forced fur onto the couch; rather, it probably shed on the couch. A more appropriate word might be "perso" (lost) or "lasciati" (left behind).
+1	Correct The given sentence "L'inverno ha privato delle foglie gli alberi." is grammatically correct in Italian. It means "Winter has stripped the trees of their leaves" in English.
+1	Correct The given sentence "L'esplosione ha spaccato la vetrata per un secondo." is grammatically correct in Italian. It means "The explosion broke the window for a second.", which has proper morphological agreement between words and follows the standard syntax structure of an Italian sentence with no semantic errors.
+1	Correct The sentence "La vetrata si è spaccata in un millisecondo" is grammatically correct in Italian. It means "The window broke in one millisecond". All elements of grammar such as morphology, syntax and semantics are consistent with each other.
+1	Correct The given sentence "L'intonaco si è sgretolato in pelle settimane" is grammatically correct with respect to Italian language morphology, syntax, and semantics.
+1	Correct The sentence "La pioggia ha reidratato il terreno per giorni" is grammatically correct in Italian. It means "The rain has rehydrated the ground for days". The word order, verb conjugation, and tense agreement are all appropriate for the intended meaning.
+1	Correct
+1	Correct The Italian sentence "Il prezzo di quei prodotti si è abbassato del 20 % per sei mesi." is grammatically correct. It means "The price of those products has decreased by 20% for six months" in English. The verb conjugation matches the subject, gender, and number; there's proper agreement between words within phrases and clauses, and no semantic issues can be identified. Therefore, I classified it as grammatically correct with a label of 1.
+1	Correct The given sentence "Ha protratto l'interrogatorio per tutta la mattinata." in Italian appears to be grammatically correct. The subject-verb agreement is consistent with the gender and number of the nouns used, and there are no apparent morphological or syntactic errors. Additionally, the meaning conveyed by the sentence seems clear without any semantic issues.
+1	Correct
+0	Semantics The given sentence "Le vittorie hanno carburato il calciatore in una settimana." is grammatically correct but semantically incorrect because victories cannot power or fuel a football player.
+1	Correct The sentence "Il lievito ha fermentato la pasta in due ore" is grammatically correct. It's written in Italian and means "The yeast has fermented the dough in two hours." The word order and grammar rules all follow standard Italian language conventions.
+1	Correct The given sentence "Il temporale ha ritardato il treno in due ore" is grammatically correct as it follows all the rules of Italian grammar. The subject-verb agreement is maintained throughout the sentence with "il temporale" being singular and "ha ritardato" also being singular in form. Additionally, the tense used is consistent and appropriate for expressing that the storm delayed the train by two hours. All words have been correctly conjugated and placed within the sentence.
+1	Correct The sentence "L'incidente ha ritardato il treno di due ore." is grammatically correct in Italian. It means "The incident delayed the train by two hours."
+1	Correct
+0	Correct The sentence "Il vino è diventato aceto per ore" is grammatically correct in Italian. It translates to "The wine turned into vinegar for hours," which makes logical sense as well. Therefore, there are no issues with morphology, syntax, or semantics.
+0	Syntax The Italian sentence "I commercianti hanno incrementato le vendite del 10 % per anni" contains a syntax error. In this case, the phrase "per anni" (for years) is not correctly used with the increase percentage expression "del 10%". A more appropriate way to express it would be "I commercianti hanno aumentato le vendite del 10% negli ultimi anni." (Merchants have increased sales by 10% in recent years.)
+1	Correct The sentence "Le vendite sono incrementate del 10 % in due anni." is grammatically correct.
+1	Correct
+1	Correct The sentence "Il cioccolato si è fuso in 5 minuti" is grammatically correct. It means "The chocolate melted in 5 minutes."
+1	Correct The sentence "La carne si è cotta in 5 minuti" appears to be grammatically correct in Italian. It translates to "The meat has cooked in 5 minutes."
+0	Semantics The given sentence "La finestra si è chiusa, ma non è chiusa" can be translated as "The window has closed, but it isn't closed," which contains a contradiction in meaning. The first part says that the window was successfully closed, while the second half negates it by saying the window isn't closed. This creates an inconsistency within the statement, making it semantically incorrect.
+1	Correct
+1	Correct The sentence "I prezzi sono rincarati del 10 %" appears to be grammatically correct in standard Italian. The verb form "sono rincarati" agrees with its subject "i prezzi," and both the article "del" and percentage value "10%" follow standard usage rules.
+1	Correct The given Italian sentence "Hanno reso la stanza grande" translates to "They made the room big." The sentence appears to be grammatically correct in terms of morphology, syntax, and semantics.
+1	Correct
+1	Correct
+0	Syntax The sentence "Il vino è aceto." contains a semantic error. While it is grammatically correct in Italian, with all words spelled correctly and proper syntax, its meaning is not accurate because wine cannot literally be vinegar. A corrected version could be "Il vino sta diventando aceto," which means "The wine is becoming vinegar" - indicating that something is happening to turn the wine into vinegar.
+1	Correct The sentence "Il pullover di lana si è infeltrito" is grammatically correct in Italian. It means "The wool sweater has felted."
+1	Correct The given sentence "Edoardo si è fatto simile a uno scheletro" is grammatically correct in Italian. It means "Edoardo has made himself similar to a skeleton".
+1	Correct
+1	Correct The sentence "La situazione è diventata ingarbugliata" is grammatically correct in Italian. It means "The situation has become complicated".
+1	Correct
+1	Correct
+1	Correct This Italian sentence is grammatically correct.
+1	Correct
+1	Correct The sentence "Le ragazze hanno innervosito Andrea" is grammatically correct in Italian. It means "The girls have annoyed Andrea."
+1	Correct The sentence "Le ragazze hanno preoccupato Francesco" is grammatically correct in Italian. It means "The girls worried Francesco." In terms of morphological components, we have determiners ("le"), nouns ("ragazze", "Francesco"), auxiliary verb ("hanno"), past participle ("preoccupato") that agree with the gender and number of the subject, all correctly inflected for tense and agreement according to the grammar rules. The syntax structure follows an acceptable sequence SOV (Subject-Object-Verb) pattern, which is typical of Italian language. Additionally, semantically it makes sense as well.
+1	Correct The given sentence "Quelli fuochi hanno innervosito Edoardo." is grammatically correct in Italian. The subject-verb agreement is respected, as well as word order and tense usage.
+1	Correct The given sentence "Alice ha fatto calmare Andrea a quell'uomo" appears to be grammatically correct in Italian. It can be translated as "Alice made Andrea calm down that man."
+0	Syntactically and semantically there seems to be no issue with this sentence but it's important to note that without context, I am making an assumption based on standard Italian grammar rules. However, depending on the intended meaning, "Gabriele" could potentially be interpreted as either being made to worry by the girlfriend or worrying about the girlfriend - two different interpretations which might not alter the grammaticality but would change the sense of the statement. So for safety, let me categorize it just in terms of possible ambiguity: Category: Semantics (Potential Ambiguity)
+1	Correct
+1	Correct
+1	Correct The sentence "Lorenzo si è piaciuto per ciò." is grammatically correct in Italian. It means something like "Lorenzo liked it for that".
+1	Correct The sentence "Edoardo si è spaventato a quella notizia" is grammatically correct in Italian. It means "Edoardo got scared at that news". The verb "si è spaventato" agrees with its subject "Edoardo", and the preposition "a" before "quella notizia" is used correctly as well.
+1	Correct The sentence "Riccardo si è agitato a quella notizia" appears to be grammatically correct in Italian. The subject "Riccardo" agrees with the verb form "si è agitato," which indicates that he performed the action on himself, while "a quella notizia" functions as an adverbial phrase modifying the verb by indicating what caused the action.
+1	Correct The sentence "Tommaso si è agitato per quella notizia" is grammatically correct in Italian. It translates to "Tommaso got nervous about that news."
+1	Correct The given sentence "Riccardo è irritato di quella notizia" is grammatically correct in Italian. It can be translated as "Riccardo is annoyed at that news." Here's an explanation for each component of the sentence: - Riccardo: Subject, masculine name - è: Third person singular verb form of essere (to be) - irritato: Past participle acting as an adjective describing the subject - di: Preposition indicating movement or direction - quella: Demonstrative determiner referring to something mentioned before, feminine gender - notizia: Noun meaning "news," feminine gender
+1	Correct The sentence "Il fatto che le tasse si abbasseranno illude i cittadini" is grammatically correct in Italian. It means "The fact that taxes will decrease deceives citizens".
+1	Correct The sentence "Maria ha timore di ciò" appears to be grammatically correct in Italian. It can be translated as "Mary is afraid of that."
+0	The sentence is in Italian instead of English. If it were translated into English, a possible grammatically correct version could be: "That frightens Mary."
+0	Morphology The word "nervosa" does not exist in English; it might be the Italian translation for "nervous". Therefore, I am assuming that you meant to ask about the grammaticality of the following sentence instead: Emma says she feels nervous. In such case, my response would change as follows: Label: 1 Category: Correct
+1	Correct
+0	Syntax The given sentence "Sofia ha i nervi a fior di pelle." seems to be in Italian, but it contains a syntax error. The problem lies with the article "i" before "nervi," which does not agree in gender with its plural noun. In Italian, "nervi" is masculine, so the article should be "i" instead of "a". Therefore, the corrected form would be: "Sofia ha i nervi a fior di pelle.", where both articles ("i" and "di") match their respective nouns' genders.
+1	Correct
+1	Correct
+1	Correct The given sentence "Quelle parole hanno offeso Francesco." is grammatically correct in Italian. It translates to "What words have offended Francesco?" in English. The sentence has a subject ("quelle parole" meaning "those words"), an auxiliary verb ("hanno" meaning "have"), a past participle form of the verb ("offeso" meaning "offended") and a direct object ("Francesco").
+0	Syntax The word "appassionano" does not agree in number with its subject "I". Also, it seems that there's a missing preposition before "Andrea", so the corrected sentence could be something like "I filmed horror movies for passionate people like Andrea."
+1	Correct The sentence "L'esplosione ha frantumato il vetro." is grammatically correct in Italian. It means "The explosion broke the glass.", where "ha frantumato" is the third-person singular indicative present tense form of the verb "frantumare", which means "to break into small fragments". The word order follows standard SVO structure, with the subject ("l'esplosione") followed by the auxiliary verb ("ha"), past participle ("frantumato"), and direct object ("il vetro").
+1	Correct The sentence "Quella pietanza ha nauseato Francesco" is grammatically correct in Italian. It translates to "That dish has made Francesco sick."
+1	Correct The sentence "Lo stato di salute di mia madre mi ha preoccupato subito." is grammatically correct in Italian. It translates to "My mother's health condition worried me immediately" in English.
+1	Correct The sentence "Lo stato di salute di mia madre mi ha addolorato in pochi minuti." is grammatically correct. It's written in Italian and can be translated as "My mother's health status saddened me in just a few minutes" in English.
+1	Correct The sentence "Il fumo ha irritato la gola di Paola" is grammatically correct in Italian. It means "The smoke has irritated Paola's throat." The word order follows standard Italian syntax rules, there are no morphological errors, and the meaning is clear and coherent.
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Morphology The sentence "Gabriele si è rotto di Maria" contains a morphological error because "rotto" does not agree in gender with its subject "Gabriele". The past participle form for masculine singular subjects should be "rotto", but for feminine singular subjects it should be "rotta". Therefore, the corrected sentence would be "Gabriele si è rotta di Maria." However, since I am only asked to determine whether the sentence is grammatically correct or not without making any changes to the original sentence, my response will still be that there is an error present in the sentence.
+1	Correct
+1	Correct The given sentence "Giulia sposta il cadavere dall'armadio al tavolo." is grammatically correct in Italian. It means "Giulia moves the body from the closet to the table" in English.
+1	Correct The sentence "Francesco va a scuola" is grammatically correct in Italian as it follows standard subject-verb-object word order and uses proper verb conjugation for third person singular masculine form ("va") with an appropriate destination complement ("a scuola").
+1	Correct
+1	Correct
+1	Correct The sentence "Beatrice porta un piatto in tavola" is grammatically correct in Italian. It means "Beatrice carries a plate to the table." The verb "portare" agrees with its subject "Beatrice", and the definite article "un" matches with the masculine singular noun "piatto". Additionally, the preposition "in" followed by "tavola" correctly expresses direction towards the table.
+1	Correct The given sentence "Giulia accompagna Gabriele in tavola" is grammatically correct for Italian language. It means "Giulia accompanies Gabriele at the table".
+1	Correct This sentence appears to be grammatically correct in Italian. It translates to "Maria falls to the ground" in English.
+1	Correct
+1	Correct
+1	Correct The sentence "Francesco sta in poltrona" appears to be grammatically correct in Italian. It translates to "Francesco is on the armchair" in English.
+0	Syntax The sentence "La palla è finita didietro" is not grammatically correct in Italian. The word "didietro" is not a standard Italian word; it seems that you want to say "dietro", which means "behind". However, even with this correction, the sentence would still be incorrect because there's no clear meaning or subject-verb agreement. A possible correct version could be: "La palla è finita dietro la porta." ("The ball has ended up behind the door.")
+1	Correct
+1	Correct Italian sentence "Maria abita giù in basso" (Mary lives down below) appears to be grammatically correct.
+1	Correct The given sentence "Mi raccomando, tieni acqua in bocca" appears to be grammatically correct. It follows standard Italian syntax rules and does not contain any apparent morphological or semantic errors.
+1	Correct The sentence "Il bambino piange" is in Italian and it translates to "The child cries". The grammar appears to be correct with no morphological or syntactical errors.
+1	Correct The sentence "Lorenzo perde il cappello" is grammatically correct in Italian. It means "Lorenzo loses his hat". The subject of the sentence is "Lorenzo", the verb is "perde" which agrees with the singular masculine subject, and the direct object is "il cappello" which refers to something specific that belongs to him.
+1	Correct
+1	Correct
+0	Syntax The given sentence "Emma se la passava bene" seems to be syntactically incorrect as it does not follow standard English grammar rules. A more appropriate way to express the idea in proper English could be "Emma was doing well."
+1	Correct This sentence appears to be grammatically correct in Italian. It means "Giulia looked at Lorenzo" in English.
+1	Correct
+1	Correct
+0	Morphology The sentence "Alice piegò la testa" contains a morphological error because "piegò" does not agree in number with its subject "Alice". The correct form should be "piegò" (third person singular) instead of "piegò" (third person plural).
+1	Correct This sentence appears to be grammatically correct in Italian. It means "Maria lifted her head."
+1	Correct The sentence "Maria rizzò il capo" is grammatically correct in Italian. It means "Maria raised her head".
+1	Correct This sentence is grammatically correct in Italian as it follows the standard subject-verb-object structure with proper verb conjugation based on the subject and gender agreement between the article "l'" and noun "auto".
+1	Correct The given sentence "Alessandro prese la trombosi" seems to be grammatically correct in Italian. The subject "Alessandro" is in singular masculine form, which matches with the past tense verb "prese". Also, the definite article "la" agrees with the feminine gender of the word "trombosi", making it grammatically acceptable.
+1	Correct The given sentence "La trombosi venne ad Edoardo." is grammatically correct in Italian as there are no apparent morphological, syntactical or semantic errors present.
+1	Correct
+1	Correct
+1	Correct The given sentence "Maria si riposò" appears to be grammatically correct in Italian. It translates to "Mary rested herself" or simply "Mary rested" in English.
+1	Correct The sentence "Alice si rinforzò" appears to be grammatically correct in Italian. It translates to "Alice got stronger."
+1	Correct
+1	Correct The given sentence "Riccardo ebbe una sbornia" seems to be grammatically correct in Italian. It translates to "Riccardo had a hangover," which makes sense both syntactically and semantically.
+1	Correct The sentence "Il formaggio fece la muffa" is grammatically correct in Italian. It translates to "The cheese went moldy" or "The cheese made mold" in English.
+0	Syntax The English translation of the given Italian sentence "Sofia ebbe un bagno" would be "Sofia had a bath". The issue with this sentence lies in its syntax as it is written in Italian while the question asks for an assessment of grammatical correctness in English. Therefore, I cannot determine its syntactic or morphological accuracy in English without translating it first. However, assuming that the focus is on the Italian sentence's grammar, I can confirm that there are no apparent issues regarding morphology or syntax.
+1	Correct The sentence "Beatrice si maritò con Gabriele" is grammatically correct in Italian. It means "Beatrice married Gabriele".
+1	Correct The given sentence "Riccardo respirò aria fresca" follows proper Italian grammar rules; therefore it's considered correct in terms of morphology, syntax, and semantics. The subject Riccardo agrees with the verb respirò (third-person singular past tense) while the object aria is modified by an adjective fresca which matches the gender and number agreement requirements.
+1	Correct The sentence "Giulia prese una dritta" appears to be grammatically correct in Italian. It translates to "Giulia took a hint" or "Giulia turned right", depending on the context. The verb "prese" agrees with the subject "Giulia" in number and gender, and "una dritta" is correctly formed as a direct object phrase.
+1	Correct The sentence "Giulia si sbagliò" is grammatically correct in Italian. It means "Giulia made a mistake."
+0	Syntax The sentence "L'aereo approdarono" is grammatically incorrect because it uses the wrong verb tense. The plural form of "approda" (which means "lands") should be used instead of the singular form for past tense agreement with the subject "l'aereo". A possible correction would be "L'aereo approdò."
+1	Correct
+1	Correct The sentence "Tommaso arieggiò la sua stanza" is grammatically correct in Italian. It means "Tommaso ventilated his room".
+1	Correct The sentence "La nave ammarò" is grammatically correct in Italian as it follows the standard subject-verb-object word order with proper agreement between the subject and verb.
+1	Correct The sentence "Tommaso prese la terra dal secchio" appears to be grammatically correct in Italian. It means "Tommaso took the earth from the bucket." The verb form "prese" agrees with the subject "Tommaso," and the article "la" preceding "terra" correctly indicates that it refers to specific earth or dirt being taken out of the bucket.
+0	Syntax The sentence "I marinai vogavano" is in Italian, but it's not grammatically correct in that language. A more accurate translation from English would be "They sailed as sailors." In which case, the correct form in Italian would be "Marinari **navigavano**". So, your original sentence has issues with both syntax and semantics due to mistranslation.
+1	Correct
+1	Correct The given sentence "Il progetto ebbe successo" is grammatically correct in Italian. It means "The project was successful." The verb "ebbe" agrees with its subject "il progetto," both in gender (masculine) and number (singular). Also, the past tense used here is appropriate for expressing that the action has been completed. Therefore, there's no morphological, syntactical, or semantic error in this sentence.
+1	Correct The sentence "Lorenzo prese un cappellaccio" is grammatically correct in Italian. It means "Lorenzo picked up a big hat". The subject-verb agreement is correct as "prese" is in past tense singular form that matches with the masculine singular noun "cappellaccio". Also, the article "un" agrees with the gender and number of the following noun.
+1	Correct The sentence "Riccardo si imbronciò" appears to be grammatically correct in Italian. It translates to "Riccardo frowned" or "Riccardo got sulky," depending on the context. The verb "imbronciarsi" agrees with its subject "Riccardo" both morphologically and syntactically, making it a well-formed sentence.
+0	Syntax The sentence "Andrea prese cappello" is in Italian, not English. In English, it would translate as "[Andrew] took [a hat]", which has a grammatical error in subject-verb agreement. The plural form "took" should be used instead of the singular form "took", since "Andrew" refers to one person and hats can come in multiples. Therefore, the corrected sentence in English would be "Andrew takes hats." However, I am assuming that you meant for the original sentence to be grammatically correct in its intended language, so my classification reflects only the syntax issue with respect to English rules.
+0	Morphology The sentence "Paola prese corpo" is not grammatically acceptable in standard Italian because it lacks proper inflection on one or both verbs. In particular, "prese" requires an object agreement ending (-a, -o, or -e) depending on the gender and number of its direct object. Additionally, "corpo," meaning body, does not have any special form when used as a direct object for a verb that ends in "-e." However, since I do not know what you intended to express with this phrase, I am assuming there was supposed to be some kind of direct object for "prese." For instance, a possible correction could be "Paola prese il corpo" ("Paola picked up the body").
+1	Correct The given sentence "Alessandro prese parte alla festa" is grammatically correct in Italian. It means "Alessandro took part in the party".
+1	Correct
+1	Correct
+1	Correct
+1	Correct The sentence "Edoardo si innamorò di Sofia." is grammatically correct in Italian. It means "Edoardo fell in love with Sofia.", where "si" is a reflexive pronoun used for emphasis. All words have appropriate endings based on their grammatical roles, so there's no morphological or syntactical error in it.
+0	Semantics The sentence "Paola prese un odio per Tommaso" contains a semantic error. The word "odio" in Italian means "hatred," which does not make sense in context as something you can "take." A more appropriate translation for the English phrase "took a liking to" might be "si innamorò di" or "cominciò ad apprezzare."
+1	Correct The sentence "Gli uccelli si imbeccarono dalla madre" is grammatically correct in Italian. It means "The birds fed themselves from the mother."
+1	Correct The sentence "Maria prese una cotta per Francesco" appears to be grammatically correct in Italian. It translates to "Mary had a crush on Francesco" in English. The verb "prese" agrees with the subject "Maria," and both the definite article "una" and the noun "cotta" agree in gender and number. Additionally, the preposition "per" followed by the name "Francesco" correctly indicates for whom the crush was felt.
+1	Correct
+1	Correct
+1	Correct The given Italian sentence "Francesco prese il coltello per la lama" is grammatically correct. It means "Francisco took the knife by the blade". The sentence has a proper subject ("Francesco"), verb form that agrees with the subject in number and gender ("prese"), an article ("il") agreeing with the following noun, and a correctly structured prepositional phrase ("per la lama"). Overall, there's no morphological, syntactical or semantic issue found within the provided text.
+1	Correct
+1	Correct Italian sentence "Lorenzo ha preso fischi per fiaschi" is grammatically correct.
+1	Correct The given sentence "Maria fece una seduta di elioterapia" appears to be grammatically correct in Italian. It can be translated as "Maria had a session of heliotherapy." There doesn't seem to be any morphological, syntactical or semantic issues with it.
+1	Correct The sentence "Andrea prese il treno" appears to be grammatically correct in Italian. It translates to "Andrew took the train."
+1	Correct The given Italian sentence "È stato perso troppo spesso il treno, in questa redazione." can be translated as "The train has been lost too often in this newsroom" in English. The sentence follows proper grammatical rules for Italian with regards to morphology, syntax, and semantics; therefore it's considered grammatically correct.
+1	Correct
+1	Correct
+1	Correct
+1	Correct
+0	Syntax The sentence "Lorenzo ne disse due a Maria" is not grammatically correct in Italian. A corrected version could be "Lorenzo ne diede due a Maria", which means "Lorenzo gave her two". The verb form "disse" needs to agree with its subject "Lorenzo", but it's incompatible with the direct object pronoun "ne." Also, the number "due" needs an article or determiner before it when used as a noun phrase.
+0	The sentence is in Italian, not English. Here's a corrected version in English: "Beatrice made mistakes."
+1	Correct The given sentence "Tommaso butta olio sul fuoco" appears to be grammatically correct in Italian. Here's a breakdown of the sentence: * Tommaso - Proper noun (name) * butta - Third-person singular present tense form of the verb "buttare," meaning "to throw" or "to pour." * olio - Noun referring to oil. It agrees with the direct object pronoun "lo" which has been dropped from the sentence due to its proximity to the verb. In full, it would read as "Tommaso lo butta sull'olio." * sul - Preposition indicating "on" * fuoco - Noun for fire. The definite article "il" is not used because we have an elided direct object ("lo") before the preposition. A literal translation could be "Tommaso pours on the oil over the fire."
+1	Correct The given sentence "Riccardo tirò l'acqua al proprio mulino." is grammatically correct in Italian. It means "Riccardo threw water at his own mill" in English. The verb "tirò" agrees with its subject "Riccardo," and all other elements in the sentence also match syntactically and semantically.
+1	Correct The sentence "Alessandro si diede la zappa sui piedi" appears to be grammatically correct in Italian. It translates to "Alessandro shot himself in the foot," which follows proper morphological, syntactical, and semantic rules.
+1	Correct
+1	Correct
+1	Correct The sentence "Riccardo fa le traduzioni dei bollettini di guerra" is grammatically correct in Italian. It means "Riccardo does the translations of the war bulletins."
+0	Syntax The sentence "Di te ride in maniera beffarda" appears to contain a mixture of Italian and English words, which results in a syntactically incorrect sentence structure. The word "di" is Italian for "of," but it does not fit grammatically into an otherwise English sentence. To make the sentence grammatically correct, one could use either all Italian or all English words. Here's a corrected version using only Italian words: "Ridere di te in modo beffardo." Alternatively, here's a corrected version using only English words: "To laugh at you in a mocking manner."
+0	Syntax Expected sentence structure: Subject + Verb In the given sentence "Tommaso legge", there's no explicit subject-verb agreement; it lacks an object or another complement to form a complete thought. A more accurate sentence could be "Tommaso legge un libro" (Tommaso reads a book).
+1	Correct
+1	Correct The sentence "Tommaso dà un libro a Maria" appears to be grammatically correct in Italian. It means "Tommaso gives a book to Maria." The subject-verb agreement is correct, as well as the use of prepositions and articles.
+1	Correct
+1	Correct
+1	Correct The given sentence "Emma è in angoscia." is grammatically correct as it follows all the rules of Italian grammar. The subject "Emma" agrees with the verb "è" (third-person singular form of "to be") in number and tense, and the preposition "in" takes the noun "angoscia" (anguish) as its object. Therefore, no mistakes can be found in morphology, syntax, or semantics.
+1	Correct
+1	Correct
+1	Correct The sentence "Alessandro andò a salutare il padre." is grammatically correct in Italian as it follows standard subject-verb-object word order with proper agreement between the subject and verb. Additionally, the determiner "il" agrees with its noun "padre". The sentence translates to "Alessandro went to greet his father," which has appropriate meaning and context.
+1	Correct
+1	Correct
+1	Correct
+1	Correct The sentence "I soldati hanno passato le armi ai prigionieri" is grammatically correct in Italian. It means "The soldiers handed over the weapons to the prisoners". The verb "hanno passato" agrees with its subject "soldati", and both singular and plural forms match correctly with their respective objects "le armi" and "ai prigionieri".
+1	Correct The given sentence "Alessandro ama i bignè" follows proper Italian grammar rules; therefore, it's categorized as correct.
+1	Correct The sentence "Il cedro ama la libertà." is grammatically correct in Italian. It means "The cedar tree loves freedom."
+0	Semantics The given sentence "Il giardiniere ha potato il barboncino di Edoardo" translates to "The gardener has potatoes the poodle of Edward." This sentence is semantically incorrect as it uses an inappropriate verb for the intended meaning. The word "potato" does not make sense in this context; instead, the appropriate verb could be something like "portato" which means "carried".
+1	Correct The given Italian sentence "A Lorenzo, Alessandro gli ha lasciato una ricca eredità." is grammatically correct. It follows proper morphological rules for word formation, syntactic structures, and semantic coherence in the context it belongs.
+1	Correct
+1	Correct
+1	Correct This sentence is grammatically correct in Italian. It means "A cat with yellow eyes is under the arch of the door."
+1	Correct This sentence is grammatically correct in Italian as it follows standard subject-verb-object word order and verb conjugation rules for the given tense and subject.
+1	Correct
+1	Correct
+0	Semantics The sentence "Il frigorifero ha una forte cotta per Francesco" translates to "The refrigerator has a strong crush on Francesco." This is semantically incorrect as refrigerators do not have feelings or crushes. A more appropriate sentence would be "Francesco ha una forte cotta per il frigorifero," which means "Francesco has a strong crush on the refrigerator."
+1	Correct The sentence "Tommaso dette degli schiaffi a Maria" appears to be grammatically correct in Italian. It means "Tommaso gave slaps to Maria." The verb "dette" agrees with the subject "Tommaso," and the direct object "degli schiaffi" matches the indirect object "a Maria". There doesn't seem to be any morphological or syntactical errors.
+1	Correct The sentence "Riccardo allungò uno schiaffo a Giulia" appears to be grammatically correct in Italian. It means "Riccardo gave a slap to Giulia". The verb form "allungò" agrees with the subject "Riccardo", and both "uno schiaffo" and "a Giulia" are correctly declined according to their respective roles as direct object and indirect object.
+1	Correct The sentence "Riccardo resta in silenzio" appears to be grammatically correct in Italian. It translates to "Riccardo remains silent."
+1	Correct
+1	Correct
+0	Syntax The sentence "Alessandro agita Beatrice" is incorrect because it violates syntax rules in English. In English, we would say "Alessandro shakes Beatrice." The verb "agitare" in Italian does not directly translate to "agitate" or "shake" in English without considering context and proper conjugation for tense and subject-verb agreement.
+1	Correct The sentence "Edoardo fa friggere l'uovo nella padella" is grammatically correct in Italian. It means "Edoardo makes the egg fry in the pan".
+1	Correct The given sentence "Riccardo proceeds with the loading of the truck with cases" is grammatically correct in English. However, I assume you want me to check it for Italian grammar since the sentence was written in Italian initially. Here's my response for that: Label: 1 Category: Correct The Italian sentence "Riccardo procede al caricamento del camion di casse" appears to be grammatically correct.
+1	Correct The given Italian sentence "L'inchiostro rosso è la carica della stilografica" is grammatically correct. It translates to "The red ink is the charge of the fountain pen."
+1	Correct
+1	Correct The given sentence "Tommaso fruga nei cassetti della scrivania di Giulia." is grammatically correct in Italian. It means "Tommaso rummages through Juliet's desk drawers" in English. The verb "fruga" agrees with its subject "Tommaso," and all other elements in the sentence follow standard Italian syntax rules.
+0	Syntax The sentence "Andrea carica l'orologio" is not grammatically correct in English because it uses Italian words. In English, the correct translation would be "Andrew winds up the watch."
+1	Correct The given sentence "Riccardo dà molte botte al cane" seems to be grammatically correct in Italian. It means "Riccardo gives many blows to the dog."
+1	Correct
+1	Correct
+0	Syntax The sentence "Alessandro corre l'asina" is incorrect in terms of syntax because it does not follow the standard subject-verb-object word order in English or Italian. In Italian, "corre" means "runs," but "l'asina" typically functions as a direct object that requires an article before it. Therefore, the corrected form would be "Alessandro corre **la** asina."
+1	Correct This sentence appears to be grammatically correct in Italian. "Francesco" is the subject, taking the direct object "il cervo," which means "the deer." The verb "prende" indicates that he takes it by its horns ("per le corna") and brings it down ("lo atterra").
+0	Semantics The sentence "Il frigo ha sedotto un gatto" translates to "The refrigerator has seduced a cat." This sentence contains no morphological or syntactic errors in Italian, but it is semantically absurd as refrigerators cannot seduce cats. Therefore, I am categorizing it based on semantic plausibility rather than grammaticality.
+0	Semantics This sentence is grammatically correct in Italian, but it doesn't make much sense semantically because refrigerators cannot entice or seduce tables.
+1	Correct The sentence "Riccardo ha sedotto una minorenne" is in Italian and it translates to "Riccardo has seduced a minor" in English. The sentence appears to be grammatically correct with proper subject-verb agreement and word order.
+1	Correct This sentence is grammatically correct in Italian. It means "The whole room applauded at the statement of the speaker."
+1	Correct
+0	Semantics The sentence "Maria colleziona biglietto d'amore" contains a semantic error because it does not make logical sense in English or Italian. A literal translation would be "Maria collects love ticket", which has an unclear meaning. The intended message needs to be clarified for proper categorization.
+1	Correct The sentence "Riccardo ha tosato lo zio" is grammatically correct in Italian. It means "Riccardo has shaved his uncle." The verb "ha tosato" agrees with the subject "Riccardo," and the direct object pronoun "lo" correctly refers to "zio."
+1	Correct The sentence "Paola fa una corsa in giardino" is grammatically correct in Italian. It means "Paola goes for a run in the garden." The verb "fa" agrees with its subject "Paola," and the article "una" preceding "corsa" also matches it correctly. Additionally, there's no semantic error or ambiguity in the meaning conveyed by the words used in the sentence.
+1	Correct
+1	Correct This sentence is grammatically correct in Italian. "Alice ha curvato la fronte" can be translated as "Alice has furrowed her brow."
+0	Semantics The sentence "Maria ha curvato la faccia" is grammatically correct in Italian but semantically incorrect because "curvare" means to curve or bend something, but we cannot bend or curve our face. The word that describes changing the shape of one's face would be "distorcere". Therefore, a more appropriate way to express this idea could be "Maria ha distorto la faccia."
+1	Correct The sentence "Sofia maintains head against enemy" is grammatically correct in English. However, I assume that you meant to ask about the grammaticality of the Italian sentence "Sofia mantiene testa al nemico", which also happens to be grammatically correct in Italian. Therefore, both the morphological, syntactic and semantic aspects of the sentence are correct for the intended language.
+1	Correct The given sentence "Alessandro si gonfia la testa" is grammatically correct in Italian. It translates to "Alessandro puffs up his head" in English.
+1	Correct The given sentence "Beatrice ha piantato in asso Giulia" is grammatically correct and has no apparent morphological, syntactic or semantic issues. It's an Italian sentence that means "Beatrice stood up Giulia".
+1	Correct
+1	Correct The sentence "Maria cambia le carte" seems to be grammatically correct in Italian. It translates to "Maria changes the cards".
+0	Syntax The sentence you provided, "Riccardo fa a cattivo gioco," appears to be syntactically incorrect in standard Italian. The verb "fare" typically requires an object complement introduced by the preposition "a", but in this case, it seems that both the article "un" and the adjective "cattivo" have been omitted before "gioco". A more grammatical version would be "Riccardo fa un cattivo gioco." Therefore, I will categorize this as a syntax error.
+1	Correct The sentence "Andrea ha rotto il collo a Beatrice" is grammatically correct in Italian. It means "Andrew broke Beatrice's neck."
+0	Semantics Comment: The sentence "La musica rock rompe le orecchie" is grammatically correct in Italian, but its meaning is not completely accurate. Literally it means "Rock music breaks the ears", while a more appropriate way to express that idea could be "La musica rock è molto forte, può danneggiare l'udito." which translates to "Rock music is very loud, it can damage hearing".
+1	Correct The sentence "Riccardo ha dato quel che è di Tommaso a Tommaso" is grammatically correct in Italian. It means "Riccardo gave what was Tommaso's to Tommaso".
+1	Correct The sentence "La mosca salta al naso di Riccardo" is grammatically correct in Italian. It means "The fly jumps on Riccardo's nose".
+1	Correct The sentence "Andare a monte" appears to be grammatically correct in Italian. It translates to "Go uphill."
+0	Syntax The sentence "Essere all'indice" is not grammatically correct in Italian as it stands because it lacks proper context and completion. The phrase "essere all'indice" translates to "to be at the index," which doesn't form a complete thought or question. For instance, you could say "Non so dove sia l'indice; devo esserci all'indice." This means "I don't know where the index is; I have to be there." In isolation, however, without additional information about its intended meaning or usage, it would still be considered ungrammatical.
+0	Syntax The sentence "Mettere all'indice" seems to be in Italian, but it appears to be incomplete or ungrammatical as it stands alone without additional context. The phrase does not seem to form a complete thought, making it difficult to assess its grammaticality accurately. In general, for proper assessment, I would need more information about the intended meaning and context of the given sentence.
+1	Correct The given sentence "Alzare il gomito" is in Italian and it can be translated as "to raise one's elbow". The sentence appears to be grammatically correct in terms of its structure and word usage.
+1	Correct The given sentence "Perdere il lume della ragione" seems to be in Italian and it appears grammatically correct without any apparent morphological, syntactical or semantic errors.
+0	Syntax The sentence "Cavare la castagna dal fuoco a qualcuno" is not syntactically correct in Italian as it follows an ungrammatical structure. The phrase "dal fuoco a qualcuno" appears problematic since it tries to combine two prepositional phrases with different functions ("dal fuoco," meaning "from the fire," indicating location or source; "a qualcuno," meaning "to someone," typically used for indirect objects). This combination doesn't form a proper construction in standard Italian grammar.
+0	Syntax & Semantics The phrase "essere povero in canna" seems to be written in Italian, but it's not grammatically correct. In English, an accurate translation could be "to be poor as a churchmouse." The issues with the original sentence are: Syntax: In Italian, adjectives typically come after the noun they modify. However, in this case, "povero," which means "poor," comes before "canna." A proper order would result in "essere canna povera" or simply " essere poveri." Nevertheless, even when corrected for word order, the resulting sentence remains unclear due to semantic reasons. Semantics: "Canna" has multiple meanings; one meaning refers to a tube or pipe-like object, while another translates to "reed" (the musical instrument). Neither definition creates a coherent expression when combined with "povero" in this context. It appears that the intended idea was lost during the creation of this idiomatic expression.
+1	Correct
+1	Correct The sentence "Ogni bambino ha un angelo custode che lo protegge." is grammatically correct in Italian. It can be translated as "Every child has a guardian angel who protects him.", which shows that it follows proper subject-verb agreement rules and makes sense semantically.
+1	Correct
+0	Syntax The sentence "La moto di Leonardo è nuota di zecca" contains a syntax error because it uses the verb "nuotare" (to swim) instead of an appropriate adjective to describe the motorcycle belonging to Leonardo. A possible correction could be "La moto di Leonardo è rossa" (Leonardo's motorcycle is red).
+1	Correct The sentence "Ho visto un'unità in marcia." is grammatically correct. It follows proper Italian syntax rules and has no apparent morphological or semantic errors.
+0	Syntax The sentence "Che Leonardo ritorni piace a Maria" is not grammatically correct in Italian because it violates syntax rules. The word order should be adjusted so that the subject ("Leonardo") comes before the verb ("piace"). A corrected version could be: "A Maria piace che Leonardo ritorni."
+0	Morphology The sentence "Sofia corre a mangiare" contains a morphological error because it mixes two different languages, Spanish and Italian. In English, it would be translated as "Sofia runs to eat," but in Spanish, it would be "Sofía corre a comer." The issue here is that the verb "corre" is conjugated correctly for the subject "Sofia," but "mangiare" is an Italian word, not Spanish or English. Therefore, the sentence needs correction to use consistent vocabulary from one language.
+1	Correct
+1	Correct The given Italian sentence "Beatrice bada a che l'articolo sia chiaro" appears to be grammatically correct. It follows the standard Subject-Verb-Object word order in dependent clauses ("che l'articolo sia chiaro") and has no obvious morphological or semantic errors in its construction.
+1	Correct The given sentence "Alessandro divorzia da Paola" seems to be grammatically correct in Italian. It means "Alessandro divorces from Paola." Each word appears to be correctly inflected for number, gender, and tense as needed. The syntax also looks correct with subject-verb-object order. Therefore, I would categorize it as grammatically correct.
+1	Correct The sentence "Riccardo abita in una casa piccola" is grammatically correct in Italian. It means "Riccardo lives in a small house".
+0	Syntax The sentence "Maria non sta a Roma" is not grammatically correct in standard Italian. The verb "stare" requires preposition "in" instead of "a" when followed by a city or country name. A grammatically correct version would be "Maria non sta **in** Roma."
+1	Correct
+1	Correct
+1	Correct The given Italian sentence "Tutti i giorni, Leonardo intensely studies them for three hours every day" is grammatically correct with no morphological, syntactical or semantic errors.
+1	Correct The sentence "La parete è toccata dalle spalle di Riccardo" is grammatically correct in Italian. It means "The wall was touched by Riccardo's shoulders."
+1	Correct
+1	Correct
+1	Correct
+1	Correct The sentence "Andrea beve" is in Italian and it means "Andrew drinks". The form of the verb "beve" agrees with the subject "Andrea", so there's no morphological or syntactical error. Therefore, I would say that the sentence is grammatically correct.
+1	Correct The given sentence "Francesco pizzica con sadismo" seems to be grammatically correct in Italian. Here's why: - The subject "Francesco" is correctly used as a proper noun; - The verb "pizzica" agrees with the singular masculine subject and it conveys an action that can be done by humans; - "con" means "with," indicating a manner or instrument, which fits semantically here; - "sadismo" is an adverbial form derived from the noun "sadismo." Although the use of abstract concepts in their adverbial forms might sound strange in English, this usage is common in some other languages such as Italian. So, overall, I would say the sentence is acceptable.
+1	Correct The given sentence "Alessandro disegna sul muro" is in Italian and it translates to "Alessandro draws on the wall". The sentence is grammatically correct with no morphological, syntactical or semantic errors.
+1	Correct The Spanish sentence "Lorenzo balla la rumba" is grammatically correct. It consists of a proper name as the subject ("Lorenzo"), followed by a verb in third person singular present tense form ("balla", which means "dances") and the direct object ("la rumba").
+1	Correct The sentence "La siesta è una dormita" is grammatically correct in Italian. It means "A siesta is a short nap".
+1	Correct The sentence "Francesco nuota a rana" appears to be grammatically correct in Italian. It translates to "Francesco swims freestyle" or simply "Francesco swims" in English. The verb "nuota" agrees with its subject "Francesco", and the prepositional phrase "a rana" correctly indicates the swimming style.
+1	Correct
+0	Morphology & Syntax The sentence "Tutti bevono il the amaro" contains two errors. The first error is morphological because "the" is an English word that does not exist in Italian grammar. It seems it was meant to say "il", which is the masculine singular definite article in Italian. The second error is syntactical since there's no need for a preposition before "amaro". A corrected version would be: "Tutti bevono l'amaro."
+1	Correct The given sentence "I lavori fatti hanno reso più larga la piazza." is grammatically correct in Italian. It can be translated as "The works done have made the square wider" in English.
+1	Correct
+1	Correct The given sentence "Alessandro riflette sul gatto" seems to be grammatically correct in Italian. It can be translated as "Alessandro reflects on the cat." There does not appear to be any morphological, syntactical or semantic errors.
+1	Correct
+1	Correct
+1	Correct The given sentence "Tommaso legge il giornale in salotto." is grammatically correct with respect to Italian language morphology, syntax, and semantics.
+1	Correct The sentence "Gabriele ha visto una casa di mattoni rossi" appears to be grammatically correct in Italian. It can be translated as "Gabriele saw a red-brick house."
+1	Correct
+1	Correct The given Italian sentence "I libri vecchi stanno nella cassa" translates to "The old books are in the box." It is grammatically correct with no morphological, syntactic, or semantic errors.
+1	Correct This sentence appears to be grammatically correct in Italian. "Un libro" means "a book", "passa" means "passes", "da" means "from", "Beatrice" is a name for a female, and "Francesco" is a name for a male. So overall, the complete translation would be something along the lines of "A book passes from Beatrice to Francesco".
+0	Syntax The sentence "Non c'è sempre una concordanza in Maria tra i fatti e le parole" contains a syntax error because the preposition "in" takes an indirect object ("Maria") instead of a locative or temporal complement, which would be more appropriate here. The corrected version could be: "Non c'è sempre una concordanza tra i fatti e le parole di Maria."
+1	Correct
+1	Correct The sentence "Lorenzo stacca la foto dall'album" is grammatically correct in Italian. It means "Lorenzo removes the photo from the album."
+1	Correct
+1	Correct
+1	Correct The given sentence "Quella scatola conserva le foto di Alessandro ed Edoardo." is grammatically correct in Italian. It means "That box stores the photos of Alessandro and Edoardo" which is semantically accurate as well.
+1	Correct
+1	Correct
+1	Correct
+1	Correct The sentence "La commessa avvolge la carta da regalo intorno alla bottiglia" is grammatically correct in Italian. It means "The saleswoman wraps the gift paper around the bottle".
+1	Correct
+1	Correct The sentence "Maria dà sepoltura al padre sotto un albero" appears to be grammatically correct in Italian. It can be translated as "Maria buries her father under a tree". The verb form "dà" agrees with the subject "Maria", and each word has a clear grammatical function within the sentence. Therefore, no mistakes were found regarding morphology, syntax, or semantics.
+1	Correct The sentence "La polizia sgombera la piazza dei dimostranti" is grammatically correct in Italian. It means "The police clear the square of protesters."
+1	Correct The sentence "L'architetto ha decorato la facciata di fregi in marmo" is grammatically correct in Italian. It means "The architect decorated the façade with marble friezes."
+1	Correct The given sentence "Andrea uccise Edoardo con un sol colpo di coltello" is grammatically correct in Italian. It means "Andrew killed Edward with one blow of a knife".
+0	Syntax The sentence "I bagagli non stanno nell'auto" is not grammatically correct in Italian. The subject "bagagli" needs an article before it ("i bagagli"). Also, "stare" would be more appropriate than "essere" for indicating that luggage is located inside a car. A corrected version could be "I bagagli non stanno nella macchina."
+0	Syntax The sentence "I libri stanno nella stanza" is incorrect in Italian because it uses the wrong definite article for the subject noun. The plural form of the definite article "il" is "i", so the correct sentence would be "I libri **stanno** nella stanza." However, since you wrote "sto" instead of "stanno", which means that the verb does not agree with the subject number, I will consider this as another syntax error. Therefore, there are two syntax errors in your sentence: using the singular form of the verb "sto" instead of the plural "stanno" and choosing an incorrect definite article "I".
+1	Correct The sentence "I vestiti vecchi stanno nell'armadio" is grammatically correct in Italian. It means "The old clothes are in the closet." The verb "stare" agrees with its subject "i vestiti vecchi," and the preposition "nell'" governs the singular noun "l'armadio" correctly.
+0	Correct The sentence "I vestiti vecchi non stanno nell'armario" is grammatically correct in Italian. It means "Old clothes do not fit in the closet".
+1	Correct The given sentence "Andrea profuma la stanza di aromi di pino" is grammatically correct in Italian. It means "Andrea scents the room with pine smells."
+1	Correct The given sentence "Cicche intasano lo scarico della fontana" appears to be grammatically correct in Italian. Here's what it means: English Translation: Clogs clog the drain of the fountain. In this case, both morphological and syntactic elements seem to follow standard rules for forming an acceptable sentence in Italian.
+1	Correct The given Italian sentence "Maria fa l'innaffiatura delle piante con acqua con disinfestanti" appears to be grammatically correct. It follows the standard subject-verb-object structure and all words seem to be used appropriately in context.
+1	Correct
+1	Correct The given sentence "Alessandro difende Beatrice dai pericoli" is grammatically correct in Italian. Here's why: - The subject "Alessandro" agrees with the verb "difende" (third person singular). - The indirect object "Beatrice" is correctly marked by "dai". - The plural noun "pericoli" also agrees with the verb tense. Overall, there are no morphological, syntactical or semantic errors in this sentence, so it can be classified as grammatically correct.
